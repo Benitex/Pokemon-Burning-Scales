@@ -1,0 +1,4 @@
+Name         = Random Pokemon Selector
+Version      = 1.0
+Link         = https://reliccastle.com/resources/693/
+Credits      = ThatWelshOne_

@@ -1,0 +1,6 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Entrada Desert Resort (25) - Rota 4 (5)
+25,24,14,5,0,0
+# Parque de Nimbasa (4) - Nimbasa (2)
+4,0,0,2,60,19

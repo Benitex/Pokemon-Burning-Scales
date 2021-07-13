@@ -1,0 +1,4 @@
+Name         = Encounter List UI (v19)
+Version      = 1.0.1
+Link         = https://reliccastle.com/resources/658/
+Credits      = ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily

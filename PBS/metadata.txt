@@ -1,0 +1,461 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 3,9,6,8
+WildBattleBGM = Battle wild.mid
+TrainerBattleBGM = Battle trainer.mid
+WildVictoryME = Battle victory wild.ogg
+TrainerVictoryME = Battle victory trainer.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Bicycle.mid
+PlayerA = POKEMONTRAINER_Red,trainer_POKEMONTRAINER_Red,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB = POKEMONTRAINER_Leaf,trainer_POKEMONTRAINER_Leaf,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+#-------------------------------
+[001]
+# Intro
+#-------------------------------
+[002]
+# Nimbasa
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = City
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+#-------------------------------
+[003]
+# Centro Pokémon
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+DiveMap = 3
+DarkMap = false
+SafariMap = false
+BattleBack = IndoorB
+#-------------------------------
+[004]
+# Parque de Nimbasa
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,17,3
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = City
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+Environment = None
+#-------------------------------
+[005]
+# Rota 4
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,11
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Mountain
+WildBattleBGM = Battle wild.mp3
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+Environment = Sand
+#-------------------------------
+[006]
+# Desert Resort
+Outdoor = true
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+Weather = Sandstorm,100
+MapPosition = 0,13,11
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Vast Poni Canyon Remix Pokémon Sun Moon ZAME.mp3
+#-------------------------------
+[007]
+# Castelia
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]
+# Relic Castle
+MapPosition = 0,13,12
+#-------------------------------
+[009]
+# Casa da senhora
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]
+# Teatro Musical
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,10
+BattleBack = elite6
+TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+#-------------------------------
+[011]
+# Battle Subway
+MapPosition = 0,14,10
+#-------------------------------
+[012]
+# Estádio Grande
+MapPosition = 0,14,10
+#-------------------------------
+[013]
+# Estádio Pequeno
+MapPosition = 0,14,10
+#-------------------------------
+[014]
+# Estádio da Comilança
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+TrainerBattleBGM = Zinnia Mewmore.mp3
+#-------------------------------
+[015]
+# Quarto da filha
+MapPosition = 0,13,10
+#-------------------------------
+[016]
+# FNF
+MapPosition = 0,13,10
+#-------------------------------
+[017]
+# FNF 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = elite6
+TrainerBattleBGM = Zinnia Mewmore.mp3
+#-------------------------------
+[018]
+# Estádio
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Champion
+WildBattleBGM = Professor Sycamore's Theme.mp3
+TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+#-------------------------------
+[019]
+# Sala da Anna
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,13,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Champion
+TrainerBattleBGM = Gladion Battle.mp3
+#-------------------------------
+[020]
+# Corredores
+MapPosition = 0,13,10
+#-------------------------------
+[021]
+# Ginásio de Nimabasa
+Outdoor = true
+ShowArea = true
+Weather = Rain,50
+MapPosition = 0,14,8
+MapSize = 1,11
+#-------------------------------
+[023]
+# Sala do Dono
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]
+# Join Avenue
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+HealingSpot = 23,11,15
+MapPosition = 0,15,5
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+#-------------------------------
+[025]
+# Entrada Desert Resort
+Outdoor = true
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+Weather = Sandstorm,60
+MapPosition = 0,11,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = Mountain
+WildBattleBGM = Battle wild.mp3
+TrainerBattleBGM = Rival Bede GlitchxCity.mp3
+Environment = Sand
+#-------------------------------
+[026]
+# Pesquisador de fósseis
+MapPosition = 0,15,8
+#-------------------------------
+[027]
+# Sala dos fósseis
+MapPosition = 0,15,8
+BattleBack = Indoor
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+#-------------------------------
+[028]
+# Entrada
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = Forest
+#-------------------------------
+[029]
+# Quadra de Tênis
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]
+# Piscina de Natação
+MapPosition = 0,16,8
+#-------------------------------
+[031]
+# Casa Beethoven
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+MapSize = 2,1101
+#-------------------------------
+[034]
+# Casa do chefe
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = IndoorC
+#-------------------------------
+[035]
+# Centro Pokémon
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]
+# Game Corner
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]
+# Laboratório
+MapPosition = 0,13,6
+BattleBack = EliteA
+#-------------------------------
+[038]
+# Loja de Mega Stones
+MapPosition = 0,13,6
+#-------------------------------
+[039]
+# Clube de Hikers
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+MapSize = 2,11
+#-------------------------------
+[040]
+# Clube de Vagabundos
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]
+# Clube de Dedicados
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[044]
+# Pier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+MapSize = 2,11
+#-------------------------------
+[045]
+# Mode Street
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]
+# Castelia Street
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]
+# Narrow Street
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = Mountain
+MapSize = 2,11
+#-------------------------------
+[049]
+# Campo de baseball
+Bicycle = true
+MapPosition = 0,16,10
+#-------------------------------
+[050]
+# Campo de futebol
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = CaveDark
+#-------------------------------
+[051]
+# Quadra de basquete
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+#-------------------------------
+[052]
+# Caverna dos Zubat
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]
+MapPosition = 0,17,10
+#-------------------------------
+[055]
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]
+MapPosition = 0,17,10
+BattleBack = EliteA
+#-------------------------------
+[057]
+MapPosition = 0,17,10
+#-------------------------------
+[058]
+MapPosition = 0,17,10
+#-------------------------------
+[059]
+MapPosition = 0,17,10
+BattleBack = EliteD
+#-------------------------------
+[060]
+MapPosition = 0,17,10
+#-------------------------------
+[061]
+MapPosition = 0,17,10
+BattleBack = EliteB
+#-------------------------------
+[062]
+MapPosition = 0,17,10
+#-------------------------------
+[063]
+MapPosition = 0,17,10
+#-------------------------------
+[064]
+MapPosition = 0,17,10
+BattleBack = EliteC
+#-------------------------------
+[065]
+MapPosition = 0,17,10
+#-------------------------------
+[066]
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+#-------------------------------
+[067]
+MapPosition = 0,12,12
+#-------------------------------
+[068]
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = Forest
+#-------------------------------
+[069]
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+#-------------------------------
+[070]
+MapPosition = 0,13,13
+#-------------------------------
+[071]
+MapPosition = 0,13,13
+#-------------------------------
+[072]
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+#-------------------------------
+[073]
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+#-------------------------------
+[074]
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]
+Outdoor = true
+MapPosition = 1,13,16

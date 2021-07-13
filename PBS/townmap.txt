@@ -1,0 +1,25 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name=
+Filename=mapRegion0.png
+Point=20,5,Nimbasa,Estádios e Parques,2,24,31,
+Point=20,20,Castelia,Porto,,,,
+Point=12,9,Desert Resort,Relic Castle,,,,
+Point=20,9,Route 4,,,,,
+Point=15,15,Castelia,,,,,
+Point=15,4,Nimbasa,,,,,
+Point=15,3,Nimbasa,,,,,
+Point=14,3,Nimbasa,,,,,
+Point=14,4,Nimbasa,,,,,
+Point=15,7,Route 4,,,,,
+Point=15,6,Route 4,,,,,
+Point=14,6,Route 4,,,,,
+Point=14,7,Route 4,,,,,
+Point=9,6,Desert Resort,,,,,
+Point=9,7,Desert Resort,,,,,
+Point=15,14,Castelia,,,,,
+Point=14,14,Castelia,,,,,
+Point=14,15,Castelia,,,,,
+Point=15,16,Castelia,,,,,
+Point=14,16,Castelia,,,,,

@@ -1,0 +1,4 @@
+Name         = Luka's Scripting Utilities
+Version      = 3.2.2
+Website      = https://luka-sj.com/res/luts
+Credits      = Luka S.J.

@@ -1,0 +1,45 @@
+﻿Name      = v19.1 Hotfixes
+Version   = 1.0.2
+Conflicts = v19 Updates
+Conflicts = v19 Hotfixes
+Website   = https://github.com/Maruno17/pokemon-essentials
+Credits   = Maruno
+#=====================================================================
+# Change log
+#=====================================================================
+#
+# 1.0.0:
+# - Fix for Vs. animation not playing, and a trainer's trainer type
+#   possibly being an integer rather than a symbol.
+# - Fixed player's feet remaining invisible after being in tall grass
+#   and performing a map transfer to elsewhere.
+# - Fixed error when showing a Pokémon to the Move Relearner who
+#   doesn't have any level-up moves it can relearn.
+# - Fixed problems when you have multiple dependent events and one is
+#   removed.
+# - Fix for some items not working in battle.
+# - Fix for typo in Mind Blown's AI.
+# - Fix for Mummy treating an ability as an integer rather than a
+#   symbol.
+# - Fix for Trainer Type Editor spamming the console with error
+#   messages when it can't find a trainer sprite to show for the "New
+#   Trainer Type" option.
+# - Fixed some game data not being cleared before compiling.
+# - Fix for messages not being reloaded after the game is compiled.
+#
+# 1.0.1:
+# - Fix for messages in plugin scripts not being extracted for
+#   translating.
+# - Fix for AI bug with Natural Gift when a Pokémon has no item.
+# - Fixed bad code when checking if a trainer has a Pokémon of a given
+#   type.
+#
+# 1.0.2:
+# - Fixed error in code used by Pickup.
+# - Fixed abilities that force wild encounters with a particular type
+#   using the wrong value as the preferred type and usually crashing.
+# - Fixed error when trying to return an unused item to the Bag in
+#   battle.
+# - Fixed typo in Relic Song's code that changes Meloetta's form.
+#
+#=====================================================================

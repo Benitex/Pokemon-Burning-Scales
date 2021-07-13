@@ -1,0 +1,5 @@
+Name         = Modular Title Screen
+Version      = 2.2.2
+Website      = https://luka-sj.com/res/modts
+Requires     = Luka's Scripting Utilities,3.2
+Credits      = Luka S.J.

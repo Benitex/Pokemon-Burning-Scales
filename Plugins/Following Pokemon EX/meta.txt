@@ -1,0 +1,5 @@
+Name         = Following Pokemon EX
+Version      = 2.0.7
+Requires     = v19.1 Hotfixes
+Website      = https://reliccastle.com/resources/featured/
+Credits      = Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Amrin (Fairies Resource Pack)

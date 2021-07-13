@@ -1,0 +1,102 @@
+Name         = Modern Quest System + UI
+Version      = 1.0.1
+Link         = https://reliccastle.com/resources/709/
+Credits      = ThatWelshOne_,mej71,derFischae,Marin
+
+#===============================================================================
+# More detailed credits
+#===============================================================================
+# mej71 - the underlying quest system uses a lot of mej71's original quest system script for earlier versions of Pokémon Essentials (https://reliccastle.com/resources/80/)
+# derFischae - updating mej71's quest system script for v17.2 and v18/18.1 (https://www.pokecommunity.com/showthread.php?t=429037)
+# Marin - I took inspiration for some of the UI components from Marin's Easy Questing Interface (https://reliccastle.com/resources/62/)
+# ThatWelshOne_ - upgrading and reworking the quest data entry and UI
+# 
+#===============================================================================
+# Installation
+#===============================================================================
+# 1. Extract the contents of this download into your project's main folder (where you have Game.exe).
+# 2. Allow the Audio, Graphics and Plugins folders in this download to merge with your existing folders.
+# 3. Compile your game. You'll know your plugins have compiled properly if you see "Compiling plugin scripts... done" (v19 and v19.1) and the name of this plugin in the debug console window (v19.1 only).
+# If you do not see this message, you can delete PluginScripts.rxdata from your Data folder before trying again.
+# 4. You _MUST_ start a new save file.
+# You should have now successfully installed the quest system!
+# 
+#===============================================================================
+# How to use
+#===============================================================================
+# There are four methods you will become very familiar with:
+# 1. activateQuest(:Quest) - for activating a quest and adding it to the quest log
+# 2. advanceQuestToStage(:Quest, stageNumber) - for advancing a quest to the given stage (used for quests with more than one stage)
+# 3. completeQuest(:Quest) - for marking a quest as complete
+# 4. failQuest(:Quest) - for marking a quest as failed
+# 
+# The quest argument should be the symbolic name of the relevant quest defined in module QuestModule (more on this in the next section).
+# For example, if your quest data is denoted "Quest1", then the quest argument provided to these four methods should be :Quest1. <-- don't include that period/full stop
+# You will get an error if you forget the leading colon or if the given quest doesn't exist.
+# 
+# The stageNumber argument should be a number that represents progress towards completing a quest. This is only needed for the advanceQuestToStage method.
+# Stages don't need to be linear. You can advance a quest from stage 1 to 3, then back to 2, if you so wish. You can even advance a quest to the same stage, so be careful!
+# Ultimately, it is up to you to control when a quest is activated, advanced to a new stage, completed or failed. This script will not do that for you.
+# 
+# Beyond what's described above, the four methods have some optional parameters that you can specify to alter the appearance of the UI:
+# 1. activateQuest(quest, color, story)
+# 2. advanceQuestToStage(quest, stageNum, color, story)
+# 3. completeQuest(quest, color, story)
+# 4. failQuest(quest, color, story)
+# 
+# Here, color reflects the color of the quest name as it appears on the UI.
+# It needs to be a combination of two 15-bit hexadecimal RGB color codes of the form XXXXyyyy, XXXX for the base color and yyyy for the shadow color.
+# This is a useful website for converting between Hex color codes and 15-bit hexadecimal color codes: http://www.budmelvin.com/dev/15bitconverter.html
+# In 001_Quest_Config.rb is a utility method called colorQuest(color) to which you can add your new colors.
+# Here is the list of colors I've already defined:
+# blue
+# red
+# green
+# cyan
+# magenta
+# yellow
+# gray
+# white
+# purple
+# orange
+# The default color is the dark gray color as seen when using a simple Show Text command in any event.
+# You MUST put quotes around these colors when calling colorQuest(color), e.g. colorQuest("red").
+# 
+# Finally, story should be false (default) or true. Setting it to true makes the quest name in the UI appear bold.
+# This option exists as one way in which to differentiate certain quests in the UI. You don't have to use it.
+# 
+# Putting this all together, you can activate a quest and have its name appear purple and bold in the UI like so:
+# activateQuest(quest, colorQuest("purple"), true)
+# A final note on colors: you can change the text color whenever a quest advances/completes/fails if you want completed quests to have a different color, for example.
+# By default, the text color will be inherited from the original activateQuest call.
+# 
+#===============================================================================
+# Quest data entry
+#===============================================================================
+# You will need to open and edit the file called 004_Quest_Data.rb in Plugins/MQS.
+# To do that, right-click the file and select "Edit with Notepad++".
+# If you don't have Notepad++ installed, I strongly recommend installing it. Basic Notepad might work, but I can't guarantee it won't do something odd to the formatting.
+# 
+# The QuestModule module is where you will need to manually add information about your quests.
+# I have provided a number of examples for you to see how to format your quest data in 004_Quest_Data.rb.
+# In general, you should specify the following data for your quests:
+# 1. ID number - a number, currently unused, but could be used for sorting quests on the UI (could add this later)
+# 2. Name - name for your quest that will appear on the UI once the quest is activated or otherwise
+# 3. Quest giver - name of the character who gave you the quest
+# 4. Stage - short description of the current stage for given quest
+# 5. Location - current stage location
+# 6. Quest description - description of the overall quest
+# 7. Reward string - description of what the player can earn by completing the quest
+# 
+# None of these are strictly required, but the UI will be mostly blank otherwise.
+# A note on text length of these fields: try to be concise! Otherwise, you run the risk of text being cut off or overflowing text boxes.
+# There is no limit on the number of stages a quest can have.
+# The number of stage locations specified need not match the number of stages. Any missing or "nil" stage locations will show on the UI as "???".
+# Speaking of missing information, quest giver and reward string will also appear as "???" if they are "nil" or missing.
+# 
+#===============================================================================
+# Any problems?
+#===============================================================================
+# If you are having issues getting this system to work, please ask for help in the discussion section of the resource post.
+# Alternatively, you can message me on Discord (ThatWelshOne_#3324).
+# 

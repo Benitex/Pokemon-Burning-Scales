@@ -1,0 +1,251 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[LEADER_Elesa,Elesa]
+LoseText = "Muito bem."
+Pokemon = EMOLGA,9
+Pokemon = MAREEP,9
+Pokemon = BLITZLE,9
+#-------------------------------
+[SWIMMER_M,Atleta de Nimbasa]
+LoseText = "Uau, você é forte!"
+Pokemon = BUIZEL,7
+Pokemon = PANPOUR,7
+#-------------------------------
+[LASS,Menina de Nimbasa]
+LoseText = "Você é bem forte!"
+Pokemon = DEERLING,7
+Pokemon = LILLIPUP,7
+#-------------------------------
+[CUEBALL,Motoqueiro de Undella]
+LoseText = "Isso que é luta!"
+Pokemon = VENIPEDE,9
+Pokemon = WHIRLIPEDE,9
+#-------------------------------
+[LASS,Menina do Panpour]
+LoseText = "Você é bem forte!"
+Pokemon = PANPOUR,10
+#-------------------------------
+[POKEMONTRAINER_Red,Ben1]
+LoseText = "..."
+Pokemon = BUTTERFREE,16
+Pokemon = IVYSAUR,18
+Pokemon = GYARADOS,20
+Pokemon = PIDGEOTTO,18
+#-------------------------------
+[POKEMONTRAINER_Red,Ben2]
+LoseText = "..."
+Pokemon = BAYLEEF,18
+Pokemon = KADABRA,20
+Pokemon = PILOSWINE,20
+#-------------------------------
+[POKEMONTRAINER_Red,Ben3]
+LoseText = "..."
+Pokemon = SWELLOW,18
+Pokemon = BLAZIKEN,20
+Pokemon = IVYSAUR,20
+Pokemon = GYARADOS,22
+Pokemon = METANG,22
+#-------------------------------
+[POKEMONTRAINER_Red,Ben4]
+LoseText = "..."
+Pokemon = STARAVIA,20
+Pokemon = VESPIQUEN,21
+Pokemon = MAGMAR,21
+    Shiny = yes
+Pokemon = GROTLE,22
+Pokemon = PILOSWINE,24
+Pokemon = FLOATZEL,26
+#-------------------------------
+[POKEMONTRAINER_Red,Ben5]
+LoseText = "..."
+Pokemon = MARACTUS,24
+Pokemon = LUCARIO,26
+Pokemon = UNFEZANT,24
+Pokemon = ZOROARK,26
+Pokemon = SAMUROTT,24
+Pokemon = COFAGRIGUS,26
+#-------------------------------
+[GENTLEMAN,Diretor da FNF]
+LoseText = "Posso aprender muito com você!"
+Pokemon = UMBREON,20
+Pokemon = ALOMOMOLA,24
+#-------------------------------
+[AROMALADY,Lucina]
+LoseText = "Emocionante!"
+Pokemon = TIRTOUGA,15
+#-------------------------------
+[POKEMONTRAINER_Anna,Anna]
+LoseText = "Vamos ver se vai ser assim daqui a pouco."
+Pokemon = WHIRLIPEDE,22
+Pokemon = PALPITOAD,25
+Pokemon = LARVESTA,21
+Pokemon = ABSOLP,23
+#-------------------------------
+[YOUNGSTER,Garoto do Parque]
+LoseText = "Ótima batalha."
+Pokemon = DITTO,10
+Pokemon = SMEARGLE,10
+Pokemon = CASTFORM,10
+#-------------------------------
+[BLACKBELT,Desconhecido arrogante]
+LoseText = "Ferrou"
+Pokemon = TIMBURR,10
+Pokemon = MIENFOO,10
+#-------------------------------
+[AROMALADY,Observadora do mar]
+LoseText = "Tão forte quanto as ondas do mar..."
+Pokemon = AUDINO,15
+#-------------------------------
+[FISHERMAN,Pescador do parque]
+LoseText = "Você é bem forte!"
+Pokemon = MAGIKARP,15
+Pokemon = TYMPOLE,15
+#-------------------------------
+[ASSISTANT,Assistente do Torneio]
+LoseText = "Não posso deixar..."
+Pokemon = AUDINO,20
+Pokemon = CHANSEY,20
+#-------------------------------
+[FISHERMAN_Marcos,Marcos]
+LoseText = "Mas já?"
+Pokemon = GYARADOS,26
+    Moves = THRASH,BITE,TWISTER,LEER
+Pokemon = FRILLISH,25
+    Moves = WATERPULSE,NIGHTSHADE,ABSORB,RECOVER
+    AbilityIndex = 1
+Pokemon = CARVANHA,25
+    Moves = AQUAJET,ICEFANG,POISONFANG,BITE
+Pokemon = HUNTAIL,25
+    Moves = BRINE,ICEFANG,SUCKERPUNCH,SCREECH
+Pokemon = MAGIKARP,28
+    Shiny = yes
+    Moves = TACKLE,SPLASH
+    Item = CHOICEBAND
+#-------------------------------
+[LEADER_Giovanni,Giovanni]
+Items = SUPERPOTION
+LoseText = "Como nos velhos tempos."
+Pokemon = NIDORINO,26
+    Moves = HORNATTACK,POISONSTING,HELPINGHAND,FURYATTACK
+Pokemon = RHYHORN,25
+    Moves = CHIPAWAY,SCARYFACE,STOMP,BULLDOZE
+    AbilityIndex = 1
+Pokemon = KANGASKHAN,26
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+Pokemon = NIDORINA,27
+    Moves = DOUBLEKICK,TAILWHIP,POISONSTING,FURYSWIPES
+#-------------------------------
+[POKEMONTRAINER_Albert,Albert]
+Items = SUPERPOTION
+LoseText = "Não esperava encontar alguém tão forte..."
+Pokemon = MEDITITE,26
+    Moves = FORCEPALM,HIDDENPOWER,CONFUSION,DETECT
+Pokemon = TORKOAL,27
+Pokemon = PIGNITE,26
+Pokemon = HARIYAMA,27
+Pokemon = COMBUSKEN,28
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert]
+LoseText = "Tão forte quanto eu imaginava."
+Pokemon = CONKELDURR,29
+    Moves = WAKEUPSLAP,ROCKTHROW,LOWKICK,BULKUP
+    AbilityIndex = 0
+Pokemon = EXCADRILL,29
+    Moves = ROCKSLIDE,DIG,METALCLAW,SANDSTORM
+    AbilityIndex = 1
+Pokemon = KROKOROK,29
+    Moves = CRUNCH,BULLDOZE,SANDTOMB,SWAGGER
+#-------------------------------
+[CHAMPION_Anna,Anna]
+Items = SUPERPOTION
+LoseText = "Não acredito nisso!"
+Pokemon = PALPITOAD,30
+    Moves = UPROAR,MUDDYWATER,MUDSHOT,SUPERSONIC
+Pokemon = LARVESTA,30
+    Moves = FLAMECHARGE,TAKEDOWN,ABSORB,STRINGSHOT
+Pokemon = SCOLIPEDE,30
+    Moves = VENOSHOCK,MEGAHORN,ROLLOUT,PROTECT
+Pokemon = ABSOLP,30
+    Moves = THUNDERPUNCH,TAUNT,QUICKATTACK,SWORDSDANCE
+    Item = ABSOLITE
+#-------------------------------
+[CUEBALL,Motoqueiro 1]
+LoseText = "Não vai ficar assim!"
+Pokemon = GRIMER,12
+Pokemon = ZUBAT,12
+#-------------------------------
+[CUEBALL,Motoqueiro 2]
+LoseText = "Fala sério!"
+Pokemon = TRUBBISH,12
+Pokemon = SKORUPI,12
+#-------------------------------
+[CUEBALL,Motoqueiro guarda]
+LoseText = "Até que é forte."
+Pokemon = GRIMER,14
+Pokemon = KOFFING,14
+#-------------------------------
+[CUEBALL,Motoqueiro antipacifista]
+LoseText = "Ferrou."
+Pokemon = PAWNIARD,14
+Pokemon = RUFFLET,14
+#-------------------------------
+[CUEBALL,Motoqueiro sacana]
+LoseText = "Vai tomar suco de cajú!"
+Pokemon = VULLABY,14
+Pokemon = SANDILE,14
+#-------------------------------
+[POKEMONTRAINER_Beethoven,Beethoven]
+LoseText = "O pandemônio..."
+Pokemon = CHATOT,15
+Pokemon = CHINGLING,15
+Pokemon = LOUDRED,15
+Pokemon = KRICKETUNE,15
+#-------------------------------
+[SCIENTIST,Pesquisador de fósseis]
+LoseText = "Tudo bem, você venceu."
+Pokemon = KLINK,15
+Pokemon = MAGNEMITE,15
+Pokemon = TIRTOUGA,15
+#-------------------------------
+[POKEMONTRAINER_Apaixonado,O apaixonado]
+LoseText = "Foi uma luta justa."
+Pokemon = LIEPARD,20
+Pokemon = AUDINO,20
+#-------------------------------
+[HIKER,Caminhante da rota 4]
+LoseText = "Você se mostrou digno."
+Pokemon = BOLDORE,25
+Pokemon = DWEBBLE,20
+#-------------------------------
+[SUPERNERD,Pervertido]
+LoseText = "Heh, poderoso."
+Pokemon = GOTHITA,20
+Pokemon = LILLIGANT,20
+#-------------------------------
+[TUBER_F,Menina da praia]
+LoseText = "Aaaaaaah."
+Pokemon = FINNEON,20
+Pokemon = ALOMOMOLA,20
+#-------------------------------
+[POKEMONRANGER_M,Cara do lixo]
+LoseText = "Muito bem."
+Pokemon = MARACTUS,20
+Pokemon = DRILBUR,20
+Pokemon = ROCKRUFF,20
+#-------------------------------
+[CUEBALL,Guarda do Resort]
+LoseText = "Droga!"
+Pokemon = WOOBAT,16
+Pokemon = GRIMER,16
+Pokemon = ROGGENROLA,17
+Pokemon = SANDSHREW,17
+#-------------------------------
+[BLACKBELT,Pai lutador]
+LoseText = "Boa festa."
+Pokemon = MEDITITE,15
+Pokemon = ONIX,15
+#-------------------------------
+[FISHERMAN,Pescador da Rota 4]
+LoseText = "Um treinador digno."
+Pokemon = WAILORD,15
+#-------------------------------
