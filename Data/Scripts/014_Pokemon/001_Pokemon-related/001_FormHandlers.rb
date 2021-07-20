@@ -713,7 +713,7 @@ MultipleForms.register(:CALYREX,{
           pkmn.pbDeleteMoveAtIndex(i)
         end
       end
-      pkmn.pbLearnMove(:CONFUSION) if pkmn.numMoves == 0
+      pbLearnMove(:CONFUSION) if pkmn.numMoves == 0
     when 1   # Ice Rider
       pbLearnMove(pkmn,:GLACIALLANCE,true) if GameData::Move.exists?(:GLACIALLANCE)
     when 2   # Black

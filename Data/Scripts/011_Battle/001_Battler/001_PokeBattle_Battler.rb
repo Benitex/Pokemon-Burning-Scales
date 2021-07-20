@@ -450,7 +450,7 @@ class PokeBattle_Battler
     return false if !check_item
     return true if GameData::Item.get(check_item).is_mail?
     return false if @effects[PBEffects::Transform]
-    return true if target.itemCorroded?
+    return true if itemCorroded?
     # Items that change a Pokémon's form
     if mega?   # Check if item was needed for this Mega Evolution
       return true if @pokemon.species_data.mega_stone == check_item
@@ -517,6 +517,13 @@ class PokeBattle_Battler
     return true if @effects[PBEffects::MagnetRise] > 0
     return true if @effects[PBEffects::Telekinesis] > 0
     return false
+  end
+
+  def affectedByIronBall?
+    return false if @effects[PBEffects::Ingrain]
+    return false if @effects[PBEffects::SmackDown]
+    return false if @battle.field.effects[PBEffects::Gravity] > 0
+    return true
   end
 
   def affectedByTerrain?

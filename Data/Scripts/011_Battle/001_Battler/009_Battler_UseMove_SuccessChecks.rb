@@ -98,7 +98,7 @@ class PokeBattle_Battler
     end
     # Assault Vest (prevents choosing status moves but doesn't prevent
     # executing them)
-    if hasActiveItem?(:ASSAULTVEST) && move.statusMove? && commandPhase
+    if hasActiveItem?(:ASSAULTVEST) && move.statusMove? && move.id != :MEFIRST && commandPhase
       if showMessages
         msg = _INTL("The effects of the {1} prevent status moves from being used!",
            itemName)
@@ -373,7 +373,7 @@ class PokeBattle_Battler
         @battle.successStates[user.index].protected = true
         if move.pbContactMove?(user) && user.affectedByContactEffect?
           if user.pbCanLowerStatStage?(:ATTACK)
-            user.pbLowerStatStage(:ATTACK,1,nil)
+            user.pbLowerStatStage(:ATTACK, (Settings::MECHANICS_GENERATION >= 8) ? 1 : 2, nil)
           end
         end
         return false

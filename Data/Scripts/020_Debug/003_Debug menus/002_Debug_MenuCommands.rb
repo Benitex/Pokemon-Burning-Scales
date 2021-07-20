@@ -491,7 +491,7 @@ DebugMenuCommands.register("fillbag", {
     params.setCancelValue(0)
     qty = pbMessageChooseNumber(_INTL("Choose the number of items."), params)
     if qty > 0
-      GameData::Item.each { |i| $PokemonBag.pbStoreItem(i.id, qty) }
+      GameData::Item.each { |i| $PokemonBag.pbStoreItem(i.id, qty, false)}
       pbMessage(_INTL("The Bag was filled with {1} of each item.", qty))
     end
   }

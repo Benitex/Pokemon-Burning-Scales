@@ -372,12 +372,12 @@ ItemHandlers::UseOnPokemon.copy(:POTION,:BERRYJUICE,:SWEETHEART)
 ItemHandlers::UseOnPokemon.copy(:POTION,:RAGECANDYBAR) if !Settings::RAGE_CANDY_BAR_CURES_STATUS_PROBLEMS
 
 ItemHandlers::UseOnPokemon.add(:SUPERPOTION,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 60 : 50
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 60 : 50
   next pbHPItem(pkmn,healAmt,scene,item)
 })
 
 ItemHandlers::UseOnPokemon.add(:HYPERPOTION,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 120 : 200
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 120 : 200
   next pbHPItem(pkmn,healAmt,scene,item)
 })
 
@@ -386,17 +386,17 @@ ItemHandlers::UseOnPokemon.add(:MAXPOTION,proc { |item,pkmn,scene|
 })
 
 ItemHandlers::UseOnPokemon.add(:FRESHWATER,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 30 : 50
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 30 : 50
   next pbHPItem(pkmn,healAmt,scene,item)
 })
 
 ItemHandlers::UseOnPokemon.add(:SODAPOP,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 50 : 60
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 50 : 60
   next pbHPItem(pkmn,healAmt,scene,item)
 })
 
 ItemHandlers::UseOnPokemon.add(:LEMONADE,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 70 : 80
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 70 : 80
   next pbHPItem(pkmn,healAmt,scene,item)
 })
 
@@ -537,7 +537,7 @@ ItemHandlers::UseOnPokemon.add(:MAXREVIVE,proc { |item,pkmn,scene|
 ItemHandlers::UseOnPokemon.copy(:MAXREVIVE,:MAXHONEY)
 
 ItemHandlers::UseOnPokemon.add(:ENERGYPOWDER,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 60 : 50
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 60 : 50
   if pbHPItem(pkmn,healAmt,scene,item)
     pkmn.changeHappiness("powder")
     next true
@@ -546,7 +546,7 @@ ItemHandlers::UseOnPokemon.add(:ENERGYPOWDER,proc { |item,pkmn,scene|
 })
 
 ItemHandlers::UseOnPokemon.add(:ENERGYROOT,proc { |item,pkmn,scene|
-  healAmt = (Settings::GEN_7_HEALING_ITEMS) ? 120 : 200
+  healAmt = (Settings::REBALANCED_HEALING_ITEM_AMOUNTS ) ? 120 : 200
   if pbHPItem(pkmn,healAmt,scene,item)
     pkmn.changeHappiness("energyroot")
     next true

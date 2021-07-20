@@ -106,13 +106,13 @@ class PokemonBag
        @pockets[pocket], maxsize, Settings::BAG_MAX_PER_SLOT, item.id, qty)
   end
 
-  def pbStoreItem(item, qty = 1)
+  def pbStoreItem(item, qty = 1, sorting = true)
     item = GameData::Item.get(item)
     pocket = item.pocket
     maxsize = maxPocketSize(pocket)
     maxsize = @pockets[pocket].length + 1 if maxsize < 0
     return ItemStorageHelper.pbStoreItem(
-       @pockets[pocket], maxsize, Settings::BAG_MAX_PER_SLOT, item.id, qty, true)
+       @pockets[pocket], maxsize, Settings::BAG_MAX_PER_SLOT, item.id, qty, sorting)
   end
 
   def pbStoreAllOrNone(item, qty = 1)

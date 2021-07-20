@@ -438,7 +438,7 @@ class PokeballPlayerSendOutAnimation < PokeBattle_Animation
     ballMidY = battlerStartY-144
     # Set up Poké Ball sprite
     ball = addBallSprite(ballStartX,ballStartY,poke_ball)
-    ball.setZ(0,25)
+    ball.setZ(0,90)
     ball.setVisible(0,false)
     # Poké Ball tracking the player's hand animation (if trainer is visible)
     if @showingTrainer && traSprite && traSprite.x>0

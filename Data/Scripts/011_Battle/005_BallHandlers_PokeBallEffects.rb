@@ -107,7 +107,11 @@ BallHandlers::ModifyCatchRate.add(:NETBALL,proc { |ball,catchRate,battle,battler
 })
 
 BallHandlers::ModifyCatchRate.add(:DIVEBALL,proc { |ball,catchRate,battle,battler,ultraBeast|
-  catchRate *= 3.5 if battle.environment == :Underwater
+  if Settings::MECHANICS_GENERATION >= 4
+    catchRate *= 3.5 if [:MovingWater, :StillWater, :Puddle, :Underwater].include?(battle.environment)
+  else
+    catchRate *= 3.5 if battle.environment == :Underwater
+  end
   next catchRate
 })
 
@@ -211,7 +215,7 @@ BallHandlers::ModifyCatchRate.add(:SPORTBALL,proc { |ball,catchRate,battle,battl
 })
 
 BallHandlers::ModifyCatchRate.add(:DREAMBALL,proc { |ball,catchRate,battle,battler,ultraBeast|
-  catchRate *= 4 if battler.status == :SLEEP
+  catchRate *= 4 if battler.asleep?
   next catchRate
 })
 

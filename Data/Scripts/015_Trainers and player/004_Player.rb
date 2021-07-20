@@ -101,7 +101,7 @@ class Player < Trainer
     @has_pokedex           = false
     @has_pokegear          = false
     @has_running_shoes     = false
-    @seen_storage_creator  = true
+    @seen_storage_creator  = false
     @mystery_gift_unlocked = false
     @mystery_gifts         = []
   end

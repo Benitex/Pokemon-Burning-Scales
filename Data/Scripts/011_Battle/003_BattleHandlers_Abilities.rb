@@ -46,7 +46,7 @@ BattleHandlers::SpeedCalcAbility.add(:SWIFTSWIM,
 
 BattleHandlers::SpeedCalcAbility.add(:UNBURDEN,
   proc { |ability,battler,mult|
-    next mult*2 if battler.effects[PBEffects::Unburden] && !battler.item
+    next mult*2 if battler.effects[PBEffects::Unburden] && !battler.item && battler.abilityActive?
   }
 )
 
@@ -666,6 +666,7 @@ BattleHandlers::MoveImmunityTargetAbility.add(:SAPSIPPER,
 BattleHandlers::MoveImmunityTargetAbility.add(:SOUNDPROOF,
   proc { |ability,user,target,move,type,battle|
     next false if !move.soundMove?
+    next false if Settings::MECHANICS_GENERATION >= 8 && user.index == target.index
     battle.pbShowAbilitySplash(target)
     if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
       battle.pbDisplay(_INTL("It doesn't affect {1}...",target.pbThis(true)))
@@ -1222,7 +1223,7 @@ BattleHandlers::DamageCalcTargetAbility.add(:FLOWERGIFT,
 BattleHandlers::DamageCalcTargetAbility.add(:FLUFFY,
   proc { |ability,user,target,move,mults,baseDmg,type|
     mults[:final_damage_multiplier] *= 2 if move.calcType == :FIRE
-    mults[:final_damage_multiplier] /= 2 if move.contactMove?
+    mults[:final_damage_multiplier] /= 2 if move.pbContactMove?(user)
   }
 )
 
@@ -2206,7 +2207,8 @@ BattleHandlers::EOREffectAbility.add(:SPEEDBOOST,
   proc { |ability,battler,battle|
     # A Pokémon's turnCount is 0 if it became active after the beginning of a
     # round
-    if battler.turnCount>0 && battler.pbCanRaiseStatStage?(:SPEED,battler)
+    if battler.turnCount > 0 && battle.choices[battler.index][0] != :Run &&
+       battler.pbCanRaiseStatStage?(:SPEED, battler)
       battler.pbRaiseStatStageByAbility(:SPEED,1,battler)
     end
   }
@@ -2539,7 +2541,13 @@ BattleHandlers::AbilityOnSwitchIn.add(:INTIMIDATE,
     battle.eachOtherSideBattler(battler.index) do |b|
       next if !b.near?(battler)
       b.pbLowerAttackStatStageIntimidate(battler)
-      b.pbItemOnIntimidatedCheck
+      check_item = true
+      if b.hasActiveAbility?(:CONTRARY)
+        check_item = false if b.statStageAtMax?(:ATTACK)
+      else
+        check_item = false if b.statStageAtMin?(:ATTACK)
+      end
+      b.pbItemOnIntimidatedCheck if check_item
     end
     battle.pbHideAbilitySplash(battler)
   }
@@ -2741,6 +2749,50 @@ BattleHandlers::AbilityOnSwitchOut.add(:REGENERATOR,
     battler.pbRecoverHP(battler.totalhp/3,false,false)
   }
 )
+
+BattleHandlers::AbilityOnSwitchOut.add(:IMMUNITY,
+  proc { |ability, battler, endOfBattle|
+    next if battler.status != :POISON
+    PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}")
+    battler.status = :NONE
+  }
+)
+
+BattleHandlers::AbilityOnSwitchOut.add(:INSOMNIA,
+  proc { |ability, battler, endOfBattle|
+    next if battler.status != :SLEEP
+    PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}")
+    battler.status = :NONE
+  }
+)
+
+BattleHandlers::AbilityOnSwitchOut.copy(:INSOMNIA, :VITALSPIRIT)
+
+BattleHandlers::AbilityOnSwitchOut.add(:LIMBER,
+  proc { |ability, battler, endOfBattle|
+    next if battler.status != :PARALYSIS
+    PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}")
+    battler.status = :NONE
+  }
+)
+
+BattleHandlers::AbilityOnSwitchOut.add(:MAGMAARMOR,
+  proc { |ability, battler, endOfBattle|
+    next if battler.status != :FROZEN
+    PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}")
+    battler.status = :NONE
+  }
+)
+
+BattleHandlers::AbilityOnSwitchOut.add(:WATERVEIL,
+  proc { |ability, battler, endOfBattle|
+    next if battler.status != :BURN
+    PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}")
+    battler.status = :NONE
+  }
+)
+
+BattleHandlers::AbilityOnSwitchOut.copy(:WATERVEIL, :WATERBUBBLE)
 
 #===============================================================================
 # AbilityChangeOnBattlerFainting handlers

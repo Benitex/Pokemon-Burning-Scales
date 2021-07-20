@@ -460,7 +460,7 @@ class TrainerTypeLister
     cmds.sort! { |a, b| a[2] == b[2] ? a[0] <=> b[0] : a[2].downcase <=> b[2].downcase }
     if @includeNew
       @commands.push(_INTL("[NEW TRAINER TYPE]"))
-      @ids.push(:NONE)
+      @ids.push(true)
     end
     for t in cmds
       @commands.push(sprintf("%03d: %s", t[0], t[2]))

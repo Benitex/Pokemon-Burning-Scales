@@ -261,8 +261,12 @@ class PokeBattle_Move_10D < PokeBattle_Move
   def ignoresSubstitute?(user); return true; end
 
   def pbTarget(user)
-    return GameData::Target.get(:NearFoe) if user.pbHasType?(:GHOST)
-    return super
+    return super if !user.pbHasType?(:GHOST)
+    if Settings::MECHANICS_GENERATION >= 8
+      return GameData::Target.get(:RandomNearFoe)
+    else
+      return GameData::Target.get(:NearFoe)
+    end
   end
 
   def pbMoveFailed?(user,targets)
@@ -2600,7 +2604,7 @@ end
 class PokeBattle_Move_175 < PokeBattle_FlinchMove
   def multiHitMove?;              return true; end
   def pbNumHits(user,targets);    return 2;    end
-  def tramplesMinimize?(param=1); return true; end
+  def tramplesMinimize?(param=1); return (Settings::MECHANICS_GENERATION < 7); end
 end
 
 

@@ -23,7 +23,7 @@ def pbNewTrainer(tr_type, tr_name, tr_version, save_changes = true)
         params = ChooseNumberParams.new
         params.setRange(1, GameData::GrowthRate.max_level)
         params.setDefaultValue(10)
-		level = pbMessageChooseNumber(_INTL("Set the level for {1} (max. #{params.maxNumber}).",
+        level = pbMessageChooseNumber(_INTL("Set the level for {1} (max. #{params.maxNumber}).",
            GameData::Species.get(species).name), params)
         party.push([species, level])
         break

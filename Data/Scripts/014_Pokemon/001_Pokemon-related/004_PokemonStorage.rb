@@ -185,12 +185,19 @@ class PokemonStorage
     if boxDst==-1   # Copying into party
       return false if party_full?
       self.party[self.party.length] = self[boxSrc,indexSrc]
+      if Settings::MECHANICS_GENERATION >= 8
+        self.party.last.time_form_set = nil
+        self.party.last.form      = 0 if self.party.last.isSpecies?(:SHAYMIN) ||
+                                        self.party.last.isSpecies?(:HOOPA)
+      end
       self.party.compact!
     else   # Copying into box
       pkmn = self[boxSrc,indexSrc]
       raise "Trying to copy nil to storage" if !pkmn
-      pkmn.time_form_set = nil
-      pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN)
+      if Settings::MECHANICS_GENERATION < 8
+        pkmn.time_form_set = nil
+        pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN) || pkmn.isSpecies?(:HOOPA)
+      end
       pkmn.heal if Settings::HEAL_STORED_POKEMON
       self[boxDst,indexDst] = pkmn
     end
@@ -205,6 +212,10 @@ class PokemonStorage
 
   def pbMoveCaughtToParty(pkmn)
     return false if party_full?
+    if Settings::MECHANICS_GENERATION >= 8
+      pkmn.time_form_set = nil if pkmn.time_form_set
+      pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN) || pkmn.isSpecies?(:HOOPA)
+    end
     self.party[self.party.length] = pkmn
   end
 
@@ -212,8 +223,10 @@ class PokemonStorage
     for i in 0...maxPokemon(box)
       if self[box,i]==nil
         if box>=0
-          pkmn.time_form_set = nil if pkmn.time_form_set
-          pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN)
+          if Settings::MECHANICS_GENERATION < 8
+            pkmn.time_form_set = nil if pkmn.time_form_set
+            pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN) || pkmn.isSpecies?(:HOOPA)
+          end
           pkmn.heal if Settings::HEAL_STORED_POKEMON
         end
         self[box,i] = pkmn
@@ -225,8 +238,10 @@ class PokemonStorage
 
   def pbStoreCaught(pkmn)
     if @currentBox>=0
-      pkmn.time_form_set = nil
-      pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN)
+      if Settings::MECHANICS_GENERATION < 8
+        pkmn.time_form_set = nil if pkmn.time_form_set
+        pkmn.form          = 0 if pkmn.isSpecies?(:SHAYMIN) || pkmn.isSpecies?(:HOOPA)
+      end
       pkmn.heal if Settings::HEAL_STORED_POKEMON
     end
     for i in 0...maxPokemon(@currentBox)
