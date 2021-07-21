@@ -1,4 +1,7 @@
 # Pokemon Burning Scales
+
+![Captura de tela 2021-07-21 150111](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
+
 Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que já viajou pelo mundo. No momento está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, pelo menos até um pokemon misterioso começar a causar caos na parte sul de Unova. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosos.
 
 # Características:
