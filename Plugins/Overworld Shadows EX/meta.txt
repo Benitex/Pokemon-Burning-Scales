@@ -1,0 +1,5 @@
+Name         = Overworld Shadows EX
+Version      = 1.0.0
+Website      = https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Conflicts    = Overworld Shadows
+Credits      = Golisopod User, Wolf PP, Marin
