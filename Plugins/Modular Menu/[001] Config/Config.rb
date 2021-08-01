@@ -95,7 +95,7 @@ ModularMenu.add_entry(:QUESTLIST, _INTL("Quests"), "menuQuests") do |menu|
   }
 end
 #-------------------------------------------------------------------------------
-#  PokeGear
+#  PokeRadar
 #-------------------------------------------------------------------------------
 ModularMenu.add_entry(:POKERADAR, _INTL("PokéRadar"), "menuPokegear") do |menu|
   scene = EncounterList_Scene.new
