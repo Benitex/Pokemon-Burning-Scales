@@ -6,11 +6,11 @@
 #Original BW B2W2 Locations for Signpost
 #===============================================================================
 
-TOWN = ["town", "safari"]
+TOWN = ["town"]
 
-CITY = ["city"]
+CITY = ["Nimbasa", "Castelia"]
 
-ROUTE = ["route", "path"]
+ROUTE = ["Rota"]
 
 BRIDGE = ["bridge"]
 
@@ -24,7 +24,7 @@ CAVE = ["cave"]
 
 PORT = ["port", "harbor"]
 
-DESERT = ["desert"]
+DESERT = ["Desert"]
 
 #===============================================================================
 #Custom Settings for manupulating the Script with instructions
