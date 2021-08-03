@@ -1,0 +1,3 @@
+Name         = BW Location Signposts
+Version      = 1.0.0
+Credits      = Shashu-Greninja,DeepBlue PacificWaves,Shiney570
