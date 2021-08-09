@@ -1,0 +1,6 @@
+#-------------------------------
+[BOSSBATTLES]
+Immunities         = SLEEP,POISON,BURN,PARALISYS,FREEZE,CONFUSION,ATTRACT,FLINCH,DESTINYBOND,LEECHSEED,OHKO,PERISHSONG
+#-------------------------------
+[RANDOMIZER]
+ItemExclusions     = HM01,HM02,HM03,HM04,HM05,HM06

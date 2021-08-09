@@ -1,0 +1,117 @@
+#-------------------------------
+[NORMAL]
+physicalMove = TACKLE
+specialMove  = HYPERBEAM
+multiHitMove = FURYSWIPES
+allOpposing  = HYPERVOICE
+#-------------------------------
+[FIGHTING]
+physicalMove = CLOSECOMBAT
+specialMove  = AURASPHERE
+statusMove   = BULKUP
+multiHitMove = DOUBLEKICK
+#-------------------------------
+[FLYING]
+physicalMove = WINGATTACK
+specialMove  = AIRSLASH
+statusMove   = ROOST
+multiHitMove = WINGATTACK
+allOpposing  = AIRCUTTER
+#-------------------------------
+[POISON]
+physicalMove = POISONJAB
+specialMove  = SLUDGEBOMB
+statusMove   = TOXIC
+multiHitMove = POISONJAB
+allOpposing  = POISONGAS
+nonUser      = SLUDGEWAVE
+#-------------------------------
+[GROUND]
+physicalMove = EARTHQUAKE
+specialMove  = EARTHPOWER
+statusMove   = MUDSPORT
+multiHitMove = BONERUSH
+nonUser      = EARTHQUAKE
+#-------------------------------
+[ROCK]
+physicalMove = ROCKSLIDE
+specialMove  = ANCIENTPOWER
+statusMove   = ROCKPOLISH
+allOpposing  = ROCKSLIDE
+#-------------------------------
+[BUG]
+physicalMove = BUGBITE
+specialMove  = STRUGGLEBUG
+statusMove   = RAGEPOWDER
+multiHitMove = PINMISSILE
+allOpposing  = STRINGSHOT
+#-------------------------------
+[GHOST]
+physicalMove = SHADOWCLAW
+specialMove  = SHADOWBALL
+statusMove   = HEX
+multiHitMove = SHADOWCLAW
+#-------------------------------
+[STEEL]
+physicalMove = IRONHEAD
+specialMove  = MAGNETBOMB
+statusMove   = AUTOTOMIZE
+multiHitMove = GEARGRIND
+#-------------------------------
+[FIRE]
+physicalMove = FLAREBLITZ
+specialMove  = FLAMETHROWER
+statusMove   = WILLOWISP
+multiHitMove = FIREPUNCH
+allOpposing  = HEATWAVE
+nonUser      = LAVAPLUME
+#-------------------------------
+[WATER]
+physicalMove = CRABHAMMER
+specialMove  = WATERGUN
+statusMove   = AQUARING
+multiHitMove = CRABHAMMER
+allOpposing  = BUBBLE
+nonUser      = SURF
+#-------------------------------
+[GRASS]
+physicalMove = VINEWHIP
+specialMove  = LEAFSTORM
+statusMove   = INGRAIN
+multiHitMove = BULLETSEED
+allOpposing  = RAZORLEAF
+#-------------------------------
+[ELECTRIC]
+physicalMove = SPARK
+specialMove  = THUNDERBOLT
+statusMove   = THUNDERWAVE
+multiHitMove = THUNDERPUNCH
+allOpposing  = ELECTROWEB
+nonUser      = DISCHARGE
+#-------------------------------
+[PSYCHIC]
+physicalMove = PSYCHOCUT
+specialMove  = PSYCHIC
+statusMove   = MEDITATE
+allOpposing  = HEALBLOCK
+nonUser      = SYNCHRONOISE
+#-------------------------------
+[ICE]
+physicalMove = ICICLECRASH
+specialMove  = ICEBEAM
+statusMove   = MIST
+multiHitMove = ICEPUNCH
+allOpposing  = ICYWIND
+#-------------------------------
+[DRAGON]
+physicalMove = DRAGONCLAW
+specialMove  = DRAGONBREATH
+statusMove   = DRAGONDANCE
+multiHitMove = DUALCHOP
+allOpposing  = OUTRAGE
+#-------------------------------
+[DARK]
+physicalMove = NIGHTSLASH
+specialMove  = DARKPULSE
+statusMove   = NASTYPLOT
+allOpposing  = DARKVOID

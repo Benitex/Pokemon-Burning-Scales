@@ -1,0 +1,5 @@
+{"PLAYERDATABOX{I"__pk__:ET{"ShowHP[T"HPBarWidth[i¨"HPBarXY[i	i"ExpBarWidth[ii"EXPBarXY[i	i"Bitmap["dataBox"Container["containers"HPColors["barColors"ExpandInDoubles[F"CONTAINER{"XYZ[iii"	NAME{@![iiãi"HP{@![iii"STATUS{@![iáii"	MEGA{@![iñiéi"ENEMYDATABOX{@{@
+[F@[i¨@[i	i@[ii@[i	i@["dataBox@["containers@["barColors@{@![iii@#{@![iiãi@&{@![iii@){@![iÊii@,{@![iÎii"COMMANDMENU{@{"ButtonGraphic["btnCmd"SelectorGraphic["cmdSel"PartyLineGraphic["partyLine"FIGHTMENU{@{@J["moveSelButtons"MegaButtonGraphic["megaButton@M["cmdSel"CategoryGraphic["category"TypeGraphic["
+types"ShowTypeAdvantage[F"BAGMENU{@{"
+Shade["
+shade"LastItem["	last"BackButton["	back"PocketIcons["pocketIcons"PocketButtons["itemContainer"PocketName["itemName"ItemFrame["itemFrame"ItemCancel["itemCancel"ItemConfirm["itemConfirm@M["cmdSel"TARGETMENU{@{@J["btnEmpty@M["cmdSel
