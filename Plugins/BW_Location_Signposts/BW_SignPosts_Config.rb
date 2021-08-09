@@ -20,7 +20,7 @@ BRIDGE = ["bridge"]
 
 FOREST = ["forest" , "grove"]
 
-CAVE = ["Caverna", "Relic"]
+CAVE = ["cave"]
 
 PORT = ["port", "harbor"]
 

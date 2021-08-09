@@ -233,6 +233,13 @@ Pokemon = MARACTUS,20
 Pokemon = DRILBUR,20
 Pokemon = ROCKRUFF,20
 #-------------------------------
+[CUEBALL,Guarda do Resort]
+LoseText = "Droga!"
+Pokemon = WOOBAT,16
+Pokemon = GRIMER,16
+Pokemon = ROGGENROLA,17
+Pokemon = SANDSHREW,17
+#-------------------------------
 [BLACKBELT,Pai lutador]
 LoseText = "Boa festa."
 Pokemon = MEDITITE,15
@@ -241,20 +248,4 @@ Pokemon = ONIX,15
 [FISHERMAN,Pescador da Rota 4]
 LoseText = "Um treinador digno."
 Pokemon = WAILORD,15
-#-------------------------------
-[CUEBALL,Guarda do Resort]
-LoseText = "Droga!"
-Pokemon = WOOBAT,16
-Pokemon = GRIMER,16
-Pokemon = ROGGENROLA,17
-Pokemon = SANDSHREW,17
-#-------------------------------
-[CUEBALL,Motoqueiro da entrada]
-LoseText = "Droga!"
-Pokemon = WOOBAT,16
-Pokemon = ROGGENROLA,17
-#-------------------------------
-[CUEBALL,Motoqueiro do scraggy]
-LoseText = "Humph."
-Pokemon = SCRAGGY,20
 #-------------------------------
