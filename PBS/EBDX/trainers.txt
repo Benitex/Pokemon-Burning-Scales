@@ -15,11 +15,3 @@ BattleVS         = wavesSM
 TrainerPositionX = -8
 BattleVS         = integratedVS
 BattleScript     = BROCK
-#-------------------------------
-[TEAMROCKET_M]
-BattleIntro      = evilTeam
-BattleVS         = trainerSM
-#-------------------------------
-[TEAMROCKET_F]
-BattleIntro      = evilTeam
-BattleVS         = trainerSM

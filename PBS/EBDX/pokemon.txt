@@ -8822,3 +8822,46 @@ BattlerAltitude         = 0
 BattlerPlayerX          = -4
 BattlerPlayerY          = 54
 BattlerEnemyX           = -12
+#-------------------------------
+[CHARMANDERP]
+BattlerEnemyY           = 60
+BattlerAltitude         = 0
+BattlerPlayerX          = 15
+BattlerPlayerY          = 63
+BattlerEnemyX           = 8
+#-------------------------------
+[CHARMELEONP]
+BattlerEnemyY           = 54
+BattlerAltitude         = 0
+BattlerPlayerX          = 8
+BattlerPlayerY          = 57
+BattlerEnemyX           = 4
+#-------------------------------
+[CHARIZARDP]
+BattlerEnemyY           = 32
+BattlerAltitude         = 0
+BattlerPlayerX          = 6
+BattlerPlayerY          = 44
+BattlerEnemyX           = -1
+#-------------------------------
+[DIGLETTP]
+BattlerEnemyY           = 78
+BattlerAltitude         = 0
+BattlerPlayerX          = 21
+BattlerPlayerY          = 85
+BattlerEnemyX           = 4
+#-------------------------------
+[DUGTRIOP]
+BattlerEnemyY           = 61
+BattlerAltitude         = 0
+BattlerPlayerX          = 21
+BattlerPlayerY          = 68
+BattlerEnemyX           = 8
+#-------------------------------
+[ABSOLP]
+BattlerEnemyY           = 50
+BattlerAltitude         = 0
+BattlerPlayerX          = 20
+BattlerPlayerY          = 51
+BattlerEnemyX           = -6
+#-------------------------------
