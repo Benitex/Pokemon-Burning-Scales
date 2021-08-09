@@ -1,0 +1,78 @@
+#-------------------------------
+[VECTORS]
+SINGLE
+  XY               = 102,408
+  ANGLE            = 32
+  SCALE            = 342
+  ZOOM             = 1
+DOUBLE
+  XY               = 102,408
+  ANGLE            = 32
+  SCALE            = 342
+  ZOOM             = 1
+TRIPLE
+  XY               = 102,408
+  ANGLE            = 32
+  SCALE            = 342
+  ZOOM             = 1
+SENDOUT
+  XY               = 234,306
+  ANGLE            = 24
+  SCALE            = 206
+  ZOOM             = 0.5
+ENEMY
+  XY               = -272,628
+  ANGLE            = 28
+  SCALE            = 642
+  ZOOM             = 1.5
+PLAYER
+  XY               = 238,332
+  ANGLE            = 32
+  SCALE            = 292
+  ZOOM             = 1
+DUAL
+  XY               = 196,306
+  ANGLE            = 26
+  SCALE            = 242
+  ZOOM             = 0.6
+DYNAMAX
+  XY               = 202,308
+  ANGLE            = 18
+  SCALE            = 136
+  ZOOM             = 0.5
+#-------------------------------
+[BATTLERPOS-0]
+SINGLE
+  XYZ              = 116,252,21
+DOUBLE
+  XYZ              = 92,240,21
+TRIPLE
+  XYZ              = 76,234,21
+#-------------------------------
+[BATTLERPOS-1]
+SINGLE
+  XYZ              = 234,152,11
+DOUBLE
+  XYZ              = 256,164,15
+TRIPLE
+  XYZ              = 264,156,18
+#-------------------------------
+[BATTLERPOS-2]
+DOUBLE
+  XYZ              = 192,262,25
+TRIPLE
+  XYZ              = 152,244,25
+#-------------------------------
+[BATTLERPOS-3]
+DOUBLE
+  XYZ              = 198,152,11
+TRIPLE
+  XYZ              = 210,154,15
+#-------------------------------
+[BATTLERPOS-4]
+TRIPLE
+  XYZ              = 230,254,28
+#-------------------------------
+[BATTLERPOS-5]
+TRIPLE
+  XYZ              = 162,152,11

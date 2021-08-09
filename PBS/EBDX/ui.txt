@@ -1,0 +1,70 @@
+#-------------------------------
+[PLAYERDATABOX]
+ShowHP             = true
+HPBarWidth         = 168
+HPBarXY            = 4,2
+ExpBarWidth        = 100
+EXPBarXY           = 4,16
+Bitmap             = dataBox
+Container          = containers
+HPColors           = barColors
+ExpandInDoubles    = false
+CONTAINER
+  XYZ              = 20,6,1
+NAME
+  XYZ              = 22,-24,9
+HP
+  XYZ              = 22,9,9
+STATUS
+  XYZ              = -26,16,1
+MEGA
+  XYZ              = -10,-18,1
+#-------------------------------
+[ENEMYDATABOX]
+ShowHP             = false
+HPBarWidth         = 168
+HPBarXY            = 4,2
+ExpBarWidth        = 100
+EXPBarXY           = 4,16
+Bitmap             = dataBox
+Container          = containers
+HPColors           = barColors
+CONTAINER
+  XYZ              = 24,6,1
+NAME
+  XYZ              = 26,-24,9
+HP
+  XYZ              = 20,9,9
+STATUS
+  XYZ              = 202,16,1
+MEGA
+  XYZ              = 206,18,1
+#-------------------------------
+[COMMANDMENU]
+ButtonGraphic      = btnCmd
+SelectorGraphic    = cmdSel
+PartyLineGraphic   = partyLine
+#-------------------------------
+[FIGHTMENU]
+ButtonGraphic      = moveSelButtons
+MegaButtonGraphic  = megaButton
+SelectorGraphic    = cmdSel
+CategoryGraphic    = category
+TypeGraphic        = types
+ShowTypeAdvantage  = false
+#-------------------------------
+[BAGMENU]
+Shade             = shade
+LastItem          = last
+BackButton        = back
+PocketIcons       = pocketIcons
+PocketButtons     = itemContainer
+PocketName        = itemName
+ItemFrame         = itemFrame
+ItemCancel        = itemCancel
+ItemConfirm       = itemConfirm
+SelectorGraphic   = cmdSel
+#-------------------------------
+[TARGETMENU]
+ButtonGraphic     = btnEmpty
+SelectorGraphic   = cmdSel
