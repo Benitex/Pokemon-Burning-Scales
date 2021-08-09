@@ -26,13 +26,13 @@ class ::Numeric
   #-----------------------------------------------------------------------------
   #  Superior way to round stuff
   #-----------------------------------------------------------------------------
-  alias quick_mafs round
-  def round(n = 0)
-    # gets the current float to an actually roundable integer
-    t = self*(10.0**n)
-    # returns the rounded value
-    return t.quick_mafs/(10.0**n)
-  end
+	alias quick_mafs round
+	def round(n = 0)
+		# gets the current float to an actually roundable integer
+		t = self*(10.0**n)
+		# returns the rounded value
+		return t.quick_mafs/(10.0**n)
+	end
 end
 #===============================================================================
 #  Extensions for the `Dir` class
@@ -52,6 +52,28 @@ class Dir
     end
   end
   #-----------------------------------------------------------------------------
+  #  Generates entire file/folder tree from a certain directory
+  #-----------------------------------------------------------------------------
+  def self.all_dirs(dir)
+    # sets variables for starting
+    dirs = []
+    for file in self.get(dir, "*", true)
+      # engages in recursion to read the entire folder tree
+      dirs += self.all_dirs(file) if self.safe?(file)
+    end
+    # returns all found directories
+    return dirs.length > 0 ? (dirs + [dir]) : [dir]
+  end
+  #-----------------------------------------------------------------------------
+  #  Deletes all the files in a directory and all the sub directories (allows for non-empty dirs)
+  #-----------------------------------------------------------------------------
+  def self.delete_all(dir)
+    # delete all files in dir
+    self.all(dir).each { |f| File.delete(f) }
+    # delete all dirs in dir
+    self.all_dirs(dir).each { |f| Dir.delete(f) }
+  end
+  #-----------------------------------------------------------------------------
 end
 #===============================================================================
 #  Extensions for the `File` class
@@ -64,6 +86,27 @@ class File
     ret = false
     ret = (load_data(file) ? true : false) rescue false
     return ret
+  end
+  #-----------------------------------------------------------------------------
+end
+#===============================================================================
+#  Extensions for the `PluginManager`
+#===============================================================================
+module PluginManager
+  #-----------------------------------------------------------------------------
+  #  Get plugin dir based on meta entries
+  #-----------------------------------------------------------------------------
+  def self.find_dir(plugin)
+    # go through the plugins folder
+    for dir in Dir.get("Plugins")
+      next if !Dir.safe?(dir)
+      next if !safeExists?(dir + "/meta.txt")
+      # read meta
+      meta = self.readMeta(dir, "meta.txt")
+      return dir if meta[:name] == plugin
+    end
+    # return nil if no plugin dir found
+    return nil
   end
   #-----------------------------------------------------------------------------
 end
@@ -414,16 +457,16 @@ class Sprite
     pixels = bmp.raw_data.unpack('I*')
     for i in 0...pixels.length
       # get RGBA values from 24 bit INT
-      pb =  pixels[i] & 255
-      pg = (pixels[i] >> 8) & 255
-      pr = (pixels[i] >> 16) & 255
+      b  =  pixels[i] & 255
+      g  = (pixels[i] >> 8) & 255
+      r  = (pixels[i] >> 16) & 255
       pa = (pixels[i] >> 24) & 255
       # proceed only if alpha > 0
       if pa > 0
         # calculate new RGB values
-        r = alpha * color.red + (1 - alpha) * pr
-        g = alpha * color.green + (1 - alpha) * pg
-        b = alpha * color.blue + (1 - alpha) * pb
+        r = alpha * color.red + (1 - alpha) * r
+        g = alpha * color.green + (1 - alpha) * g
+        b = alpha * color.blue + (1 - alpha) * b
         # convert RGBA to 24 bit INT
         pixels[i] = pa.to_i << 24 | b.to_i << 16 | g.to_i << 8 | r.to_i
       end
@@ -678,7 +721,7 @@ end
 #===============================================================================
 class Color
 	# alias for old constructor
-	alias initialize_without_conversion initialize unless self.method_defined?(:initialize_without_conversion)
+	alias init_org initialize unless self.method_defined?(:init_org)
   #-----------------------------------------------------------------------------
 	# new constructor accepts RGB values as well as a hex number or string value
   #-----------------------------------------------------------------------------
@@ -698,8 +741,8 @@ class Color
 		elsif args.length == 3
 			r, g, b = *args
 		end
-		return initialize_without_conversion(r, g, b) if r && g && b
-		return initialize_without_conversion(*args)
+		return init_org(r, g, b) if r && g && b
+		return init_org(*args)
 	end
   #-----------------------------------------------------------------------------
 	# returns an RGB color value as a hex value
@@ -724,8 +767,24 @@ class Color
 	# returns decimal color
   #-----------------------------------------------------------------------------
 	def to_dec
-		return self.to_hex.to_i(16)
+		return self.to_hex.gsub("#", "").to_i(16)
 	end
+  #-----------------------------------------------------------------------------
+	# byte order in ARGB instead of RGBA.
+  #-----------------------------------------------------------------------------
+  def to_i
+    return self.alpha.to_i << 24 | self.blue.to_i << 16 | self.green.to_i << 8 | self.red.to_i
+  end
+  #-----------------------------------------------------------------------------
+	# return color from byte integer value
+  #-----------------------------------------------------------------------------
+  def self.from_i(value)
+    b =  clr & 255
+    g = (clr >> 8) & 255
+    r = (clr >> 16) & 255
+    a = (clr >> 24) & 255
+    return Color.new(r, g, b, a)
+  end
   #-----------------------------------------------------------------------------
 	# parse color input to return color object
   #-----------------------------------------------------------------------------
@@ -816,18 +875,19 @@ class ScrollingSprite < Sprite
   def update
     s = (1/@speed).to_i
     @frame += 1
-    return if @frame < s
+    return if @frame < s.delta_add(false)
+    mod = [@direction, ((@speed < 1 ? 1 : @speed)*@direction).delta_sub(false)]
     if @vertical
-      self.src_rect.y += (@speed < 1 ? 1 : @speed)*@direction
+      self.src_rect.y += @direction > 0 ? mod.max : mod.min
       self.src_rect.y = 0 if @direction > 0 && self.src_rect.y >= self.src_rect.height
       self.src_rect.y = self.src_rect.height if @direction < 0 && self.src_rect.y <= 0
     else
-      self.src_rect.x += (@speed < 1 ? 1 : @speed)*@direction
+      self.src_rect.x += @direction > 0 ? mod.max : mod.min
       self.src_rect.x = 0 if @direction > 0 && self.src_rect.x >= self.src_rect.width
       self.src_rect.x = self.src_rect.width if @direction < 0 && self.src_rect.x <= 0
     end
     if @pulse
-      self.opacity -= @gopac*(@speed < 1 ? 1 : @speed)
+      self.opacity -= (@gopac*(@speed < 1 ? 1 : @speed)).delta_sub(false)
       @gopac *= -1 if self.opacity == @max_o || self.opacity == @min_o
     end
     @frame = 0
@@ -862,7 +922,7 @@ class TrailingSprite
   #-----------------------------------------------------------------------------
   def update
     @frame += 1
-    if @frame > @keyFrame
+    if @frame > @keyFrame.delta_add(false)
       @sprites["#{@i}"] = Sprite.new(@viewport)
       @sprites["#{@i}"].bitmap = @bmp
       @sprites["#{@i}"].center
@@ -876,10 +936,10 @@ class TrailingSprite
       @frame = 0
     end
     for key in @sprites.keys
-      if @sprites[key].opacity > @keyFrame
-        @sprites[key].opacity -= 24
-        @sprites[key].zoom_x -= 0.035
-        @sprites[key].zoom_y -= 0.035
+      if @sprites[key].opacity > @keyFrame.delta_add(false)
+        @sprites[key].opacity -= 24.delta_sub(false)
+        @sprites[key].zoom_x -= 0.035.delta_sub(false)
+        @sprites[key].zoom_y -= 0.035.delta_sub(false)
         @sprites[key].color = @color
       end
     end
@@ -922,17 +982,17 @@ class RainbowSprite < Sprite
     @val = pbBitmap(val) if val.is_a?(String)
     @speed = speed
     self.bitmap = Bitmap.new(@val.width,@val.height)
-    self.bitmap.blt(0,0,@val,Rect.new(0,0,@val.width,@val.height))
+    self.bitmap.blt(0, 0, @val, @val.rect)
     @current_hue = 0
   end
   #-----------------------------------------------------------------------------
   #  updates sprite
   #-----------------------------------------------------------------------------
   def update
-    @current_hue += @speed
+    @current_hue += [1, @speed.delta_sub(false)].max
     @current_hue = 0 if @current_hue >= 360
     self.bitmap.clear
-    self.bitmap.blt(0,0,@val,Rect.new(0,0,@val.width,@val.height))
+    self.bitmap.blt(0, 0, @val, @val.rect)
     self.bitmap.hue_change(@current_hue)
   end
   #-----------------------------------------------------------------------------
@@ -969,7 +1029,7 @@ class SpriteSheet < Sprite
   #-----------------------------------------------------------------------------
   def update
     return if !self.bitmap
-    if @curFrame >= @speed
+    if @curFrame >= @speed.delta_add(false)
       if @vertical
         self.src_rect.y += self.src_rect.height
         self.src_rect.y = 0 if self.src_rect.y >= self.bitmap.height
@@ -1194,7 +1254,9 @@ module Env
     data = {}; entries = []
     # skip if empty
     return data if !contents || contents.empty?
-    indexes = contents.scan(/(?<=\[)(.*?)(?=\])/i); indexes.push(indexes[-1])
+    indexes = contents.scan(/(?<=\[)(.*?)(?=\])/i)
+    return data if indexes.nil?
+    indexes.push(indexes[-1])
     # iterate through each index and compile data points
     for j in 0...indexes.length
       i = indexes[j]
