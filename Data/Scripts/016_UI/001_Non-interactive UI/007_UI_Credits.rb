@@ -47,7 +47,7 @@ class Scene_Credits
   # Start Editing
   CREDIT = <<_END_
 
-Pokemon Adventures Volcarona
+Pokemon Burning Scales
 
 
 
