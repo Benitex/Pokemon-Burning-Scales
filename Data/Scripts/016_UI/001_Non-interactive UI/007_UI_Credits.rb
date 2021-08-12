@@ -74,11 +74,16 @@ Esse jogos foi feito utilizando recursos de:
 Autores de gráficos:
 
 Tilesets:
+
+Exteriores:
 WesleyFG
 
 Com complementos de:
 dirtywiggles
 zetavares852
+
+Interiores:
+Pokemon Banished Platinum
 
 Character Customization Resources
 Poltergeist
