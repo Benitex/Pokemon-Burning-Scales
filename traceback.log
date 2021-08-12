@@ -1,0 +1,53 @@
+Script error in event 7 (coords 15,10), map 3 (Centro Pokémon):
+Exception: NameError
+Message: uninitialized constant Settings::MORE_BONUS_PREMIER_BALLS
+
+***Full script:
+pbPokemonMart([
+:POKEBALL,:GREATBALL,
+:POTION,:SUPERPOTION,
+:ESCAPEROPE,:REPEL
+])
+
+
+Backtrace:
+020_UI_PokeMart.rb:598:in `block in pbBuyScreen'
+020_UI_PokeMart.rb:544:in `loop'
+020_UI_PokeMart.rb:544:in `pbBuyScreen'
+020_UI_PokeMart.rb:681:in `block in pbPokemonMart'
+020_UI_PokeMart.rb:677:in `loop'
+020_UI_PokeMart.rb:677:in `pbPokemonMart'
+(eval):1:in `execute_script'
+003_Interpreter.rb:137:in `eval'
+003_Interpreter.rb:137:in `execute_script'
+004_Interpreter_Commands.rb:1030:in `command_355'
+
+
+003_Interpreter.rb:189:in `rescue in execute_script'
+003_Interpreter.rb:135:in `execute_script'
+004_Interpreter_Commands.rb:1030:in `command_355'
+004_Interpreter_Commands.rb:116:in `execute_command'
+003_Interpreter.rb:127:in `block in update'
+003_Interpreter.rb:87:in `loop'
+003_Interpreter.rb:87:in `update'
+002_Scene_Map.rb:157:in `block in update'
+002_Scene_Map.rb:155:in `loop'
+002_Scene_Map.rb:155:in `update'
+[Following Pokemon EX] 002_Refresh.rb:269:in `update'
+002_Scene_Map.rb:218:in `block in main'
+002_Scene_Map.rb:215:in `loop'
+002_Scene_Map.rb:215:in `main'
+999_Main.rb:37:in `mainFunctionDebug'
+999_Main.rb:20:in `mainFunction'
+999_Main.rb:47:in `block (2 levels) in load_scripts_from_folder'
+999_Main.rb:46:in `loop'
+999_Main.rb:46:in `block in load_scripts_from_folder'
+000:Main:34:in `eval'
+000:Main:34:in `block in load_scripts_from_folder'
+000:Main:31:in `each'
+000:Main:31:in `load_scripts_from_folder'
+000:Main:44:in `block in load_scripts_from_folder'
+000:Main:43:in `each'
+000:Main:43:in `load_scripts_from_folder'
+000:Main:48:in `<main>'
+-e:in `eval'

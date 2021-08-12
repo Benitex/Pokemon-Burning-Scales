@@ -71,9 +71,7 @@ module Settings
   # number. If the variable isn't set to 0, then all trainers with the
   # associated trainer type will be named as whatever is in that variable.
   RIVAL_NAMES = [
-    [:RIVAL1,   12],
-    [:RIVAL2,   12],
-    [:CHAMPION, 12]
+    
   ]
 
   #=============================================================================
@@ -256,8 +254,7 @@ module Settings
   #   * Name of the graphic, found in the Graphics/Pictures folder.
   #   * The graphic will always (true) or never (false) be shown on a wall map.
   REGION_MAP_EXTRAS = [
-    [0, 51, 16, 15, "mapHiddenBerth", false],
-    [0, 52, 20, 14, "mapHiddenFaraday", false]
+    
   ]
 
   #=============================================================================
@@ -300,10 +297,7 @@ module Settings
   #   * Minimum possible level.
   #   * Maximum possible level (optional).
   POKE_RADAR_ENCOUNTERS = [
-    [5,  20, :STARLY,     12, 15],
-    [21, 10, :STANTLER,   14],
-    [28, 20, :BUTTERFREE, 15, 18],
-    [28, 20, :BEEDRILL,   15, 18]
+    
   ]
 
   #=============================================================================

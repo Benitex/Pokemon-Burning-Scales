@@ -241,6 +241,7 @@ Pokemon = ONIX,15
 [FISHERMAN,Pescador da Rota 4]
 LoseText = "Um treinador digno."
 Pokemon = WAILORD,15
+	Shiny = yes
 #-------------------------------
 [CUEBALL,Guarda do Resort]
 LoseText = "Droga!"
