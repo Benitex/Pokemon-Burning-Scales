@@ -1,18 +1,20 @@
 # Pokemon Burning Scales
 
-![Captura de tela 2021-07-21 150111](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
+![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que já viajou pelo mundo. No momento está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, pelo menos até um pokemon misterioso começar a causar caos na parte sul de Unova. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosos.
+*Read this in other languages: [English](README.md), [Português](README.pt.md).*
 
-# Características:
-* **História diferente do padrão da série.** Ideal para fugir um pouco do padrão de enfrentar líderes de ginásio até enfrentar a Elite 4.
-* **Mundo aberto livre para exploração desde o início do jogo.** Apesar de não haverem muitas rotas e cidades, todas já estão disponíveis desde o início do jogo, sem enrolações.
-* **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe.** Com execessão de batalhas importantes.
-* **Muitas sidequests espalhadas pelo mapa** para gerar horas de conteúdos extras fora da história principal.
-* **Escolhas que impactam o resultado das quests** ou revelam informações adicionais/situações engraçadas.
-* **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio.
-* **Sistema de Quests** que registra próximos objetivos, localizações e uma lista com quests completas e em progresso.
-* **Sistema que mostra pokemon disponíveis na rota** e quais deles já foram capturados ou vistos.
+Pokemon Burning Scales is a Pokemon fan game where you play as Nathan, a pokemon trainer that has traveled around the world. In the last months, he is in Unova helping professor Juniper with her researches about a new unknown pokemon form. At least, until a mysterious pokemon starts to cause trouble in the south of Unova. Nathan, then, needs to solve the pokemon problem, at the same time he tries to understand more about the origin of these mysterious new pokemon forms.
+
+# Features:
+* **Rich and different story.** Perfect for the ones that are tired of defeating gym leaders and the Elite 4.
+* **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
+* **Wild pokemon and trainers auto-level scaling.** Except for the important battles.
+* **A lot of sidequests.** That can generate hours of extra content apart from the main story.
+* **Choices that impact the story.** or reveal additional information/funny situations.
+* **Wonder Trade-like system.** Where you spend money to get a random pokemon in its first form.
+* **A Quests System.** That registers your next objectives, locations, and a list with all the quests.
+* **A system that shows available pokemon in the route.** And which were already captured or seen.
 * **Pokémon andando pelas rotas**.
-* **Pokémon diferente dependendo do horário do dia**.
-* **Alguns poucos pokemon com formas alteradas**, não são comuns.
+* **Different pokemon depending on the time of the day.**.
+* **A few pokemon with altered forms.** There aren't many, though.
