@@ -88,11 +88,8 @@ Pokemon Banished Platinum
 Character Customization Resources
 Poltergeist
 
-Nurse Joy(Adaptado)
-PokeJosh
-
-Team Edge Grunt
-5QU3L3T0N
+Gen 4 and 5 Trainer sprites and PBS:
+Mr. Gela/theo#7722
 
 Gen 8 Project:
 
