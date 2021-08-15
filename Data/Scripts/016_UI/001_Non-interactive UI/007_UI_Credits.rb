@@ -85,11 +85,33 @@ zetavares852
 Interiores:
 Pokemon Banished Platinum
 
+
 Character Customization Resources
 Poltergeist
 
-Gen 4 and 5 Trainer sprites and PBS:
+Gen 4 OW Sprites by:
+Neo-Spriteman
+Vanilla Sunshine
+PurpleZaffre & Maicerochico
+AtomicReactor
+
+Gen 5 Characters in Gen 4 OW style
+DiegoWT
+
+Gen 4 and 5 Trainer sprites:
 Mr. Gela/theo#7722
+
+Team Plasma Grunt OW(male and female)
+PurpleZaffre
+
+Team Plasma battle sprites
+xxxSnow
+
+Team Plasma grunt with Articuno wings
+Kobi2604
+
+Shadow Trial trainer sprites
+Skeizerr
 
 Gen 8 Project:
 
@@ -162,6 +184,7 @@ Team Rocket Battle Remix vII - GlitchxCity
 Po Town - Vanilluxe Pavilion
 Poké Mart Shopping - Pokémon X & Y
 Mt. Coronet Remix - VanilluxePavilion
+Team Plasma Remix - GlitchxCity
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}
 
