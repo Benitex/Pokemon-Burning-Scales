@@ -185,6 +185,8 @@ Po Town - Vanilluxe Pavilion
 Poké Mart Shopping - Pokémon X & Y
 Mt. Coronet Remix - VanilluxePavilion
 Team Plasma Remix - GlitchxCity
+Battle vs. Marnie Remix - MarshMix Plaza
+Vs. Guzma Remix - Kamex
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}
 

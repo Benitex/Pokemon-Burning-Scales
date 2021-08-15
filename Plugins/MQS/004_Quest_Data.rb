@@ -22,11 +22,11 @@ module QuestModule
   
   Quest2 = {
     :ID => "2",
-    :Name => "Competição de natação",
+    :Name => "O jogo de futebol",
     :QuestGiver => "Atleta de Nimbasa",
     :Stage1 => "Encontre o atleta.",
-    :Location1 => "Quadra Pequena",
-    :QuestDescription => "Depois de uma batalha, um atleta em Nimbasa me pediu para assistir sua participação na competição na Quadra Pequena em Nimbasa.",
+    :Location1 => "Grande Estádio",
+    :QuestDescription => "Depois de uma batalha, um atleta em Nimbasa me pediu para assistir sua participação na competição no Grande Estádio em Nimbasa.",
     :RewardString => "nil"
   }
   

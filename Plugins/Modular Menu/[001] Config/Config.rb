@@ -105,16 +105,6 @@ end
 # condition to satisfy
 ModularMenu.add_condition(:POKERADAR) { next $Trainer.has_pokegear }
 #-------------------------------------------------------------------------------
-#  Trainer Card
-#-------------------------------------------------------------------------------
-ModularMenu.add_entry(:TRAINER, _INTL("\\PN"), "menuTrainer") do |menu|
-  scene = PokemonTrainerCard_Scene.new
-  screen = PokemonTrainerCardScreen.new(scene)
-  pbFadeOutIn(99999) {
-    screen.pbStartScreen
-  }
-end
-#-------------------------------------------------------------------------------
 #  Save Screen
 #-------------------------------------------------------------------------------
 ModularMenu.add_entry(:SAVE, _INTL("Save"), "menuSave") do |menu|

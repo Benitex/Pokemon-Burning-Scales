@@ -6,10 +6,10 @@ Pokemon = EMOLGA,9
 Pokemon = MAREEP,9
 Pokemon = BLITZLE,9
 #-------------------------------
-[SWIMMER_M,Atleta de Nimbasa]
-LoseText = "Uau, você é forte!"
-Pokemon = BUIZEL,7
-Pokemon = PANPOUR,7
+[LINEBACKER,Atleta de Nimbasa]
+LoseText = "Uou, você é forte, irmão!"
+Pokemon = DARUMAKA,7
+Pokemon = TIMBURR,7
 #-------------------------------
 [LASS,Menina de Nimbasa]
 LoseText = "Você é bem forte!"
