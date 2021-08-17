@@ -117,7 +117,13 @@ module GameData
       @pokemon.each do |pkmn_data|
         species = GameData::Species.get(pkmn_data[:species]).species
 		if $game_switches[99]==true
-          pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 3 - rand(2), trainer, false)
+		  if $game_variable[100] == 1
+        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 4 + rand(2), trainer, false)
+		  elsif $game_variable[100] == 2
+        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 3 + rand(3), trainer, false)
+      else
+        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 3 + rand(5), trainer, false)
+		  end
 		else
 		  pkmn = Pokemon.new(species, pkmn_data[:level], trainer, false)
 		end

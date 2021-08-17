@@ -20,7 +20,13 @@ Events.onWildPokemonCreate += proc { |_sender, e|
 Events.onWildPokemonCreate += proc { |_sender, e|
   pokemon = e[0]
   if $game_switches[100] == true
-    new_level = pbBalancedLevel($Trainer.party) - 4 + rand(2)   # For variety
+    if $game_variable[100] == 1
+      new_level = pbBalancedLevel($Trainer.party) - 4 + rand(2)
+    elsif $game_variable[100] == 2
+      new_level = pbBalancedLevel($Trainer.party) - 3 + rand(3)
+    else
+      new_level = pbBalancedLevel($Trainer.party) - 3 + rand(5)
+    end
     new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
     pokemon.level = new_level
     pokemon.calc_stats
