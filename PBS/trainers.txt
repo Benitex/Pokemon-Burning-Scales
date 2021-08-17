@@ -25,20 +25,20 @@ Pokemon = WHIRLIPEDE,9
 LoseText = "Você é bem forte!"
 Pokemon = PANPOUR,10
 #-------------------------------
-[POKEMONTRAINER_Red,Ben1]
+[BUGCATCHER,Ben]
 LoseText = "..."
 Pokemon = BUTTERFREE,16
 Pokemon = IVYSAUR,18
 Pokemon = GYARADOS,20
 Pokemon = PIDGEOTTO,18
 #-------------------------------
-[POKEMONTRAINER_Red,Ben2]
+[CAMPER,Ben]
 LoseText = "..."
 Pokemon = BAYLEEF,18
 Pokemon = KADABRA,20
 Pokemon = PILOSWINE,20
 #-------------------------------
-[POKEMONTRAINER_Red,Ben3]
+[BIRDKEEPER,Ben]
 LoseText = "..."
 Pokemon = SWELLOW,18
 Pokemon = BLAZIKEN,20
@@ -46,7 +46,7 @@ Pokemon = IVYSAUR,20
 Pokemon = GYARADOS,22
 Pokemon = METANG,22
 #-------------------------------
-[POKEMONTRAINER_Red,Ben4]
+[TUBER_M,Ben]
 LoseText = "..."
 Pokemon = STARAVIA,20
 Pokemon = VESPIQUEN,21
@@ -56,7 +56,7 @@ Pokemon = GROTLE,22
 Pokemon = PILOSWINE,24
 Pokemon = FLOATZEL,26
 #-------------------------------
-[POKEMONTRAINER_Red,Ben5]
+[YOUNGSTER,Ben]
 LoseText = "..."
 Pokemon = MARACTUS,24
 Pokemon = LUCARIO,26
