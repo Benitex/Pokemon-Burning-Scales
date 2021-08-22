@@ -27,43 +27,43 @@ Pokemon = PANPOUR,10
 #-------------------------------
 [BUGCATCHER,Ben]
 LoseText = "..."
-Pokemon = BUTTERFREE,16
+Pokemon = BUTTERFREE,18
 Pokemon = IVYSAUR,18
-Pokemon = GYARADOS,20
-Pokemon = PIDGEOTTO,18
+Pokemon = MAGIKARP,19
+Pokemon = PIDGEOTTO,20
 #-------------------------------
 [CAMPER,Ben]
 LoseText = "..."
 Pokemon = BAYLEEF,18
 Pokemon = KADABRA,20
-Pokemon = PILOSWINE,20
+Pokemon = PILOSWINE,19
 #-------------------------------
 [BIRDKEEPER,Ben]
 LoseText = "..."
-Pokemon = SWELLOW,18
+Pokemon = SWELLOW,19
 Pokemon = BLAZIKEN,20
-Pokemon = IVYSAUR,20
-Pokemon = GYARADOS,22
-Pokemon = METANG,22
+Pokemon = IVYSAUR,19
+Pokemon = GYARADOS,20
+Pokemon = METANG,20
 #-------------------------------
 [TUBER_M,Ben]
 LoseText = "..."
 Pokemon = STARAVIA,20
-Pokemon = VESPIQUEN,21
-Pokemon = MAGMAR,21
+Pokemon = VESPIQUEN,19
+Pokemon = MAGMAR,20
     Shiny = yes
-Pokemon = GROTLE,22
-Pokemon = PILOSWINE,24
-Pokemon = FLOATZEL,26
+Pokemon = GROTLE,21
+Pokemon = PILOSWINE,20
+Pokemon = FLOATZEL,19
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = "..."
-Pokemon = MARACTUS,24
-Pokemon = LUCARIO,26
-Pokemon = UNFEZANT,24
-Pokemon = ZOROARK,26
-Pokemon = SAMUROTT,24
-Pokemon = COFAGRIGUS,26
+Pokemon = MARACTUS,20
+Pokemon = LUCARIO,21
+Pokemon = UNFEZANT,20
+Pokemon = ZOROARK,21
+Pokemon = SAMUROTT,20
+Pokemon = COFAGRIGUS,21
 #-------------------------------
 [GENTLEMAN,Diretor da FNF]
 LoseText = "Posso aprender muito com você!"
@@ -169,12 +169,12 @@ Pokemon = ABSOLP,30
     Moves = THUNDERPUNCH,TAUNT,QUICKATTACK,SWORDSDANCE
     Item = ABSOLITE
 #-------------------------------
-[CUEBALL,Motoqueiro 1]
+[BIKER,Motoqueiro 1]
 LoseText = "Não vai ficar assim!"
 Pokemon = GRIMER,12
 Pokemon = ZUBAT,12
 #-------------------------------
-[CUEBALL,Motoqueiro 2]
+[BIKER,Motoqueiro 2]
 LoseText = "Fala sério!"
 Pokemon = TRUBBISH,12
 Pokemon = SKORUPI,12
@@ -184,12 +184,12 @@ LoseText = "Até que é forte."
 Pokemon = GRIMER,14
 Pokemon = KOFFING,14
 #-------------------------------
-[CUEBALL,Motoqueiro antipacifista]
+[BIKER,Motoqueiro antipacifista]
 LoseText = "Ferrou."
 Pokemon = PAWNIARD,14
 Pokemon = RUFFLET,14
 #-------------------------------
-[CUEBALL,Motoqueiro sacana]
+[BIKER,Motoqueiro sacana]
 LoseText = "Vai tomar suco de cajú!"
 Pokemon = VULLABY,14
 Pokemon = SANDILE,14
@@ -250,7 +250,7 @@ Pokemon = GRIMER,16
 Pokemon = ROGGENROLA,17
 Pokemon = SANDSHREW,17
 #-------------------------------
-[CUEBALL,Motoqueiro da entrada]
+[BIKER,Motoqueiro da entrada]
 LoseText = "Droga!"
 Pokemon = WOOBAT,16
 Pokemon = ROGGENROLA,17
@@ -258,4 +258,10 @@ Pokemon = ROGGENROLA,17
 [CUEBALL,Motoqueiro do scraggy]
 LoseText = "Humph."
 Pokemon = SCRAGGY,20
+#-------------------------------
+[BIKER,Motoqueiro bloqueador]
+LoseText = "Droga!"
+Pokemon = SKORUPI,20
+Pokemon = VULLABY,20
+Pokemon = PAWNIARD,20
 #-------------------------------

@@ -3,7 +3,7 @@ module MessageConfig
   LIGHT_TEXT_SHADOW_COLOR = Color.new(72, 80, 88)
   DARK_TEXT_MAIN_COLOR    = Color.new(80, 80, 88)
   DARK_TEXT_SHADOW_COLOR  = Color.new(160, 160, 168)
-  FONT_NAME               = "Power Green"
+  FONT_NAME               = "Power Clear"
   FONT_SIZE               = 29
   SMALL_FONT_NAME         = "Power Green Small"
   SMALL_FONT_SIZE         = 25

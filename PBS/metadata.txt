@@ -98,12 +98,11 @@ MapSize = 2,11
 MapPosition = 0,13,12
 #-------------------------------
 [009]
-# Casa da senhora
+# Casa da Anna
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
 [010]
-# Teatro Musical
 Outdoor = false
 ShowArea = true
 Bicycle = false
@@ -121,7 +120,7 @@ MapPosition = 0,14,10
 MapPosition = 0,14,10
 #-------------------------------
 [013]
-# Estádio Pequeno
+# Quadra Pequena
 MapPosition = 0,14,10
 #-------------------------------
 [014]
@@ -135,7 +134,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-TrainerBattleBGM = Zinnia Mewmore.mp3
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [015]
 # Quarto da filha
@@ -189,7 +188,6 @@ BattleBack = Champion
 TrainerBattleBGM = Gladion Battle.mp3
 #-------------------------------
 [020]
-# Corredores
 MapPosition = 0,13,10
 #-------------------------------
 [021]
@@ -370,10 +368,12 @@ ShowArea = true
 MapPosition = 0,17,10
 #-------------------------------
 [053]
+# Teatro Musical
 HealingSpot = 52,17,14
 MapPosition = 0,17,10
 #-------------------------------
 [054]
+# Elevador
 MapPosition = 0,17,10
 #-------------------------------
 [055]
@@ -381,6 +381,7 @@ HealingSpot = 52,30,10
 MapPosition = 0,17,10
 #-------------------------------
 [056]
+# Corredores
 MapPosition = 0,17,10
 BattleBack = EliteA
 #-------------------------------
