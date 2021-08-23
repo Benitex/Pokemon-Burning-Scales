@@ -140,6 +140,10 @@ Gen 8 Pokemon Cries          - Zeak6464
 PBS Credits:
 Golisopod User, Zerokid, TheToxic, HM100, KyureJL, ErwanBeurier
 
+ORAS/XY themed battle backgrounds for EBDX
+PhoenixOfLight92 for ripping the Gen 6 battlebacks
+LackDeJurane for the combined battlebacks
+
 Script Credits:
 EBS Bitmap Wrapper - Luka S.J.
 Gen 8 Scripts      - Golisopod User, Maruno, Vendily, TheToxic, HM100, Aioross, WolfPP, MFilice, lolface, KyureJL, DarrylBD99, Turn20Negate, TheKandinavian, ErwanBeurier
