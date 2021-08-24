@@ -1,0 +1,4 @@
+Name = B2W2 Bag
+Version = 1.5
+Credits = Erassus,CharizardThree3/LackDeJurane
+Website = https://reliccastle.com/resources/661/

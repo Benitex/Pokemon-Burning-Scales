@@ -1,0 +1,3 @@
+Name         = BW Text Entry Scene
+Version      = 1.0.0
+Credits      = Shashu-Greninja,DeepBlue PacificWaves,Erassus

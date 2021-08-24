@@ -1,0 +1,4 @@
+Name = BW Party Screen 
+Version = 2.2.0
+Credits = DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
+Website = https://reliccastle.com/resources/569/

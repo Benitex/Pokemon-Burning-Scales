@@ -1,0 +1,4 @@
+Name = Storage System BW Style
+Version = 1.0.1
+Credits = DeepBlue PacificWaves
+Website = https://reliccastle.com/resources/631/

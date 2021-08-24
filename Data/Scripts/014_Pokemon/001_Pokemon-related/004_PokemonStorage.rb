@@ -81,12 +81,10 @@ class PokemonStorage
        _INTL("Beach"),_INTL("Seafloor"),_INTL("River"),_INTL("Sky"),
        _INTL("Poké Center"),_INTL("Machine"),_INTL("Checks"),_INTL("Simple"),
        # Special wallpapers
-       _INTL("Space"),_INTL("Backyard"),_INTL("Nostalgic 1"),_INTL("Torchic"),
-       _INTL("Trio 1"),_INTL("PikaPika 1"),_INTL("Legend 1"),_INTL("Team Galactic 1"),
-       _INTL("Distortion"),_INTL("Contest"),_INTL("Nostalgic 2"),_INTL("Croagunk"),
-       _INTL("Trio 2"),_INTL("PikaPika 2"),_INTL("Legend 2"),_INTL("Team Galactic 2"),
-       _INTL("Heart"),_INTL("Soul"),_INTL("Big Brother"),_INTL("Pokéathlon"),
-       _INTL("Trio 3"),_INTL("Spiky Pika"),_INTL("Kimono Girl"),_INTL("Revival")
+       _INTL("Reshiram"),_INTL("Zekrom"),_INTL("Monochrome"),_INTL("Team Plasma"),
+       _INTL("Munna"),_INTL("Zoroark"),_INTL("Subway"),_INTL("Musical"),
+       _INTL("Monochrome"),_INTL("Neo Team Plasma"),_INTL("Movie"),_INTL("PWT"),
+       _INTL("Black Kyurem"),_INTL("White Kyurem"),_INTL("Reshiram 2"),_INTL("Zekrom 2"),
     ]
   end
 
