@@ -1,0 +1,5 @@
+Name = Pokedex BW Style
+Version = 1.4.1
+Requires = Luka's Scripting Utilities,3.2
+Credits = DeepBlue PacificWaves, NettoHikari, Xtreme1992
+Website = https://reliccastle.com/resources/510/
