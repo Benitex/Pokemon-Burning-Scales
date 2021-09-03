@@ -123,7 +123,7 @@ module QuestModule
 	:Stage3 => "Encontre a menina no Teatro.",
 	:Stage4 => "Enfrente Anna.",
 	:Stage5 => "Enfrente Anna no torneio.",
-	:Stage6 => "Conver com a mãe da Anna.",
+	:Stage6 => "Conte a verdade à mãe da Anna.",
     :Location1 => "Nimbasa",
 	:Location2 => "Norte de Nimbasa",
 	:Location3 => "Teatro Musical",

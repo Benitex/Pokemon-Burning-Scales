@@ -76,10 +76,10 @@ Pokemon = TIRTOUGA,15
 #-------------------------------
 [POKEMONTRAINER_Anna,Anna]
 LoseText = "Vamos ver se vai ser assim daqui a pouco."
-Pokemon = WHIRLIPEDE,22
-Pokemon = PALPITOAD,25
-Pokemon = LARVESTA,21
-Pokemon = ABSOLP,23
+Pokemon = ABSOLP,20
+Pokemon = WHIRLIPEDE,20
+Pokemon = PALPITOAD,20
+Pokemon = LARVESTA,20
 #-------------------------------
 [YOUNGSTER,Garoto do Parque]
 LoseText = "Ótima batalha."
@@ -163,15 +163,15 @@ Pokemon = KROKOROK,25
 [CHAMPION_Anna,Anna]
 Items = SUPERPOTION
 LoseText = "Não acredito nisso!"
+Pokemon = ABSOLP,25
+    Moves = THUNDERFANG,TAUNT,QUICKATTACK,SWORDSDANCE
+    Item = ABSOLITE
 Pokemon = PALPITOAD,25
     Moves = UPROAR,BUBBLEBEAM,MUDSHOT,SUPERSONIC
 Pokemon = LARVESTA,25
     Moves = EMBER,TAKEDOWN,ABSORB,STRINGSHOT
 Pokemon = WHIRLIPEDE,25
     Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
-Pokemon = ABSOLP,25
-    Moves = THUNDERFANG,TAUNT,QUICKATTACK,SWORDSDANCE
-    Item = ABSOLITE
 #-------------------------------
 [BIKER,Motoqueiro 1]
 LoseText = "Não vai ficar assim!"

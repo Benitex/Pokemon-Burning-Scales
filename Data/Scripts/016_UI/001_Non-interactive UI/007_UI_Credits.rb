@@ -191,6 +191,7 @@ Mt. Coronet Remix - VanilluxePavilion
 Team Plasma Remix - GlitchxCity
 Battle vs. Marnie Remix - MarshMix Plaza
 Vs. Guzma Remix - Kamex
+Sandy Plains - Domain of Dust and Desolation - Monster Hunter Rise
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}
 

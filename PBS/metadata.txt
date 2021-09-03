@@ -84,7 +84,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Vast Poni Canyon Remix Pokémon Sun Moon ZAME.mp3
+WildBattleBGM = Sandy Plains - Domain of Dust and Desolation.mp3
 #-------------------------------
 [007]
 # Castelia
