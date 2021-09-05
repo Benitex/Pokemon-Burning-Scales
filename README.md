@@ -15,6 +15,6 @@ Pokemon Burning Scales is a Pokemon fan game where you play as Nathan, a pokemon
 * **Wonder Trade-like system.** Where you spend money to get a random pokemon in its first form.
 * **A Quests System.** That registers your next objectives, locations, and a list with all the quests.
 * **A system that shows available pokemon in the route.** And which were already captured or seen.
-* **Pokémon andando pelas rotas**.
+* **Pokémon on the routes**.
 * **Different pokemon depending on the time of the day.**.
 * **A few pokemon with altered forms.** There aren't many, though.
