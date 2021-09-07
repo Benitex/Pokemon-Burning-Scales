@@ -20,6 +20,9 @@ BattleEnv       = NET
 [019]
 BattleEnv       = STAGE
 #-------------------------------
+[023]
+BattleEnv       = INDOOR
+#-------------------------------
 [025]
 BattleEnv       = MOUNTAIN
 #-------------------------------

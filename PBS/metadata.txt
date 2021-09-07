@@ -199,7 +199,7 @@ MapPosition = 0,14,8
 MapSize = 1,11
 #-------------------------------
 [023]
-# Sala do Dono
+# Sala do Giovanni
 Outdoor = true
 ShowArea = true
 MapPosition = 0,15,8
@@ -371,6 +371,7 @@ MapPosition = 0,17,10
 # Teatro Musical
 HealingSpot = 52,17,14
 MapPosition = 0,17,10
+TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [054]
 # Elevador

@@ -35,7 +35,7 @@
 #==============================================================================
 class Scene_Credits
   # Backgrounds to show in credits. Found in Graphics/Titles/ folder
-  BACKGROUNDS_LIST       = ["credits1", "credits2", "credits3", "credits4", "credits5"]
+  BACKGROUNDS_LIST       = ["credits5","credits4","credits1"]
   BGM                    = "Credits"
   SCROLL_SPEED           = 40   # Pixels per second
   SECONDS_PER_BACKGROUND = 11
@@ -122,7 +122,10 @@ Gen 7 Pokemon Sprites        - All Contributors To Smogon Sun/Moon Sprite Projec
 Gen 8 Pokemon Sprites        - All Contributors To Smogon  Sword/Shield Sprite Project
 
 Overworld Sprites
-Gen 1-5 Pokemon Overworlds   - MissingLukey, help-14, Kymoyonian, cSc-A7X, 2and2makes5, Pokegirl4ever, Fernandojl, Silver-Skies, TyranitarDark, Getsuei-H, Kid1513, Milomilotic11, Kyt666, kdiamo11, Chocosrawlooid, Syledude, Gallanty, Gizamimi-Pichu, 2and2makes5, Zyon17,LarryTurbo, spritesstealer
+Gen 1-5 Pokemon Overworlds:
+MissingLukey, help-14, Kymoyonian, cSc-A7X, 2and2makes5, Pokegirl4ever, 
+Fernandojl, Silver-Skies, TyranitarDark, Getsuei-H, Kid1513, Milomilotic11, Kyt666, kdiamo11, Chocosrawlooid, 
+Syledude, Gallanty, Gizamimi-Pichu, 2and2makes5, Zyon17,LarryTurbo, spritesstealer
 Gen 6 Pokemon Overworlds     - princess-pheonix, LunarDusk, Wolfang62, TintjeMadelintje101, piphybuilder88
 Gen 7 Pokemon Overworlds     - Larry Turbo, princess-pheonix
 Gen 8 Pokemon Overworlds     - SageDeoxys, Wolfang62
