@@ -194,7 +194,28 @@ Mt. Coronet Remix - VanilluxePavilion
 Team Plasma Remix - GlitchxCity
 Battle vs. Marnie Remix - MarshMix Plaza
 Vs. Guzma Remix - Kamex
-Sandy Plains - Domain of Dust and Desolation - Monster Hunter Rise
+Sandy Plains Domain of Dust and Desolation - Monster Hunter Rise
+
+
+Plugins
+
+Elite Battle: DX - Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
+Following Pokemon EX - Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Amrin (Fairies Resource Pack)
+Modular Menu - Luka S.J.
+Modular Title Screen - Luka S.J.
+Modern Quest System + UI - ThatWelshOne_,mej71,derFischae,Marin
+Overworld Shadows EX - Golisopod User, Wolf PP, Marin
+Random Pokemon Selector - ThatWelshOne_
+Encounter List UI (v19) - ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
+B2W2 Bag - Erassus,CharizardThree3/LackDeJurane
+BW Party Screen - DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
+Pokedex BW Style - DeepBlue PacificWaves, NettoHikari, Xtreme1992
+Storage System BW Style - DeepBlue PacificWaves
+BW Summary Screen - DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
+BW Location Signposts - Shashu-Greninja,DeepBlue PacificWaves,Shiney570
+BW Text Entry Scene - Shashu-Greninja,DeepBlue PacificWaves,Erassus
+v19.1 Hotfixes - Maruno
+
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}
 
