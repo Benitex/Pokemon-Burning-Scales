@@ -81,6 +81,7 @@ WesleyFG
 Com complementos de:
 dirtywiggles
 zetavares852
+KingTapir - Sandstream Desert Tileset
 
 Interiores:
 Pokemon Banished Platinum
