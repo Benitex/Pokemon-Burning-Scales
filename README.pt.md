@@ -1,8 +1,8 @@
+*Leia em outra lingua: [English](README.md), [Português](README.pt.md).*
+
 # Pokemon Burning Scales
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
-
-*Leia em outra lingua: [English](README.md), [Português](README.pt.md).*
 
 Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que já viajou pelo mundo. No momento está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, pelo menos até um pokemon misterioso começar a causar caos na parte sul de Unova. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosos.
 
@@ -15,6 +15,9 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 * **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio.
 * **Sistema de Quests** que registra próximos objetivos, localizações e uma lista com quests completas e em progresso.
 * **Sistema que mostra pokemon disponíveis na rota** e quais deles já foram capturados ou vistos.
+* **Sistema de dificuldades.**
+* **Nuzlocke e randomizer**.
+* **Salvamento automático**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
 * **Alguns poucos pokemon com formas alteradas**, não são comuns.
