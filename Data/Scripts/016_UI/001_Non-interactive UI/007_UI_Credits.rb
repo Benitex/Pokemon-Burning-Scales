@@ -160,41 +160,78 @@ Golisopod User
 
 Autores das músicas:
 
-Victory is Right Before Your Eyes! - Kunning Fox
-Route 225 DP – Mewmore
-Nimbasa City Jazz Remix – Kamex
-Pokemon Center Unova – Zame
-Battle! Battle Tower – Vetrom
-Gladion – Mewmore
-Boutique XY – Mewmore
-Professor Sycamore’s Theme – Mewmore
-Route 111 RSE – Seii
-Relic Castle – Vanilluxe Pavilion
-Relic Castle – Mewmore
-Castelia City Nighttime – Zame
-Lookers Theme – Mewmore
-Zinnia Battle – GlitchxCity
-Rival Bede – GlitchxCity
-Battle! Champion Lillie – Raushna
-Battle Gladion – RetroSpecter
-Battle Marnie – Vetrom
-Vast Poni Canyon – Zame
-Vs Lusamine – Karmex
-Glimwood Tangle – GlitchxCity
-Snowbelle City – GlitchxCity
-Marnie’s Theme – Raushna, ebee
-Unwavering Emotions - Mewmore
-Vs champion Diantha - RetroSpecter
-Join avenue “You’re invited” - Snivys
-Ode to Joy (Lofi Hiphop Remix) - Blue Claw Philharmonic
-Team Rocket Battle Remix vII - GlitchxCity
-Po Town - Vanilluxe Pavilion
-Poké Mart Shopping - Pokémon X & Y
-Mt. Coronet Remix - VanilluxePavilion
-Team Plasma Remix - GlitchxCity
-Battle vs. Marnie Remix - MarshMix Plaza
-Vs. Guzma Remix - Kamex
-Sandy Plains Domain of Dust and Desolation - Monster Hunter Rise
+Credits scene:
+Marnie’s Theme - Raushna ft. ebee
+
+Mewmore
+Route 225 DP – Intro theme
+Gladion – Anna's Theme
+Boutique XY – Many Nimbasa buildings
+Professor Sycamore’s Theme – Desert Resort Entrance
+Relic Castle – Relic Castle B2
+Lookers Theme – Search for the girl questline
+Unwavering Emotions - Storyteller theme
+
+GlitchxCity
+Rival Bede – Nimbasa trainers
+Snowbelle City – Volcarona Theme
+Team Rocket Battle Remix vII - Giovanni theme
+Lusamine Battle Remix - Plasma boss battle
+Team Plasma Remix - Plasma intelligence battle
+
+Vanilluxe Pavilion
+Relic Castle – Relic Castle B3
+Po Town - Bikers theme
+Mt. Coronet Remix - Caves
+
+Zame
+Relic castle - Relic castle B1 floor
+Pokemon Center Unova - Pokémon Centers
+Castelia City Nighttime - Castelia City
+Vast Poni Canyon - Route 4 wild battle
+Relic Song - Burning Scales theme
+
+Kamex
+Nimbasa City Jazz Remix - Nimbasa city
+Vs. Guzma Remix - Bikers fake leader theme
+Vs Lusamine - Plasma boss battle
+
+Raushna
+Shopping Mall - Robert Theme
+Battle! Champion Lillie - Tournament oponnents
+Marnie’s Theme ft. ebee – Credits
+
+Vetrom
+Battle Marnie – Bikers and cueballs
+Battle! Battle Tower – Musical Theater during the tournament
+
+RetroSpecter
+Battle Gladion – Anna's battle theme
+Vs champion Diantha
+
+Falkonkke
+Fur Elise - Beethoven battle
+
+Kunning Fox
+Victory is Right Before Your Eyes! - Title Screen
+
+Seii
+Route 111 RSE – Desert Resort theme
+
+Snivys
+Join avenue “You’re invited” - Join Avenue
+
+Blue Claw Philharmonic
+Ode to Joy (Lofi Hiphop Remix) - Beethoven's house
+
+MarshMix Plaza
+Battle vs. Marnie Remix - Bikers leader theme
+
+Pokémon X & Y
+Poké Mart Shopping - Route 4
+
+Monster Hunter Rise
+Sandy Plains Domain of Dust and Desolation - Desert Resort wild battle
 
 
 Plugins
