@@ -239,8 +239,8 @@ Plugins
 
 Elite Battle: DX - Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
 Following Pokemon EX - Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Amrin (Fairies Resource Pack)
-Modular Menu - Luka S.J.
 Modular Title Screen - Luka S.J.
+Voltseon's Pause Menu - Voltseon, Golisopod User, ENLS
 Modern Quest System + UI - ThatWelshOne_,mej71,derFischae,Marin
 Overworld Shadows EX - Golisopod User, Wolf PP, Marin
 Random Pokemon Selector - ThatWelshOne_

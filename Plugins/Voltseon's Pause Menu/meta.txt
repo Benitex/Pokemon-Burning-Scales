@@ -1,0 +1,4 @@
+Name         = Voltseon's Pause Menu
+Version      = 1.7
+Website      = https://reliccastle.com/threads/3930
+Credits      = Voltseon, Golisopod User, ENLS
