@@ -103,6 +103,7 @@ HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
 [010]
+# Teatro
 Outdoor = false
 ShowArea = true
 Bicycle = false
@@ -192,9 +193,10 @@ MapPosition = 0,13,10
 #-------------------------------
 [021]
 # Ginásio de Nimabasa
-Outdoor = true
-ShowArea = true
-Weather = Rain,50
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,14,8
 MapSize = 1,11
 #-------------------------------
