@@ -191,6 +191,7 @@ Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
 Relic Song - Burning Scales theme
+Nimbasa City Gym (Stage) - Nimbasa City Gym pos Elesa
 
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
@@ -227,6 +228,9 @@ Ode to Joy (Lofi Hiphop Remix) - Beethoven's house
 
 MarshMix Plaza
 Battle vs. Marnie Remix - Bikers leader theme
+
+EuroMIX2
+Nimbasa Gym (Give Me What I Need mix) - Nimbasa Gym pre Elesa
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
