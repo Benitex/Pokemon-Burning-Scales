@@ -1,5 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Nimbasa
+#-------------------------------
 [LEADER_Elesa,Elesa]
 LoseText = "Muito bem."
 Pokemon = EMOLGA,9
@@ -24,6 +26,8 @@ Pokemon = WHIRLIPEDE,9
 [LASS,Menina do Panpour]
 LoseText = "Você é bem forte!"
 Pokemon = PANPOUR,10
+#-------------------------------
+#Estádio da Comilaça
 #-------------------------------
 [BUGCATCHER,Ben]
 LoseText = "..."
@@ -65,21 +69,18 @@ Pokemon = ZOROARK,21
 Pokemon = SAMUROTT,20
 Pokemon = COFAGRIGUS,21
 #-------------------------------
+# Faculdade de Nimbasa de Filosofia
+#-------------------------------
 [GENTLEMAN,Diretor da FNF]
 LoseText = "Posso aprender muito com você!"
 Pokemon = UMBREON,20
 Pokemon = ALOMOMOLA,24
 #-------------------------------
+# Parque de Nimbasa
+#-------------------------------
 [AROMALADY,Lucina]
 LoseText = "Emocionante!"
 Pokemon = TIRTOUGA,15
-#-------------------------------
-[POKEMONTRAINER_Anna,Anna]
-LoseText = "Vamos ver se vai ser assim daqui a pouco."
-Pokemon = ABSOLP,20
-Pokemon = WHIRLIPEDE,20
-Pokemon = PALPITOAD,20
-Pokemon = LARVESTA,20
 #-------------------------------
 [YOUNGSTER,Garoto do Parque]
 LoseText = "Ótima batalha."
@@ -100,6 +101,15 @@ Pokemon = AUDINO,15
 LoseText = "Você é bem forte!"
 Pokemon = MAGIKARP,15
 Pokemon = TYMPOLE,15
+#-------------------------------
+# Teatro Musical
+#-------------------------------
+[POKEMONTRAINER_Anna,Anna]
+LoseText = "Vamos ver se vai ser assim daqui a pouco."
+Pokemon = ABSOLP,20
+Pokemon = WHIRLIPEDE,20
+Pokemon = PALPITOAD,20
+Pokemon = LARVESTA,20
 #-------------------------------
 [ASSISTANT,Assistente do Torneio]
 LoseText = "Não posso deixar..."
@@ -173,6 +183,8 @@ Pokemon = LARVESTA,25
 Pokemon = WHIRLIPEDE,25
     Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
 #-------------------------------
+# Cidade dos Motoqueiros
+#-------------------------------
 [BIKER,Motoqueiro 1]
 LoseText = "Não vai ficar assim!"
 Pokemon = GRIMER,12
@@ -204,6 +216,8 @@ Pokemon = CHATOT,15
 Pokemon = CHINGLING,15
 Pokemon = LOUDRED,15
 Pokemon = KRICKETUNE,15
+#-------------------------------
+# Rota 4
 #-------------------------------
 [SCIENTIST,Pesquisador de fósseis]
 LoseText = "Tudo bem, você venceu."
@@ -246,6 +260,8 @@ Pokemon = ONIX,15
 LoseText = "Um treinador digno."
 Pokemon = WAILORD,15
 	Shiny = yes
+#-------------------------------
+# Entrada do Desert Resort
 #-------------------------------
 [CUEBALL,Guarda do Resort]
 LoseText = "Droga!"
