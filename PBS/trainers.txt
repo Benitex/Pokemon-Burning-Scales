@@ -27,6 +27,32 @@ Pokemon = WHIRLIPEDE,9
 LoseText = "Você é bem forte!"
 Pokemon = PANPOUR,10
 #-------------------------------
+# Parque de Nimbasa
+#-------------------------------
+[AROMALADY,Lucina]
+LoseText = "Emocionante!"
+Pokemon = TIRTOUGA,15
+#-------------------------------
+[YOUNGSTER,Garoto do Parque]
+LoseText = "Ótima batalha."
+Pokemon = DITTO,10
+Pokemon = SMEARGLE,10
+Pokemon = CASTFORM,10
+#-------------------------------
+[BLACKBELT,Desconhecido arrogante]
+LoseText = "Ferrou"
+Pokemon = TIMBURR,10
+Pokemon = MIENFOO,10
+#-------------------------------
+[AROMALADY,Observadora do mar]
+LoseText = "Tão forte quanto as ondas do mar..."
+Pokemon = AUDINO,15
+#-------------------------------
+[FISHERMAN,Pescador do parque]
+LoseText = "Você é bem forte!"
+Pokemon = MAGIKARP,15
+Pokemon = TYMPOLE,15
+#-------------------------------
 #Estádio da Comilaça
 #-------------------------------
 [BUGCATCHER,Ben]
@@ -76,31 +102,20 @@ LoseText = "Posso aprender muito com você!"
 Pokemon = UMBREON,20
 Pokemon = ALOMOMOLA,24
 #-------------------------------
-# Parque de Nimbasa
+# Ginásio de Nimbasa
 #-------------------------------
-[AROMALADY,Lucina]
-LoseText = "Emocionante!"
-Pokemon = TIRTOUGA,15
+[BEAUTY,Nicole]
+LoseText = "Ah, minha beleza é exterior mesmo!"
+Pokemon = ELEKID,10
 #-------------------------------
-[YOUNGSTER,Garoto do Parque]
-LoseText = "Ótima batalha."
-Pokemon = DITTO,10
-Pokemon = SMEARGLE,10
-Pokemon = CASTFORM,10
+[BEAUTY,Molly]
+LoseText = "Hora da dancinha!"
+Pokemon = BLITZLE,11
 #-------------------------------
-[BLACKBELT,Desconhecido arrogante]
-LoseText = "Ferrou"
-Pokemon = TIMBURR,10
-Pokemon = MIENFOO,10
-#-------------------------------
-[AROMALADY,Observadora do mar]
-LoseText = "Tão forte quanto as ondas do mar..."
-Pokemon = AUDINO,15
-#-------------------------------
-[FISHERMAN,Pescador do parque]
-LoseText = "Você é bem forte!"
-Pokemon = MAGIKARP,15
-Pokemon = TYMPOLE,15
+[BEAUTY,Selly]
+LoseText = "Padrão de beleza é uma coisa, tudo igual já é demais!"
+Pokemon = BLITZLE,11
+Pokemon = EMOLGA,11
 #-------------------------------
 # Teatro Musical
 #-------------------------------
@@ -183,40 +198,6 @@ Pokemon = LARVESTA,25
 Pokemon = WHIRLIPEDE,25
     Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
 #-------------------------------
-# Cidade dos Motoqueiros
-#-------------------------------
-[BIKER,Motoqueiro 1]
-LoseText = "Não vai ficar assim!"
-Pokemon = GRIMER,12
-Pokemon = ZUBAT,12
-#-------------------------------
-[BIKER,Motoqueiro 2]
-LoseText = "Fala sério!"
-Pokemon = TRUBBISH,12
-Pokemon = SKORUPI,12
-#-------------------------------
-[CUEBALL,Motoqueiro guarda]
-LoseText = "Até que é forte."
-Pokemon = GRIMER,14
-Pokemon = KOFFING,14
-#-------------------------------
-[BIKER,Motoqueiro antipacifista]
-LoseText = "Ferrou."
-Pokemon = PAWNIARD,14
-Pokemon = RUFFLET,14
-#-------------------------------
-[BIKER,Motoqueiro sacana]
-LoseText = "Vai tomar suco de cajú!"
-Pokemon = VULLABY,14
-Pokemon = SANDILE,14
-#-------------------------------
-[POKEMONTRAINER_Beethoven,Beethoven]
-LoseText = "O pandemônio..."
-Pokemon = CHATOT,15
-Pokemon = CHINGLING,15
-Pokemon = LOUDRED,15
-Pokemon = KRICKETUNE,15
-#-------------------------------
 # Rota 4
 #-------------------------------
 [SCIENTIST,Pesquisador de fósseis]
@@ -260,6 +241,40 @@ Pokemon = ONIX,15
 LoseText = "Um treinador digno."
 Pokemon = WAILORD,15
 	Shiny = yes
+#-------------------------------
+# Cidade dos Motoqueiros
+#-------------------------------
+[BIKER,Motoqueiro 1]
+LoseText = "Não vai ficar assim!"
+Pokemon = GRIMER,12
+Pokemon = ZUBAT,12
+#-------------------------------
+[BIKER,Motoqueiro 2]
+LoseText = "Fala sério!"
+Pokemon = TRUBBISH,12
+Pokemon = SKORUPI,12
+#-------------------------------
+[CUEBALL,Motoqueiro guarda]
+LoseText = "Até que é forte."
+Pokemon = GRIMER,14
+Pokemon = KOFFING,14
+#-------------------------------
+[BIKER,Motoqueiro antipacifista]
+LoseText = "Ferrou."
+Pokemon = PAWNIARD,14
+Pokemon = RUFFLET,14
+#-------------------------------
+[BIKER,Motoqueiro sacana]
+LoseText = "Vai tomar suco de cajú!"
+Pokemon = VULLABY,14
+Pokemon = SANDILE,14
+#-------------------------------
+[POKEMONTRAINER_Beethoven,Beethoven]
+LoseText = "O pandemônio..."
+Pokemon = CHATOT,15
+Pokemon = CHINGLING,15
+Pokemon = LOUDRED,15
+Pokemon = KRICKETUNE,15
 #-------------------------------
 # Entrada do Desert Resort
 #-------------------------------

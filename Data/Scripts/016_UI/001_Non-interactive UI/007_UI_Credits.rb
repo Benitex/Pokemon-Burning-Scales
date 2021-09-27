@@ -209,13 +209,14 @@ Battle! Battle Tower – Musical Theater during the tournament
 
 RetroSpecter
 Battle Gladion – Anna's battle theme
-Vs champion Diantha
+Vs champion Diantha - Route 4 trainer battle
 
 Falkonkke
 Fur Elise - Beethoven battle
 
 Kunning Fox
 Victory is Right Before Your Eyes! - Title Screen
+Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
 
 Seii
 Route 111 RSE – Desert Resort theme
@@ -231,6 +232,9 @@ Battle vs. Marnie Remix - Bikers leader theme
 
 EuroMIX2
 Nimbasa Gym (Give Me What I Need mix) - Nimbasa Gym pre Elesa
+
+John Ferrie Music
+Professor Oaks Lab Theme - Oak's Lab first time
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
