@@ -189,7 +189,16 @@ BattleBack = Champion
 TrainerBattleBGM = Gladion Battle.mp3
 #-------------------------------
 [020]
+# Entrada
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,13,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [021]
 # Ginásio de Nimabasa
@@ -220,7 +229,7 @@ SnapEdges = false
 Dungeon = false
 #-------------------------------
 [025]
-# Entrada Desert Resort
+# Entrada do Desert Resort
 Outdoor = true
 ShowArea = false
 Bicycle = false
@@ -287,7 +296,7 @@ HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------
 [037]
-# Laboratório
+# Laboratórios
 MapPosition = 0,13,6
 BattleBack = EliteA
 #-------------------------------
@@ -380,6 +389,7 @@ TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 MapPosition = 0,17,10
 #-------------------------------
 [055]
+# Laboratório da Juniper
 HealingSpot = 52,30,10
 MapPosition = 0,17,10
 #-------------------------------
