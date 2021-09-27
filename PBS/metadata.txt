@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-Home = 3,9,6,8
+Home = 3,9,7,8
 WildBattleBGM = Battle wild.mid
 TrainerBattleBGM = Battle trainer.mid
 WildVictoryME = Battle victory wild.ogg
@@ -207,7 +207,21 @@ ShowArea = false
 Bicycle = false
 BicycleAlways = false
 MapPosition = 0,14,8
+TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 MapSize = 1,11
+#-------------------------------
+[022]
+# Antigo Ginásio de Nimbasa
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+BattleBack = 
+TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 #-------------------------------
 [023]
 # Sala do Giovanni
@@ -399,6 +413,7 @@ MapPosition = 0,17,10
 BattleBack = EliteA
 #-------------------------------
 [057]
+# Passagem
 MapPosition = 0,17,10
 #-------------------------------
 [058]

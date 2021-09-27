@@ -206,6 +206,7 @@ Marnie’s Theme ft. ebee – Credits
 Vetrom
 Battle Marnie – Bikers and cueballs
 Battle! Battle Tower – Musical Theater during the tournament
+Battle! Gym Leader Black and White - Gym battles
 
 RetroSpecter
 Battle Gladion – Anna's battle theme
