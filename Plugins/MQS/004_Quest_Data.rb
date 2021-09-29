@@ -99,8 +99,12 @@ module QuestModule
     :Name => "Um ginásio eletrizante",
     :QuestGiver => "Elesa",
     :Stage1 => "Encontre Elesa em seu ginásio.",
+    :Stage2 => "Enfrente os treinadores.",
+    :Stage3 => "Converse/enfrente Elesa.",
     :Location1 => "Parque de Nimbasa",
-    :QuestDescription => "Elesa pediu que passasse um pouco de tempo no ginásio. Apenas depois dos compromissos, é claro.",
+	:Location2 => "Ginásio de Nimbasa",
+	:Location3 => "Ginásio de Nimbasa",
+    :QuestDescription => "Elesa pediu que passasse um tempo no ginásio para me atualizar e conversar um pouco com ela.",
     :RewardString => "nil"
   }
   
@@ -108,8 +112,16 @@ module QuestModule
     :ID => "9",
     :Name => "Escamas Ardentes",
     :QuestGiver => "Carvalho",
-    :Stage1 => "Converse com o professor.",
+    :Stage1 => "Encontre o professor.",
+	:Stage2 => "Enfrente os motoqueiros.",
+	:Stage3 => "Explore os esgotos.",
+	:Stage4 => "Enfrente o Team Plamsa.",
+	:Stage5 => "Enfrete Volcarona.",
     :Location1 => "Castelia",
+	:Location2 => "Rota 4",
+	:Location3 => "Esgotos de Castelia",
+	:Location4 => "Relic Castle",
+	:Location5 => "Relic Castle",
     :QuestDescription => "O professor Carvalho precisa de ajuda para cuidar de um pokémon com grande potencial destrutivo.",
     :RewardString => "nil"
   }
@@ -192,7 +204,7 @@ module QuestModule
   
   Quest15 = {
     :ID => "15",
-    :Name => "Procurando um Onix no meio das pedras",
+    :Name => "Procurando um onix no meio das pedras",
     :QuestGiver => "Pai lutador",
     :Stage1 => "Encontre o brinquedo.",
 	:Stage2 => "Devolva para o pai.",
