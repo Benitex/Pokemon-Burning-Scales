@@ -119,3 +119,11 @@ LandNight,21
     10,MARACTUS,10
     10,SANDSHREW,10
     5,LARVITAR,4
+#-------------------------------
+[] # Esgotos de Castelia
+Cave,5
+    30,GRIMER,20
+    30,TRUBBISH,20
+    20,KOFFING,10
+    10,GULPIN,5
+    10,CROAGUNK,4
