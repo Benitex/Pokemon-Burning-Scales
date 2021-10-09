@@ -75,17 +75,19 @@ Autores de gráficos:
 
 Tilesets:
 
+Interiores:
+4th gen Indoor Tileset - Akizakura16
+
 Exteriores:
-WesleyFG
+WesleyFG:
+BW BUILDINGS TILESET
+BW NATURE TILESET
+HGSS TILISET MY WORK COMPLETE
 
 Com complementos de:
-dirtywiggles
-zetavares852
+dirtywiggles - Interior tileset Primal
+zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 KingTapir - Sandstream Desert Tileset
-
-Interiores:
-Pokemon Banished Platinum
-
 
 Character Customization Resources
 Poltergeist

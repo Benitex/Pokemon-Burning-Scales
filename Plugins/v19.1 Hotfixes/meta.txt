@@ -1,5 +1,5 @@
 ﻿Name      = v19.1 Hotfixes
-Version   = 1.0.2
+Version   = 1.0.7
 Conflicts = v19 Updates
 Conflicts = v19 Hotfixes
 Website   = https://github.com/Maruno17/pokemon-essentials
@@ -41,5 +41,56 @@ Credits   = Maruno
 # - Fixed error when trying to return an unused item to the Bag in
 #   battle.
 # - Fixed typo in Relic Song's code that changes Meloetta's form.
+#
+# 1.0.3:
+# - Fixed error when trying to make a roaming Pokémon roam.
+# - Fixed Poké Radar rustling grass not always causing a wild
+#   encounter when stepping in it.
+# - Fixed typo in Conversion's code that treated a type as an item.
+#
+# 1.0.4:
+# - Fix for Pokémon editor deleting a moveset move when "changing"
+#   which move it is to the same move.
+# - Fixed typo in def addBackgroundOrColoredPlane.
+# - Fixed code relating to items initially held by Pokémon in battle.
+#
+# 1.0.5:
+# - Fixed Symbiosis not working.
+# - Fixed Roost not removing the Flying type.
+# - Fixed Normalize not boosting damage in Gen 7+.
+# - Fixed crash when choosing Pokémon for NPC Bug Catching Contest
+#   participants.
+# - Fixed crash when compiling a moves.txt that uses the old format.
+# - Fixed the event command "Return to Title Screen"/resting in a
+#   Battle Facility run causing issues when trying to continue the
+#   game again immediately.
+#
+# 1.0.6:
+# - Fixed Pokédex search not considering the properties of alternate
+#   forms of species if they were the ones last looked at.
+# - Fixed bad code in evolution method HappinessMoveType.
+# - Fixed particle effects on events not working.
+#
+# 1.0.7:
+# - Fixed Sweet Scent not working.
+# - Fixed overworld weather moving relative to the screen rather than
+#   the map.
+#
+#=====================================================================
+#
+# Some graphics cards have trouble with drawing all the images they
+# should, usually via blt (e.g. type icons in the summary screen,
+# badges in the Trainer Card). The mkxp.json file included in this
+# plugin will most likely fix this. It should be put in the project's
+# main folder (replacing the one already in there).
+#
+# If you don't want to just replace the whole file, the changes are
+# that it sets the following options (so make the same changes
+# yourself):
+#
+#     "subImageFix": true
+#     "enableBlitting": false
+#
+# This is NOT a fix for the "green lines all over the screen" issue.
 #
 #=====================================================================

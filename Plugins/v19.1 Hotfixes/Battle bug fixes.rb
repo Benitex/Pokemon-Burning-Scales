@@ -128,3 +128,234 @@ class PokeBattle_Move_003 < PokeBattle_SleepMove
     user.pbChangeForm(newForm,_INTL("{1} transformed!",user.pbThis))
   end
 end
+
+#==============================================================================
+# Fixed typo in Conversion's code that treated a type as an item.
+#==============================================================================
+class PokeBattle_Move_05E < PokeBattle_Move
+  def pbEffectGeneral(user)
+    newType = @newTypes[@battle.pbRandom(@newTypes.length)]
+    user.pbChangeTypes(newType)
+    typeName = GameData::Type.get(newType).name
+    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",user.pbThis,typeName))
+  end
+end
+
+#==============================================================================
+# Fixed code relating to items initially held by Pokémon in battle.
+#==============================================================================
+class PokeBattle_Battler
+  def setInitialItem(value)
+    item_data = GameData::Item.try_get(value)
+    new_item = (item_data) ? item_data.id : nil
+    @battle.initialItems[@index&1][@pokemonIndex] = new_item
+  end
+
+  def setRecycleItem(value)
+    item_data = GameData::Item.try_get(value)
+    new_item = (item_data) ? item_data.id : nil
+    @battle.recycleItems[@index&1][@pokemonIndex] = new_item
+  end
+end
+
+class PokeBattle_Move_0F1 < PokeBattle_Move
+  def pbEffectAfterAllHits(user,target)
+    return if @battle.wildBattle? && user.opposes?   # Wild Pokémon can't thieve
+    return if user.fainted?
+    return if target.damageState.unaffected || target.damageState.substitute
+    return if !target.item || user.item
+    return if target.unlosableItem?(target.item)
+    return if user.unlosableItem?(target.item)
+    return if target.hasActiveAbility?(:STICKYHOLD) && !@battle.moldBreaker
+    itemName = target.itemName
+    user.item = target.item
+    # Permanently steal the item from wild Pokémon
+    if @battle.wildBattle? && target.opposes? && !user.initialItem &&
+       target.item == target.initialItem
+      user.setInitialItem(target.item)
+      target.pbRemoveItem
+    else
+      target.pbRemoveItem(false)
+    end
+    @battle.pbDisplay(_INTL("{1} stole {2}'s {3}!",user.pbThis,target.pbThis(true),itemName))
+    user.pbHeldItemTriggerCheck
+  end
+end
+
+class PokeBattle_Move_0F2 < PokeBattle_Move
+  def pbEffectAgainstTarget(user,target)
+    oldUserItem = user.item;     oldUserItemName = user.itemName
+    oldTargetItem = target.item; oldTargetItemName = target.itemName
+    user.item                             = oldTargetItem
+    user.effects[PBEffects::ChoiceBand]   = nil
+    user.effects[PBEffects::Unburden]     = (!user.item && oldUserItem)
+    target.item                           = oldUserItem
+    target.effects[PBEffects::ChoiceBand] = nil
+    target.effects[PBEffects::Unburden]   = (!target.item && oldTargetItem)
+    # Permanently steal the item from wild Pokémon
+    if @battle.wildBattle? && target.opposes? && !user.initialItem &&
+       oldTargetItem == target.initialItem
+      user.setInitialItem(oldTargetItem)
+    end
+    @battle.pbDisplay(_INTL("{1} switched items with its opponent!",user.pbThis))
+    @battle.pbDisplay(_INTL("{1} obtained {2}.",user.pbThis,oldTargetItemName)) if oldTargetItem
+    @battle.pbDisplay(_INTL("{1} obtained {2}.",target.pbThis,oldUserItemName)) if oldUserItem
+    user.pbHeldItemTriggerCheck
+    target.pbHeldItemTriggerCheck
+  end
+end
+
+class PokeBattle_Move_0F3 < PokeBattle_Move
+  def pbEffectAgainstTarget(user,target)
+    itemName = user.itemName
+    target.item = user.item
+    # Permanently steal the item from wild Pokémon
+    if @battle.wildBattle? && user.opposes? && !target.initialItem &&
+       user.item == user.initialItem
+      target.setInitialItem(user.item)
+      user.pbRemoveItem
+    else
+      user.pbRemoveItem(false)
+    end
+    @battle.pbDisplay(_INTL("{1} received {2} from {3}!",target.pbThis,itemName,user.pbThis(true)))
+    target.pbHeldItemTriggerCheck
+  end
+end
+
+BattleHandlers::UserAbilityEndOfMove.add(:MAGICIAN,
+  proc { |ability,user,targets,move,battle|
+    next if battle.futureSight
+    next if !move.pbDamagingMove?
+    next if user.item
+    next if battle.wildBattle? && user.opposes?
+    targets.each do |b|
+      next if b.damageState.unaffected || b.damageState.substitute
+      next if !b.item
+      next if b.unlosableItem?(b.item) || user.unlosableItem?(b.item)
+      battle.pbShowAbilitySplash(user)
+      if b.hasActiveAbility?(:STICKYHOLD)
+        battle.pbShowAbilitySplash(b) if user.opposes?(b)
+        if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
+          battle.pbDisplay(_INTL("{1}'s item cannot be stolen!",b.pbThis))
+        end
+        battle.pbHideAbilitySplash(b) if user.opposes?(b)
+        next
+      end
+      user.item = b.item
+      b.item = nil
+      b.effects[PBEffects::Unburden] = true
+      if battle.wildBattle? && !user.initialItem && user.item == b.initialItem
+        user.setInitialItem(user.item)
+        b.setInitialItem(nil)
+      end
+      if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
+        battle.pbDisplay(_INTL("{1} stole {2}'s {3}!",user.pbThis,
+           b.pbThis(true),user.itemName))
+      else
+        battle.pbDisplay(_INTL("{1} stole {2}'s {3} with {4}!",user.pbThis,
+           b.pbThis(true),user.itemName,user.abilityName))
+      end
+      battle.pbHideAbilitySplash(user)
+      user.pbHeldItemTriggerCheck
+      break
+    end
+  }
+)
+
+BattleHandlers::TargetAbilityAfterMoveUse.add(:PICKPOCKET,
+  proc { |ability,target,user,move,switched,battle|
+    # NOTE: According to Bulbapedia, this can still trigger to steal the user's
+    #       item even if it was switched out by a Red Card. This doesn't make
+    #       sense, so this code doesn't do it.
+    next if battle.wildBattle? && target.opposes?
+    next if !move.contactMove?
+    next if switched.include?(user.index)
+    next if user.effects[PBEffects::Substitute]>0 || target.damageState.substitute
+    next if target.item || !user.item
+    next if user.unlosableItem?(user.item) || target.unlosableItem?(user.item)
+    battle.pbShowAbilitySplash(target)
+    if user.hasActiveAbility?(:STICKYHOLD)
+      battle.pbShowAbilitySplash(user) if target.opposes?(user)
+      if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
+        battle.pbDisplay(_INTL("{1}'s item cannot be stolen!",user.pbThis))
+      end
+      battle.pbHideAbilitySplash(user) if target.opposes?(user)
+      battle.pbHideAbilitySplash(target)
+      next
+    end
+    target.item = user.item
+    user.item = nil
+    user.effects[PBEffects::Unburden] = true
+    if battle.wildBattle? && !target.initialItem && target.item == user.initialItem
+      target.setInitialItem(target.item)
+      user.setInitialItem(nil)
+    end
+    battle.pbDisplay(_INTL("{1} pickpocketed {2}'s {3}!",target.pbThis,
+       user.pbThis(true),target.itemName))
+    battle.pbHideAbilitySplash(target)
+    target.pbHeldItemTriggerCheck
+  }
+)
+
+BattleHandlers::TargetItemOnHit.add(:STICKYBARB,
+  proc { |item,user,target,move,battle|
+    next if !move.pbContactMove?(user) || !user.affectedByContactEffect?
+    next if user.fainted? || user.item
+    user.item = target.item
+    target.item = nil
+    target.effects[PBEffects::Unburden] = true
+    if battle.wildBattle? && !user.opposes?
+      if !user.initialItem && user.item == target.initialItem
+        user.setInitialItem(user.item)
+        target.setInitialItem(nil)
+      end
+    end
+    battle.pbDisplay(_INTL("{1}'s {2} was transferred to {3}!",
+       target.pbThis,user.itemName,user.pbThis(true)))
+  }
+)
+
+#==============================================================================
+# Fixed Symbiosis not working.
+#==============================================================================
+class PokeBattle_Battler
+  def pbSymbiosis
+    return if fainted?
+    return if self.item
+    @battle.pbPriority(true).each do |b|
+      next if b.opposes?
+      next if !b.hasActiveAbility?(:SYMBIOSIS)
+      next if !b.item || b.unlosableItem?(b.item)
+      next if unlosableItem?(b.item)
+      @battle.pbShowAbilitySplash(b)
+      if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
+        @battle.pbDisplay(_INTL("{1} shared its {2} with {3}!",
+           b.pbThis,b.itemName,pbThis(true)))
+      else
+        @battle.pbDisplay(_INTL("{1}'s {2} let it share its {3} with {4}!",
+           b.pbThis,b.abilityName,b.itemName,pbThis(true)))
+      end
+      self.item = b.item
+      b.item = nil
+      b.effects[PBEffects::Unburden] = true
+      @battle.pbHideAbilitySplash(b)
+      pbHeldItemTriggerCheck
+      break
+    end
+  end
+end
+
+#===============================================================================
+# Fixed Roost not removing the Flying type.
+#===============================================================================
+class PokeBattle_Move_0D6 < PokeBattle_HealingMove
+  def pbEffectGeneral(user)
+    super
+    user.effects[PBEffects::Roost] = true
+  end
+end
+
+#===============================================================================
+# Fixed Normalize not boosting damage in Gen 7+.
+#===============================================================================
+BattleHandlers::DamageCalcUserAbility.copy(:AERILATE, :NORMALIZE)
