@@ -89,8 +89,12 @@ dirtywiggles - Interior tileset Primal
 zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 KingTapir - Sandstream Desert Tileset
 
+
 Character Customization Resources
 Poltergeist
+
+Custom-made Official Gen 4 Day & Night Tones 
+VanillaSunshine
 
 Gen 4 OW Sprites by:
 Neo-Spriteman
