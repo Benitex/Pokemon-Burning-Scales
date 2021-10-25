@@ -51,7 +51,7 @@ class MenuEntryPokedex < MenuEntry
   end
 
   def selectable?
-    return ($Trainer.has_pokedex && $Trainer.pokedex.accessible_dexes.length > 0)
+    return ($Trainer.has_pokedex)
   end
 end
 #-------------------------------------------------------------------------------

@@ -29,21 +29,21 @@ class PokeBattle_AI
     pkmn = battler.pokemon
     # Item categories
     hpItems = {
-       :POTION       => 20,
-       :SUPERPOTION  => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 60 : 50,
-       :HYPERPOTION  => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 120 : 200,
-       :MAXPOTION    => 999,
-       :BERRYJUICE   => 20,
-       :SWEETHEART   => 20,
-       :FRESHWATER   => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 30 : 50,
-       :SODAPOP      => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 50 : 60,
-       :LEMONADE     => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 70 : 80,
-       :MOOMOOMILK   => 100,
-       :ORANBERRY    => 10,
-       :SITRUSBERRY  => battler.totalhp/4,
-       :ENERGYPOWDER => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 60 : 50,
-       :ENERGYROOT   => (Settings::REBALANCED_HEALING_ITEM_AMOUNTS) ? 120 : 200
-    }
+      :POTION       => 20,
+      :SUPERPOTION  => 50,
+      :HYPERPOTION  => 200,
+      :MAXPOTION    => 999,
+      :BERRYJUICE   => 20,
+      :SWEETHEART   => 20,
+      :FRESHWATER   => 50,
+      :SODAPOP      => 60,
+      :LEMONADE     => 80,
+      :MOOMOOMILK   => 100,
+      :ORANBERRY    => 10,
+      :SITRUSBERRY  => battler.totalhp/4,
+      :ENERGYPOWDER => 50,
+      :ENERGYROOT   => 200
+   }
     hpItems[:RAGECANDYBAR] = 20 if !Settings::RAGE_CANDY_BAR_CURES_STATUS_PROBLEMS
     fullRestoreItems = [
        :FULLRESTORE
