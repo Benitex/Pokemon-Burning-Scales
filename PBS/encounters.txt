@@ -120,7 +120,7 @@ LandNight,21
     10,SANDSHREW,10
     5,LARVITAR,4
 #-------------------------------
-[] # Esgotos de Castelia
+[058] # Esgotos de Castelia
 Cave,5
     30,GRIMER,20
     30,TRUBBISH,20

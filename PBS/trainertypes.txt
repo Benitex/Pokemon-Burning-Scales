@@ -63,7 +63,7 @@
 60,PLASMAINTELLIGENCE,Plasma Intelligence,100,Team Plasma Remix,,,Female,,
 61,BIKERLEADER,Biker Leader,100,,,,Male,,
 62,BIKERBOSS,Biker Boss,100,Vs. Guzma Kamex remix,,,Male,,
-63,LEADER_Koga,Gym Leader,100,Battle Gym Leader,,,Male,,
+63,MODEL,Model,56,,,,Female,,
 64,LEADER_Sabrina,Gym Leader,100,Battle Gym Leader,,,Female,,
 65,LEADER_Blaine,Gym Leader,100,Battle Gym Leader,,,Male,,
 66,LEADER_Giovanni,Gym Leader,100,Team Rocket Battle Remix vII,,,Male,,

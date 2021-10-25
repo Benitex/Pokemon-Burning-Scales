@@ -104,15 +104,15 @@ Pokemon = ALOMOMOLA,24
 #-------------------------------
 # Ginásio de Nimbasa
 #-------------------------------
-[BEAUTY,Nicole]
+[MODEL,Nicole]
 LoseText = "Ah, minha beleza é exterior mesmo!"
 Pokemon = ELEKID,10
 #-------------------------------
-[BEAUTY,Molly]
+[MODEL,Molly]
 LoseText = "Hora da dancinha!"
 Pokemon = BLITZLE,11
 #-------------------------------
-[BEAUTY,Selly]
+[MODEL,Selly]
 LoseText = "Padrão de beleza é uma coisa, tudo igual já é demais!"
 Pokemon = BLITZLE,11
 Pokemon = EMOLGA,11
