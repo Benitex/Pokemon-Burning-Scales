@@ -239,6 +239,12 @@ Nimbasa Gym (Give Me What I Need mix) - Nimbasa Gym pre Elesa
 John Ferrie Music
 Professor Oaks Lab Theme - Oak's Lab first time
 
+Sheddy
+Meloetta battle theme - Forbidden Melody (Relic Song Remix by sheddy)
+
+Deplode
+Meloetta encounter - Pokemon Relic Song with violins
+
 Pokémon X & Y
 Poké Mart Shopping - Route 4
 
