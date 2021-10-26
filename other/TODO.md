@@ -1,10 +1,11 @@
 # Lista de tarefas
 
-## Main Quest
+## Main Quest e outros
 
-Quest dos motoqueiros.
 Criar o mapa dos Esgotos de Castelia.
-Criar os a Relic Passage.
+Criar os mapas da Relic Passage.
+Criar nova forma para o oshawott do pandemônio.
+Autotiles da praia e mar.
 
 ## Nimbasa
 
@@ -13,6 +14,10 @@ Criar o ginásio antigo de Nimbasa.
 Criar a parte de competição dos estádios em Nimbasa.
 Colocar Pokémon de nível baixo no torneio.
 Colocar NPC battles no torneio.
+
+## Rota 4
+
+Quest dos motoqueiros.
 
 ## Castelia
 
