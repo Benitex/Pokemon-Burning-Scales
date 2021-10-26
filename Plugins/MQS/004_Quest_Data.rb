@@ -3,7 +3,6 @@ module QuestModule
   # You don't actually need to add any information, but the respective fields in the UI will be blank or "???"
   # I included this here mostly as an example of what not to do, but also to show it's a thing that exists
   Quest0 = {
-  
   }
   
   Quest1 = {
@@ -11,11 +10,11 @@ module QuestModule
     :Name => "O vendedor de produtos",
     :QuestGiver => "nil",
     :Stage1 => "Encontre o vendedor de produtos.",
-	:Stage2 => "Se torne um cliente fiel.",
-	:Stage3 => "Compre o pokémon especial.",
+    :Stage2 => "Se torne um cliente fiel.",
+    :Stage3 => "Compre o pokémon especial.",
     :Location1 => "Parque de Nimbasa",
-	:Location2 => "Parque de Nimbasa",
-	:Location3 => "Parque de Nimbasa",
+    :Location2 => "Parque de Nimbasa",
+    :Location3 => "Parque de Nimbasa",
     :QuestDescription => "Dizem que um rapaz está vendendo produtos interessantes no parque de Nimbasa, pode valer a pena conferir.",
     :RewardString => "Produto especial"
   }
@@ -59,13 +58,13 @@ module QuestModule
     :Name => "Conversa com o diretor da FNF",
     :QuestGiver => "Velhinho",
     :Stage1 => "Converse com o filho do velhinho.",
-	:Stage2 => "Encontre um revitalizador.",
-	:Stage3 => "Converse com o revitalizador.",
-	:Stage4 => "Espere o fóssil ficar pronto.",
+    :Stage2 => "Encontre um revitalizador.",
+    :Stage3 => "Converse com o revitalizador.",
+    :Stage4 => "Espere o fóssil ficar pronto.",
     :Location1 => "Nimbasa",
-	:Location2 => "???",
-	:Location3 => "Rota 4",
-	:Location4 => "Rota 4",
+    :Location2 => "???",
+    :Location3 => "Rota 4",
+    :Location4 => "Rota 4",
     :QuestDescription => "Um velhinho no Centro Pokémon de Nimbasa pediu que visitasse seu filho na faculdade dele, a Faculdade de Nimbasa de Filosofia.",
     :RewardString => "nil"
   }
@@ -85,11 +84,11 @@ module QuestModule
     :Name => "O Grande Torneio de Nimbasa",
     :QuestGiver => "nil",
     :Stage1 => "Vá ao Teatro Musical.",
-	:Stage2 => "Descubra mais sobre o torneio.",
-	:Stage3 => "Derrote todos no torneio!",
+    :Stage2 => "Descubra mais sobre o torneio.",
+    :Stage3 => "Derrote todos no torneio!",
     :Location1 => "Teatro Musical",
-	:Location2 => "Teatro Musical",
-	:Location3 => "Teatro Musical",
+    :Location2 => "Teatro Musical",
+    :Location3 => "Teatro Musical",
     :QuestDescription => "Nimbasa está em período de festa graças ao torneio anual, muitas pessoas se reunem por no Teatro Musical e acontecem várias batalhas. Participar das batalhas pode ser interessante.",
     :RewardString => "nil"
   }
@@ -102,8 +101,8 @@ module QuestModule
     :Stage2 => "Enfrente os treinadores.",
     :Stage3 => "Converse/enfrente Elesa.",
     :Location1 => "Parque de Nimbasa",
-	:Location2 => "Ginásio de Nimbasa",
-	:Location3 => "Ginásio de Nimbasa",
+    :Location2 => "Ginásio de Nimbasa",
+    :Location3 => "Ginásio de Nimbasa",
     :QuestDescription => "Elesa pediu que passasse um tempo no ginásio para me atualizar e conversar um pouco com ela.",
     :RewardString => "nil"
   }
@@ -113,15 +112,21 @@ module QuestModule
     :Name => "Escamas Ardentes",
     :QuestGiver => "Carvalho",
     :Stage1 => "Encontre o professor.",
-	:Stage2 => "Enfrente os motoqueiros.",
-	:Stage3 => "Explore os esgotos.",
-	:Stage4 => "Enfrente o Team Plamsa.",
-	:Stage5 => "Enfrete Volcarona.",
+    :Stage2 => "Enfrente os motoqueiros.",
+    :Stage3 => "Encontre o professor.",
+    :Stage4 => "Procure o Relic Castle.",
+    :Stage5 => "Encontre o professor.",
+    :Stage6 => "Explore os esgotos.",
+    :Stage7 => "Enfrente o Team Plamsa.",
+    :Stage8 => "Enfrete Volcarona.",
     :Location1 => "Castelia",
-	:Location2 => "Rota 4",
-	:Location3 => "Esgotos de Castelia",
-	:Location4 => "Relic Castle",
-	:Location5 => "Relic Castle",
+    :Location2 => "Rota 4",
+    :Location3 => "Castelia Street",
+    :Location4 => "Desert Resort",
+    :Location5 => "Castelia Street",
+    :Location6 => "Esgotos de Castelia",
+    :Location7 => "Relic Castle",
+    :Location8 => "Relic Castle",
     :QuestDescription => "O professor Carvalho precisa de ajuda para cuidar de um pokémon com grande potencial destrutivo.",
     :RewardString => "nil"
   }
@@ -131,17 +136,17 @@ module QuestModule
     :Name => "A menina desaparecida",
     :QuestGiver => "Mãe da menina",
     :Stage1 => "Procure pistas pela cidade.",
-	:Stage2 => "Procure a menina no norte.",
-	:Stage3 => "Encontre a menina no Teatro.",
-	:Stage4 => "Enfrente Anna.",
-	:Stage5 => "Enfrente Anna no torneio.",
-	:Stage6 => "Conte a verdade à mãe da Anna.",
+    :Stage2 => "Procure a menina no norte.",
+    :Stage3 => "Encontre a menina no Teatro.",
+    :Stage4 => "Enfrente Anna.",
+    :Stage5 => "Enfrente Anna no torneio.",
+    :Stage6 => "Conte a verdade à mãe da Anna.",
     :Location1 => "Nimbasa",
-	:Location2 => "Norte de Nimbasa",
-	:Location3 => "Teatro Musical",
-	:Location4 => "Teatro Musical",
-	:Location5 => "Teatro Musical",
-	:Location6 => "Nimbasa",
+    :Location2 => "Norte de Nimbasa",
+    :Location3 => "Teatro Musical",
+    :Location4 => "Teatro Musical",
+    :Location5 => "Teatro Musical",
+    :Location6 => "Nimbasa",
     :QuestDescription => "Uma mãe teve problemas com sua filha, que acabou fugindo. Ela me pediu para ajudar a encontrá-la.",
     :RewardString => "nil"
   }
@@ -151,9 +156,9 @@ module QuestModule
     :Name => "Os treinadores desapontados",
     :QuestGiver => "Policial",
     :Stage1 => "Enfrente os 5 treinadores",
-	:Stage2 => "Pedir a recompensa para o policial",
+	  :Stage2 => "Pedir a recompensa para o policial",
     :Location1 => "Rota 4",
-	:Location2 => "Rota 4",
+	  :Location2 => "Rota 4",
     :QuestDescription => "Um policial na Rota 4 me pediu para enfrentar os treinadores que não podem chegar até o torneio, para tentar elevar um pouco o ânimo deles.",
     :RewardString => "nil"
   }
@@ -183,9 +188,9 @@ module QuestModule
     :Name => "Recuperando um oculos... no lixo?",
     :QuestGiver => "nil",
     :Stage1 => "Pegar o óculos no lixo.",
-	:Stage2 => "Devolva o óculos pro treinador.",
+	  :Stage2 => "Devolva o óculos pro treinador.",
     :Location1 => "Rota 4",
-	:Location2 => "Rota 4",
+	  :Location2 => "Rota 4",
     :QuestDescription => "Um treinador na Rota 4 me pediu para pegar o óculos dele, que pelo visto está no lixo de uma casa no centro da rota.",
     :RewardString => "nil"
   }
@@ -195,9 +200,9 @@ module QuestModule
     :Name => "Um favor para o explorador",
     :QuestGiver => "Explorador da Rota 4",
     :Stage1 => "Enfrente o explorador.",
-	:Stage2 => "Capture um cubone e entregue.",
+	  :Stage2 => "Capture um cubone e entregue.",
     :Location1 => "Rota 4",
-	:Location2 => "Desert Resort",
+	  :Location2 => "Desert Resort",
     :QuestDescription => "Um treinador na Rota 4 me pediu para capturar um pokémon especial para ele, já que ele não pode ir até o Desert Resort.",
     :RewardString => "nil"
   }
@@ -207,9 +212,9 @@ module QuestModule
     :Name => "Procurando um onix no meio das pedras",
     :QuestGiver => "Pai lutador",
     :Stage1 => "Encontre o brinquedo.",
-	:Stage2 => "Devolva para o pai.",
+	  :Stage2 => "Devolva para o pai.",
     :Location1 => "Rota 4",
-	:Location2 => "Rota 4",
+	  :Location2 => "Rota 4",
     :QuestDescription => "Uma criança perdeu um onix de brinquedo no meio das pedras da Rota 4 e preciso devolver para o pai, imagino o que mais pode haver nessas pedras.",
     :RewardString => "nil"
   }
@@ -219,9 +224,9 @@ module QuestModule
     :Name => "Uma carta amável",
     :QuestGiver => "Perveritido",
     :Stage1 => "Entregue a carta.",
-	:Stage2 => "Diga o que aconteceu.",
+	  :Stage2 => "Diga o que aconteceu.",
     :Location1 => "Rota 4",
-	:Location2 => "Rota 4",
+	  :Location2 => "Rota 4",
     :QuestDescription => "Um ciêntista pervertido me pediu para entregar uma carta de amor para uma menina na praia.",
     :RewardString => "nil"
   }
