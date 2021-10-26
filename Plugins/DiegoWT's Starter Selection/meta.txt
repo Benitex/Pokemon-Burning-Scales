@@ -1,0 +1,3 @@
+Name         = DiegoWT's Starter Selection
+Version      = 1.2
+Credits      = DiegoWT

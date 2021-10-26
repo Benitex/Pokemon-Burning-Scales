@@ -36,7 +36,7 @@
 class Scene_Credits
   # Backgrounds to show in credits. Found in Graphics/Titles/ folder
   BACKGROUNDS_LIST       = ["credits5","credits4","credits1"]
-  BGM                    = "Credits"
+  BGM                    = "Marnie’s Theme ft. ebee"
   SCROLL_SPEED           = 40   # Pixels per second
   SECONDS_PER_BACKGROUND = 11
   TEXT_OUTLINE_COLOR     = Color.new(0, 0, 128, 255)
@@ -267,6 +267,7 @@ Modern Quest System + UI - ThatWelshOne_,mej71,derFischae,Marin
 Overworld Shadows EX - Golisopod User, Wolf PP, Marin
 Random Pokemon Selector - ThatWelshOne_
 Encounter List UI (v19) - ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
+DiegoWT's Starter Selection - DiegoWT
 B2W2 Bag - Erassus,CharizardThree3/LackDeJurane
 BW Party Screen - DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
 Pokedex BW Style - DeepBlue PacificWaves, NettoHikari, Xtreme1992
