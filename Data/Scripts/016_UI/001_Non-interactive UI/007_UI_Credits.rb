@@ -198,6 +198,7 @@ Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
 Relic Song - Burning Scales theme
 Nimbasa City Gym (Stage) - Nimbasa City Gym pos Elesa
+Gate Remastered - Route gates
 
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
@@ -244,10 +245,10 @@ John Ferrie Music
 Professor Oaks Lab Theme - Oak's Lab first time
 
 Sheddy
-Meloetta battle theme - Forbidden Melody (Relic Song Remix by sheddy)
+Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
 
 Deplode
-Meloetta encounter - Pokemon Relic Song with violins
+Pokemon Relic Song with violins - Meloetta encounter
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
