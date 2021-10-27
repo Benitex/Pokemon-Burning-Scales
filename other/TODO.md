@@ -5,7 +5,7 @@
 Criar o mapa dos Esgotos de Castelia.
 Criar os mapas da Relic Passage.
 Criar nova forma para o oshawott do pandemônio.
-Autotiles da praia e mar.
+Adicionar novos pokemon do pandemônio.
 
 ## Nimbasa
 
@@ -22,7 +22,6 @@ Quest dos motoqueiros.
 ## Castelia
 
 Colocar os eventos na entrada do laboratório e nos laboratórios da professora Juniper e Carvalho.
-Adicionar DiegoWT's Starter Selection no diálogo da Juniper.
 Colocar os eventos nas passagens.
 Criar mapas de Castelia.
 Quest do apaixonado.

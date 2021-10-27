@@ -8865,3 +8865,10 @@ BattlerPlayerX          = 20
 BattlerPlayerY          = 51
 BattlerEnemyX           = -6
 #-------------------------------
+[PHANTUMPP]
+BattlerEnemyY           = 47
+BattlerAltitude         = 9
+BattlerPlayerX          = 7
+BattlerPlayerY          = 53
+BattlerEnemyX           = -5
+#-------------------------------
