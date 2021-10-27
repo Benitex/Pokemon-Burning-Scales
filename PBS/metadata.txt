@@ -189,7 +189,7 @@ BattleBack = Champion
 TrainerBattleBGM = Gladion Battle.mp3
 #-------------------------------
 [020]
-# Entrada
+# Passagem
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -417,6 +417,7 @@ BattleBack = EliteA
 MapPosition = 0,17,10
 #-------------------------------
 [058]
+# Esgotos de Castelia
 MapPosition = 0,17,10
 #-------------------------------
 [059]
