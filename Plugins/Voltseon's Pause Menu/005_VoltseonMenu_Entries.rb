@@ -98,7 +98,7 @@ class MenuEntryEncounterList < MenuEntry
     }
   end
 
-  def selectable?; return $Trainer.has_pokegear; end
+  def selectable?; return $game_switches[69]; end
 end
 
 #-------------------------------------------------------------------------------
