@@ -6,6 +6,7 @@ Criar o mapa dos Esgotos de Castelia.
 Criar os mapas da Relic Passage.
 Criar nova forma para o oshawott do pandemônio.
 Adicionar novos pokemon do pandemônio.
+Corrigir o nome antigo para remover o arquivo de tradução.
 
 ## Nimbasa
 
