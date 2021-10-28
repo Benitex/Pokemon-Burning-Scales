@@ -1860,3 +1860,19 @@ FormName = Original Color
 Color = Red
 Pokedex = This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.
 BattlerPlayerY = 24
+#-------------------------------
+[YAMASKP,1]
+FormName = Spiritomb
+Type1 = GHOST
+Type2 = ROCK
+BaseStats = 1,30,70,30,70,45
+Abilities = WONDERGUARD
+Moves = 1,NIGHTSHADE,1,PROTECT,5,DISABLE,9,CONFUSERAY,13,ROCKTOMB,17,HEX,21,HYPNOSIS,25,OMINOUSWIND,29,ANCIENTPOWER,33,POWERSPLIT,33,POWERGEM,37,SHADOWBALL,41,DREAMEATER,45,MEANLOOK,49,DESTINYBOND
+#-------------------------------
+[YAMASKP,2]
+FormName = Duskull
+Type1 = GHOST
+Type2 = DARK
+BaseStats = 70,40,120,20,60,120
+Abilities = PRESSURE
+Moves = 1,ASTONISH,1,PROTECT,5,DISABLE,9,PURSUIT,13,NIGHTSHADE,17,HEX,21,WILLOWISP,25,OMINOUSWIND,29,CURSE,33,POWERSPLIT,33,CONFUSERAY,37,SHADOWBALL,41,GRUDGE,45,PAYBACK,49,DESTINYBOND,54,FUTURESIGHT

@@ -15,8 +15,8 @@ module StarterSelSettings
 
 # Form of each Starter species:
   STARTER1F = 0 # First Starter
-  STARTER2F = 0 # Second Starter
-  STARTER3F = 0 # Third Starter
+  STARTER2F = 1 # Second Starter
+  STARTER3F = 2 # Third Starter
   
 # Horizontal and vertical values for editing the starter position:
   STARTER1X = 0; STARTER1Y = 0 # First Starter
@@ -34,9 +34,9 @@ module StarterSelSettings
 # or false if not:
   STARTERCRY = true
 
-# Configuration for allowing gratients to show both types of the starter. This will
-# also show an extra gradient with the 2nd type's color.
+# Configuration for using two gradients to match both types' colors of the starter.
+# This will also work if one or more of your starters only have one type.
 # Set true if you want it, or false if not:
-  TYPE2COLOR = false
+  TYPE2COLOR = true
 
 end

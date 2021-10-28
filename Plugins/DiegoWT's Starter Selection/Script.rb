@@ -398,8 +398,9 @@ class DiegoWTsStarterSelection
   
   def pbChooseBall
     typeColor  = pbTypeColor(@pokemon.type1)
+    type1 = @type 
     if @pokemon.type2 != @pokemon.type1 && StarterSelSettings::TYPE2COLOR
-      type2Color = pbTypeColor(@pokemon.type2)
+      type2Color = pbTypeColor(@pokemon.type2); type2 = @type 
     elsif StarterSelSettings::TYPE2COLOR
       type2Color = typeColor
     end
@@ -413,8 +414,14 @@ class DiegoWTsStarterSelection
     
     @pkmnname = @pokemon.name
     @sprites["textbox"].y = @sprites["textbox"].y - 16
-    @sprites["textbox"].text = _INTL("<ac>Will you choose #{@pkmnname}, <br>the #{@type}-type Pokémon?</ac>")
-    
+    if @pokemon.type2 != @pokemon.type1 && StarterSelSettings::TYPE2COLOR
+      @sprites["textbox"].text = _INTL("<ac>Will you choose #{@pkmnname}, <br>the dual-type #{type1}/#{type2} Pokémon?</ac>")
+    elsif StarterSelSettings::TYPE2COLOR
+      @sprites["textbox"].text = _INTL("<ac>Will you choose #{@pkmnname}, <br>the #{type1}-type Pokémon?</ac>")
+    else
+      @sprites["textbox"].text = _INTL("<ac>Will you choose #{@pkmnname}, <br>the #{type1}-type Pokémon?</ac>")
+    end
+      
     @sprites["ballbase"].x = @x[@select]
     @sprites["ballbase"].y = @y[@select]
     @anim=0; @framereset=0; @frameA=0; zoom = StarterSelSettings::STARTERCZ - 0.5 if StarterSelSettings::STARTERCZ >= 1

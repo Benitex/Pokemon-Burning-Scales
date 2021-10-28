@@ -90,6 +90,9 @@ zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 KingTapir - Sandstream Desert Tileset
 
 
+Yamask Variants
+Frousteleous
+
 Character Customization Resources
 Poltergeist
 
