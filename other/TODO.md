@@ -6,7 +6,6 @@ Criar o mapa dos Esgotos de Castelia.
 Criar os mapas da Relic Passage.
 Criar nova forma para o oshawott do pandemônio.
 Adicionar novos pokemon do pandemônio.
-Corrigir o nome antigo para remover o arquivo de tradução.
 
 ## Nimbasa
 
@@ -19,6 +18,7 @@ Colocar NPC battles no torneio.
 ## Rota 4
 
 Quest dos motoqueiros.
+Adicionar diálogos na Join Avenue.
 
 ## Castelia
 
