@@ -147,6 +147,16 @@ Pokemon = MAGIKARP,23
     Moves = TACKLE,SPLASH
     Item = CHOICEBAND
 #-------------------------------
+[FISHERMAN_Marcos,Marcos,1]
+LoseText = "Mas já?"
+Pokemon = MAGIKARP,20
+    Shiny = yes
+    Moves = TACKLE,SPLASH
+    Item = CHOICEBAND
+Pokemon = FRILLISH,21
+    AbilityIndex = 1
+Pokemon = CLAMPERL,21
+#-------------------------------
 [LEADER_Giovanni,Giovanni]
 Items = SUPERPOTION
 LoseText = "Como nos velhos tempos."
@@ -159,6 +169,14 @@ Pokemon = KANGASKHAN,21
     Moves = LEER,FAKEOUT,BITE,DOUBLEHIT
 Pokemon = NIDORINA,22
     Moves = DOUBLEKICK,TAILWHIP,POISONSTING,FURYSWIPES
+#-------------------------------
+[LEADER_Giovanni,Giovanni,1]
+Items = POTION
+LoseText = "Como nos velhos tempos."
+Pokemon = NIDORANmA,22
+Pokemon = RHYHORN,21
+    AbilityIndex = 1
+Pokemon = NIDORANfE,22
 #-------------------------------
 [POKEMONTRAINER_Albert,Albert]
 Items = SUPERPOTION
@@ -174,6 +192,13 @@ Pokemon = HARIYAMA,24
 Pokemon = COMBUSKEN,23
     Moves = FLAMECHARGE,PECK,SCRATCH,SANDATTACK
 #-------------------------------
+[POKEMONTRAINER_Albert,Albert,1]
+Items = POTION
+LoseText = "Não esperava encontar alguém tão forte..."
+Pokemon = PIGNITE,23
+Pokemon = HARIYAMA,24
+Pokemon = COMBUSKEN,23
+#-------------------------------
 [POKEMONTRAINER_Robert,Robert]
 LoseText = "Tão forte quanto eu imaginava."
 Pokemon = GURDURR,25
@@ -184,6 +209,14 @@ Pokemon = DRILBUR,24
     AbilityIndex = 1
 Pokemon = KROKOROK,25
     Moves = BITE,BULLDOZE,SANDTOMB,SWAGGER
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert,1]
+LoseText = "Tão forte quanto eu imaginava."
+Pokemon = TIMBURR,25
+    AbilityIndex = 0
+Pokemon = DRILBUR,24
+    AbilityIndex = 1
+Pokemon = KROKOROK,25
 #-------------------------------
 [CHAMPION_Anna,Anna]
 Items = SUPERPOTION
@@ -197,6 +230,14 @@ Pokemon = LARVESTA,25
     Moves = EMBER,TAKEDOWN,ABSORB,STRINGSHOT
 Pokemon = WHIRLIPEDE,25
     Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
+#-------------------------------
+[CHAMPION_Anna,Anna,1]
+Items = POTION
+LoseText = "Não acredito nisso!"
+Pokemon = ABSOLP,25
+    Item = ABSOLITE
+Pokemon = TYMPOLE,25
+Pokemon = LARVESTA,25
 #-------------------------------
 # Rota 4
 #-------------------------------
