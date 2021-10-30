@@ -88,6 +88,7 @@ Com complementos de:
 dirtywiggles - Interior tileset Primal
 zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 KingTapir - Sandstream Desert Tileset
+Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge
 
 
 Yamask Variants
