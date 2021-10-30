@@ -201,7 +201,7 @@ SnapEdges = false
 Dungeon = false
 #-------------------------------
 [021]
-# Ginásio de Nimabasa
+# Ginásio de Nimbasa
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -339,6 +339,11 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[043]
+# Central Plaza
+Outdoor = true
+ShowArea = true
 #-------------------------------
 [044]
 # Pier

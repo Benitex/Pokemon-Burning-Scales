@@ -99,8 +99,7 @@ Pokemon = COFAGRIGUS,21
 #-------------------------------
 [GENTLEMAN,Diretor da FNF]
 LoseText = "Posso aprender muito com você!"
-Pokemon = UMBREON,20
-Pokemon = ALOMOMOLA,24
+Pokemon = UMBREON,15
 #-------------------------------
 # Ginásio de Nimbasa
 #-------------------------------
