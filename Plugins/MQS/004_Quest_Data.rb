@@ -240,5 +240,15 @@ module QuestModule
     :QuestDescription => "Os motoqueiros da Rota 4 estão causando confusão para todos, o melhor a se fazer é acabar com essa bagunça.",
     :RewardString => "nil"
   }
+
+  Quest18 = {
+    :ID => "18",
+    :Name => "Completando a pokédex",
+    :QuestGiver => "Velho Sábio",
+    :Stage1 => "Capture 10 pokemon.",
+    :Location1 => "Laboratório da Juniper",
+    :QuestDescription => "Um senhor que já passou por muitas histórias me desafiou a mostrar .",
+    :RewardString => "Pokemon de fora do Sul de Unova"
+  }
   
 end
