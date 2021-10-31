@@ -340,3 +340,12 @@ Pokemon = SKORUPI,20
 Pokemon = VULLABY,20
 Pokemon = PAWNIARD,20
 #-------------------------------
+# Castelia
+#-------------------------------
+#-------------------------------
+# Laboratórios
+#-------------------------------
+[SUPERNERD,Dedicado]
+LoseText = "Ah não!"
+Pokemon = KLINK,20
+Pokemon = MAGNEMITE,20
