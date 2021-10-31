@@ -247,7 +247,7 @@ module QuestModule
     :QuestGiver => "Velho Sábio",
     :Stage1 => "Capture 10 pokemon.",
     :Location1 => "Laboratório da Juniper",
-    :QuestDescription => "Um senhor que já passou por muitas histórias me desafiou a mostrar .",
+    :QuestDescription => "Um senhor que já passou por muitas histórias me desafiou a mostrar 10 espécies diferentes na pokédex e em troca, me dará um pokemon que não posso pegar no sul de Unova.",
     :RewardString => "Pokemon de fora do Sul de Unova"
   }
   
