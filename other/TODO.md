@@ -17,7 +17,6 @@ Colocar NPC battles no torneio.
 ## Castelia
 
 <!--
-Colocar os eventos na entrada do laboratório e nos laboratórios da professora Juniper e Carvalho.
 Colocar os eventos nas passagens.
 Criar mapas de Castelia.
 Quest do apaixonado.
@@ -28,3 +27,4 @@ Quest das eleições.
 
 Criar o mapa dos Esgotos de Castelia.
 Criar os mapas da Relic Passage.
+Diminuir os sprites do charmander no pc.

@@ -51,19 +51,16 @@ class Player_Quests
     end
     for i in 0...@active_quests.length
       if @active_quests[i].id == quest
-        pbMessage("You have already started this quest.")
         return
       end
     end
     for i in 0...@completed_quests.length
       if @completed_quests[i].id == quest
-        pbMessage("You have already completed this quest.")
         return
       end
     end
     for i in 0...@failed_quests.length
       if @failed_quests[i].id == quest
-        pbMessage("You have already failed this quest.")
         return
       end
     end
@@ -78,13 +75,11 @@ class Player_Quests
     found = false
     for i in 0...@completed_quests.length
       if @completed_quests[i].id == quest
-        pbMessage("You have already completed this quest.")
         return
       end
     end
     for i in 0...@failed_quests.length
       if @failed_quests[i].id == quest
-        pbMessage("You have already failed this quest.")
         return
       end
     end 
@@ -114,13 +109,11 @@ class Player_Quests
     found = false
     for i in 0...@completed_quests.length
       if @completed_quests[i].id == quest
-        pbMessage("You have already completed this quest.")
         return
       end
     end
     for i in 0...@failed_quests.length
       if @failed_quests[i].id == quest
-        pbMessage("You have already failed this quest.")
         return
       end
     end  
