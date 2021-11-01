@@ -318,6 +318,13 @@ Pokemon = KRICKETUNE,15
 #-------------------------------
 # Entrada do Desert Resort
 #-------------------------------
+[CUEBALL,Motoqueiro da Sala de Pesquisa]
+LoseText = "Não não não não não não!!!"
+Pokemon = SCRAGGY,15
+Pokemon = MAGNEMITE,15
+#-------------------------------
+# Entrada do Desert Resort
+#-------------------------------
 [CUEBALL,Guarda do Resort]
 LoseText = "Droga!"
 Pokemon = WOOBAT,16
