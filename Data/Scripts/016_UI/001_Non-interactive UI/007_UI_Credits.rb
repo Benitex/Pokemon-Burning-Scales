@@ -189,6 +189,8 @@ Snowbelle City – Volcarona Theme
 Team Rocket Battle Remix vII - Giovanni theme
 Lusamine Battle Remix - Plasma boss battle
 Team Plasma Remix - Plasma intelligence battle
+XY Boutique - Castelia interiors
+Abandoned Ship - Aficcionada battle
 
 Vanilluxe Pavilion
 Relic Castle – Relic Castle B3
@@ -254,6 +256,9 @@ Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
 Deplode
 Pokemon Relic Song with violins - Meloetta encounter
 
+Vanitas
+Casa abandonada - Lavender town ochestral arrangement
+
 Pokémon X & Y
 Poké Mart Shopping - Route 4
 
@@ -263,23 +268,56 @@ Sandy Plains Domain of Dust and Desolation - Desert Resort wild battle
 
 Plugins
 
-Elite Battle: DX - Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
-Following Pokemon EX - Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Amrin (Fairies Resource Pack)
-Modular Title Screen - Luka S.J.
-Voltseon's Pause Menu - Voltseon, Golisopod User, ENLS
-Modern Quest System + UI - ThatWelshOne_,mej71,derFischae,Marin
-Overworld Shadows EX - Golisopod User, Wolf PP, Marin
-Random Pokemon Selector - ThatWelshOne_
-Encounter List UI (v19) - ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
-DiegoWT's Starter Selection - DiegoWT
-B2W2 Bag - Erassus,CharizardThree3/LackDeJurane
-BW Party Screen - DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
-Pokedex BW Style - DeepBlue PacificWaves, NettoHikari, Xtreme1992
-Storage System BW Style - DeepBlue PacificWaves
-BW Summary Screen - DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
-BW Location Signposts - Shashu-Greninja,DeepBlue PacificWaves,Shiney570
-BW Text Entry Scene - Shashu-Greninja,DeepBlue PacificWaves,Erassus
-v19.1 Hotfixes - Maruno
+Elite Battle: DX
+Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
+
+Following Pokemon EX
+Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Amrin (Fairies Resource Pack)
+
+Modular Title Screen
+Luka S.J.
+
+Voltseon's Pause Menu
+Voltseon, Golisopod User, ENLS
+
+Modern Quest System + UI
+ThatWelshOne_,mej71,derFischae,Marin
+
+Overworld Shadows EX
+Golisopod User, Wolf PP, Marin
+
+Random Pokemon Selector
+ThatWelshOne_
+
+Encounter List UI (v19)
+ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
+
+DiegoWT's Starter Selection
+DiegoWT
+
+B2W2 Bag
+Erassus,CharizardThree3/LackDeJurane
+
+BW Party Screen
+DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
+
+Pokedex BW Style
+DeepBlue PacificWaves, NettoHikari, Xtreme1992
+
+Storage System BW Style
+DeepBlue PacificWaves
+
+BW Summary Screen
+DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
+
+BW Location Signposts
+Shashu-Greninja,DeepBlue PacificWaves,Shiney570
+
+BW Text Entry Scene
+Shashu-Greninja,DeepBlue PacificWaves,Erassus
+
+v19.1 Hotfixes
+Maruno
 
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}

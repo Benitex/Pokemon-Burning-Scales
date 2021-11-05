@@ -259,4 +259,16 @@ module QuestModule
     :RewardString => "Pokemon de fora do Sul de Unova"
   }
   
+  Quest19 = {
+    :ID => "19",
+    :Name => "O grupo de dança",
+    :QuestGiver => "Dançarino",
+    :Stage1 => "Encontre dois dançarinos.",
+    :Stage2 => "Avise sobre seu progresso.",
+    :Location1 => "Castelia",
+    :Location2 => "Central Plaza",
+    :QuestDescription => "Encontrei um dançarino na Central Plaza buscando por outros dançarinos para formar um grupo. Ele me pediu que procurasse por alguns em Castelia e resolvi ajudá-lo.",
+    :RewardString => "nil"
+  }
+
 end
