@@ -236,8 +236,16 @@ module QuestModule
     :Name => "Acabando com os motoqueiros!",
     :QuestGiver => "Polícia",
     :Stage1 => "Pegue informações no quartel.",
+    :Stage2 => "Invada a cidade dos motoqueiros.",
+    :Stage3 => "Enfrente o chefe dos motoqueiros.",
+    :Stage4 => "Enfrente o verdadeiro chefe.",
+    :Stage5 => "Liberte meloetta.",
     :Location1 => "Castelia",
-    :QuestDescription => "Os motoqueiros da Rota 4 estão causando confusão para todos, o melhor a se fazer é acabar com essa bagunça.",
+    :Location2 => "Rota 4",
+    :Location3 => "Cidade dos motoqueiros",
+    :Location4 => "Cidade dos motoqueiros",
+    :Location5 => "Cidade dos motoqueiros",
+    :QuestDescription => "Os motoqueiros da Rota 4 estão causando confusão para todos, o melhor a se fazer é acabar com essa bagunça. Devo decidir o que fazer com os guardas em Castelia e prosseguir com o ataque em defesa da Rota 4.",
     :RewardString => "nil"
   }
 
