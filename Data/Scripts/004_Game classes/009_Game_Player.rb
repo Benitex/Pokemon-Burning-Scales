@@ -429,8 +429,6 @@ def pbMountBike
   return if $PokemonGlobal.bicycle
   $PokemonGlobal.bicycle = true
   pbUpdateVehicle
-  bike_bgm = GameData::Metadata.get.bicycle_BGM
-  pbCueBGM(bike_bgm, 0.5) if bike_bgm
   pbPokeRadarCancel
 end
 
