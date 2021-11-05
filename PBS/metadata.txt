@@ -346,7 +346,7 @@ Outdoor = true
 ShowArea = true
 #-------------------------------
 [044]
-# Pier
+# Quartel
 Outdoor = true
 ShowArea = true
 MapPosition = 0,11,10
@@ -356,8 +356,10 @@ MapSize = 2,11
 # Mode Street
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
+Bicycle = true
+BicycleAlways = false
 MapPosition = 0,11,10
+SnapEdges = true
 #-------------------------------
 [046]
 # Castelia Street
@@ -426,17 +428,21 @@ MapPosition = 0,17,10
 MapPosition = 0,17,10
 #-------------------------------
 [059]
+# Clube dos Palhaços
 MapPosition = 0,17,10
 BattleBack = EliteD
 #-------------------------------
 [060]
+# Laboratório
 MapPosition = 0,17,10
 #-------------------------------
 [061]
+# Sala do Chefe
 MapPosition = 0,17,10
 BattleBack = EliteB
 #-------------------------------
 [062]
+# Casa abandonada
 MapPosition = 0,17,10
 #-------------------------------
 [063]
