@@ -196,7 +196,7 @@ TrainerBattleBGM = Gladion Battle.mp3
 # Passagem
 Outdoor = false
 ShowArea = false
-Bicycle = false
+Bicycle = true
 BicycleAlways = false
 MapPosition = 0,13,10
 DarkMap = false

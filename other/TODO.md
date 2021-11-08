@@ -19,8 +19,12 @@ Colocar NPC battles no torneio.
 <!--
 Colocar os eventos nas passagens.
 Criar mapas de Castelia.
+Colocar detalhes do Passerby Analytics HQ no quartel
+Colocar elevador na battle company
+Criar a casa abandonada
 Quest do apaixonado.
 Quest das eleições.
+Colocar sidequest do dançarino procurando um grupo musical
 -->
 
 ## outros
