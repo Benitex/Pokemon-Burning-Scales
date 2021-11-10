@@ -95,6 +95,8 @@ BicycleAlways = false
 MapPosition = 0,13,10
 DarkMap = false
 SafariMap = false
+SnapEdges = true
+Dungeon = false
 MapSize = 2,11
 #-------------------------------
 [008]
@@ -304,8 +306,10 @@ BattleBack = IndoorC
 #-------------------------------
 [035]
 # Centro Pokémon
-Outdoor = true
-ShowArea = true
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,13,6
 #-------------------------------
 [036]
