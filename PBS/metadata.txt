@@ -463,8 +463,17 @@ TrainerBattleBGM = Abandoned Ship Remix.mp3
 MapPosition = 0,17,10
 #-------------------------------
 [064]
+# Piers
+Outdoor = true
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
 MapPosition = 0,17,10
-BattleBack = EliteC
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+BattleBack = 
 #-------------------------------
 [065]
 MapPosition = 0,17,10

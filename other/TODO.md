@@ -25,6 +25,7 @@ Criar a casa abandonada
 Quest do apaixonado.
 Quest das eleições.
 Colocar sidequest do dançarino procurando um grupo musical
+Link com hold items para loja   https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share
 -->
 
 ## outros

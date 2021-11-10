@@ -75,15 +75,16 @@ Autores de gráficos:
 
 Tilesets:
 
+
+Interiores:
+4th gen Indoor Tileset - Akizakura16
+
 Exteriores:
 WesleyFG:
 BW BUILDINGS TILESET
 BW NATURE TILESET
 BW VELHICES
 HGSS TILISET MY WORK COMPLETE
-
-Interiores:
-4th gen Indoor Tileset - Akizakura16
 
 Com complementos de:
 dirtywiggles - Interior tileset Primal
