@@ -259,7 +259,10 @@ Deplode
 Pokemon Relic Song with violins - Meloetta encounter
 
 Vanitas
-Casa abandonada - Lavender town ochestral arrangement
+Lavender town ochestral arrangementx - Lavender town ochestral arrangement
+
+hyeonjiim
+Sala da meloeatta - Meloettas Song of the Sunset Cover
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
