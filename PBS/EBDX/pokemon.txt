@@ -8855,8 +8855,9 @@ BattlerEnemyX           = -1
 BattlerEnemyY           = 78
 BattlerAltitude         = 0
 BattlerPlayerX          = 21
-BattlerPlayerY          = 85
-BattlerEnemyX           = 4
+BattlerPlayerY          = 83
+IsGrounded              = true
+BattlerEnemyX           = -2
 #-------------------------------
 [DUGTRIOP]
 BattlerEnemyY           = 72
