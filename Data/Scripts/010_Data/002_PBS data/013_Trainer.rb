@@ -120,9 +120,9 @@ module GameData
 		  if $game_variables[100] == 1
         pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 2 + rand(2), trainer, false)
 		  elsif $game_variables[100] == 2
-        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 2 + rand(4), trainer, false)
+        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) + rand(2), trainer, false)
       else
-        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) + 1 + rand(3), trainer, false)
+        pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) + 3 + rand(3), trainer, false)
 		  end
 		else
 		  pkmn = Pokemon.new(species, pkmn_data[:level], trainer, false)
