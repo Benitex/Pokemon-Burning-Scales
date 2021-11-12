@@ -10,7 +10,7 @@ Pokemon Burning Scales is a Pokemon fan game where you play as Nathan, a pokemon
 
 * **A different story.** Perfect for the ones that are tired of defeating gym leaders and the Elite 4.
 * **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
-* **Wild pokemon and trainers auto-level scaling.** Except for the important battles.
+* **Wild pokemon and trainers auto-level scaling**.
 * **A lot of sidequests.** That can generate hours of extra content apart from the main story.
 * **Choices that impact the story.** or reveal additional information/funny situations.
 * **Wonder Trade-like system.** Where you spend money to get a random pokemon in its first form.
@@ -21,4 +21,4 @@ Pokemon Burning Scales is a Pokemon fan game where you play as Nathan, a pokemon
 * **Auto saving**.
 * **Pokémon walking on the routes**.
 * **Different pokemon depending on the time of the day.**.
-* **A few pokemon with altered forms.** There aren't many, though.
+* **A few pokemon with altered forms**.

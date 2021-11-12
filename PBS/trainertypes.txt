@@ -61,7 +61,7 @@
 58,ROCKETBOSS,Rocket Boss,100,Team Rocket Battle Remix vII,,,Male,,
 59,PLASMABOSS,Plasma Boss,100,Lusamine Remix Kamex,,,Male,,
 60,PLASMAINTELLIGENCE,Plasma Intelligence,100,Team Plasma Remix,,,Female,,
-61,BIKERLEADER,Biker Leader,100,,,,Male,,
+61,BIKERLEADER,Biker Leader,100,Battle vs. Marnie MarshMix Plaza remix,,,Male,,
 62,BIKERBOSS,Biker Boss,100,Vs. Guzma Kamex remix,,,Male,,
 63,MODEL,Model,56,,,,Female,,
 64,LEADER_Sabrina,Gym Leader,100,Battle Gym Leader,,,Female,,

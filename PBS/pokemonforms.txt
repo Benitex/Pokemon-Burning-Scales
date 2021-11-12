@@ -657,6 +657,9 @@ Weight = 55.2
 BattlerPlayerY = 4
 BattlerEnemyY = 13
 #-------------------------------
+[SCEPTILE,2]
+FormName = Pandemonio
+#-------------------------------
 [BLAZIKEN,1]
 FormName = Mega Blaziken
 MegaStone = BLAZIKENITE

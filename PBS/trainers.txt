@@ -316,6 +316,15 @@ Pokemon = CHINGLING,15
 Pokemon = LOUDRED,15
 Pokemon = KRICKETUNE,15
 #-------------------------------
+[BIKERLEADER,Líder dos Motoqueiros]
+Items = SUPERPOTION
+LoseText = "Uma vitória, realmente."
+Pokemon = DUGTRIOP,25
+Pokemon = BASCULIN,25
+Pokemon = HEATMOR,25
+Pokemon = SCEPTILE,25
+    Form = 2
+#-------------------------------
 # Entrada do Desert Resort
 #-------------------------------
 [CUEBALL,Motoqueiro da Sala de Pesquisa]

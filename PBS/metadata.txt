@@ -442,7 +442,14 @@ BattleBack = EliteD
 #-------------------------------
 [060]
 # Laboratório
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,17,10
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Forbidden Melody.mp3
 #-------------------------------
 [061]
 # Sala do Chefe

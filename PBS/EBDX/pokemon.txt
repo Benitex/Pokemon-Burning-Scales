@@ -5631,6 +5631,13 @@ BattlerPlayerX          = 22
 BattlerPlayerY          = 43
 BattlerEnemyX           = -15
 #-------------------------------
+[SCEPTILE,2]
+BattlerEnemyY           = 40
+BattlerAltitude         = 0
+BattlerPlayerX          = 0
+BattlerPlayerY          = 46
+BattlerEnemyX           = 3
+#-------------------------------
 [BLAZIKEN,1]
 BattlerEnemyY           = 8
 BattlerAltitude         = 0
@@ -8852,11 +8859,12 @@ BattlerPlayerY          = 85
 BattlerEnemyX           = 4
 #-------------------------------
 [DUGTRIOP]
-BattlerEnemyY           = 61
+BattlerEnemyY           = 72
 BattlerAltitude         = 0
-BattlerPlayerX          = 21
-BattlerPlayerY          = 68
-BattlerEnemyX           = 8
+BattlerPlayerX          = 8
+BattlerPlayerY          = 76
+IsGrounded              = true
+BattlerEnemyX           = -4
 #-------------------------------
 [ABSOLP]
 BattlerEnemyY           = 50

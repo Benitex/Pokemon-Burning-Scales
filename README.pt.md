@@ -10,7 +10,7 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 
 * **História diferente do padrão da série.** Ideal para fugir um pouco do padrão de enfrentar líderes de ginásio até enfrentar a Elite 4.
 * **Mundo aberto livre para exploração desde o início do jogo.** Apesar de não haverem muitas rotas e cidades, todas já estão disponíveis desde o início do jogo, sem enrolações.
-* **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe.** Com execessão de batalhas importantes.
+* **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe**.
 * **Muitas sidequests espalhadas pelo mapa** para gerar horas de conteúdos extras fora da história principal.
 * **Escolhas que impactam o resultado das quests** ou revelam informações adicionais/situações engraçadas.
 * **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio.
@@ -21,4 +21,4 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 * **Salvamento automático**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
-* **Alguns poucos pokemon com formas alteradas**, não são comuns.
+* **Alguns poucos pokemon com formas alteradas**
