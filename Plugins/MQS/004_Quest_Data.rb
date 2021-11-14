@@ -264,10 +264,22 @@ module QuestModule
     :Name => "O grupo de dança",
     :QuestGiver => "Dançarino",
     :Stage1 => "Encontre dois dançarinos.",
-    :Stage2 => "Avise sobre seu progresso.",
+    :Stage2 => "Avise ao dançarino.",
     :Location1 => "Castelia",
     :Location2 => "Central Plaza",
     :QuestDescription => "Encontrei um dançarino na Central Plaza buscando por outros dançarinos para formar um grupo. Ele me pediu que procurasse por alguns em Castelia e resolvi ajudá-lo.",
+    :RewardString => "nil"
+  }
+
+  Quest20 = {
+    :ID => "19",
+    :Name => "Pesquisa política",
+    :QuestGiver => "Policial",
+    :Stage1 => "Pergunte a 5 pessoas.",
+    :Stage2 => "Avise ao policial.",
+    :Location1 => "Castelia",
+    :Location2 => "Quartel de Castelia",
+    :QuestDescription => "Um policial me pediu para fazer pesquisas de opinião com pessoas pelas ruas de Castelia. Devo conversar com 5 pessoas e descobrir o que elas pensam dos partidos políticos.",
     :RewardString => "nil"
   }
 

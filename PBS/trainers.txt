@@ -359,6 +359,7 @@ LoseText = "Ai... Não!"
 Pokemon = ARCANINE,25
 Pokemon = STOUTLAND,25
 Pokemon = SWANNA,25
+Pokemon = STARAPTOR,25
 #-------------------------------
 [BIKERLEADER,Líder dos Motoqueiros]
 Items = SUPERPOTION

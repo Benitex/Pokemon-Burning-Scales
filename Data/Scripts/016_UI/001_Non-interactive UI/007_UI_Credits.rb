@@ -126,6 +126,10 @@ Kobi2604
 Shadow Trial trainer sprites
 Skeizerr
 
+Officer Jenny Generation 4 Styled Sprite
+78Cabbage
+ultrademise
+
 Gen 8 Project:
 
 Battler Sprites:
