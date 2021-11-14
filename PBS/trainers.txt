@@ -328,7 +328,7 @@ Pokemon = GRANBULL,20
 #-------------------------------
 [BIKER,Motoqueiro guarda costa 2]
 LoseText = "Lá vem a bronca..."
-Pokemon = MANDIBUZZ,20
+Pokemon = VULLABY,20
 Pokemon = JIGGLYPUFF,20
 Pokemon = GRANBULL,20
 #-------------------------------

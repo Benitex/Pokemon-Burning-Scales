@@ -4,20 +4,19 @@
 
 ## Nimbasa
 
-<!--Colocar Pokémon de nível baixo no torneio.-->
 Criar o ginásio antigo de Nimbasa.
 Criar a parte de competição dos estádios em Nimbasa.
 Colocar NPC battles no torneio.
 
 ## Rota 4
 
-<!--Quest dos motoqueiros.-->
+<!--Cidade dos motoqueiros.-->
 <!--Adicionar diálogos na Join Avenue.-->
 
 ## Castelia
 
 <!--
-Colocar os eventos nas passagens.
+Completar diálogo com recepcionista na passagem.
 Criar mapas de Castelia.
 Colocar detalhes do Passerby Analytics HQ no quartel
 Colocar elevador na battle company
@@ -32,4 +31,3 @@ Link com hold items para loja   https://www.reddit.com/r/pokemon/comments/qir4ob
 
 Criar o mapa dos Esgotos de Castelia.
 Criar os mapas da Relic Passage.
-Diminuir os sprites do charmander no pc.
