@@ -99,7 +99,9 @@ Pokemon = COFAGRIGUS,21
 #-------------------------------
 [GENTLEMAN,Diretor da FNF]
 LoseText = "Posso aprender muito com você!"
-Pokemon = UMBREON,15
+Pokemon = UMBREON,12
+Pokemon = ALOMOMOLA,13
+Pokemon = ESPEON,13
 #-------------------------------
 # Ginásio de Nimbasa
 #-------------------------------
@@ -315,6 +317,48 @@ Pokemon = CHATOT,15
 Pokemon = CHINGLING,15
 Pokemon = LOUDRED,15
 Pokemon = KRICKETUNE,15
+#-------------------------------
+# Casa do chefe
+#-------------------------------
+[BIKER,Motoqueiro guarda costa 1]
+LoseText = "Desculpa chefe!"
+Pokemon = SCRAGGY,20
+Pokemon = CLEFAIRY,20
+Pokemon = GRANBULL,20
+#-------------------------------
+[BIKER,Motoqueiro guarda costa 2]
+LoseText = "Lá vem a bronca..."
+Pokemon = MANDIBUZZ,20
+Pokemon = JIGGLYPUFF,20
+Pokemon = GRANBULL,20
+#-------------------------------
+[CUEBALL,Motoqueiro de elite 1]
+LoseText = "Uou."
+Pokemon = BISHARP,23
+Pokemon = SKUNTANK,23
+#-------------------------------
+[CUEBALL,Motoqueiro de elite 2]
+LoseText = "O cara é forte."
+Pokemon = KROKOROK,23
+Pokemon = GARBODOR,23
+#-------------------------------
+[BIKERBOSS,Chefe dos Motoqueiros]
+Items = SUPERPOTION
+LoseText = "Não. Não. Nãoooooooo!"
+Pokemon = CRAWDAUNT,25
+Pokemon = MIGHTYENA,25
+Pokemon = HOUNDOOM,25
+    Item = HOUNDOOMINITE
+Pokemon = MUK,25
+Pokemon = CROBAT,25
+Pokemon = SCOLIPEDE,25
+#-------------------------------
+[POKEMONTRAINER_Jasmine,Jasmine]
+Items = SUPERPOTION
+LoseText = "Ai... Não!"
+Pokemon = ARCANINE,25
+Pokemon = STOUTLAND,25
+Pokemon = SWANNA,25
 #-------------------------------
 [BIKERLEADER,Líder dos Motoqueiros]
 Items = SUPERPOTION
