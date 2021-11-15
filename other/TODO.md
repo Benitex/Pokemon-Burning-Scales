@@ -1,35 +1,34 @@
 # Lista de tarefas
-
-<!--Comentários indicam o mais importante-->
+<!--Comentários indicam o que será focado no futuro-->
 
 ## Nimbasa
 
-Criar o ginásio antigo de Nimbasa.
-Criar a parte de competição dos estádios em Nimbasa.
-Colocar NPC battles no torneio.
+<!--
+Criar o ginásio antigo de Nimbasa
+Criar a parte de competição dos estádios em Nimbasa
+Colocar NPC battles no torneio (esperando atualizações do script: https://reliccastle.com/resources/321/)
+-->
 
 ## Rota 4
 
-<!--
-Cidade dos motoqueiros
-Adicionar diálogos na Join Avenue
--->
+* Adicionar eventos na cidade dos Motoqueiros
+* Adicionar diálogos na Join Avenue
 
 ## Castelia
 
-<!--
-Completar diálogo com recepcionista na passagem
-Criar mapas de Castelia
-Adicionar um elevador na battle company
-Criar a casa abandonada
-Quest do apaixonado
-Quest das eleições
-Adicionar sidequest do dançarino procurando um grupo musical
-Adicionar sidequest de estatístico
-Link com hold items para loja   https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share
--->
+* Completar diálogo com recepcionista na passagem
+* Criar mapas de Castelia
+* Adicionar um elevador na battle company
+* Criar a casa abandonada
+* Quest do apaixonado
+* Quest das eleições
+* Adicionar sidequest do dançarino procurando um grupo musical
+* Adicionar sidequest de estatístico
+* Link com hold items para loja [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
 
 ## outros
 
-Criar o mapa dos Esgotos de Castelia.
-Criar os mapas da Relic Passage.
+* Adicionar screeshots no readme
+
+<!--Criar o mapa dos Esgotos de Castelia
+Criar os mapas da Relic Passage-->

@@ -13,7 +13,7 @@
 
 # If true, includes a page of failed quests on the UI
 # Set this to false if you don't want to have quests that can be failed
-SHOW_FAILED_QUESTS = false
+SHOW_FAILED_QUESTS = true
 
 # Name of file in Audio/SE that plays when a quest is activated/advanced to new stage/completed
 QUEST_JINGLE = "Mining found all.ogg"
