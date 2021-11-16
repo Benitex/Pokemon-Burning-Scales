@@ -52,7 +52,7 @@ def pbDayCareDeposit(index)
     next if $PokemonGlobal.daycare[i][0]
     $PokemonGlobal.daycare[i][0] = $Trainer.party[index]
     $PokemonGlobal.daycare[i][0].time_form_set = nil
-    $PokemonGlobal.daycare[i][0].form = 0 if p.isSpecies?(:SHAYMIN)
+    $PokemonGlobal.daycare[i][0].form = 0 if $Trainer.party[index].species == :SHAYMIN
     $PokemonGlobal.daycare[i][1] = $Trainer.party[index].level
     $PokemonGlobal.daycare[i][0].heal
     $Trainer.party[index] = nil

@@ -355,9 +355,15 @@ ShowArea = true
 #-------------------------------
 [044]
 # Quartel
-Outdoor = true
+Outdoor = false
 ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,11,10
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 MapSize = 2,11
 #-------------------------------
 [045]
@@ -487,14 +493,17 @@ Dungeon = false
 BattleBack = 
 #-------------------------------
 [065]
+# Prisão
 MapPosition = 0,17,10
 #-------------------------------
 [066]
+# Café Sonata
 Outdoor = true
 ShowArea = true
 MapPosition = 0,12,12
 #-------------------------------
 [067]
+# Battle Company
 MapPosition = 0,12,12
 #-------------------------------
 [068]
@@ -505,6 +514,7 @@ SafariMap = true
 BattleBack = Forest
 #-------------------------------
 [069]
+# Casa com portal
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,13
