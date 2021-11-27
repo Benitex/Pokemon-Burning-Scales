@@ -16,7 +16,6 @@ Colocar NPC battles no torneio (esperando atualizações do script: https://reli
 
 ## Castelia
 
-* Completar diálogo com recepcionista na passagem
 * Criar mapas de Castelia
 * Adicionar um elevador na battle company
 * Criar a casa abandonada

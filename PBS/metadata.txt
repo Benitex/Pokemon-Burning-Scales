@@ -384,9 +384,14 @@ MapPosition = 0,12,6
 # Narrow Street
 Outdoor = true
 ShowArea = true
-Weather = Rain,0
+Bicycle = true
+BicycleAlways = false
 MapPosition = 0,15,10
-BattleBack = Mountain
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+BattleBack = 
 MapSize = 2,11
 #-------------------------------
 [049]
