@@ -377,8 +377,15 @@ SnapEdges = true
 #-------------------------------
 [046]
 # Castelia Street
+Outdoor = true
+ShowArea = true
 Bicycle = true
+BicycleAlways = false
 MapPosition = 0,12,6
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
 #-------------------------------
 [047]
 # Narrow Street
