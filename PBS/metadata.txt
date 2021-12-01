@@ -352,6 +352,9 @@ MapSize = 1,111
 # Central Plaza
 Outdoor = true
 ShowArea = true
+DarkMap = false
+SafariMap = false
+SnapEdges = true
 #-------------------------------
 [044]
 # Quartel
