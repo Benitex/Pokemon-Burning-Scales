@@ -404,6 +404,17 @@ Dungeon = false
 BattleBack = 
 MapSize = 2,11
 #-------------------------------
+[048]
+# Gym Street
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
+#-------------------------------
 [049]
 # Campo de baseball
 Bicycle = true
