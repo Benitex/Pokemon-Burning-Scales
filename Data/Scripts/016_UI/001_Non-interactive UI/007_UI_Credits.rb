@@ -195,7 +195,6 @@ Snowbelle City – Volcarona Theme
 Team Rocket Battle Remix vII - Giovanni theme
 Lusamine Battle Remix - Plasma boss battle
 Team Plasma Remix - Plasma intelligence battle
-XY Boutique - Castelia interiors
 Abandoned Ship - Aficcionada battle
 
 Vanilluxe Pavilion
@@ -270,6 +269,7 @@ Sala da meloeatta - Meloettas Song of the Sunset Cover
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
+Gate - Castelia interiors
 
 Monster Hunter Rise
 Sandy Plains Domain of Dust and Desolation - Desert Resort wild battle
