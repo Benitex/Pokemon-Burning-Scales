@@ -87,9 +87,9 @@ BW VELHICES
 HGSS TILISET MY WORK COMPLETE
 
 Com complementos de:
+KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets
 dirtywiggles - Interior tileset Primal
 zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
-KingTapir - Sandstream Desert Tileset
 Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge
 
 
