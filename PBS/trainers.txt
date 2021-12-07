@@ -311,6 +311,26 @@ LoseText = "Vai tomar suco de cajú!"
 Pokemon = VULLABY,14
 Pokemon = SANDILE,14
 #-------------------------------
+[BIKER,Motoqueiro segurança]
+LoseText = "Batalha justa."
+Pokemon = SKUNTANK,15
+Pokemon = MUK,15
+#-------------------------------
+[BIKER,Motoqueiro recepcionista]
+LoseText = "Acho que você vai gostar daqui."
+Pokemon = GOLBAT,15
+Pokemon = GOLBAT,15
+#-------------------------------
+[BIKER,Motoqueiro da prisão 1]
+LoseText = "Ah não!"
+Pokemon = CROAGUNK,15
+Pokemon = SCRAFTY,15
+#-------------------------------
+[BIKER,Motoqueiro da prisão 2]
+LoseText = "Droga..."
+Pokemon = GULPIN,15
+Pokemon = MAWILE,15
+#-------------------------------
 [POKEMONTRAINER_Beethoven,Beethoven]
 LoseText = "O pandemônio..."
 Pokemon = CHATOT,15
