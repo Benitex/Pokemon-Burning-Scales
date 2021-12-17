@@ -316,17 +316,17 @@ LoseText = "Batalha justa."
 Pokemon = SKUNTANK,15
 Pokemon = MUK,15
 #-------------------------------
-[BIKER,Motoqueiro recepcionista]
+[CUEBALL,Motoqueiro recepcionista]
 LoseText = "Acho que você vai gostar daqui."
 Pokemon = GOLBAT,15
 Pokemon = GOLBAT,15
 #-------------------------------
-[BIKER,Motoqueiro da prisão 1]
+[CUEBALL,Motoqueiro da prisão 1]
 LoseText = "Ah não!"
 Pokemon = CROAGUNK,15
 Pokemon = SCRAFTY,15
 #-------------------------------
-[BIKER,Motoqueiro da prisão 2]
+[CUEBALL,Motoqueiro da prisão 2]
 LoseText = "Droga..."
 Pokemon = GULPIN,15
 Pokemon = MAWILE,15
