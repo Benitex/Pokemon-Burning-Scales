@@ -1,33 +1,22 @@
 # Lista de tarefas
-<!--Comentários indicam o que será focado no futuro-->
 
-## Nimbasa
+## Para próxima demo
 
-<!--
-Criar o ginásio antigo de Nimbasa
-Criar a parte de competição dos estádios em Nimbasa
-Colocar NPC battles no torneio (esperando atualizações do script: https://reliccastle.com/resources/321/)
--->
-
-## Rota 4
-
-* Adicionar eventos na cidade dos Motoqueiros
-
-## Castelia
-
+* Quest de recuperar os pokemon dos motoqueiros
+* Battle company
 * Adicionar um elevador na battle company
-* Criar a casa abandonada
+* Casa abandonada
 * Quest do apaixonado
 * Quest das eleições
-* Adicionar sidequest do dançarino procurando um grupo musical
-* Adicionar sidequest de estatístico
-* Link com hold items para loja [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
+* Quest do dançarino procurando um grupo musical
+* Quest de estatístico
+* Link com hold items para loja, [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
 
-## outros
+## Para futuras demos
 
-* Adicionar screeshots no readme
-
-<!--
-Criar o mapa dos Esgotos de Castelia
-Criar os mapas da Relic Passage
--->
+* Esgotos de Castelia
+* Relic Passage
+* Ginásio antigo de Nimbasa
+* Parte de competição dos estádios em Nimbasa
+* Colocar [NPC battles](https://reliccastle.com/resources/321/) no torneio (esperando atualizações do script)
+* Sistema de multiplayer online com [Cable Club](https://reliccastle.com/resources/640/)
