@@ -36,7 +36,7 @@
 class Scene_Credits
   # Backgrounds to show in credits. Found in Graphics/Titles/ folder
   BACKGROUNDS_LIST       = ["credits5","credits4","credits1"]
-  BGM                    = "Marnie’s Theme ft. ebee"
+  BGM                    = "Marnie's Theme ft. ebee"
   SCROLL_SPEED           = 40   # Pixels per second
   SECONDS_PER_BACKGROUND = 11
   TEXT_OUTLINE_COLOR     = Color.new(0, 0, 128, 255)
@@ -178,13 +178,13 @@ Golisopod User
 Autores das músicas:
 
 Credits scene:
-Marnie’s Theme - Raushna ft. ebee
+Marnie's Theme - Raushna ft. ebee
 
 Mewmore
 Route 225 DP – Intro theme
 Gladion – Anna's Theme
 Boutique XY – Many Nimbasa buildings
-Professor Sycamore’s Theme – Desert Resort Entrance
+Professor Sycamore's Theme – Desert Resort Entrance
 Relic Castle – Relic Castle B2
 Lookers Theme – Search for the girl questline
 Unwavering Emotions - Storyteller theme
@@ -219,7 +219,7 @@ Vs Lusamine - Plasma boss battle
 Raushna
 Shopping Mall - Robert Theme
 Battle! Champion Lillie - Tournament oponnents
-Marnie’s Theme ft. ebee – Credits
+Marnie's Theme ft. ebee – Credits
 
 Vetrom
 Battle Marnie – Bikers and cueballs
@@ -241,7 +241,7 @@ Seii
 Route 111 RSE – Desert Resort theme
 
 Snivys
-Join avenue “You’re invited” - Join Avenue
+Join avenue “You're invited” - Join Avenue
 
 Blue Claw Philharmonic
 Ode to Joy (Lofi Hiphop Remix) - Beethoven's house
@@ -266,6 +266,9 @@ Lavender town ochestral arrangementx - Lavender town ochestral arrangement
 
 hyeonjiim
 Sala da meloeatta - Meloettas Song of the Sunset Cover
+
+sentsinkanteun
+Café Sonata - Sun & Moon Iki Town Remix (edited)
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4

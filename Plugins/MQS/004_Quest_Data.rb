@@ -272,7 +272,7 @@ module QuestModule
   }
 
   Quest20 = {
-    :ID => "19",
+    :ID => "20",
     :Name => "Pesquisa política",
     :QuestGiver => "Policial",
     :Stage1 => "Pergunte a 5 pessoas.",
@@ -280,6 +280,16 @@ module QuestModule
     :Location1 => "Castelia",
     :Location2 => "Quartel de Castelia",
     :QuestDescription => "Um policial me pediu para fazer pesquisas de opinião com pessoas pelas ruas de Castelia. Devo conversar com 5 pessoas e descobrir o que elas pensam dos partidos políticos.",
+    :RewardString => "nil"
+  }
+
+  Quest21 = {
+    :ID => "21",
+    :Name => "",
+    :QuestGiver => "",
+    :Stage1 => "",
+    :Location1 => "Cidade dos motoqueiros",
+    :QuestDescription => "",
     :RewardString => "nil"
   }
 
