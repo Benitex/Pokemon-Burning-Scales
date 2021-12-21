@@ -285,11 +285,25 @@ module QuestModule
 
   Quest21 = {
     :ID => "21",
-    :Name => "",
-    :QuestGiver => "",
-    :Stage1 => "",
+    :Name => "Pokemon desaparecidos",
+    :QuestGiver => "nil",
+    :Stage1 => "Encontre os pokemon",
     :Location1 => "Cidade dos motoqueiros",
-    :QuestDescription => "",
+    :QuestDescription => "Vários treinadores de Castelia estão reportando que seus pokemon estão desaparecendo das boxes. A maioria acredita que sejam os motoqueiros, que estão causando muitas confusões ultimamente. Preciso resolver esse problema e trazer esses pokemon de volta.",
+    :RewardString => "nil"
+  }
+
+  Quest22 = {
+    :ID => "22",
+    :Name => "Reerguendo a tenda de berrys!",
+    :QuestGiver => "Vendedora de berrys",
+    :Stage1 => "Doe 500$",
+    :Stage2 => "Doe 1000$",
+    :Stage3 => "Doe 2000$",
+    :Location1 => "Café Sonata",
+    :Location2 => "Oceanfront Road",
+    :Location3 => "Oceanfront Road",
+    :QuestDescription => "Encontrei uma senhora no Café Sonata que perdeu sua tenda de berrys depois de uma crise. Devo doar algum dinheiro a ela para dar uma segunda chance a ela.",
     :RewardString => "nil"
   }
 
