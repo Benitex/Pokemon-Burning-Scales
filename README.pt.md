@@ -25,13 +25,9 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 
 ## Screenshots:
 
-![2021-12-05  19_50_35 147](https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png)
-![2021-12-05  20_04_01 880](https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png)
-![2021-12-05  20_04_30 224](https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png)
-![2021-12-05  19_46_45 459](https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png)
-![2021-12-05  19_42_06 799](https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png)
-![2021-12-05  19_53_10 982](https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png)
-![2021-12-05  20_05_48 415](https://user-images.githubusercontent.com/64505839/144768032-3a5102b6-4203-49e9-a1ee-ac02cba8c8f0.png)
-![2021-12-05  20_09_12 492](https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png)
-![2021-12-05  20_12_40 164](https://user-images.githubusercontent.com/64505839/144768027-a2ae809c-d0aa-464a-8353-153abde939ef.png)
-![2021-12-05  20_16_54 709](https://user-images.githubusercontent.com/64505839/144768023-eff3c883-7d4d-407d-aaa9-5bfa81df573a.png)
+<img src="https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png" width="475"/> <img src="https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png" width="475"/>
+<img src="https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png" width="475"/> <img src="https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png" width="475"/>
+<img src="https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png" width="475"/> <img src="https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png" width="475"/>
+<img src="https://user-images.githubusercontent.com/64505839/144768032-3a5102b6-4203-49e9-a1ee-ac02cba8c8f0.png" width="475"/> <img src="https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png" width="475"/>
+<img src="https://user-images.githubusercontent.com/64505839/144768027-a2ae809c-d0aa-464a-8353-153abde939ef.png" width="475"/> <img src="https://user-images.githubusercontent.com/64505839/144768023-eff3c883-7d4d-407d-aaa9-5bfa81df573a.png" width="475"/>
+
