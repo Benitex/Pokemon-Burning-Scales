@@ -329,8 +329,16 @@ MapPosition = 0,13,6
 BattleBack = EliteA
 #-------------------------------
 [038]
-# Loja de Mega Stones
+# Loja de Joias
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,13,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [039]
 # Clube de Hikers
