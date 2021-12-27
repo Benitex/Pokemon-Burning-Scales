@@ -319,7 +319,7 @@ BicycleAlways = false
 MapPosition = 0,13,6
 #-------------------------------
 [036]
-# Game Corner
+# Entrada do Game Corner
 HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------
@@ -574,10 +574,28 @@ SnapEdges = false
 Dungeon = false
 #-------------------------------
 [070]
+# Game Corner 1F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,13,13
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [071]
+# Game Corner 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,13,13
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [072]
 Outdoor = true
