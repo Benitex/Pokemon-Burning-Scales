@@ -195,7 +195,6 @@ GlitchxCity
 Rival Bede – Nimbasa trainers
 Snowbelle City – Volcarona Theme
 Team Rocket Battle Remix vII - Giovanni theme
-Lusamine Battle Remix - Plasma boss battle
 Team Plasma Remix - Plasma intelligence battle
 Abandoned Ship - Aficcionada battle
 
