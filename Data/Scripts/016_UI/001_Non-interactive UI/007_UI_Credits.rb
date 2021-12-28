@@ -211,6 +211,8 @@ Vast Poni Canyon - Route 4 wild battle
 Relic Song - Burning Scales theme
 Nimbasa City Gym (Stage) - Nimbasa City Gym pos Elesa
 Gate Remastered - Route gates
+Game Corner (Johto): Remastered - Game Corner interior
+Hoenn Game Corner: Remastered - Game Corner entrace
 
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
