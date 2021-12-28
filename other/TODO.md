@@ -2,18 +2,17 @@
 
 ## Para próxima demo
 
-* Quest de recuperar os pokemon dos motoqueiros
+* Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
+* Pessoas nas ruas de Castelia para fazer pesquisa política
 * Battle company
 * Adicionar um elevador na battle company
 * Link com hold items para loja, [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
-* Game corner [mapa de hoenn](https://bulbapedia.bulbagarden.net/wiki/File:Mauville_Game_Corner_interior_RSE.png), [mapa de johto](https://bulbapedia.bulbagarden.net/wiki/File:Goldenrod_Game_Corner_JP_HGSS.png)
+* Eventos do Game Corner
 * Casa abandonada
 * Clubes das eleições
 
 * Quest do apaixonado
-* Quest das eleições
 * Quest do dançarino procurando um grupo musical
-* Quest de estatístico
 
 ## Para futuras demos
 
