@@ -23,3 +23,4 @@
 * Colocar [NPC battles](https://reliccastle.com/resources/321/) no torneio (esperando atualizações do script)
 * Sistema de multiplayer online com [Cable Club](https://reliccastle.com/resources/640/)
 * [Minigame de fósseis](https://essentialsdocs.fandom.com/wiki/Mining_mini-game)
+* Atualizar os plugins EBDX, Generation 8 Project, Following Pokemon EX
