@@ -4,8 +4,7 @@
 
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Pessoas nas ruas de Castelia para fazer pesquisa política
-* Battle company
-* Adicionar um elevador na battle company
+* Adicionar os eventos da battle company
 * Link com hold items para loja, [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
 * Eventos do Game Corner
 * Casa abandonada
