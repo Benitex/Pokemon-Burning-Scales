@@ -273,7 +273,7 @@ module QuestModule
 
   Quest20 = {
     :ID => "20",
-    :Name => "Pesquisa política",
+    :Name => "Estatísticas Eleitorais",
     :QuestGiver => "Policial",
     :Stage1 => "Pergunte a 5 pessoas.",
     :Stage2 => "Avise ao policial.",
