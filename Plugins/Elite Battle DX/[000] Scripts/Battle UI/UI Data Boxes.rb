@@ -208,6 +208,15 @@ class DataBoxEBDX  <  SpriteWrapper
     @loaded = true
   end
   #-----------------------------------------------------------------------------
+  #  force new battler data
+  #-----------------------------------------------------------------------------
+  def battler=(val)
+    @battler = val
+    @pokemon = @battler.displayPokemon
+    @trainer = @battle.opponent ? @battle.opponent[0] : nil
+    self.refresh
+  end
+  #-----------------------------------------------------------------------------
   #  set databox position
   #-----------------------------------------------------------------------------
   def position

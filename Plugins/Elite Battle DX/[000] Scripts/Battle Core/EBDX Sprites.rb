@@ -146,6 +146,7 @@ class DynamicPokemonSprite
   #-----------------------------------------------------------------------------
   def sideSize; return @battle.pbSideSize(@index); end
   def battleIndex; return @index; end
+  def pbSetPosition(*args); end
   def delta; return Graphics.frame_rate/40.0; end
   def x; return @sprite.x; end
   def y; return @sprite.y; end

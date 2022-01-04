@@ -721,7 +721,7 @@ end
 #===============================================================================
 class Color
 	# alias for old constructor
-	alias init_org initialize unless self.method_defined?(:init_org)
+	alias init_org initialize unless self.private_method_defined?(:init_org)
   #-----------------------------------------------------------------------------
 	# new constructor accepts RGB values as well as a hex number or string value
   #-----------------------------------------------------------------------------
@@ -1269,7 +1269,16 @@ module Env
         contents.gsub!(m, "")
       end
       m.gsub!("[#{i[0]}]\r\n", "")
-      entries.push(m.split("\r\n")) # push into array
+      m.gsub!("[#{i[0]}]\n", "")
+      # safely read each line and push into array
+      read_lines = []
+      m.each_line do |ext_line|
+        ext_line.gsub!("\r\n", "")
+        ext_line.gsub!("\n", "")
+        read_lines.push(ext_line)
+      end
+      # push read lines into array
+      entries.push(read_lines) # push into array
     end
     # delete first empty data point
     entries.delete_at(0)

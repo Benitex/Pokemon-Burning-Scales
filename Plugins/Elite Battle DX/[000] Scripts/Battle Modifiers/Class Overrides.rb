@@ -97,7 +97,7 @@ class Trainer
   #  potential fix for trainer names having double spaces
   #-----------------------------------------------------------------------------
   def full_name
-    return _INTL("{1} {2}", trainer_type_name.strip, @name.strip)
+    return sprintf("%s %s", trainer_type_name, @name)
   end
 end
 #-------------------------------------------------------------------------------
@@ -175,5 +175,52 @@ module PokeBattle_BattleCommon
     pokemon.calc_stats
     return pbStorePokemon_ebdx(pokemon)
   end
+end
+#===============================================================================
+#  additional scene compatibility
+class PokeBattle_Scene
+  #-----------------------------------------------------------------------------
+  #  swap battlers (for Ally Switch)
+  #-----------------------------------------------------------------------------
+  def pbSwapBattlerSprites(idxA, idxB)
+    @sprites["pokemon_#{idxA}"], @sprites["pokemon_#{idxB}"] = @sprites["pokemon_#{idxB}"], @sprites["pokemon_#{idxA}"]
+    @lastCmd[idxA], @lastCmd[idxB] = @lastCmd[idxB], @lastCmd[idxA]
+    @lastMove[idxA], @lastMove[idxB] = @lastMove[idxB], @lastMove[idxA]
+    [idxA, idxB].each do |i|
+      @sprites["pokemon_#{i}"].index = i
+      @sprites["dataBox_#{i}"].battler = @battle.battlers[i]
+    end
+    pbRefresh
+  end
+  #-----------------------------------------------------------------------------
+end
+#===============================================================================
+# fix issue for disappearing sprites
+class PokeBattle_Battler
+  #-----------------------------------------------------------------------------
+  #  compatibility to bring back all hidden sprites if necessary (after animation)
+  #-----------------------------------------------------------------------------
+  alias pbMissMessage_ebdx pbMissMessage unless self.method_defined?(:pbMissMessage_ebdx)
+  def pbMissMessage(move, user, target)
+    ret = pbMissMessage_ebdx(move, user, target)
+    userSprite = @battle.scene.sprites["pokemon_#{user.index}"]
+    if !ret && userSprite.hidden && !userSprite.visible
+      userSprite.hidden = false
+      userSprite.visible = true
+    end
+    return ret
+  end
+  #-----------------------------------------------------------------------------
+  alias pbSuccessCheckAgainstTarget_ebdx pbSuccessCheckAgainstTarget unless self.method_defined?(:pbSuccessCheckAgainstTarget_ebdx)
+  def pbSuccessCheckAgainstTarget(move, user, target)
+    ret = pbSuccessCheckAgainstTarget_ebdx(move, user, target)
+    userSprite = @battle.scene.sprites["pokemon_#{user.index}"]
+    if !ret && userSprite.hidden && !userSprite.visible
+      userSprite.hidden = false
+      userSprite.visible = true
+    end
+    return ret
+  end
+  #-----------------------------------------------------------------------------
 end
 #===============================================================================

@@ -86,6 +86,7 @@ class SunMoonSpecialBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -239,6 +240,7 @@ class SunMoonEliteBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -353,10 +355,11 @@ end
 class SunMoonCrazyBackground
   attr_accessor :speed
   # main method to create the background
-  def initialize(viewport,trainerid,evilteam=false,teamskull=false)
+  def initialize(viewport, trainerid, evilteam = false, teamskull = false)
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -461,6 +464,7 @@ class SunMoonUltraBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @fpIndex = 0
@@ -592,6 +596,7 @@ class SunMoonDigitalBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -724,6 +729,7 @@ class SunMoonPlasmaBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -843,6 +849,7 @@ class SunMoonGoldBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}
@@ -938,6 +945,7 @@ class SunMoonCrystalBackground
     @viewport = viewport
     @trainerid = trainerid
     @evilteam = evilteam
+    @teamskull = teamskull
     @disposed = false
     @speed = 1
     @sprites = {}

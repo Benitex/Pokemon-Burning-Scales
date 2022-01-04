@@ -36,10 +36,11 @@ end
 #  Safari Zone compatibility
 #===============================================================================
 class PokeBattle_SafariZone
-  attr_accessor :opponents, :players, :scene
+  attr_accessor :opponents, :players, :scene, :battlescene
   alias initialize_ebdx initialize unless self.method_defined?(:initialize_ebdx)
   def initialize(*args)
     args[0].safaribattle = true
+    @battlescene = true
     @maxSize = args[2].length
     initialize_ebdx(*args)
   end
@@ -193,7 +194,7 @@ class PokeBattle_FakeBattler
     return self.pokemon
   end
   #-----------------------------------------------------------------------------
-  #  get Pokemon object
+  #  get Pokemon form
   #-----------------------------------------------------------------------------
   def form
     return self.pokemon.form

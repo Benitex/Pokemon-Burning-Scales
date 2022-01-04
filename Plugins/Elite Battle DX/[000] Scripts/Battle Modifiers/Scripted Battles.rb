@@ -231,10 +231,10 @@ class PokeBattle_Scene
     x = v > 0 ? -8 : -6
     for i in 0...20.delta_add
       k = 20.delta_add/20.0
-      moveEntireScene(x, (speech ? +2 : -1), true, true) if i%k > 0
+      moveEntireScene(x, (speech ? +2 : -1), true, true) if i%k > 0 || k == 1
       @sprites["opponent"].opacity += 12.8.delta_sub(false)
-      @sprites["opponent"].x += x if i%k > 0
-      @sprites["opponent"].y += (speech ? 2 : -1) if i%k > 0
+      @sprites["opponent"].x += x if i%k > 0 || k == 1
+      @sprites["opponent"].y += (speech ? 2 : -1) if i%k > 0 || k == 1
       @sprites["box1"].zoom_x += (@viewport.width/16).delta_sub(false) if speech
       @sprites["box2"].zoom_x += (@viewport.width/16).delta_sub(false) if speech
       self.wait(1, true)
@@ -254,10 +254,10 @@ class PokeBattle_Scene
     x = v > 0 ? 8 : 6
     for i in 0...20.delta_add
       k = 20.delta_add/20.0
-      moveEntireScene(x, (speech ? -2 : +1), true, true) if i%k > 0
+      moveEntireScene(x, (speech ? -2 : +1), true, true) if i%k > 0 || k == 1
       @sprites["opponent"].opacity -= 12.8.delta_sub(false)
-      @sprites["opponent"].x += x if i%k > 0
-      @sprites["opponent"].y -= (speech ? 2 : -1) if i%k > 0
+      @sprites["opponent"].x += x if i%k > 0 || k == 1
+      @sprites["opponent"].y -= (speech ? 2 : -1) if i%k > 0 || k == 1
       @sprites["box1"].zoom_x -= (@viewport.width/16).delta_sub(false) if speech
       @sprites["box2"].zoom_x -= (@viewport.width/16).delta_sub(false) if speech
       self.wait(1, true)
