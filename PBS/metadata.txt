@@ -319,7 +319,7 @@ BicycleAlways = false
 MapPosition = 0,13,6
 #-------------------------------
 [036]
-# Entrada do Game Corner
+# Game Corner
 HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------
@@ -550,6 +550,10 @@ Dungeon = false
 #-------------------------------
 [067]
 # Battle Company
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,12,12
 #-------------------------------
 [068]
@@ -598,20 +602,38 @@ SnapEdges = false
 Dungeon = false
 #-------------------------------
 [072]
-Outdoor = true
-ShowArea = true
-Weather = Storm,50
+# Elevador
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,18,17
 #-------------------------------
 [073]
-Outdoor = true
-ShowArea = true
+# Battle Company 2F
+Outdoor = false
+ShowArea = false
 MapPosition = 0,22,16
 #-------------------------------
 [074]
-Bicycle = true
+# Battle Company 3F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,12,10
 #-------------------------------
 [075]
-Outdoor = true
+# Battle Company 4F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
 MapPosition = 1,13,16
+#-------------------------------
+[076]
+# Battle Company 5F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
