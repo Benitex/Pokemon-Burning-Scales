@@ -1,41 +1,4 @@
 #-------------------------------------------------------------------------------
-# New animation to incorporate the HM animation for Following Pokemon
-#-------------------------------------------------------------------------------
-alias follow_HMAnim pbHiddenMoveAnimation
-def pbHiddenMoveAnimation(pokemon,followAnim = true)
-  ret = follow_HMAnim(pokemon)
-  if ret && followAnim && $PokemonTemp.dependentEvents.can_refresh? && pokemon == $Trainer.first_able_pokemon
-    value = $game_player.direction
-    follower_move_route([PBMoveRoute::Forward])
-    case pbGetFollowerDependentEvent.direction
-    when 2; pbMoveRoute($game_player,[PBMoveRoute::Up],true)
-    when 4; pbMoveRoute($game_player,[PBMoveRoute::Right],true)
-    when 6; pbMoveRoute($game_player,[PBMoveRoute::Left],true)
-    when 8; pbMoveRoute($game_player,[PBMoveRoute::Down],true)
-    end
-    pbMoveRoute($game_player,[PBMoveRoute::Wait,(Graphics.frame_rate/5)])
-    pbTurnTowardEvent($game_player,pbGetFollowerDependentEvent)
-    pbMoveRoute($game_player,[PBMoveRoute::Wait,(Graphics.frame_rate/5)])
-    case value
-    when 2; follower_move_route([PBMoveRoute::TurnDown])
-    when 4; follower_move_route([PBMoveRoute::TurnLeft])
-    when 6; follower_move_route([PBMoveRoute::TurnRight])
-    when 8; follower_move_route([PBMoveRoute::TurnUp])
-    end
-    pbMoveRoute($game_player,[PBMoveRoute::Wait,(Graphics.frame_rate/5)])
-    case value
-    when 2; pbMoveRoute($game_player,[PBMoveRoute::TurnDown],true)
-    when 4; pbMoveRoute($game_player,[PBMoveRoute::TurnLeft],true)
-    when 6; pbMoveRoute($game_player,[PBMoveRoute::TurnRight],true)
-    when 8; pbMoveRoute($game_player,[PBMoveRoute::TurnUp],true)
-    end
-    pbSEPlay("Player jump")
-    follower_move_route([PBMoveRoute::Jump,0,0])
-    pbMoveRoute($game_player,[PBMoveRoute::Wait,(Graphics.frame_rate/5)])
-  end
-end
-
-#-------------------------------------------------------------------------------
 # Edited Surf call to refresh follower when the player jumps to surf
 #-------------------------------------------------------------------------------
 def pbSurf
@@ -43,26 +6,39 @@ def pbSurf
   return false if $game_player.pbHasDependentEvents?
   move = :SURF
   movefinder = $Trainer.get_pokemon_with_move(move)
-  if !pbCheckHiddenMoveBadge(Settings::BADGE_FOR_SURF,false) || (!$DEBUG && !movefinder)
+  if !defined?(Item_Surf)
+    if !pbCheckHiddenMoveBadge(Settings::BADGE_FOR_SURF,false) || (!$DEBUG && !movefinder)
+      return false
+    end
+  elsif !pbCanUseItem(Item_Surf)
     return false
   end
   if pbConfirmMessage(_INTL("The water is a deep blue...\nWould you like to surf on it?"))
-    if movefinder
+    if defined?(Item_Surf) && pbCanUseItem(Item_Surf)
+      speciesname = $Trainer.name
+      movename    = _INTL("the {1}", GameData::Item.get(Item_Surf[:internal_name]).name)
+    elsif movefinder
       speciesname = movefinder.name
+      movename    = GameData::Move.get(move).name
       $PokemonGlobal.current_surfing = movefinder
     else
       speciesname = $Trainer.name
+      movename    = GameData::Move.get(move).name
     end
-    pbMessage(_INTL("{1} used {2}!",speciesname,GameData::Move.get(move).name))
+    pbMessage(_INTL("{1} used {2}!", speciesname, movename))
     pbCancelVehicles
     pbHiddenMoveAnimation(movefinder,false)
     surfbgm = GameData::Metadata.get.surf_BGM
     pbCueBGM(surfbgm,0.5) if surfbgm
-    surf_anim_1 = $PokemonTemp.dependentEvents.can_refresh?
+    surf_anim_1 = FollowingPkmn.active?
     $PokemonGlobal.surfing = true
-    surf_anim_2 = $PokemonTemp.dependentEvents.can_refresh?
-    $PokemonTemp.dependentEvents.refresh_sprite(surf_anim_1 && !surf_anim_2)
+    FollowingPkmn.refresh_internal
+    surf_anim_2 = FollowingPkmn.active?
+    $PokemonGlobal.surfing = false
+    old_toggled = $PokemonGlobal.follower_toggled
+    FollowingPkmn.toggle_off(true) if surf_anim_1 != surf_anim_2
     pbStartSurfing
+    FollowingPkmn.toggle(old_toggled, false)
     return true
   end
   return false
@@ -72,15 +48,16 @@ end
 # Edited Surf call to refresh follower when the player jumps to get off surfing
 # Pokemon
 #-------------------------------------------------------------------------------
-alias follow_pbEndSurf pbEndSurf
-def pbEndSurf(_xOffset,_yOffset)
-  surf_anim_1 = $PokemonTemp.dependentEvents.can_refresh?
-  ret = follow_pbEndSurf(_xOffset,_yOffset)
-  surf_anim_2 = $PokemonTemp.dependentEvents.can_refresh?
-  if ret
-    $PokemonGlobal.current_surfing = nil
-    $PokemonGlobal.call_refresh = [true,!surf_anim_1 && surf_anim_2]
-  end
+alias __followingpkmn__pbEndSurf pbEndSurf unless defined?(__followingpkmn__pbEndSurf)
+def pbEndSurf(*args)
+  surf_anim_1 = FollowingPkmn.active?
+  ret = __followingpkmn__pbEndSurf(*args)
+  FollowingPkmn.refresh_internal
+  surf_anim_2 = FollowingPkmn.active?
+  return false if ! ret
+  $PokemonGlobal.current_surfing = nil
+  $PokemonGlobal.call_refresh = [true, (surf_anim_1 != surf_anim_2)]
+  return true
 end
 
 #-------------------------------------------------------------------------------
@@ -181,7 +158,7 @@ HiddenMoveHandlers::UseMove.add(:STRENGTH,proc {|move,pokemon|
 #-------------------------------------------------------------------------------
 # Edited Headbutt call to incorporate new HM Animation when headbutting
 #-------------------------------------------------------------------------------
-def pbHeadbutt(event=nil)
+def pbHeadbutt(event = nil)
   event = $game_player.pbFacingEvent(true)
   move = :HEADBUTT
   movefinder = $Trainer.get_pokemon_with_move(move)
