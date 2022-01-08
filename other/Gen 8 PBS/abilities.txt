@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 1,STENCH,Stench,"The stench may cause the target to flinch."
 2,DRIZZLE,Drizzle,"The Pokémon makes it rain if it appears in battle."
@@ -233,30 +233,30 @@
 231,SHADOWSHIELD,Shadow Shield,"Resists damage while its HP is full."
 232,PRISMARMOR,Prism Armor,"Reduces damage from super-effective attacks."
 233,NEUROFORCE,Neuroforce,"Powers up moves that are super-effective."
-234,BALLFETCH,Ball Fetch,"Fetches the Poké Ball from the first failed throw.",
-235,COTTONDOWN,Cotton Down,"Lowers everyone else's Speed when attacked.",
-236,DAUNTLESSSHIELD,Dauntless Shield,"Boosts Defense stat upon entering the battle.",
-237,GORILLATACTICS,Gorilla Tactics,"Boosts Attack but only allows the use of one move.",
-238,GULPMISSILE,Gulp Missile,"Attacks with prey caught when using Surf or Dive.",
-239,HUNGERSWITCH,Hunger Switch,"It alternates between Full Belly Mode and Hangry Mode.",
-240,ICEFACE,Ice Face,"Prevent a physical attack. Can be restored with hail.",
-241,ICESCALES,Ice Scales,"Halves the damage taken from special moves.",
-242,INTREPIDSWORD,Intrepid Sword,"Boosts Attack stat upon entering the battle.",
-243,LIBERO,Libero,"It changes type to that of the move it's about to use.",
-244,MIMICRY,Mimicry,"Changes the Pokémon's type based on the terrain.",
-245,MIRRORARMOR,Mirror Armor,"Bounces back stat-lowering effects.",
-246,NEUTRALIZINGGAS,Neutralizing Gas,"Abilities will be nullified or will not be triggered.",
-247,PASTELVEIL,Pastel Veil,"Protects itself and all allies from being poisoned.",
-248,PERISHBODY,Perish Body,"Upon being hit, all Pokémon faint after 3 turns.",
-249,POWERSPOT,Power Spot,"Powers up all the moves of all allies.",
-250,PROPELLERTAIL,Propeller Tail,"Ignores effects that change the target of a move.",
-251,PUNKROCK,Punk Rock,"Boosts power and resistance of sound moves.",
-252,RIPEN,Ripen,"Ripens Berries and doubles their effect.",
-253,SANDSPIT,Sand Spit,"Creates a sandstorm when it's hit by an attack.",
-254,SCREENCLEANER,Screen Cleaner,"All screen effects are nullified upon entering the battle.",
-255,STALWART,Stalwart,"Ignores effects that change the target of a move.",
-256,STEAMENGINE,Steam Engine,"Boosts Speed when hit by a Fire or Water-type move.",
-257,STEELYSPIRIT,Steely Spirit,"Powers up allies' Steel-type moves.",
+234,BALLFETCH,Ball Fetch,"Fetches the Poké Ball from the first failed throw."
+235,COTTONDOWN,Cotton Down,"Lowers everyone else's Speed when attacked."
+236,DAUNTLESSSHIELD,Dauntless Shield,"Boosts Defense stat upon entering the battle."
+237,GORILLATACTICS,Gorilla Tactics,"Boosts Attack but only allows the use of one move."
+238,GULPMISSILE,Gulp Missile,"Attacks with prey caught when using Surf or Dive."
+239,HUNGERSWITCH,Hunger Switch,"It alternates between Full Belly Mode and Hangry Mode."
+240,ICEFACE,Ice Face,"Prevent a physical attack. Can be restored with hail."
+241,ICESCALES,Ice Scales,"Halves the damage taken from special moves."
+242,INTREPIDSWORD,Intrepid Sword,"Boosts Attack stat upon entering the battle."
+243,LIBERO,Libero,"It changes type to that of the move it's about to use."
+244,MIMICRY,Mimicry,"Changes the Pokémon's type based on the terrain."
+245,MIRRORARMOR,Mirror Armor,"Bounces back stat-lowering effects."
+246,NEUTRALIZINGGAS,Neutralizing Gas,"Abilities will be nullified or will not be triggered."
+247,PASTELVEIL,Pastel Veil,"Protects itself and all allies from being poisoned."
+248,PERISHBODY,Perish Body,"Upon being hit, all Pokémon faint after 3 turns."
+249,POWERSPOT,Power Spot,"Powers up all the moves of all allies."
+250,PROPELLERTAIL,Propeller Tail,"Ignores effects that change the target of a move."
+251,PUNKROCK,Punk Rock,"Boosts power and resistance of sound moves."
+252,RIPEN,Ripen,"Ripens Berries and doubles their effect."
+253,SANDSPIT,Sand Spit,"Creates a sandstorm when it's hit by an attack."
+254,SCREENCLEANER,Screen Cleaner,"All screen effects are nullified upon entering the battle."
+255,STALWART,Stalwart,"Ignores effects that change the target of a move."
+256,STEAMENGINE,Steam Engine,"Boosts Speed when hit by a Fire or Water-type move."
+257,STEELYSPIRIT,Steely Spirit,"Powers up allies' Steel-type moves."
 258,WANDERINGSPIRIT,Wandering Spirit,"Taking a direct contact hit exchanges Abilities."
 259,UNSEENFIST,Unseen Fist,"Contact moves negate all protection effects."
 260,QUICKDRAW,Quick Draw,"Enables the Pokémon to move first occasionally."
