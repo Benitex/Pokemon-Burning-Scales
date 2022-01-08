@@ -185,7 +185,7 @@ Marnie's Theme - Raushna ft. ebee
 Mewmore
 Route 225 DP – Intro theme
 Gladion – Anna's Theme
-Boutique XY – Many Nimbasa buildings
+Boutique XY – Nimbasa buildings
 Professor Sycamore's Theme – Desert Resort Entrance
 Relic Castle – Relic Castle B2
 Lookers Theme – Search for the girl questline
@@ -272,6 +272,9 @@ Sala da meloeatta - Meloettas Song of the Sunset Cover
 
 sentsinkanteun
 Café Sonata - Sun & Moon Iki Town Remix (edited)
+
+Thomniverse Remix
+Hops Battle Theme Remix - Castelia Trainers
 
 Pokémon X & Y
 Poké Mart Shopping - Route 4
