@@ -725,7 +725,7 @@ class TriadScreen
       square = TriadSquare.new
       if @elements
         loop do
-          trial_type = type_keys[rand(type_keys.length)]
+          trial_type = type_keys.sample
           type_data = GameData::Type.get(trial_type)
           next if type_data.pseudo_type
           square.type = type_data.id
@@ -769,7 +769,7 @@ class TriadScreen
       species_keys = GameData::Species::DATA.keys
       candidates = []
       while candidates.length < 200
-        card = species_keys[rand(species_keys.length)]
+        card = species_keys.sample
         card_data = GameData::Species.get(card)
         card = card_data.id   # Make sure it's a symbol
         triad = TriadCard.new(card)

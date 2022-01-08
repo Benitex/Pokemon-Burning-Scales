@@ -93,6 +93,8 @@ end
 # Substitutes. (Teatime)
 #===============================================================================
 class PokeBattle_Move_184 < PokeBattle_Move
+  def ignoresSubstitute?(user); return true; end
+
   def pbMoveFailed?(user, targets)
     failed = true
     targets.each do |b|
@@ -315,7 +317,7 @@ end
 # execution of this move (Burning Jealousy)
 #===============================================================================
 class PokeBattle_Move_18B < PokeBattle_BurnMove
-  def pbEffectAgainstTarget(user, target)
+  def pbAdditionalEffect(user, target)
     super if target.statsRaised
   end
 end
@@ -326,9 +328,9 @@ end
 # Move has increased Priority in Grassy Terrain (Grassy Glide)
 #===============================================================================
 class PokeBattle_Move_18C < PokeBattle_Move
-  def priority
+  def pbPriority(user)
     ret = super
-    ret += 1 if @battle.field.terrain == :Electric
+    ret += 1 if @battle.field.terrain == :Grassy && user.affectedByTerrain?
     return ret
   end
 end
@@ -339,7 +341,7 @@ end
 #===============================================================================
 class PokeBattle_Move_18D < PokeBattle_Move
   def pbBaseDamage(baseDmg,user,target)
-    baseDmg *= 2 if @battle.field.terrain == :Electric && user.affectedByTerrain?
+    baseDmg *= 2 if @battle.field.terrain == :Electric && target.affectedByTerrain?
     return baseDmg
   end
 end
@@ -555,7 +557,7 @@ class PokeBattle_Move_197 < PokeBattle_Move
   def pbEffectAgainstTarget(user,target)
     target.pbChangeTypes(:PSYCHIC)
     typeName = GameData::Type.get(:PSYCHIC).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!", target.pbThis, typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!", target.pbThis, typeName))
   end
 end
 
@@ -593,8 +595,13 @@ end
 # damage). (Steel Beam)
 #===============================================================================
 class PokeBattle_Move_199 < PokeBattle_RecoilMove
-  def pbRecoilDamage(user, target)
-    return (user.totalhp / 2.0).ceil
+  def pbEffectAfterAllHits(user, target)
+    return if !user.takesIndirectDamage?
+    amt = (user.totalhp / 2.0).ceil
+    amt = 1 if amt < 1
+    user.pbReduceHP(amt, false)
+    @battle.pbDisplay(_INTL("{1} is damaged by recoil!", user.pbThis))
+    user.pbItemHPHealCheck
   end
 end
 

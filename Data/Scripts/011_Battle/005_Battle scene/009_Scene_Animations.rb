@@ -169,12 +169,11 @@ class PokeBattle_Scene
   #=============================================================================
   # Ability splash bar animations
   #=============================================================================
-  def pbShowAbilitySplash(battler,ability=nil)
+  def pbShowAbilitySplash(battler)
     return if !PokeBattle_SceneConstants::USE_ABILITY_SPLASH
     side = battler.index%2
     pbHideAbilitySplash(battler) if @sprites["abilityBar_#{side}"].visible
     @sprites["abilityBar_#{side}"].battler = battler
-    @sprites["abilityBar_#{side}"].ability = ability
     abilitySplashAnim = AbilitySplashAppearAnimation.new(@sprites,@viewport,side)
     loop do
       abilitySplashAnim.update
@@ -195,7 +194,6 @@ class PokeBattle_Scene
       break if abilitySplashAnim.animDone?
     end
     abilitySplashAnim.dispose
-    @sprites["abilityBar_#{side}"].ability = nil
   end
 
   def pbReplaceAbilitySplash(battler)
@@ -271,7 +269,7 @@ class PokeBattle_Scene
   # Animates a data box's Exp bar
   #=============================================================================
   def pbEXPBar(battler,startExp,endExp,tempExp1,tempExp2)
-    return if !battler
+    return if !battler || endExp == startExp
     startExpLevel = tempExp1-startExp
     endExpLevel   = tempExp2-startExp
     expRange      = endExp-startExp

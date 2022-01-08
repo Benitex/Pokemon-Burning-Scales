@@ -83,16 +83,20 @@ PokemonDebugMenuCommands.register("setstatus", {
       ids = [:NONE]
       GameData::Status.each do |s|
         next if s.id == :NONE
-        commands.push(s.name)
+        commands.push(_INTL("Set {1}", s.name))
         ids.push(s.id)
       end
       loop do
-        cmd = screen.pbShowCommands(_INTL("Set {1}'s status.", pkmn.name), commands, cmd)
+        msg = _INTL("Current status: {1}", GameData::Status.get(pkmn.status).name)
+        if pkmn.status == :SLEEP
+          msg = _INTL("Current status: {1} (turns: {2})",
+             GameData::Status.get(pkmn.status).name, pkmn.statusCount)
+        end
+        cmd = screen.pbShowCommands(msg, commands, cmd)
         break if cmd < 0
         case cmd
         when 0   # Cure
           pkmn.heal_status
-          screen.pbDisplay(_INTL("{1}'s status was cured.", pkmn.name))
           screen.pbRefreshSingle(pkmnid)
         else   # Give status problem
           count = 0
@@ -177,6 +181,50 @@ PokemonDebugMenuCommands.register("setpokerus", {
         end
       when 2   # Clear Pokérus
         pkmn.pokerus = 0
+        screen.pbRefreshSingle(pkmnid)
+      end
+    end
+    next false
+  }
+})
+
+PokemonDebugMenuCommands.register("setdamage", {
+  "parent"      => "hpstatusmenu",
+  "name"        => _INTL("Set damage done"),
+  "always_show" => true,
+  "effect"      => proc { |pkmn, pkmnid, heldpoke, settingUpBattle, screen|
+    if pkmn.egg?
+      screen.pbDisplay(_INTL("{1} is an egg.", pkmn.name))
+    else
+      params = ChooseNumberParams.new
+      params.setRange(0, pkmn.totalhp - 1)
+      params.setDefaultValue(pkmn.damage_done)
+      newdmg = pbMessageChooseNumber(
+         _INTL("Set {1}'s damage done (max. {2}).", pkmn.name, pkmn.totalhp - 1), params) { screen.pbUpdate }
+      if newdmg != pkmn.damage_done
+        pkmn.damage_done = newdmg
+        screen.pbRefreshSingle(pkmnid)
+      end
+    end
+    next false
+  }
+})
+
+PokemonDebugMenuCommands.register("setcrit", {
+  "parent"      => "hpstatusmenu",
+  "name"        => _INTL("Set critical hits"),
+  "always_show" => true,
+  "effect"      => proc { |pkmn, pkmnid, heldpoke, settingUpBattle, screen|
+    if pkmn.egg?
+      screen.pbDisplay(_INTL("{1} is an egg.", pkmn.name))
+    else
+      params = ChooseNumberParams.new
+      params.setRange(0, 999)
+      params.setDefaultValue(pkmn.critical_hits)
+      newcrits = pbMessageChooseNumber(
+         _INTL("Set {1}'s critical hits (max. 999).", pkmn.name), params) { screen.pbUpdate }
+      if newhp != pkmn.critical_hits
+        pkmn.critical_hits = newcrits
         screen.pbRefreshSingle(pkmnid)
       end
     end

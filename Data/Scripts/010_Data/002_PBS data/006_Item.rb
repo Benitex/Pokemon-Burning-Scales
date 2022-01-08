@@ -37,6 +37,8 @@ module GameData
         type_data = GameData::Type.get(move_type)
         ret = sprintf("Graphics/Items/%s_%s", prefix, type_data.id)
         return ret if pbResolveBitmap(ret)
+        ret = sprintf("Graphics/Items/machine_%s", type_data.id)
+        return ret if pbResolveBitmap(ret)
       end
       return "Graphics/Items/000"
     end

@@ -381,7 +381,12 @@ end
 # Removes trapping moves, entry hazards and Leech Seed on user/user's side.
 # (Rapid Spin)
 #===============================================================================
-class PokeBattle_Move_110 < PokeBattle_Move
+class PokeBattle_Move_110 < PokeBattle_StatUpMove
+  def initialize(battle,move)
+    super
+    @statUp = [:SPEED, 1]
+  end
+
   def pbEffectAfterAllHits(user,target)
     return if user.fainted? || target.damageState.unaffected
     if user.effects[PBEffects::Trapping]>0
@@ -413,7 +418,10 @@ class PokeBattle_Move_110 < PokeBattle_Move
       user.pbOwnSide.effects[PBEffects::StickyWebUser] = -1
       @battle.pbDisplay(_INTL("{1} blew away sticky webs!",user.pbThis))
     end
-    user.pbRaiseStatStage(:SPEED,1,user) if user.pbCanRaiseStatStage?(:SPEED,user,self)
+  end
+
+  def pbAdditionalEffect(user,target)
+    super if Settings::MECHANICS_GENERATION >= 8
   end
 end
 
@@ -922,10 +930,7 @@ class PokeBattle_Move_120 < PokeBattle_Move
     if @battle.pbSwapBattlers(idxA,idxB)
       @battle.pbDisplay(_INTL("{1} and {2} switched places!",
       @battle.battlers[idxB].pbThis,@battle.battlers[idxA].pbThis(true)))
-      if Settings::MECHANICS_GENERATION >= 8
-		    @battle.pbActivateHealingWish(@battle.battlers[idxA])
-		    @battle.pbActivateHealingWish(@battle.battlers[idxB])
-      end
+      [idxA, idxB].each { |idx| @battle.battlers[idx].pbEffectsOnEnteringPosition }
     end
     @battle.eachBattler do |b|
       next if @battle.choices[b.index][0] != :UseMove || b.movedThisRound?
@@ -1427,7 +1432,7 @@ class PokeBattle_Move_142 < PokeBattle_Move
   def pbEffectAgainstTarget(user,target)
     target.effects[PBEffects::Type3] = :GHOST
     typeName = GameData::Type.get(:GHOST).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",target.pbThis,typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!",target.pbThis,typeName))
   end
 end
 
@@ -1448,7 +1453,7 @@ class PokeBattle_Move_143 < PokeBattle_Move
   def pbEffectAgainstTarget(user,target)
     target.effects[PBEffects::Type3] = :GRASS
     typeName = GameData::Type.get(:GRASS).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",target.pbThis,typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!",target.pbThis,typeName))
   end
 end
 
@@ -1700,10 +1705,11 @@ end
 # (Fell Stinger)
 #===============================================================================
 class PokeBattle_Move_150 < PokeBattle_Move
-  def pbEffectAfterAllHits(user,target)
+  def pbEffectAfterAllHits(user, target)
     return if !target.damageState.fainted
-    return if !user.pbCanRaiseStatStage?(:ATTACK,user,self)
-    user.pbRaiseStatStage(:ATTACK,3,user)
+    return if !user.pbCanRaiseStatStage?(:ATTACK, user, self)
+    stages = Settings::MECHANICS_GENERATION >= 7 ? 3 : 2
+    user.pbRaiseStatStage(:ATTACK, stages, user)
   end
 end
 
@@ -2230,7 +2236,7 @@ end
 #===============================================================================
 class PokeBattle_Move_167 < PokeBattle_Move
   def pbMoveFailed?(user,targets)
-    if @battle.pbWeather != :Hail
+    if user.effectiveWeather != :Hail
       @battle.pbDisplay(_INTL("But it failed!"))
       return true
     end
@@ -2402,7 +2408,7 @@ end
 #===============================================================================
 class PokeBattle_Move_16D < PokeBattle_HealingMove
   def pbHealAmount(user)
-    return (user.totalhp*2/3.0).round if @battle.pbWeather == :Sandstorm
+    return (user.totalhp*2/3.0).round if user.effectiveWeather == :Sandstorm
     return (user.totalhp/2.0).round
   end
 end
@@ -2696,16 +2702,17 @@ end
 class PokeBattle_Move_17A < PokeBattle_Move
   def initialize(battle,move)
     super
-    @swapEffects = [:Reflect, :LightScreen, :AuroraVeil, :SeaOfFire,
-      :Swamp, :Rainbow, :Mist, :Safeguard, :StealthRock, :Spikes,
-      :StickyWeb, :ToxicSpikes, :Tailwind].map!{|e| getConst(PBEffects,e) }
+    @swapEffects = [
+      :Reflect, :LightScreen, :AuroraVeil, :SeaOfFire, :Swamp, :Rainbow,
+      :Mist, :Safeguard, :StealthRock, :Spikes, :StickyWeb, :ToxicSpikes,
+      :Tailwind
+    ].map!{ |e| PBEffects.const_get(e) rescue -1 }
   end
 
-  def pbMoveFailed(user,targets)
+  def pbMoveFailed?(user,targets)
     sides = [user.pbOwnSide,user.pbOpposingSide]
     failed = true
-    for i in 0...2
-      side = @battle.sides[i]
+    @battle.sides.each do |side|
       @swapEffects.each do |j|
         next if !side.effects[j] || side.effects[j] == 0
         failed = false
@@ -2739,7 +2746,7 @@ end
 class PokeBattle_Move_17B < PokeBattle_TargetMultiStatUpMove
   def initialize(battle,move)
     super
-    @statUp = [:ATTACK,2,:SPECIAL_ATTACK,2]
+    @statUp = [:ATTACK, 2, :SPECIAL_ATTACK, 2]
   end
 end
 

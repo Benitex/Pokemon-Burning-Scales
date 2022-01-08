@@ -12,7 +12,6 @@ class PokeBattle_Battler
   attr_accessor :item_id
   attr_accessor :moves
   attr_accessor :gender
-  attr_accessor :iv
   attr_accessor :attack
   attr_accessor :spatk
   attr_accessor :speed
@@ -42,6 +41,7 @@ class PokeBattle_Battler
   attr_accessor :tookPhysicalHit
   attr_accessor :statsRaised   # Stats have been raised this round
   attr_accessor :statsLowered  # Stats have been lowered this round
+  attr_accessor :canRestoreIceFace
   attr_accessor :damageState
   attr_accessor :initialHP     # Set at the start of each move's usage
 
@@ -109,7 +109,7 @@ class PokeBattle_Battler
 
   def status=(value)
     @effects[PBEffects::Truant] = false if @status == :SLEEP && value != :SLEEP
-    @effects[PBEffects::Toxic]  = 0 if value != :POISON
+    @effects[PBEffects::Toxic]  = 0 if value != :POISON || self.statusCount == 0
     @status = value
     @pokemon.status = value if @pokemon
     self.statusCount = 0 if value != :POISON && value != :SLEEP
@@ -141,9 +141,11 @@ class PokeBattle_Battler
   #=============================================================================
   # Properties from Pokémon
   #=============================================================================
-  def happiness;    return @pokemon ? @pokemon.happiness : 0;    end
-  def nature;       return @pokemon ? @pokemon.nature : 0;       end
-  def pokerusStage; return @pokemon ? @pokemon.pokerusStage : 0; end
+  def happiness;       return @pokemon ? @pokemon.happiness : 0;       end
+  def gender;          return @pokemon ? @pokemon.gender : 0;          end
+  def nature;          return @pokemon ? @pokemon.nature : nil;        end
+  def pokerusStage;    return @pokemon ? @pokemon.pokerusStage : 0;    end
+  def affection_level; return @pokemon ? @pokemon.affection_level : 0; end
 
   #=============================================================================
   # Mega Evolution, Primal Reversion, Shadow Pokémon
@@ -357,8 +359,8 @@ class PokeBattle_Battler
   #       the item - the code existing is enough to cause the loop).
   def abilityActive?(ignoreFainted = false)
     return false if fainted? && !ignoreFainted
-    return false if @battle.field.effects[PBEffects::NeutralizingGas]
     return false if @effects[PBEffects::GastroAcid]
+    return false if @battle.field.effects[PBEffects::NeutralizingGas] >= 0 && self.index != @battle.field.effects[PBEffects::NeutralizingGas]
     return true
   end
 
@@ -532,9 +534,10 @@ class PokeBattle_Battler
     return true
   end
 
-  def hasUtilityUmbrella?
-    return true if hasActiveItem?(:UTILITYUMBRELLA)
-    return false
+  def effectiveWeather
+    ret = @battle.pbWeather
+    ret = :None if [:Sun, :Rain, :HarshSun, :HeavyRain].include?(ret) && hasActiveItem?(:UTILITYUMBRELLA)
+    return ret
   end
 
   def takesIndirectDamage?(showMsg=false)
@@ -618,11 +621,6 @@ class PokeBattle_Battler
     return true
   end
 
-  def canTakeHealingWish?
-    # Also works with Lunar Dance.
-    return canHeal? || pbHasAnyStatus?
-  end
-
   def affectedByContactEffect?(showMsg=false)
     return false if fainted?
     if hasActiveItem?(:PROTECTIVEPADS)
@@ -684,16 +682,20 @@ class PokeBattle_Battler
     return @battle.initialItems[@index&1][@pokemonIndex]
   end
 
-  def setInitialItem(newItem)
-    @battle.initialItems[@index&1][@pokemonIndex] = newItem
+  def setInitialItem(value)
+    item_data = GameData::Item.try_get(value)
+    new_item = (item_data) ? item_data.id : nil
+    @battle.initialItems[@index&1][@pokemonIndex] = new_item
   end
 
   def recycleItem
     return @battle.recycleItems[@index&1][@pokemonIndex]
   end
 
-  def setRecycleItem(newItem)
-    @battle.recycleItems[@index&1][@pokemonIndex] = newItem
+  def setRecycleItem(value)
+    item_data = GameData::Item.try_get(value)
+    new_item = (item_data) ? item_data.id : nil
+    @battle.recycleItems[@index&1][@pokemonIndex] = new_item
   end
 
   def belched?

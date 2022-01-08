@@ -594,8 +594,19 @@ class PokemonMartScreen
         end
         @stock.compact!
         pbDisplayPaused(_INTL("Here you are! Thank you!")) { pbSEPlay("Mart buy item") }
-        if $PokemonBag
-          if quantity>=10 && GameData::Item.get(item).is_poke_ball? && GameData::Item.exists?(:PREMIERBALL)
+        if quantity >= 10 && $PokemonBag && GameData::Item.exists?(:PREMIERBALL)
+          if Settings::MORE_BONUS_PREMIER_BALLS && GameData::Item.get(item).is_poke_ball?
+            premier_balls_added = 0
+            (quantity / 10).times do
+              break if !@adapter.addItem(:PREMIERBALL)
+              premier_balls_added += 1
+            end
+            if premier_balls_added > 1
+              pbDisplayPaused(_INTL("I'll throw in some {1}, too.", GameData::Item.get(:PREMIERBALL).name_plural))
+            elsif premier_balls_added > 0
+              pbDisplayPaused(_INTL("I'll throw in a {1}, too.", GameData::Item.get(:PREMIERBALL).name))
+            end
+          elsif !Settings::MORE_BONUS_PREMIER_BALLS && GameData::Item.get(item) == :POKEBALL
             if @adapter.addItem(GameData::Item.get(:PREMIERBALL))
               pbDisplayPaused(_INTL("I'll throw in a Premier Ball, too."))
             end
@@ -657,11 +668,11 @@ def pbPokemonMart(stock,speech=nil,cantsell=false)
   cmdBuy  = -1
   cmdSell = -1
   cmdQuit = -1
-  commands[cmdBuy = commands.length]  = _INTL("Comprar")
-  commands[cmdSell = commands.length] = _INTL("Vender") if !cantsell
-  commands[cmdQuit = commands.length] = _INTL("Sair")
+  commands[cmdBuy = commands.length]  = _INTL("Buy")
+  commands[cmdSell = commands.length] = _INTL("Sell") if !cantsell
+  commands[cmdQuit = commands.length] = _INTL("Quit")
   cmd = pbMessage(
-     speech ? speech : _INTL("Gostaria de comprar ou vender?"),
+     speech ? speech : _INTL("How may I serve you?"),
      commands,cmdQuit+1)
   loop do
     if cmdBuy>=0 && cmd==cmdBuy
@@ -673,10 +684,10 @@ def pbPokemonMart(stock,speech=nil,cantsell=false)
       screen = PokemonMartScreen.new(scene,stock)
       screen.pbSellScreen
     else
-      pbMessage(_INTL("Volte sempre!"))
+      pbMessage(_INTL("Please come again!"))
       break
     end
-    cmd = pbMessage(_INTL("Gostaria de algo a mais?"),
+    cmd = pbMessage(_INTL("Is there anything else I can help you with?"),
        commands,cmdQuit+1)
   end
   $game_temp.clear_mart_prices

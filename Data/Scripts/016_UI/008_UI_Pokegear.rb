@@ -128,11 +128,15 @@ class PokemonPokegearScreen
     cmdMap     = -1
     cmdPhone   = -1
     cmdJukebox = -1
+    cmdRaidData = -1 if defined?(Settings::ZUD_COMPAT)
     commands[cmdMap = commands.length]     = ["map",_INTL("Map")]
     if $PokemonGlobal.phoneNumbers && $PokemonGlobal.phoneNumbers.length>0
       commands[cmdPhone = commands.length] = ["phone",_INTL("Phone")]
     end
     commands[cmdJukebox = commands.length] = ["jukebox",_INTL("Jukebox")]
+    if defined?(Settings::ZUD_COMPAT)
+      commands[cmdRaidData = commands.length] = ["database",_INTL("Raid Database")]
+    end
     @scene.pbStartScene(commands)
     loop do
       cmd = @scene.pbScene
@@ -150,6 +154,9 @@ class PokemonPokegearScreen
           screen = PokemonJukeboxScreen.new(scene)
           screen.pbStartScreen
         }
+      elsif defined?(Settings::ZUD_COMPAT) && cmdRaidData>=0 && cmd==cmdRaidData
+        pbPlayDecisionSE
+        pbOpenRaidData
       end
     end
     @scene.pbEndScene

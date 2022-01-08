@@ -92,7 +92,7 @@ end
 #===============================================================================
 class PokeBattle_Move_086 < PokeBattle_Move
   def pbBaseDamageMultiplier(damageMult,user,target)
-    damageMult *= 2 if !user.item
+    damageMult *= 2 if !user.item || user.effects[PBEffects::GemConsumed]
     return damageMult
   end
 end
@@ -104,14 +104,13 @@ end
 #===============================================================================
 class PokeBattle_Move_087 < PokeBattle_Move
   def pbBaseDamage(baseDmg,user,target)
-    baseDmg *= 2 if @battle.pbWeather != :None &&
-                    !([:Sun,:Rain,:HarshSun,:HeavyRain].include?(@battle.pbWeather) && user.hasUtilityUmbrella?)
+    baseDmg *= 2 if user.effectiveWeather != :None
     return baseDmg
   end
 
   def pbBaseType(user)
     ret = :NORMAL
-    case @battle.pbWeather
+    case user.effectiveWeather
     when :Sun, :HarshSun
       ret = :FIRE if GameData::Type.exists?(:FIRE)
     when :Rain, :HeavyRain
@@ -121,7 +120,6 @@ class PokeBattle_Move_087 < PokeBattle_Move
     when :Hail
       ret = :ICE if GameData::Type.exists?(:ICE)
     end
-    ret = :NORMAL if user.hasUtilityUmbrella? && [:FIRE,:WATER].include?(ret)
     return ret
   end
 
@@ -1320,54 +1318,36 @@ class PokeBattle_Move_0B3 < PokeBattle_Move
     when :Psychic
       @npMove = :PSYCHIC if GameData::Move.exists?(:PSYCHIC)
     else
+      try_move = nil
       case @battle.environment
       when :Grass, :TallGrass, :Forest, :ForestGrass
-        if Settings::MECHANICS_GENERATION >= 6
-          @npMove = :ENERGYBALL if GameData::Move.exists?(:ENERGYBALL)
-        else
-          @npMove = :SEEDBOMB if GameData::Move.exists?(:SEEDBOMB)
-        end
+        try_move = (Settings::MECHANICS_GENERATION >= 6) ? :ENERGYBALL : :SEEDBOMB
       when :MovingWater, :StillWater, :Underwater
-        @npMove = :HYDROPUMP if GameData::Move.exists?(:HYDROPUMP)
+        try_move = :HYDROPUMP
       when :Puddle
-        @npMove = :MUDBOMB if GameData::Move.exists?(:MUDBOMB)
+        try_move = :MUDBOMB
       when :Cave
-        if Settings::MECHANICS_GENERATION >= 6
-          @npMove = :POWERGEM if GameData::Move.exists?(:POWERGEM)
-        else
-          @npMove = :ROCKSLIDE if GameData::Move.exists?(:ROCKSLIDE)
-        end
-      when :Rock
-        if Settings::MECHANICS_GENERATION >= 6
-          @npMove = :EARTHPOWER if GameData::Move.exists?(:EARTHPOWER)
-        else
-          @npMove = :ROCKSLIDE if GameData::Move.exists?(:ROCKSLIDE)
-        end
-      when :Sand
-        if Settings::MECHANICS_GENERATION >= 6
-          @npMove = :EARTHPOWER if GameData::Move.exists?(:EARTHPOWER)
-        else
-          @npMove = :EARTHQUAKE if GameData::Move.exists?(:EARTHQUAKE)
-        end
+        try_move = (Settings::MECHANICS_GENERATION >= 6) ? :POWERGEM : :ROCKSLIDE
+      when :Rock, :Sand
+        try_move = (Settings::MECHANICS_GENERATION >= 6) ? :EARTHPOWER : :EARTHQUAKE
       when :Snow
-        if Settings::MECHANICS_GENERATION >= 6
-          @npMove = :FROSTBREATH if GameData::Move.exists?(:FROSTBREATH)
-        else
-          @npMove = :BLIZZARD if GameData::Move.exists?(:BLIZZARD)
-        end
+        try_move = :BLIZZARD
+        try_move = :FROSTBREATH if Settings::MECHANICS_GENERATION == 6
+        try_move = :ICEBEAM if Settings::MECHANICS_GENERATION >= 7
       when :Ice
-        @npMove = :ICEBEAM if GameData::Move.exists?(:ICEBEAM)
+        try_move = :ICEBEAM
       when :Volcano
-        @npMove = :LAVAPLUME if GameData::Move.exists?(:LAVAPLUME)
+        try_move = :LAVAPLUME
       when :Graveyard
-        @npMove = :SHADOWBALL if GameData::Move.exists?(:SHADOWBALL)
+        try_move = :SHADOWBALL
       when :Sky
-        @npMove = :AIRSLASH if GameData::Move.exists?(:AIRSLASH)
+        try_move = :AIRSLASH
       when :Space
-        @npMove = :DRACOMETEOR if GameData::Move.exists?(:DRACOMETEOR)
+        try_move = :DRACOMETEOR
       when :UltraSpace
-        @npMove = :PSYSHOCK if GameData::Move.exists?(:PSYSHOCK)
+        try_move = :PSYSHOCK
       end
+      @npMove = try_move if GameData::Move.exists?(try_move)
     end
   end
 
@@ -2042,7 +2022,7 @@ class PokeBattle_Move_0C4 < PokeBattle_TwoTurnMove
   def pbIsChargingTurn?(user)
     ret = super
     if !user.effects[PBEffects::TwoTurnAttack]
-      if [:Sun, :HarshSun].include?(@battle.pbWeather) && !user.hasUtilityUmbrella?
+      if [:Sun, :HarshSun].include?(user.effectiveWeather)
         @powerHerb = false
         @chargingTurn = true
         @damagingTurn = true
@@ -2056,8 +2036,7 @@ class PokeBattle_Move_0C4 < PokeBattle_TwoTurnMove
   end
 
   def pbBaseDamageMultiplier(damageMult,user,target)
-    damageMult /= 2 if ![:None, :Sun, :HarshSun].include?(@battle.pbWeather) &&
-                        !([:Rain, :HeavyRain].include?(@battle.pbWeather) && user.hasUtilityUmbrella?)
+    damageMult /= 2 if ![:None, :Sun, :HarshSun].include?(user.effectiveWeather)
     return damageMult
   end
 end
@@ -2510,7 +2489,8 @@ class PokeBattle_Move_0D6 < PokeBattle_HealingMove
     return (user.totalhp/2.0).round
   end
 
-  def pbEffectAfterAllHits(user,target)
+  def pbEffectGeneral(user)
+    super
     user.effects[PBEffects::Roost] = true
   end
 end
@@ -2547,19 +2527,11 @@ end
 #===============================================================================
 class PokeBattle_Move_0D8 < PokeBattle_HealingMove
   def pbOnStartUse(user,targets)
-    case @battle.pbWeather
+    case user.effectiveWeather
     when :Sun, :HarshSun
-      if !user.hasUtilityUmbrella
-        @healAmount = (user.totalhp*2/3.0).round
-      else
-        @healAmount = (user.totalhp/2.0).round
-      end
+      @healAmount = (user.totalhp/2.0).round
     when :Rain, :HeavyRain
-      if !user.hasUtilityUmbrella?
-        @healAmount = (user.totalhp/4.0).round
-      else
-        @healAmount = (user.totalhp/2.0).round
-      end
+      @healAmount = (user.totalhp/4.0).round
     when :None, :StrongWinds
       @healAmount = (user.totalhp/2.0).round
     else
@@ -2969,14 +2941,17 @@ end
 
 
 #===============================================================================
-# User flees from battle. Fails in trainer battles. (Teleport)
+# User flees from battle when the battle is a wild battle.
+# Switches out Pokemon when in trainer battles. (Teleport)
 #===============================================================================
 class PokeBattle_Move_0EA < PokeBattle_Move
   def pbMoveFailed?(user,targets)
-    if @battle.wildBattle? && user.opposes? && !@battle.pbCanRun?(user.index)
-      @battle.pbDisplay(_INTL("But it failed!"))
-      return true
-    elsif !@battle.pbCanChooseNonActive?(user.index) || user.fainted?
+    if Settings::MECHANICS_GENERATION < 8 || (@battle.wildBattle? && user.opposes?)
+      if !@battle.pbCanRun?(user.index)
+        @battle.pbDisplay(_INTL("But it failed!"))
+        return true
+      end
+    elsif !@battle.pbCanChooseNonActive?(user.index)
       @battle.pbDisplay(_INTL("But it failed!"))
       return true
     end
@@ -2984,26 +2959,22 @@ class PokeBattle_Move_0EA < PokeBattle_Move
   end
 
   def pbEndOfMoveUsageEffect(user,targets,numHits,switchedBattlers)
-    if Settings::MECHANICS_GENERATION >= 8
-      return if @battle.wildBattle? && user.opposes?
-      return if user.fainted? || numHits==0
-      return if !@battle.pbCanChooseNonActive?(user.index)
-      @battle.pbDisplay(_INTL("{1} went back to {2}!",user.pbThis,
-         @battle.pbGetOwnerName(user.index)))
-      @battle.pbPursuit(user.index)
-      return if user.fainted?
-      newPkmn = @battle.pbGetReplacementPokemonIndex(user.index)   # Owner chooses
-      return if newPkmn<0
-      @battle.pbRecallAndReplace(user.index,newPkmn)
-      @battle.pbClearChoice(user.index)   # Replacement Pokémon does nothing this round
-      @battle.moldBreaker = false
-      switchedBattlers.push(user.index)
-      user.pbEffectsOnSwitchIn(true)
-    end
+    return if Settings::MECHANICS_GENERATION < 8 || (@battle.wildBattle? && user.opposes?)
+     @battle.pbDisplay(_INTL("{1} went back to {2}!",user.pbThis,
+        @battle.pbGetOwnerName(user.index)))
+     @battle.pbPursuit(user.index)
+     return if user.fainted?
+     newPkmn = @battle.pbGetReplacementPokemonIndex(user.index)   # Owner chooses
+     return if newPkmn<0
+     @battle.pbRecallAndReplace(user.index,newPkmn)
+     @battle.pbClearChoice(user.index)   # Replacement Pokémon does nothing this round
+     @battle.moldBreaker = false
+     switchedBattlers.push(user.index)
+     user.pbEffectsOnSwitchIn(true)
   end
 
   def pbEffectGeneral(user)
-    if @battle.wildBattle? && user.opposes?
+    if Settings::MECHANICS_GENERATION < 8 || (@battle.wildBattle? && user.opposes?)
       @battle.pbDisplay(_INTL("{1} fled from battle!",user.pbThis))
       @battle.decision = 3   # Escaped
     end
@@ -3166,7 +3137,7 @@ end
 #===============================================================================
 class PokeBattle_Move_0EE < PokeBattle_Move
   def pbEndOfMoveUsageEffect(user,targets,numHits,switchedBattlers)
-    return if user.fainted? || numHits==0
+    return if user.fainted? || numHits==0 || @battle.pbAllFainted?(user.idxOpposingSide)
     targetSwitched = true
     targets.each do |b|
       targetSwitched = false if !switchedBattlers.include?(b.index)
@@ -3269,8 +3240,8 @@ class PokeBattle_Move_0F1 < PokeBattle_Move
     itemName = target.itemName
     user.item = target.item
     # Permanently steal the item from wild Pokémon
-    if @battle.wildBattle? && target.opposes? &&
-       target.initialItem==target.item && !user.initialItem
+    if @battle.wildBattle? && target.opposes? && !user.initialItem &&
+       target.item == target.initialItem
       user.setInitialItem(target.item)
       target.pbRemoveItem
     else
@@ -3326,14 +3297,14 @@ class PokeBattle_Move_0F2 < PokeBattle_Move
     oldUserItem = user.item;     oldUserItemName = user.itemName
     oldTargetItem = target.item; oldTargetItemName = target.itemName
     user.item                             = oldTargetItem
-    user.effects[PBEffects::ChoiceBand]   = nil
+    user.effects[PBEffects::ChoiceBand]   = nil if user.ability_id != :GORILLATACTICS
     user.effects[PBEffects::Unburden]     = (!user.item && oldUserItem)
     target.item                           = oldUserItem
-    target.effects[PBEffects::ChoiceBand] = nil
+    target.effects[PBEffects::ChoiceBand] = nil if user.ability_id != :GORILLATACTICS
     target.effects[PBEffects::Unburden]   = (!target.item && oldTargetItem)
     # Permanently steal the item from wild Pokémon
-    if @battle.wildBattle? && target.opposes? &&
-       target.initialItem==oldTargetItem && !user.initialItem
+    if @battle.wildBattle? && target.opposes? && !user.initialItem &&
+       oldTargetItem == target.initialItem
       user.setInitialItem(oldTargetItem)
     end
     @battle.pbDisplay(_INTL("{1} switched items with its opponent!",user.pbThis))
@@ -3376,8 +3347,8 @@ class PokeBattle_Move_0F3 < PokeBattle_Move
     itemName = user.itemName
     target.item = user.item
     # Permanently steal the item from wild Pokémon
-    if @battle.wildBattle? && user.opposes? &&
-       user.initialItem==user.item && !target.initialItem
+    if @battle.wildBattle? && user.opposes? && !target.initialItem &&
+       user.item == user.initialItem
       target.setInitialItem(user.item)
       user.pbRemoveItem
     else
@@ -3597,7 +3568,7 @@ class PokeBattle_Move_0F7 < PokeBattle_Move
     @willFail = true if user.item.is_berry? && !user.canConsumeBerry?
     return if @willFail
     return if user.item.is_mega_stone?
-    return if user.item.is_TR? if Settings::MECHANICS_GENERATION >= 8
+    return if user.item.is_TR? && Settings::MECHANICS_GENERATION >= 8
     flingableItem = false
     @flingPowers.each do |_power, items|
       next if !items.include?(user.item_id)
@@ -3626,8 +3597,9 @@ class PokeBattle_Move_0F7 < PokeBattle_Move
   def pbNumHits(user,targets); return 1; end
 
   def pbBaseDamage(baseDmg,user,target)
-    return 10 if user.item && user.item.is_berry?
-    return 80 if user.item && user.item.is_mega_stone?
+    return 0 if !user.item
+    return 10 if user.item.is_berry?
+    return 80 if user.item.is_mega_stone?
     if user.item.is_TR?
       ret = GameData::Move.get(user.item.move).base_damage
       ret = 10 if ret < 10

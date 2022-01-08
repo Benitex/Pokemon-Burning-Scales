@@ -25,6 +25,40 @@ class PokeBattle_Battler
   end
 
   #=============================================================================
+  # Called when a Pokémon enters battle, and when Ally Switch is used.
+  #=============================================================================
+  def pbEffectsOnEnteringPosition
+    position = @battle.positions[@index]
+    # Healing Wish
+    if position.effects[PBEffects::HealingWish]
+      if canHeal? || self.status != :NONE
+        @battle.pbCommonAnimation("HealingWish", self)
+        @battle.pbDisplay(_INTL("The healing wish came true for {1}!", pbThis(true)))
+        pbRecoverHP(@totalhp)
+        pbCureStatus(false)
+        position.effects[PBEffects::HealingWish] = false
+      elsif Settings::MECHANICS_GENERATION < 8
+        position.effects[PBEffects::HealingWish] = false
+      end
+    end
+    # Lunar Dance
+    if position.effects[PBEffects::LunarDance]
+      full_pp = true
+      eachMove { |m| full_pp = false if m.pp < m.total_pp }
+      if canHeal? || self.status != :NONE || !full_pp
+        @battle.pbCommonAnimation("LunarDance", self)
+        @battle.pbDisplay(_INTL("{1} became cloaked in mystical moonlight!", pbThis))
+        pbRecoverHP(@totalhp)
+        pbCureStatus(false)
+        eachMove { |m| m.pp = m.total_pp }
+        position.effects[PBEffects::LunarDance] = false
+      elsif Settings::MECHANICS_GENERATION < 8
+        position.effects[PBEffects::LunarDance] = false
+      end
+    end
+  end
+
+  #=============================================================================
   # Ability effects
   #=============================================================================
   def pbAbilitiesOnSwitchOut
@@ -36,6 +70,8 @@ class PokeBattle_Battler
     # Treat self as fainted
     @hp = 0
     @fainted = true
+    # Neutralizing Gas
+    pbCheckNeutralizingGas if hasActiveAbility?(:NEUTRALIZINGGAS, true)
     # Check for end of primordial weather
     @battle.pbEndPrimordialWeather
   end
@@ -50,6 +86,7 @@ class PokeBattle_Battler
       next if !b || !b.abilityActive?
       BattleHandlers.triggerAbilityOnBattlerFainting(b.ability,b,self,@battle)
     end
+    pbCheckNeutralizingGas if hasActiveAbility?(:NEUTRALIZINGGAS, true)
   end
 
   # Used for Emergency Exit/Wimp Out.
@@ -59,6 +96,17 @@ class PokeBattle_Battler
     return false if oldHP<@totalhp/2 || newHP>=@totalhp/2   # Didn't drop below half
     ret = BattleHandlers.triggerAbilityOnHPDroppedBelowHalf(self.ability,self,@battle)
     return ret   # Whether self has switched out
+  end
+
+  def pbAbilityOnTerrainChange(ability_changed = false)
+    return if !abilityActive?
+    BattleHandlers.triggerAbilityOnTerrainChange(self.ability, self, @battle, ability_changed)
+  end
+
+  # Used for Rattled's Gen 8 effect. Called when Intimidate is triggered.
+  def pbAbilitiesOnIntimidated
+    return if !abilityActive?
+    BattleHandlers.triggerAbilityOnIntimidated(self.ability, self, @battle)
   end
 
   # Called when a Pokémon (self) enters battle, at the end of each move used,
@@ -115,11 +163,26 @@ class PokeBattle_Battler
     end
     @effects[PBEffects::GastroAcid] = false if unstoppableAbility?
     @effects[PBEffects::SlowStart]  = 0 if self.ability != :SLOWSTART
+    @effects[PBEffects::Truant]     = false if self.ability != :TRUANT
+    @effects[PBEffects::ChoiceBand] = nil if self.ability != :GORILLATACTICS
     # Revert form if Flower Gift/Forecast was lost
-    pbCheckFormOnWeatherChange
-    pbCheckFormOnTerrainChange
+    pbCheckFormOnWeatherChange(true)
     # Check for end of primordial weather
     @battle.pbEndPrimordialWeather
+  end
+
+  # Checking whether Neutralizing Gas is active or not
+  def pbCheckNeutralizingGas
+    return if @battle.field.effects[PBEffects::NeutralizingGas] < 0
+    return if @battle.field.effects[PBEffects::NeutralizingGas] != self.index
+    @battle.pbDisplay(_INTL("The effects of {1} wore off!", abilityName))
+    @battle.field.effects[PBEffects::NeutralizingGas] = -1
+    @battle.pbEndPrimordialWeather
+    @battle.pbPriority(true).each do |b|
+      next if b.index == self.index || b.fainted?
+      next if !b.unstoppableAbility? && !b.abilityActive?
+      BattleHandlers.triggerAbilityOnSwitchIn(b.ability, b, @battle)
+    end
   end
 
   #=============================================================================
@@ -142,8 +205,8 @@ class PokeBattle_Battler
   # permanent is whether the item is lost even after battle. Is false for Knock
   # Off.
   def pbRemoveItem(permanent = true)
-    @effects[PBEffects::ChoiceBand] = nil
-    @effects[PBEffects::Unburden]   = true if self.item
+    @effects[PBEffects::ChoiceBand] = nil if !hasActiveAbility?(:GORILLATACTICS)
+    @effects[PBEffects::Unburden]   = true if self.item && hasActiveAbility?(:UNBURDEN)
     setInitialItem(nil) if permanent && self.item == self.initialItem
     self.item = nil
   end
@@ -162,7 +225,7 @@ class PokeBattle_Battler
 
   def pbSymbiosis
     return if fainted?
-    return if !self.item
+    return if self.item
     @battle.pbPriority(true).each do |b|
       next if b.opposes?
       next if !b.hasActiveAbility?(:SYMBIOSIS)

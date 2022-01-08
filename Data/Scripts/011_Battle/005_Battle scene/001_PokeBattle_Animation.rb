@@ -24,6 +24,7 @@ class PokeBattle_Animation
     picture.y       = s.y
     picture.visible = s.visible
     picture.tone    = s.tone.clone
+    picture.color   = s.color.clone
     picture.setOrigin(0,origin)
     @pictureEx[num] = picture
     @pictureSprites[num] = s

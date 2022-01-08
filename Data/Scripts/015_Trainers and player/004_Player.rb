@@ -3,9 +3,9 @@
 #===============================================================================
 class Player < Trainer
   # @return [Integer] the character ID of the player
-  attr_accessor :character_ID
+  attr_reader   :character_ID
   # @return [Integer] the player's outfit
-  attr_accessor :outfit
+  attr_reader   :outfit
   # @return [Array<Boolean>] the player's Gym Badges (true if owned)
   attr_accessor :badges
   # @return [Integer] the player's money
@@ -36,6 +36,23 @@ class Player < Trainer
       @trainer_type = GameData::Metadata.get_player(@character_ID || 0)[0]
     end
     return @trainer_type
+  end
+
+  # Sets the Character ID of the player and refreshes the charset of the player.
+  # event.
+  # @param value [Integer] new Character ID.
+  def character_ID=(value)
+    return if @character_ID == value
+    @character_ID = value
+    $game_player.refresh_charset if $game_player
+  end
+
+  # Sets the outfit of the player and refreshes the charset of the player event.
+  # @param value [Integer] new outfit.
+  def outfit=(value)
+    old_val = @outfit
+    @outfit = value
+    $game_player.refresh_charset if $game_player && old_val != @outfit
   end
 
   # Sets the player's money. It can not exceed {Settings::MAX_MONEY}.

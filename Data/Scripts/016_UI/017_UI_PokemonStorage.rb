@@ -1479,6 +1479,7 @@ class PokemonStorageScreen
   end
 
   def pbStartScreen(command)
+    $game_temp.in_storage = true
     @heldpkmn = nil
     if command==0   # Organise
       @scene.pbStartBox(self,command)
@@ -1637,6 +1638,7 @@ class PokemonStorageScreen
       @scene.pbStartBox(self,command)
       @scene.pbCloseBox
     end
+    $game_temp.in_storage = false
   end
 
   def pbUpdate   # For debug
@@ -1690,11 +1692,6 @@ class PokemonStorageScreen
       pbDisplay(_INTL("Your party's full!"))
       return false
     end
-    if (heldpoke || selected[0]==-1) && Settings::MECHANICS_GENERATION >= 8
-      p = (heldpoke) ? heldpoke : @storage[-1,index]
-      p.time_form_set = nil
-      p.form          = 0 if p.isSpecies?(:SHAYMIN) || p.isSpecies?(:HOOPA)
-    end
     @scene.pbWithdraw(selected,heldpoke,@storage.party.length)
     if heldpoke
       @storage.pbMoveCaughtToParty(heldpoke)
@@ -1730,10 +1727,6 @@ class PokemonStorageScreen
           end
           if heldpoke || selected[0]==-1
             p = (heldpoke) ? heldpoke : @storage[-1,index]
-            if Settings::MECHANICS_GENERATION < 8
-              p.time_form_set = nil
-              p.form          = 0 if p.isSpecies?(:SHAYMIN) || p.isSpecies?(:HOOPA)
-            end
             p.heal if Settings::HEAL_STORED_POKEMON
           end
           @scene.pbStore(selected,heldpoke,destbox,firstfree)
@@ -1778,18 +1771,7 @@ class PokemonStorageScreen
       pbDisplay("Please remove the mail.")
       return
     end
-    if box>=0
-      if Settings::MECHANICS_GENERATION < 8
-        @heldpkmn.time_form_set = nil
-        @heldpkmn.form          = 0 if @heldpkmn.isSpecies?(:SHAYMIN) ||
-                                       @heldpkmn.isSpecies?(:HOOPA)
-      end
-      @heldpkmn.heal if Settings::HEAL_STORED_POKEMON
-    elsif Settings::MECHANICS_GENERATION >= 8
-      @heldpkmn.time_form_set = nil
-      @heldpkmn.form          = 0 if @heldpkmn.isSpecies?(:SHAYMIN) ||
-                                     @heldpkmn.isSpecies?(:HOOPA)
-    end
+    @heldpkmn.heal if Settings::HEAL_STORED_POKEMON && box>=0
     @scene.pbPlace(selected,@heldpkmn)
     @storage[box,index] = @heldpkmn
     if box==-1
@@ -1814,13 +1796,7 @@ class PokemonStorageScreen
       pbDisplay("Please remove the mail.")
       return false
     end
-    if box>=0
-      if Settings::MECHANICS_GENERATION < 8
-        @heldpkmn.time_form_set = nil
-        @heldpkmn.form          = 0 if @heldpkmn.isSpecies?(:SHAYMIN) || @heldpkmn.isSpecies?(:HOOPA)
-      end
-      @heldpkmn.heal if Settings::HEAL_STORED_POKEMON
-    end
+    @heldpkmn.heal if Settings::HEAL_STORED_POKEMON && box>=0
     @scene.pbSwap(selected,@heldpkmn)
     tmp = @storage[box,index]
     @storage[box,index] = @heldpkmn
@@ -1950,6 +1926,7 @@ class PokemonStorageScreen
   end
 
   def pbChoosePokemon(_party=nil)
+    $game_temp.in_storage = true
     @heldpkmn = nil
     @scene.pbStartBox(self,1)
     retval = nil
@@ -2003,6 +1980,7 @@ class PokemonStorageScreen
       end
     end
     @scene.pbCloseBox
+    $game_temp.in_storage = false
     return retval
   end
 end

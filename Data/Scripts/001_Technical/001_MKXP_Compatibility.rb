@@ -40,5 +40,5 @@ def pbSetResizeFactor(factor)
 end
 
 module Essentials
-  GEN_8_VERSION = "1.1.0"
+  GEN_8_VERSION = "1.1.2"
 end

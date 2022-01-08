@@ -210,6 +210,7 @@ class PokemonPartyPanel < SpriteWrapper
     @pkmnsprite.setOffset(PictureOrigin::Center)
     @pkmnsprite.active = @active
     @pkmnsprite.z      = self.z+2
+    _ZUD_DynamaxSize if defined?(Settings::ZUD_COMPAT)
     @helditemsprite = HeldItemIconSprite.new(0,0,@pokemon,viewport)
     @helditemsprite.z = self.z+3
     @overlaysprite = BitmapSprite.new(Graphics.width,Graphics.height,viewport)
@@ -264,6 +265,7 @@ class PokemonPartyPanel < SpriteWrapper
   def pokemon=(value)
     @pokemon = value
     @pkmnsprite.pokemon = value if @pkmnsprite && !@pkmnsprite.disposed?
+    _ZUD_DynamaxSize if defined?(Settings::ZUD_COMPAT)
     @helditemsprite.pokemon = value if @helditemsprite && !@helditemsprite.disposed?
     @refreshBitmap = true
     refresh
@@ -335,6 +337,7 @@ class PokemonPartyPanel < SpriteWrapper
       @pkmnsprite.x        = self.x+60
       @pkmnsprite.y        = self.y+40
       @pkmnsprite.color    = self.color
+      _ZUD_DynamaxColor if defined?(Settings::ZUD_COMPAT)
       @pkmnsprite.selected = self.selected
     end
     if @helditemsprite && !@helditemsprite.disposed?
@@ -435,7 +438,7 @@ end
 # Pokémon party visuals
 #===============================================================================
 class PokemonParty_Scene
-  attr_accessor :allowBox
+  attr_reader :allowBox
 
   def pbStartScene(party,starthelptext,annotations=nil,multiselect=false)
     @sprites = {}
@@ -842,6 +845,33 @@ class PokemonParty_Scene
         sprite.refresh
       end
     end
+  end
+
+  def allowBox=(value)
+    @allowBox = value && GameData::Item.exists?(:POKEMONBOXLINK) &&
+                         $PokemonBag.pbHasItem?(:POKEMONBOXLINK) &&
+                         (Settings::POKEMON_BOX_LINK_SWITCH < 0  ||
+                          !$game_switches[Settings::POKEMON_BOX_LINK_SWITCH])
+    if !@sprites["storage"]
+      @sprites["storage"] = SpriteWrapper.new(@viewport)
+      @sprites["storage"].bitmap = if pbResolveBitmap("Graphics/Pictures/Party/box_link")
+                                     Bitmap.new("Graphics/Pictures/Party/box_link")
+                                   else
+                                     Bitmap.new(32, 32)
+                                   end
+      @sprites["storage"].x  = Graphics.width
+      @sprites["storage"].ox = @sprites["storage"].bitmap.width
+      @sprites["storage"].y  = -@sprites["storage"].bitmap.height
+      @sprites["storage"].z += 1
+      @sprites["storage"].opacity = 200
+    end
+    factor = (@allowBox ? 1 : -1)
+    (Graphics.frame_rate/8).times do
+      Graphics.update
+      update
+      @sprites["storage"].y += factor * (@sprites["storage"].bitmap.height) / (Graphics.frame_rate/8.0)
+    end
+    @sprites["storage"].y = (@allowBox ? 0 : - @sprites["storage"].bitmap.height)
   end
 
   def update

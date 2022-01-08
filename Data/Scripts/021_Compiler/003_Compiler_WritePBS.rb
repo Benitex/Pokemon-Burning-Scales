@@ -324,6 +324,8 @@ module Compiler
         f.write(sprintf("BattlerAltitude = %d\r\n", species.front_sprite_altitude)) if species.front_sprite_altitude != 0
         f.write(sprintf("BattlerShadowX = %d\r\n", species.shadow_x))
         f.write(sprintf("BattlerShadowSize = %d\r\n", species.shadow_size))
+        f.write(sprintf("FrontSpriteScale = %d\r\n", species.front_sprite_scale)) if species.front_sprite_scale != Settings::FRONT_BATTLER_SPRITE_SCALE
+        f.write(sprintf("BackSpriteScale = %d\r\n", species.back_sprite_scale)) if species.back_sprite_scale != Settings::BACK_BATTLER_SPRITE_SCALE
         if species.evolutions.any? { |evo| !evo[3] }
           f.write("Evolutions = ")
           need_comma = false
@@ -429,6 +431,8 @@ module Compiler
         f.write(sprintf("BattlerAltitude = %d\r\n", species.front_sprite_altitude)) if species.front_sprite_altitude != base_species.front_sprite_altitude
         f.write(sprintf("BattlerShadowX = %d\r\n", species.shadow_x)) if species.shadow_x != base_species.shadow_x
         f.write(sprintf("BattlerShadowSize = %d\r\n", species.shadow_size)) if species.shadow_size != base_species.shadow_size
+        f.write(sprintf("FrontSpriteScale = %d\r\n", species.front_sprite_scale)) if species.front_sprite_scale != base_species.front_sprite_scale
+        f.write(sprintf("BackSpriteScale = %d\r\n", species.back_sprite_scale)) if species.back_sprite_scale != base_species.back_sprite_scale
         if species.evolutions != base_species.evolutions && species.evolutions.any? { |evo| !evo[3] }
           f.write("Evolutions = ")
           need_comma = false

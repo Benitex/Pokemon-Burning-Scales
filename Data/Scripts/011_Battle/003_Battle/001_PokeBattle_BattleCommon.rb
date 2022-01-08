@@ -42,7 +42,9 @@ module PokeBattle_BattleCommon
   # Register all caught Pokémon in the Pokédex, and store them.
   def pbRecordAndStoreCaughtPokemon
     @caughtPokemon.each do |pkmn|
-      pbPlayer.pokedex.register(pkmn)   # In case the form changed upon leaving battle
+      # In case the form changed upon leaving battle
+      pbPlayer.pokedex.register(pkmn)
+      pbSetBattled(pkmn)
       # Record the Pokémon's species as owned in the Pokédex
       if !pbPlayer.owned?(pkmn.species)
         pbPlayer.pokedex.set_owned(pkmn.species)
@@ -100,6 +102,7 @@ module PokeBattle_BattleCommon
       pbDisplay(_INTL("The Trainer blocked your Poké Ball! Don't be a thief!"))
       return
     end
+    return if defined?(Settings::ZUD_COMPAT) && _ZUD_RaidCaptureFail(battler,ball)
     # Calculate the number of shakes (4=capture)
     pkmn = battler.pokemon
     @criticalCapture = false
@@ -158,7 +161,6 @@ module PokeBattle_BattleCommon
       @peer.pbOnLeavingBattle(self,pkmn,true,true)
       # Make the Poké Ball and data box disappear
       @scene.pbHideCaptureBall(idxBattler)
-      pbSetBattled(battler)
       # Save the Pokémon for storage at the end of battle
       @caughtPokemon.push(pkmn)
     end
@@ -198,22 +200,20 @@ module PokeBattle_BattleCommon
     y = ( 65536 / ((255.0/x)**0.1875) ).floor
     # Critical capture check
     if Settings::ENABLE_CRITICAL_CAPTURES
-      c = 0
+      dex_modifier = 0
       numOwned = $Trainer.pokedex.owned_count
-      if numOwned>600;    c = x*5/12
-      elsif numOwned>450; c = x*4/12
-      elsif numOwned>300; c = x*3/12
-      elsif numOwned>150; c = x*2/12
-      elsif numOwned>30;  c = x/12
+      if numOwned>600;    dex_modifier = 5
+      elsif numOwned>450; dex_modifier = 4
+      elsif numOwned>300; dex_modifier = 3
+      elsif numOwned>150; dex_modifier = 2
+      elsif numOwned>30;  dex_modifier = 1
       end
-      # Calculate the number of shakes
-      rolls = GameData::Item.exists?(:CATCHINGCHARM) && $PokemonBag.pbHasItem?(:CATCHINGCHARM) ? 3 : 1
-      rolls.times do
-        if c>0 && pbRandom(256)<c
-          @criticalCapture = true
-          return 4 if pbRandom(65536)<y
-          return 0
-        end
+      dex_modifier *= 2 if GameData::Item.exists?(:CATCHINGCHARM) && $PokemonBag.pbHasItem?(:CATCHINGCHARM)
+      c = x * dex_modifier / 12
+      if c>0 && pbRandom(256)<c
+        @criticalCapture = true
+        return 4 if pbRandom(65536)<y
+        return 0
       end
     end
     # Calculate the number of shakes

@@ -398,21 +398,20 @@ def pbGetPlayerCharset(meta,charset,trainer=nil,force=false)
 end
 
 def pbUpdateVehicle
-  meta = GameData::Metadata.get_player($Trainer.character_ID)
-  if meta
-    charset = 1                                 # Regular graphic
-    if $PokemonGlobal.diving;     charset = 5   # Diving graphic
-    elsif $PokemonGlobal.surfing; charset = 3   # Surfing graphic
-    elsif $PokemonGlobal.bicycle; charset = 2   # Bicycle graphic
-    end
-    newCharName = pbGetPlayerCharset(meta,charset)
-    $game_player.character_name = newCharName if newCharName
+  if $PokemonGlobal&.diving
+    $game_player.set_movement_type(:diving)
+  elsif $PokemonGlobal&.surfing
+    $game_player.set_movement_type(:surfing)
+  elsif $PokemonGlobal&.bicycle
+    $game_player.set_movement_type(:cycling)
+  else
+    $game_player.set_movement_type(:walking)
   end
 end
 
-def pbCancelVehicles(destination=nil)
-  $PokemonGlobal.surfing = false
-  $PokemonGlobal.diving  = false
+def pbCancelVehicles(destination = nil, cancel_vehicles = true)
+  $PokemonGlobal.surfing = false if cancel_vehicles
+  $PokemonGlobal.diving  = false if cancel_vehicles
   $PokemonGlobal.bicycle = false if !destination || !pbCanUseBike?(destination)
   pbUpdateVehicle
 end

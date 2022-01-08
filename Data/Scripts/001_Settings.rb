@@ -14,7 +14,7 @@ module Settings
   # Note that this isn't perfect. Essentials doesn't accurately replicate every
   # single generation's mechanics. It's considered to be good enough. Only
   # generations 5 and later are reasonably supported.
-  MECHANICS_GENERATION = 7
+  MECHANICS_GENERATION = 8
 
   #=============================================================================
 
@@ -38,7 +38,7 @@ module Settings
   BRILLIANT_POKEMON_CHANCE = 64
   # Whether square shininess is enabled (uses a different shiny animation with
   # square sparkles).
-  SQUARE_SHINY             = (MECHANICS_GENERATION >= 7)
+  SQUARE_SHINY             = (MECHANICS_GENERATION >= 8)
   # The odds of a wild Pokémon/bred egg having Pokérus (out of 65536).
   POKERUS_CHANCE           = 3
   # Whether a bred baby Pokémon can inherit any TM/HM moves from its father. It
@@ -71,7 +71,6 @@ module Settings
   # number. If the variable isn't set to 0, then all trainers with the
   # associated trainer type will be named as whatever is in that variable.
   RIVAL_NAMES = [
-    
   ]
 
   #=============================================================================
@@ -157,18 +156,24 @@ module Settings
   RAGE_CANDY_BAR_CURES_STATUS_PROBLEMS = (MECHANICS_GENERATION >= 7)
   # Whether Rare Candy can be used on a Pokémon that is already at its maximum
   # level if it is able to evolve by level-up (if so, triggers that evolution).
-  RARE_CANDY_USABLE_AT_MAX_LEVEL       = (MECHANICS_GENERATION >= 7)
-  # Healing Items have HP healing amounts like they did in Gen 7 (true) or
-  # like in Gen 5 (false)
+  RARE_CANDY_USABLE_AT_MAX_LEVEL       = (MECHANICS_GENERATION >= 8)
+  # Whether various HP-healing items heal the amounts they do in Gen 7+ (true)
+  # or in earlier Generations (false).
   # Examples:
   #  * Fresh Water heals 50 HP in Gen 5 and 30 HP in Gen 7
   #  * Lemonade heals 80 HP in Gen 5 and 70 HP in Gen 7
   #  * Hyper Potion and Energy Root heal 200 HP in Gen 5 and 120 HP in Gen 7
   #  * Super Potion and Energy Powder heal 50 HP in Gen 5 and 60 HP in Gen 7
-  GEN_7_HEALING_ITEMS                  = (MECHANICS_GENERATION >= 7)
-  # Limit the amount of Vitamins you can give to a single Pokemon to 10 (true)
-  # or the Maximum for that particular stat (false).
-  CAP_VITAMIN_AMOUNT                   = (MECHANICS_GENERATION < 8)
+  REBALANCED_HEALING_ITEM_AMOUNTS      = (MECHANICS_GENERATION >= 7)
+  # Whether vitamins can add EVs no matter how many that stat already has in it
+  # (true), or whether they can't make that stat's EVs greater than 100 (false).
+  NO_VITAMIN_EV_CAP                    = (MECHANICS_GENERATION < 8)
+  # Whether you get 1 Premier Ball for every 10 of any kind of Poké Ball bought
+  # at once (true), or 1 Premier Ball for buying 10+ Poké Balls (false).
+  MORE_BONUS_PREMIER_BALLS              = (MECHANICS_GENERATION >= 8)
+  # Whether Pokemon evolve when their happiness value goes above the
+  # threshold of 160 (true) or 220 (false)
+  LOWER_HAPPINESS_EVOLUTION_CAP        = (MECHANICS_GENERATION >= 8)
 
   #=============================================================================
 
@@ -188,13 +193,13 @@ module Settings
   def self.bag_pocket_names
     return ["",
       _INTL("Items"),
-	  _INTL("Medicine"),
-	  _INTL("Poké Balls"),
-	  _INTL("TMs & HMs"),
-	  _INTL("Berries"),
-	  _INTL("Mail"),
-	  _INTL("Battle Items"),
-	  _INTL("Key Items")
+      _INTL("Medicine"),
+      _INTL("Poké Balls"),
+      _INTL("TMs & HMs"),
+      _INTL("Berries"),
+      _INTL("Mail"),
+      _INTL("Battle Items"),
+      _INTL("Key Items")
     ]
   end
   # The maximum number of slots per pocket (-1 means infinite number). Ignore
@@ -226,8 +231,8 @@ module Settings
   def self.pokedex_names
     return [
       [_INTL("Sul de Unova"), 0],
-	  [_INTL("Pandemônio"), 1],
-	  _INTL("National Pokédex")
+	    [_INTL("Pandemônio"), 1],
+      _INTL("National Pokédex")
     ]
   end
   # Whether all forms of a given species will be immediately available to view
@@ -235,6 +240,10 @@ module Settings
   # whether each form needs to be seen specifically before that form appears in
   # the Pokédex (false).
   DEX_SHOWS_ALL_FORMS = false
+  # Whether the Pokedex shows the Footprints of a Pokemon in the first page of
+  # the dex entry (true) or whether it shows the Icon Sprite of the Pokemon
+  # there (false).
+  DEX_SHOWS_FOOTPRINTS = false
   # An array of numbers, where each number is that of a Dex list (in the same
   # order as above, except the National Dex is -1). All Dex lists included here
   # will begin their numbering at 0 rather than 1 (e.g. Victini in Unova's Dex).
@@ -254,7 +263,6 @@ module Settings
   #   * Name of the graphic, found in the Graphics/Pictures folder.
   #   * The graphic will always (true) or never (false) be shown on a wall map.
   REGION_MAP_EXTRAS = [
-    
   ]
 
   #=============================================================================
@@ -262,16 +270,6 @@ module Settings
   # A list of maps used by roaming Pokémon. Each map has an array of other maps
   # it can lead to.
   ROAMING_AREAS = {
-    5  => [   21, 28, 31, 39, 41, 44, 47, 66, 69],
-    21 => [5,     28, 31, 39, 41, 44, 47, 66, 69],
-    28 => [5, 21,     31, 39, 41, 44, 47, 66, 69],
-    31 => [5, 21, 28,     39, 41, 44, 47, 66, 69],
-    39 => [5, 21, 28, 31,     41, 44, 47, 66, 69],
-    41 => [5, 21, 28, 31, 39,     44, 47, 66, 69],
-    44 => [5, 21, 28, 31, 39, 41,     47, 66, 69],
-    47 => [5, 21, 28, 31, 39, 41, 44,     66, 69],
-    66 => [5, 21, 28, 31, 39, 41, 44, 47,     69],
-    69 => [5, 21, 28, 31, 39, 41, 44, 47, 66    ]
   }
   # A set of arrays, each containing the details of a roaming Pokémon. The
   # information within each array is as follows:
@@ -283,7 +281,6 @@ module Settings
   #   * Name of BGM to play for that encounter (optional).
   #   * Roaming areas specifically for this Pokémon (optional).
   ROAMING_SPECIES = [
-    
   ]
 
   #=============================================================================
@@ -297,7 +294,6 @@ module Settings
   #   * Minimum possible level.
   #   * Maximum possible level (optional).
   POKE_RADAR_ENCOUNTERS = [
-    
   ]
 
   #=============================================================================
@@ -316,7 +312,7 @@ module Settings
   # Storage functionality. Set this to -1 to always have Pokemon Box Link access.
   POKEMON_BOX_LINK_SWITCH   = -1
   # The Game Switch which, while ON, makes all wild Pokémon created be Brilliant.
-  BRILLIANT_POKEMON_SWITCH   = -1
+  BRILLIANT_POKEMON_SWITCH  = -1
 
   #=============================================================================
 
@@ -354,8 +350,8 @@ module Settings
   # file in the Data folder. Edit only if you have 2 or more languages to choose
   # from.
   LANGUAGES = [
-	# ["Português", "portuguese.dat"],
-  # ["English", "english.dat"]
+    # ["Português", "portuguese.dat"],
+    # ["English", "english.dat"]
   ]
 
   #=============================================================================

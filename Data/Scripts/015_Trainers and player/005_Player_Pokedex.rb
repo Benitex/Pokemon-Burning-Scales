@@ -283,48 +283,35 @@ class Player < Trainer
       @number_battled[species_id] += 1
     end
 
-    # Return the array of tries and chance of boosted shiny odds from the
-    # number of Pokemon of this species that the player has caught or defeated
-    # @param species [Symbol, GameData::Species] species to increase
-    # @return [Array]
+    # @param species [Symbol, GameData::Species] species to increase shiny rate for.
+    # @return [Array<Integer>] the number of tries and chance of Boosted Shiny odds for the species
     def number_battled_shiny_tier(species)
       number = number_battled(species)
-      if number >= 500
-        return [5,30]
-      elsif number >= 300
-        return [4,30]
-      elsif number >= 200
-        return [3,25]
-      elsif number >= 100
-        return [2,20]
-      elsif number >= 50
-        return [1,15]
-      else
-        return [0,0]
+      case number
+      when 0...50    then return [0, 0]
+      when 50...100  then return [1, 15]
+      when 100...200 then return [2, 20]
+      when 200...300 then return [3, 25]
+      when 300...500 then return [4, 30]
+      else                return [5, 30]
       end
     end
 
-    # Return the boosted odds for encountering Brilliant Pokemon from
-    # the number of Pokemon of this species that the player has caught
-    # or defeated
-    # @return [Float]
+    # @param species [Symbol, GameData::Species] species to make Brilliant Pokemon for.
+    # @return [Float] boost in odds of encountering a Brilliant Pokemon
     def number_battled_brilliant_tier(species)
       number = number_battled(species)
-      if number >= 200
-        return 2.0
-      elsif number >= 50
-        return 1.6
-      elsif number >= 20
-        return 1.3
-      else
-        return 1.0
+      case number
+      when 0         then return 0.0
+      when 1...20    then return 1.0
+      when 20...50   then return 1.3
+      when 50...100  then return 1.6
+      else                return 2.0
       end
     end
 
-    # Return the boosted odds for encountering shiny Brilliant Pokemon from
-    # the number of Pokemon of this species that the player has caught
-    # or defeated
-    # @return [Integer]
+    # @param species [Symbol, GameData::Species] species of Brilliant Pokemon to increase shiny rate for.
+    # @return [Integer] boosted odds for encountering shiny Brilliant Pokemon
     def number_battled_brilliant_shiny(species)
       number = number_battled(species)
       if number >= 100

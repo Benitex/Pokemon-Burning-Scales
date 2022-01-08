@@ -287,8 +287,7 @@ class PokeBattle_Battler
       if abilityActive?
         if BattleHandlers.triggerStatLossImmunityAbility(self.ability,self,:ATTACK,@battle,false) ||
            BattleHandlers.triggerStatLossImmunityAbilityNonIgnorable(self.ability,self,:ATTACK,@battle,false) ||
-           hasActiveAbility?(:INNERFOCUS) || hasActiveAbility?(:OWNTEMPO) ||
-           hasActiveAbility?(:OBLIVIOUS) || hasActiveAbility?(:SCRAPPY)
+           hasActiveAbility?([:INNERFOCUS, :OWNTEMPO, :OBLIVIOUS, :SCRAPPY])
           @battle.pbShowAbilitySplash(self) if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
           @battle.pbDisplay(_INTL("{1}'s {2} prevented {3}'s {4} from working!",
              pbThis,abilityName,user.pbThis(true),user.abilityName))
@@ -308,15 +307,11 @@ class PokeBattle_Battler
       end
     end
     return false if !pbCanLowerStatStage?(:ATTACK,user)
-    ret = false
     if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
-      ret = pbLowerStatStageByAbility(:ATTACK,1,user,false)
-      pbRaiseStatStageByAbility(:SPEED,1,self) if hasActiveAbility?(:RATTLED) && ret
+      return pbLowerStatStageByAbility(:ATTACK,1,user,false)
     else
-      ret = pbLowerStatStageByCause(:ATTACK,1,user,user.abilityName)
-      pbLowerStatStageByCause(:SPEED,1,self,self.abilityName) if hasActiveAbility?(:RATTLED) && ret
+      return pbLowerStatStageByAbility(:ATTACK,1,user,false)
     end
-    return ret
   end
 
   #=============================================================================

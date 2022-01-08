@@ -38,7 +38,7 @@ class Game_Screen
     for i in 1..100
       @pictures.push(Game_Picture.new(i))
     end
-    @weather_type     = 0
+    @weather_type     = :None
     @weather_max      = 0.0
     @weather_duration = 0
   end

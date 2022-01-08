@@ -199,18 +199,20 @@ class Game_Character
   def calculate_bush_depth
     if @tile_id > 0 || @always_on_top || jumping?
       @bush_depth = 0
+      return
+    end
+    deep_bush = regular_bush = false
+    xbehind = @x + (@direction == 4 ? 1 : @direction == 6 ? -1 : 0)
+    ybehind = @y + (@direction == 8 ? 1 : @direction == 2 ? -1 : 0)
+    this_map = (self.map.valid?(@x, @y)) ? [self.map, @x, @y] : $map_factory&.getNewMap(@x, @y)
+    behind_map = (self.map.valid?(xbehind, ybehind)) ? [self.map, xbehind, ybehind] : $map_factory&.getNewMap(xbehind, ybehind)
+    if this_map && this_map[0].deepBush?(this_map[1], this_map[2]) &&
+       (!behind_map || behind_map[0].deepBush?(behind_map[1], behind_map[2]))
+      @bush_depth = Game_Map::TILE_HEIGHT
+    elsif this_map && this_map[0].bush?(this_map[1], this_map[2]) && !moving?
+      @bush_depth = 12
     else
-      deep_bush = regular_bush = false
-      xbehind = @x + (@direction == 4 ? 1 : @direction == 6 ? -1 : 0)
-      ybehind = @y + (@direction == 8 ? 1 : @direction == 2 ? -1 : 0)
-      this_map = (self.map.valid?(@x, @y)) ? [self.map, @x, @y] : $MapFactory.getNewMap(@x, @y)
-      if this_map[0].deepBush?(this_map[1], this_map[2]) && self.map.deepBush?(xbehind, ybehind)
-        @bush_depth = Game_Map::TILE_HEIGHT
-      elsif !moving? && this_map[0].bush?(this_map[1], this_map[2])
-        @bush_depth = 12
-      else
-        @bush_depth = 0
-      end
+      @bush_depth = 0
     end
   end
 
@@ -841,6 +843,8 @@ class Game_Character
   def update
     @moved_last_frame = @moved_this_frame
     @stopped_last_frame = @stopped_this_frame
+    @moved_this_frame = false
+    @stopped_this_frame = false
     if !$game_temp.in_menu
       # Update command
       update_command
@@ -910,7 +914,6 @@ class Game_Character
       @stopped_this_frame = true
     elsif !@moved_last_frame || @stopped_last_frame   # Started a new step
       calculate_bush_depth
-      @stopped_this_frame = false
     end
     # Increment animation counter
     @anime_count += 1 if @walk_anime || @step_anime
@@ -920,8 +923,6 @@ class Game_Character
   def update_stop
     @anime_count += 1 if @step_anime
     @stop_count  += 1 if !@starting && !lock?
-    @moved_this_frame = false
-    @stopped_this_frame = false
   end
 
   def update_pattern

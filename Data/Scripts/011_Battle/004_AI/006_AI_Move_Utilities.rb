@@ -41,13 +41,16 @@ class PokeBattle_AI
                                                    Effectiveness.ineffective_type?(moveType, defType)
     end
     # Delta Stream's weather
-    if @battle.pbWeather == :StrongWinds
+    if target.effectiveWeather == :StrongWinds
       ret = Effectiveness::NORMAL_EFFECTIVE_ONE if defType == :FLYING &&
                                                    Effectiveness.super_effective_type?(moveType, defType)
     end
     # Grounded Flying-type Pokémon become susceptible to Ground moves
     if !target.airborne?
       ret = Effectiveness::NORMAL_EFFECTIVE_ONE if defType == :FLYING && moveType == :GROUND
+    end
+    if target.effects[PBEffects::TarShot] && moveType == :FIRE
+      ret *= Effectiveness::SUPER_EFFECTIVE_ONE / Effectiveness::NORMAL_EFFECTIVE_ONE.to_f
     end
     return ret
   end
@@ -126,7 +129,7 @@ class PokeBattle_AI
       end
       return true if target.effects[PBEffects::Substitute]>0 && move.statusMove? &&
                      !move.ignoresSubstitute?(user) && user.index!=target.index
-      return true if Settings::MECHANICS_GENERATION >= 7 && user.hasActiveAbility?(:PRANKSTER) &&
+      return true if Settings::MORE_TYPE_EFFECTS && user.hasActiveAbility?(:PRANKSTER) &&
                      target.pbHasType?(:DARK) && target.opposes?(user)
       return true if move.priority>0 && @battle.field.terrain == :Psychic &&
                      target.affectedByTerrain? && target.opposes?(user)
@@ -267,6 +270,8 @@ class PokeBattle_AI
     atk = pbRoughStat(user,:ATTACK,skill)
     if move.function=="121"   # Foul Play
       atk = pbRoughStat(target,:ATTACK,skill)
+    elsif  move.function=="177" # Body Press
+      atk = pbRoughStat(user,:DEFENSE,skill)
     elsif move.specialMove?(type)
       if move.function=="121"   # Foul Play
         atk = pbRoughStat(target,:SPECIAL_ATTACK,skill)
@@ -437,7 +442,7 @@ class PokeBattle_AI
     end
     # Weather
     if skill>=PBTrainerAI.mediumSkill
-      case @battle.pbWeather
+      case user.effectiveWeather
       when :Sun, :HarshSun
         if type == :FIRE
           multipliers[:final_damage_multiplier] *= 1.5

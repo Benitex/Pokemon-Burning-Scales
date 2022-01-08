@@ -198,23 +198,24 @@ module GameData
       pbSEPlay(RPG::AudioFile.new(filename, volume, pitch)) rescue nil
     end
 
-    def self.play_cry_from_pokemon(pkmn, volume = 90, pitch = nil)
+    def self.play_cry_from_pokemon(pkmn, volume = 90, pitch = 100)
       return if !pkmn || pkmn.egg?
       filename = self.cry_filename_from_pokemon(pkmn)
       return if !filename
-      pitch ||= 75 + (pkmn.hp * 25 / pkmn.totalhp)
+      pitch ||= 100
       pbSEPlay(RPG::AudioFile.new(filename, volume, pitch)) rescue nil
     end
 
-    def self.play_cry(pkmn, volume = 90, pitch = nil)
+    def self.play_cry(pkmn, volume = 90, pitch = 100)
       if pkmn.is_a?(Pokemon)
         self.play_cry_from_pokemon(pkmn, volume, pitch)
       else
-        self.play_cry_from_species(pkmn, nil, volume, pitch)
+        self.play_cry_from_species(pkmn, 0, volume, pitch)
       end
     end
 
     def self.cry_length(species, form = 0, pitch = 100)
+      pitch ||= 100
       return 0 if !species || pitch <= 0
       pitch = pitch.to_f / 100
       ret = 0.0

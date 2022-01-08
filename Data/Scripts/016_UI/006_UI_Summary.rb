@@ -343,6 +343,7 @@ class PokemonSummary_Scene
        [@pokemon.level.to_s,46,86,0,Color.new(64,64,64),Color.new(176,176,176)],
        [_INTL("Item"),66,312,0,base,shadow]
     ]
+    _ZUD_SummaryImages(textpos,3) if defined?(Settings::ZUD_COMPAT)
     # Write the held item's name
     if @pokemon.hasItem?
       textpos.push([@pokemon.item.name,16,346,0,Color.new(64,64,64),Color.new(176,176,176)])
@@ -539,7 +540,7 @@ class PokemonSummary_Scene
     overlay = @sprites["overlay"].bitmap
     memo = ""
     # Write nature
-    showNature = !@pokemon.shadowPokemon? || @pokemon.heartStage>3
+    showNature = !@pokemon.shadowPokemon? || @pokemon.heartStage <= 3
     if showNature
       natureName = @pokemon.nature.name
       memo += _INTL("<c3=F83820,E09890>{1}<c3=404040,B0B0B0> nature.\n",natureName)
@@ -767,9 +768,10 @@ class PokemonSummary_Scene
         yPos += 20
       end
       if move
-        type_number = GameData::Type.get(move.type).id_number
+        maxmove = (defined?(Settings::ZUD_COMPAT) && !move_to_learn) ? _ZUD_DrawMoveSel(move)[0] : move
+        type_number = GameData::Type.get(maxmove.type).id_number
         imagepos.push(["Graphics/Pictures/types", 248, yPos + 8, 0, type_number * 28, 64, 28])
-        textpos.push([move.name,316,yPos,0,moveBase,moveShadow])
+        textpos.push([maxmove.name,316,yPos,0,moveBase,moveShadow])
         if move.total_pp>0
           textpos.push([_INTL("PP"),342,yPos+32,0,moveBase,moveShadow])
           ppfraction = 0
@@ -814,12 +816,15 @@ class PokemonSummary_Scene
     @sprites["itemicon"].visible = false if @sprites["itemicon"]
     textpos = []
     # Write power and accuracy values for selected move
-    case selected_move.base_damage
+    maxmove_data = (defined?(Settings::ZUD_COMPAT)) ? _ZUD_DrawMoveSel(selected_move) : [selected_move,"???"]
+    flex_dmg     = maxmove_data[1]
+    maxmove      = maxmove_data[0]
+    case maxmove.base_damage
     when 0 then textpos.push(["---", 216, 148, 1, base, shadow])   # Status move
-    when 1 then textpos.push(["???", 216, 148, 1, base, shadow])   # Variable power move
+    when 1 then textpos.push(["#{flex_dmg}", 216, 148, 1, base, shadow])   # Variable power move
     else        textpos.push([selected_move.base_damage.to_s, 216, 148, 1, base, shadow])
     end
-    if selected_move.accuracy == 0
+    if maxmove.accuracy == 0
       textpos.push(["---", 216, 180, 1, base, shadow])
     else
       textpos.push(["#{selected_move.accuracy}%", 216 + overlay.text_size("%").width, 180, 1, base, shadow])
@@ -830,7 +835,8 @@ class PokemonSummary_Scene
     imagepos = [["Graphics/Pictures/category", 166, 124, 0, selected_move.category * 28, 64, 28]]
     pbDrawImagePositions(overlay, imagepos)
     # Draw selected move's description
-    drawTextEx(overlay, 4, 222, 230, 5, selected_move.description, base, shadow)
+    desc = (move_to_learn) ? selected_move.description : maxmove.description
+    drawTextEx(overlay, 4, 222, 230, 5, desc, base, shadow)
   end
 
   def drawPageFive

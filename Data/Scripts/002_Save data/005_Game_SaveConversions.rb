@@ -240,3 +240,14 @@ SaveData.register_conversion(:v19_convert_game_screen) do
     game_screen.weather(game_screen.weather_type, game_screen.weather_max, 0)
   end
 end
+
+
+SaveData.register_conversion(:v19_add_number_battled) do
+  essentials_version 19.2
+  display_title 'Adding number battled metric to Pokédex'
+  to_value :player do |player|
+    player.pokedex.instance_eval do
+      @number_battled = {} if @number_battled.nil?
+    end
+  end
+end

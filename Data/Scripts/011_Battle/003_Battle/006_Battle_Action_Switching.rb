@@ -305,10 +305,10 @@ class PokeBattle_Battle
   #=============================================================================
   # Called at the start of battle only.
   def pbOnActiveAll
-    # Neutralizing Gas activates before anything.
-	  pbPriorityNeutralizingGas
     # Weather-inducing abilities, Trace, Imposter, etc.
     pbCalculatePriority(true)
+    # Neutralizing Gas activates before anything.
+    pbPriorityNeutralizingGas
     pbPriority(true).each { |b| b.pbEffectsOnSwitchIn(true) }
     pbCalculatePriority
     # Check forms are correct
@@ -330,8 +330,9 @@ class PokeBattle_Battle
     # Update battlers' participants (who will gain Exp/EVs when a battler faints)
     eachBattler { |b| b.pbUpdateParticipants }
 	  # Healing Wish / Lunar Dance
-	  pbActivateHealingWish(battler)
+	  battler.pbEffectsOnEnteringPosition
     # Entry hazards
+    _ZUD_OnActiveEffects(battler) if defined?(Settings::ZUD_COMPAT)
     # Stealth Rock
     if battler.pbOwnSide.effects[PBEffects::StealthRock] && battler.takesIndirectDamage? &&
        GameData::Type.exists?(:ROCK) && battler.takesEntryHazardDamage?
@@ -398,35 +399,10 @@ class PokeBattle_Battle
 
   # Called at the start of battle only; Neutralizing Gas activates before anything.
   def pbPriorityNeutralizingGas
-    eachBattler do |b|
-      next if !b || b.fainted?
-      # neutralizing gas can be blocked with gastro acid, ending the effect.
-      if b.ability == :NEUTRALIZINGGAS && !b.effects[PBEffects::GastroAcid]
-        BattleHandlers.triggerAbilityOnSwitchIn(:NEUTRALIZINGGAS,b,self)
-        return
-      end
-    end
-  end
-
-  # Called when a Pokémon switches in + after using Ally Switch (Gen 8 mechanics)
-  def pbActivateHealingWish(battler)
-    return if !battler.canTakeHealingWish?
-    # Healing Wish
-    if @positions[battler.index].effects[PBEffects::HealingWish]
-      pbCommonAnimation("HealingWish",battler)
-      pbDisplay(_INTL("The healing wish came true for {1}!",battler.pbThis(true)))
-      battler.pbRecoverHP(battler.totalhp)
-      battler.pbCureStatus(false)
-      @positions[battler.index].effects[PBEffects::HealingWish] = false
-    end
-    # Lunar Dance
-    if @positions[battler.index].effects[PBEffects::LunarDance]
-      pbCommonAnimation("LunarDance",battler)
-      pbDisplay(_INTL("{1} became cloaked in mystical moonlight!",battler.pbThis))
-      battler.pbRecoverHP(battler.totalhp)
-      battler.pbCureStatus(false)
-      battler.eachMove { |m| m.pp = m.total_pp }
-      @positions[battler.index].effects[PBEffects::LunarDance] = false
+    pbPriority(true).each do |b|
+      next if !b.abilityActive?
+      next if b.ability_id != :NEUTRALIZINGGAS
+      BattleHandlers.triggerAbilityOnSwitchIn(b.ability, b, self)
     end
   end
 end

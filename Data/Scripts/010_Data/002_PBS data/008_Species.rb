@@ -42,9 +42,11 @@ module GameData
     attr_reader :mega_message
     attr_accessor :back_sprite_x
     attr_accessor :back_sprite_y
+    attr_accessor :back_sprite_scale
     attr_accessor :front_sprite_x
     attr_accessor :front_sprite_y
     attr_accessor :front_sprite_altitude
+    attr_accessor :front_sprite_scale
     attr_accessor :shadow_x
     attr_accessor :shadow_size
 
@@ -105,6 +107,8 @@ module GameData
         "BattlerEnemyX"     => [0, "i"],
         "BattlerEnemyY"     => [0, "i"],
         "BattlerAltitude"   => [0, "i"],
+        "FrontSpriteScale"  => [0, "i"],
+        "BackSpriteScale"   => [0, "i"],
         "BattlerShadowX"    => [0, "i"],
         "BattlerShadowSize" => [0, "u"]
       }
@@ -176,6 +180,8 @@ module GameData
       @front_sprite_x        = hash[:front_sprite_x]        || 0
       @front_sprite_y        = hash[:front_sprite_y]        || 0
       @front_sprite_altitude = hash[:front_sprite_altitude] || 0
+      @front_sprite_scale    = hash[:front_sprite_scale]    || Settings::FRONT_BATTLER_SPRITE_SCALE
+      @back_sprite_scale     = hash[:back_sprite_scale]     || Settings::BACK_BATTLER_SPRITE_SCALE
       @shadow_x              = hash[:shadow_x]              || 0
       @shadow_size           = hash[:shadow_size]           || 2
     end
@@ -198,6 +204,10 @@ module GameData
     # @return [String] the translated Pokédex entry of this species
     def pokedex_entry
       return pbGetMessage(MessageTypes::Entries, @id_number)
+    end
+
+    def single_gendered?
+      return GameData::GenderRatio.get(@gender_ratio).single_gendered?
     end
 
     def apply_metrics_to_sprite(sprite, index, shadow = false)

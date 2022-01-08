@@ -269,50 +269,47 @@ MultipleForms.register(:CHERRIM,{
   }
 })
 
-MultipleForms.register(:ROTOM,{
+MultipleForms.register(:ROTOM, {
   "onSetForm" => proc { |pkmn, form, oldForm|
     form_moves = [
-       :OVERHEAT,    # Heat, Microwave
-       :HYDROPUMP,   # Wash, Washing Machine
-       :BLIZZARD,    # Frost, Refrigerator
-       :AIRSLASH,    # Fan
-       :LEAFSTORM    # Mow, Lawnmower
+       :OVERHEAT,    # Heat (microwave oven)
+       :HYDROPUMP,   # Wash (washing machine)
+       :BLIZZARD,    # Frost (refrigerator)
+       :AIRSLASH,    # Fan (electric fan)
+       :LEAFSTORM    # Mow (lawn mower)
     ]
-    move_index = -1
+    # Find a known move that should be forgotten
+    old_move_index = -1
     pkmn.moves.each_with_index do |move, i|
-      next if !form_moves.any? { |m| m == move.id }
-      move_index = i
+      next if !form_moves.include?(move.id)
+      old_move_index = i
       break
     end
-    if form == 0
-      # Turned back into the base form; forget form-specific moves
-      if move_index >= 0
-        move_name = pkmn.moves[move_index].name
-        pkmn.forget_move_at_index(move_index)
-        pbMessage(_INTL("{1} forgot {2}...", pkmn.name, move_name))
-        pbLearnMove(:THUNDERSHOCK) if pkmn.numMoves == 0
-      end
-    else
-      # Turned into an alternate form; try learning that form's unique move
-      new_move_id = form_moves[form - 1]
-      if move_index >= 0
-        # Knows another form's unique move; replace it
-        old_move_name = pkmn.moves[move_index].name
-        if GameData::Move.exists?(new_move_id)
-          pkmn.moves[move_index].id = new_move_id
-          new_move_name = pkmn.moves[move_index].name
-          pbMessage(_INTL("1,\\wt[16] 2, and\\wt[16]...\\wt[16] ...\\wt[16] ... Ta-da!\\se[Battle ball drop]\1"))
-          pbMessage(_INTL("{1} forgot how to use {2}.\\nAnd...\1", pkmn.name, old_move_name))
-          pbMessage(_INTL("\\se[]{1} learned {2}!\\se[Pkmn move learnt]", pkmn.name, new_move_name))
-        else
-          pkmn.forget_move_at_index(move_index)
-          pbMessage(_INTL("{1} forgot {2}...", pkmn.name, old_move_name))
-          pbLearnMove(:THUNDERSHOCK) if pkmn.numMoves == 0
-        end
+    # Determine which new move to learn (if any)
+    new_move_id = (form > 0) ? form_moves[form - 1] : nil
+    new_move_id = nil if !GameData::Move.exists?(new_move_id)
+    if new_move_id.nil? && old_move_index >= 0 && pkmn.numMoves == 1
+      new_move_id = :THUNDERSHOCK
+      new_move_id = nil if !GameData::Move.exists?(new_move_id)
+      raise _INTL("Rotom is trying to forget its last move, but there isn't another move to replace it with.") if new_move_id.nil?
+    end
+    # Forget a known move (if relevant) and learn a new move (if relevant)
+    if old_move_index >= 0
+      old_move_name = pkmn.moves[old_move_index].name
+      if new_move_id.nil?
+        # Just forget the old move
+        pkmn.forget_move_at_index(old_move_index)
+        pbMessage(_INTL("{1} forgot {2}...\1", pkmn.name, old_move_name))
       else
-        # Just try to learn this form's unique move
-        pbLearnMove(pkmn, new_move_id, true)
+        # Replace the old move with the new move (keeps the same index)
+        pkmn.moves[old_move_index].id = new_move_id
+        new_move_name = pkmn.moves[old_move_index].name
+        pbMessage(_INTL("{1} forgot {2}...\1", pkmn.name, old_move_name))
+        pbMessage(_INTL("\\se[]{1} learned {2}!\\se[Pkmn move learnt]\1", pkmn.name, new_move_name))
       end
+    elsif !new_move_id.nil?
+      # Just learn the new move
+      pbLearnMove(pkmn, new_move_id, true)
     end
   }
 })
@@ -366,12 +363,6 @@ MultipleForms.register(:ARCEUS,{
       break if ret > 0
     end
     next ret
-  }
-})
-
-MultipleForms.register(:BASCULIN,{
-  "getFormOnCreation" => proc { |pkmn|
-    next rand(2)
   }
 })
 
@@ -450,22 +441,6 @@ MultipleForms.register(:GRENINJA,{
   }
 })
 
-MultipleForms.register(:SCATTERBUG,{
-  "getFormOnCreation" => proc { |pkmn|
-    next $Trainer.secret_ID % 18
-  }
-})
-
-MultipleForms.copy(:SCATTERBUG,:SPEWPA,:VIVILLON)
-
-MultipleForms.register(:FLABEBE,{
-  "getFormOnCreation" => proc { |pkmn|
-    next rand(5)
-  }
-})
-
-MultipleForms.copy(:FLABEBE,:FLOETTE,:FLORGES)
-
 MultipleForms.register(:FURFROU,{
   "getForm" => proc { |pkmn|
     if !pkmn.time_form_set ||
@@ -530,12 +505,6 @@ MultipleForms.register(:HOOPA,{
   "onSetForm" => proc { |pkmn,form,oldForm|
     pkmn.time_form_set = (form>0) ? pbGetTimeNow.to_i : nil
   }
-})
-
-MultipleForms.register(:ORICORIO,{
-  "getFormOnCreation" => proc { |pkmn|
-    next rand(4)   # 0=red, 1=yellow, 2=pink, 3=purple
-  },
 })
 
 MultipleForms.register(:ROCKRUFF,{
@@ -658,6 +627,13 @@ MultipleForms.register(:TOXEL,{
 
 MultipleForms.copy(:TOXEL,:TOXTRICITY)
 
+MultipleForms.register(:SINISTEA, {
+  "getFormOnCreation" => proc { |pkmn|
+    next 1 if rand(100) == 0
+    next 0
+  }
+})
+
 MultipleForms.register(:EISCUE,{
   "getFormOnLeavingBattle" => proc { |pkmn,battle,usedInBattle,endBattle|
     next 0 if pkmn.fainted? || endBattle
@@ -696,22 +672,26 @@ MultipleForms.register(:CRAMORANT,{
   }
 })
 
+MultipleForms.register(:URSHIFU, {
+  "getFormOnCreation" => proc { |pkmn|
+    next rand(2)
+  }
+})
+
 MultipleForms.register(:CALYREX,{
   "onSetForm" => proc { |pkmn,form,oldForm|
     case form
     when 0   # Normal
-      exclusiveMoves = [
+      exclusive_moves = [
         :TACKLE, :TAILWHIP, :DOUBLEKICK, :AVALANCHE, :HEX, :STOMP, :TORMENT,
         :CONFUSERAY, :MIST, :HAZE, :ICICLECRASH, :SHADOWBALL, :TAKEDOWN,
         :IRONDEFENSE, :AGILITY, :THRASH, :TAUNT, :DISABLE, :DOUBLEEDGE,
         :SWORDSDANCE, :NASTYPLOT, :GLACIALLANCE, :ASTRALBARRAGE
       ]
-      pkmn.moves.each_with_index do |move,i|
-        next if !move
-        if exclusiveMoves.include?(move.id)
-          pbMessage(_INTL("{1} forgot {2}...",pkmn.name,GameData::Move.get(move.id).name))
-          pkmn.pbDeleteMoveAtIndex(i)
-        end
+      pkmn.moves.each_with_index do |move, i|
+        next if !move || !exclusive_moves.include?(move.id)
+        pbMessage(_INTL("{1} forgot {2}...",pkmn.name,GameData::Move.get(move.id).name))
+        pkmn.forget_move_at_index(i)
       end
       pbLearnMove(:CONFUSION) if pkmn.numMoves == 0
     when 1   # Ice Rider
@@ -760,4 +740,14 @@ MultipleForms.register(:KOFFING,{
   }
 })
 
-MultipleForms.copy(:KOFFING,:MIMEJR)
+# These species are required to be in form 1 for breeding purposes.
+MultipleForms.register(:SIRFETCHD,{
+  "getForm" => proc { |pkmn| next 1 }
+})
+
+
+MultipleForms.register(:PERRSERKER,{
+  "getForm" => proc { |pkmn| next 2 }
+})
+
+MultipleForms.copy(:SIRFETCHD, :MRRIME, :CURSOLA, :OBSTAGOON, :RUNERIGUS)

@@ -92,6 +92,8 @@ module BattleHandlers
   AbilityOnSwitchOut                  = AbilityHandlerHash.new
   AbilityChangeOnBattlerFainting      = AbilityHandlerHash.new
   AbilityOnBattlerFainting            = AbilityHandlerHash.new   # Soul-Heart
+  AbilityOnTerrainChange              = AbilityHandlerHash.new   # Mimicry
+  AbilityOnIntimidated                = AbilityHandlerHash.new   # Rattled (Gen 8)
   # Running from battle
   RunFromBattleAbility                = AbilityHandlerHash.new   # Run Away
   RunFromBattleItem                   = ItemHandlerHash.new   # Smoke Ball
@@ -475,6 +477,15 @@ module BattleHandlers
     AbilityOnBattlerFainting.trigger(ability,battler,fainted,battle)
   end
 
+  def self.triggerAbilityOnTerrainChange(ability, battler, battle, ability_changed)
+    AbilityOnTerrainChange.trigger(ability, battler, battle, ability_changed)
+  end
+
+  def self.triggerAbilityOnIntimidated(ability,battler,battle)
+    AbilityOnIntimidated.trigger(ability,battler,battle)
+  end
+
+
   #=============================================================================
 
   def self.triggerRunFromBattleAbility(ability,battler)
@@ -494,12 +505,16 @@ def pbBattleConfusionBerry(battler,battle,item,forced,flavor,confuseMsg)
   return false if !forced && !battler.canHeal?
   return false if !forced && !battler.canConsumePinchBerry?(Settings::MECHANICS_GENERATION >= 7)
   itemName = GameData::Item.get(item).name
-  battle.pbCommonAnimation("EatBerry",battler) if !forced
   fraction_to_heal = 8   # Gens 6 and lower
   if Settings::MECHANICS_GENERATION == 7;    fraction_to_heal = 2
   elsif Settings::MECHANICS_GENERATION >= 8; fraction_to_heal = 3
   end
-  fraction_to_heal /= 2 if battler.hasActiveAbility?(:RIPEN)
+  if battler.hasActiveAbility?(:RIPEN)
+    battle.pbShowAbilitySplash(battler, forced)
+    fraction_to_heal /= 2
+  end
+  battle.pbCommonAnimation("EatBerry", battler) if !forced
+  battle.pbHideAbilitySplash(battler) if battler.hasActiveAbility?(:RIPEN)
   amt = battler.pbRecoverHP(battler.totalhp / fraction_to_heal)
   if amt>0
     if forced
@@ -523,13 +538,15 @@ def pbBattleStatIncreasingBerry(battler,battle,item,forced,stat,increment=1)
   return false if !forced && !battler.canConsumePinchBerry?
   return false if !battler.pbCanRaiseStatStage?(stat,battler)
   itemName = GameData::Item.get(item).name
-  increment *=2 if battler.hasActiveAbility?(:RIPEN)
-  if forced
-    PBDebug.log("[Item triggered] Forced consuming of #{itemName}")
-    return battler.pbRaiseStatStage(stat,increment,battler)
+  if battler.hasActiveAbility?(:RIPEN)
+    battle.pbShowAbilitySplash(battler, forced)
+    increment *= 2
   end
-  battle.pbCommonAnimation("EatBerry",battler)
-  return battler.pbRaiseStatStageByCause(stat,increment,battler,itemName)
+  battle.pbCommonAnimation("EatBerry", battler) if !forced
+  battle.pbHideAbilitySplash(battler) if battler.hasActiveAbility?(:RIPEN)
+  return battler.pbRaiseStatStageByCause(stat, increment, battler, itemName) if !forced
+  PBDebug.log("[Item triggered] Forced consuming of #{itemName}")
+  return battler.pbRaiseStatStage(stat, increment, battler)
 end
 
 # For abilities that grant immunity to moves of a particular type, and raises
@@ -594,10 +611,15 @@ end
 
 def pbBattleTypeWeakingBerry(type,moveType,target,mults)
   return if moveType != type
-  return if Effectiveness.resistant?(target.damageState.typeMod) && moveType != :NORMAL
-  mults[:final_damage_multiplier] /= target.hasActiveAbility?(:RIPEN)? 4 : 2
+  return if !Effectiveness.super_effective?(target.damageState.typeMod) && moveType != :NORMAL
+  mults[:final_damage_multiplier] /= 2
   target.damageState.berryWeakened = true
+  if target.hasActiveAbility?(:RIPEN)
+    target.battle.pbShowAbilitySplash(target)
+    mults[:final_damage_multiplier] /= 2
+  end
   target.battle.pbCommonAnimation("EatBerry",target)
+  target.battle.pbHideAbilitySplash(target) if target.hasActiveAbility?(:RIPEN)
 end
 
 def pbBattleWeatherAbility(weather,battler,battle,ignorePrimal=false)

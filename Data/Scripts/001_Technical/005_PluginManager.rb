@@ -351,7 +351,7 @@ module PluginManager
     Graphics.update
     t = Thread.new do
       echoln "Plugin Error:\r\n#{msg}"
-      p "Plugin Error: #{msg}"
+      print("Plugin Error: #{msg}")
       Thread.exit
     end
     while t.status
@@ -702,7 +702,7 @@ module PluginManager
         fname = "[#{name}] #{sname}"
         # try to run the code
         begin
-          eval(code, TOPLEVEL_BINDING, fname)
+          eval(code, TOPLEVEL_BINDING, fname) if name != "v19.1 Hotfixes" || compare_versions(meta[:version], "1.0.7") > 0
           echoln "Loaded plugin: #{name}" if !echoed_plugins.include?(name)
           echoed_plugins.push(name)
         rescue Exception   # format error message to display

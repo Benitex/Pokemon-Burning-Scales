@@ -88,7 +88,7 @@ class PokeBattle_Battler
   #=============================================================================
   # Redirect attack to another target
   #=============================================================================
-  def pbChangeTargets(move,user,targets,dragondarts=-1)
+  def pbChangeTargets(move,user,targets)
     target_data = move.pbTarget(user)
     return targets if @battle.switching   # For Pursuit interrupting a switch
     return targets if move.cannotRedirect?
@@ -132,51 +132,6 @@ class PokeBattle_Battler
       pbAddTarget(targets,user,newTarget,move,nearOnly)
       return targets
     end
-    # Dragon Darts redirection
-    if dragondarts>=0
-      newTargets=[]
-      neednewtarget=false
-      # Check if first use has to be redirected
-      if dragondarts==0
-        targets.each do |b|
-          next if !b.effects[PBEffects::Protect] &&
-          !(b.effects[PBEffects::QuickGuard] && @battle.choices[user.index][4]>0) &&
-          !b.effects[PBEffects::SpikyShield] &&
-          !b.effects[PBEffects::BanefulBunker] &&
-          !b.effects[PBEffects::Obstruct] &&
-          b.effects[PBEffects::TwoTurnAttack]<=0 &&
-          !move.pbImmunityByAbility(user,b) &&
-          !Effectiveness.ineffective_type?(move.type,b.type1,b.type2) &&
-          move.pbAccuracyCheck(user,b)
-          next neednewtarget=true
-        end
-      end
-      # Redirect first use if necessary or get another target on each consecutive use
-      if neednewtarget || dragondarts==1
-        targets[0].eachAlly do |b|
-          next if b.index == user.index && dragondarts==1 # Don't attack yourself on the second hit.
-          next if b.effects[PBEffects::Protect] ||
-          (b.effects[PBEffects::QuickGuard] && @battle.choices[user.index][4]>0) ||
-          b.effects[PBEffects::SpikyShield] ||
-          b.effects[PBEffects::BanefulBunker] ||
-          b.effects[PBEffects::Obstruct] ||
-          b.effects[PBEffects::TwoTurnAttack]>0||
-          move.pbImmunityByAbility(user,b) ||
-          Effectiveness.ineffective_type?(move.type,b.type1,b.type2) ||
-          !move.pbAccuracyCheck(user,b)
-          newTargets.push(b)
-          b.damageState.unaffected = false
-          # In double battle, the pokémon might keep this state from a hit from the ally.
-          break
-        end
-      end
-      # Final target
-      targets=newTargets if newTargets.length!=0
-      # Reduce PP if the new target has Pressure
-      if targets[0].hasActiveAbility?(:PRESSURE)
-        user.pbReducePP(move) # Reduce PP
-      end
-    end
     # Lightning Rod
     targets = pbChangeTargetByAbility(:LIGHTNINGROD,:ELECTRIC,move,user,targets,priority,nearOnly)
     # Storm Drain
@@ -201,6 +156,44 @@ class PokeBattle_Battler
       end
       @battle.pbHideAbilitySplash(b)
       break
+    end
+    return targets
+  end
+
+  def redirectsDragonDarts?(opponent = nil, move = nil)
+    return true if @effects[PBEffects::Protect]
+    return true if @effects[PBEffects::SpikyShield]
+    return true if @effects[PBEffects::BanefulBunker]
+    return true if @effects[PBEffects::Obstruct]
+    return true if @effects[PBEffects::QuickGuard] && @battle.choices[@index][4] > 0
+    return true if semiInvulnerable?
+    if move
+      return true if Effectiveness.ineffective_type?(move.type, @type1, @type2)
+      if opponent
+        return true if move.pbImmunityByAbility(opponent, self)
+        return true if !move.pbAccuracyCheck(opponent, self)
+      end
+    end
+    return false
+  end
+
+  def pbChangeDragonDartsTarget(move, user, targets, hitNum)
+    new_targets = []
+    neednewtarget = targets.any? { |b| b.redirectsDragonDarts?(user, move) } && hitNum == 0
+    # Redirect first use if necessary or get another target on each consecutive use
+    if hitNum == 1 || neednewtarget
+      @battle.eachSameSideBattler(targets[0].index) do |b|
+        next if b.index == user.index
+        next if b.redirectsDragonDarts?(user, move)
+        new_targets.push(b)
+        break
+      end
+    end
+    # Final target
+    if !new_targets.empty?
+      targets = new_targets
+      # Reduce PP if the new target has Pressure
+      user.pbReducePP(move) if targets[0].hasActiveAbility?(:PRESSURE)
     end
     return targets
   end

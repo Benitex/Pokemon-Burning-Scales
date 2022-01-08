@@ -23,7 +23,6 @@ class PokeBattle_Battler
     @type1 = @type2 = nil
     @ability_id     = nil
     @item_id        = nil
-    @gender         = 0
     @attack = @defense = @spatk = @spdef = @speed = 0
     @status         = :NONE
     @statusCount    = 0
@@ -31,8 +30,6 @@ class PokeBattle_Battler
     @pokemonIndex   = -1
     @participants   = []
     @moves          = []
-    @iv             = {}
-    GameData::Stat.each_main { |s| @iv[s.id] = 0 }
   end
 
   # Used by Future Sight only, when Future Sight's user is no longer in battle.
@@ -47,7 +44,6 @@ class PokeBattle_Battler
     @type1        = pkmn.type1
     @type2        = pkmn.type2
     # ability and item intentionally not copied across here
-    @gender       = pkmn.gender
     @attack       = pkmn.attack
     @defense      = pkmn.defense
     @spatk        = pkmn.spatk
@@ -59,8 +55,6 @@ class PokeBattle_Battler
     @pokemonIndex = idxParty
     @participants = []
     # moves intentionally not copied across here
-    @iv           = {}
-    GameData::Stat.each_main { |s| @iv[s.id] = pkmn.iv[s.id] }
     @dummy        = true
   end
 
@@ -82,7 +76,6 @@ class PokeBattle_Battler
     @type2         = pkmn.type2
     @ability_id    = pkmn.ability_id
     @item_id       = pkmn.item_id
-    @gender        = pkmn.gender
     @attack        = pkmn.attack
     @defense       = pkmn.defense
     @spatk         = pkmn.spatk
@@ -109,8 +102,6 @@ class PokeBattle_Battler
         @moves[i] = PokeBattle_Move.from_pokemon_move(@battle,m)
       end
     end
-    @iv          = {}
-    GameData::Stat.each_main { |s| @iv[s.id] = pkmn.iv[s.id] }
   end
 
   def pbInitEffects(batonPass)
@@ -165,6 +156,7 @@ class PokeBattle_Battler
     @tookPhysicalHit       = false
     @statsRaised           = false
     @statsLowered          = false
+    @canRestoreIceFace     = false
     @lastMoveUsed          = nil
     @lastMoveUsedType      = nil
     @lastRegularMoveUsed   = nil
@@ -199,7 +191,7 @@ class PokeBattle_Battler
     @effects[PBEffects::Encore]              = 0
     @effects[PBEffects::EncoreMove]          = nil
     @effects[PBEffects::Endure]              = false
-    @effects[PBEffects::FirstPledge]         = 0
+    @effects[PBEffects::FirstPledge]         = nil
     @effects[PBEffects::FlashFire]           = false
     @effects[PBEffects::Flinch]              = false
     @effects[PBEffects::FocusPunch]          = false
@@ -302,7 +294,6 @@ class PokeBattle_Battler
     @effects[PBEffects::WaterSport]          = false
     @effects[PBEffects::WeightChange]        = 0
     @effects[PBEffects::Yawn]                = 0
-    @effects[PBEffects::GorillaTactics]      = nil
     @effects[PBEffects::BallFetch]           = nil
     @effects[PBEffects::Obstruct]            = false
     @effects[PBEffects::TarShot]             = false

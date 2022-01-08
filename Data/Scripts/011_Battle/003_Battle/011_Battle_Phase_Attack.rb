@@ -58,9 +58,7 @@ class PokeBattle_Battle
       # Pursuit interrupts switching
       pbPursuit(b.index)
       return if @decision>0
-      # Neutralizing Gas
-	    pbCheckNeutralizingGas(b)
-	    # Switch Pokémon
+      # Switch Pokémon
       pbRecallAndReplace(b.index,idxNewPkmn)
       b.pbEffectsOnSwitchIn(true)
     end

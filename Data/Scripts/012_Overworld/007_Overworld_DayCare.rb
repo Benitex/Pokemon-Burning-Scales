@@ -52,7 +52,7 @@ def pbDayCareDeposit(index)
     next if $PokemonGlobal.daycare[i][0]
     $PokemonGlobal.daycare[i][0] = $Trainer.party[index]
     $PokemonGlobal.daycare[i][0].time_form_set = nil
-    $PokemonGlobal.daycare[i][0].form = 0 if $Trainer.party[index].species == :SHAYMIN
+    $PokemonGlobal.daycare[i][0].form = 0 if $Trainer.party[index].isSpecies?(:SHAYMIN)
     $PokemonGlobal.daycare[i][1] = $Trainer.party[index].level
     $PokemonGlobal.daycare[i][0].heal
     $Trainer.party[index] = nil
@@ -195,8 +195,9 @@ def pbDayCareGenerateEgg
   egg.personalID = pid
   # Inheriting form
   if [:BURMY, :SHELLOS, :BASCULIN, :FLABEBE, :PUMPKABOO, :ORICORIO, :ROCKRUFF, :MINIOR].include?(babyspecies)
-    newForm = mother.form
-    newForm = 0 if mother.isSpecies?(:MOTHIM)
+    parent = (ditto0 || (!pkmn0.female? && ditto1)) ? father : mother
+    newForm = parent.form
+    newForm = 0 if parent.isSpecies?(:MOTHIM)
     egg.form = newForm
   end
   # Inheriting Alolan form
@@ -204,15 +205,11 @@ def pbDayCareGenerateEgg
       :MEOWTH, :GEODUDE, :GRIMER, :PONYTA,
       :SLOWPOKE, :FARFETCHD, :MRMIME, :CORSOLA,
       :ZIGZAGOON, :DARUMAKA, :YAMASK, :STUNFISK].include?(babyspecies)
-    if mother.form == 1
-      egg.form = 1 if mother.hasItem?(:EVERSTONE)
-    elsif father.species_data.get_baby_species(true, mother.item_id, father.item_id) == babyspecies
-      egg.form = 1 if father.form == 1 && father.hasItem?(:EVERSTONE)
-    end
-    if mother.form == 2
-      egg.form = 2 if mother.hasItem?(:EVERSTONE)
-    elsif pbGetBabySpecies(father.species,mother.item,father.item)==babyspecies
-      egg.form = 2 if father.form == 2 && father.hasItem?(:EVERSTONE)
+    if mother.form > 0
+      egg.form = mother.form if mother.hasItem?(:EVERSTONE)
+    elsif father.form > 0 &&
+       father.species_data.get_baby_species(true, mother.item_id, father.item_id) == babyspecies
+      egg.form = father.form if father.hasItem?(:EVERSTONE)
     end
   end
   # Inheriting Moves
@@ -329,7 +326,7 @@ def pbDayCareGenerateEgg
   if shinyretries>0
     shinyretries.times do
       break if egg.shiny?
-      genwildpoke.shiny = nil
+      egg.shiny = nil
       egg.personalID = rand(2**16) | rand(2**16) << 16
     end
   end

@@ -354,7 +354,7 @@ IceGod64<s>SoundSpawn
 Jacob O. Wobbrock<s>the__end
 KitsuneKouta<s>Venom12
 Lisa Anthony<s>Wachunga
-Luka S.J.<s> 
+Luka S.J.<s>
 and everyone else who helped out
 
 "mkxp-z" by:
@@ -421,7 +421,7 @@ _END_
     lines_per_bitmap = @bitmap_height / 32
     num_bitmaps = (credit_lines.size.to_f / lines_per_bitmap).ceil
     for i in 0...num_bitmaps
-      credit_bitmap = Bitmap.new(Graphics.width, @bitmap_height)
+      credit_bitmap = Bitmap.new(Graphics.width, @bitmap_height + 16)
       pbSetSystemFont(credit_bitmap)
       for j in 0...lines_per_bitmap
         line = credit_lines[i * lines_per_bitmap + j]
@@ -437,18 +437,18 @@ _END_
             linewidth = Graphics.width / 2 - 20
           end
           credit_bitmap.font.color = TEXT_SHADOW_COLOR
-          credit_bitmap.draw_text(xpos,     j * 32 + 8, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos,     j * 32 + 12, linewidth, 32, line[k], align)
           credit_bitmap.font.color = TEXT_OUTLINE_COLOR
-          credit_bitmap.draw_text(xpos + 2, j * 32 - 2, linewidth, 32, line[k], align)
-          credit_bitmap.draw_text(xpos,     j * 32 - 2, linewidth, 32, line[k], align)
-          credit_bitmap.draw_text(xpos - 2, j * 32 - 2, linewidth, 32, line[k], align)
-          credit_bitmap.draw_text(xpos + 2, j * 32,     linewidth, 32, line[k], align)
-          credit_bitmap.draw_text(xpos - 2, j * 32,     linewidth, 32, line[k], align)
           credit_bitmap.draw_text(xpos + 2, j * 32 + 2, linewidth, 32, line[k], align)
           credit_bitmap.draw_text(xpos,     j * 32 + 2, linewidth, 32, line[k], align)
           credit_bitmap.draw_text(xpos - 2, j * 32 + 2, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos + 2, j * 32 + 4, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos - 2, j * 32 + 4, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos + 2, j * 32 + 6, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos,     j * 32 + 6, linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos - 2, j * 32 + 6, linewidth, 32, line[k], align)
           credit_bitmap.font.color = TEXT_BASE_COLOR
-          credit_bitmap.draw_text(xpos,     j * 32,     linewidth, 32, line[k], align)
+          credit_bitmap.draw_text(xpos,     j * 32 + 4, linewidth, 32, line[k], align)
         end
       end
       credit_sprite = Sprite.new(text_viewport)

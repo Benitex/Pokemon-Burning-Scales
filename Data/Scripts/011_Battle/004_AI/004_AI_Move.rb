@@ -197,6 +197,11 @@ class PokeBattle_AI
         elsif move.function=="0F2"; score += 70   # Trick
         else;                       score -= 60
         end
+      elsif user.hasActiveAbility?(:GORILLATACTICS)
+        if move.baseDamage>=60;     score += 60
+        elsif move.damagingMove?;   score += 30
+        else;                       score -= 60
+        end
       end
       # If user is asleep, prefer moves that are usable while asleep
       if user.status == :SLEEP && !move.usableWhenAsleep?

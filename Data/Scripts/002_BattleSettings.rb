@@ -5,7 +5,7 @@ module Settings
   # Whether turn order is recalculated after a Pokémon Mega Evolves.
   RECALCULATE_TURN_ORDER_AFTER_MEGA_EVOLUTION = (MECHANICS_GENERATION >= 7)
   # Whether turn order is recalculated after a Pokémon's Speed stat changes.
-  RECALCULATE_TURN_ORDER_AFTER_SPEED_CHANGES  = (MECHANICS_GENERATION >= 7)
+  RECALCULATE_TURN_ORDER_AFTER_SPEED_CHANGES  = (MECHANICS_GENERATION >= 8)
   # Whether critical hits do 1.5x damage and have 4 stages (true), or they do 2x
   # damage and have 5 stages as in Gen 5 (false). Also determines whether
   # critical hit rate can be copied by Transform/Psych Up.
@@ -15,12 +15,28 @@ module Settings
   #   * Ghost-type immunity to being trapped
   #   * Grass-type immunity to powder moves and Effect Spore
   #   * Poison-type Pokémon can't miss when using Toxic
+  #   * Dark-type Pokemon immunity to Prankster moves
   MORE_TYPE_EFFECTS                           = (MECHANICS_GENERATION >= 6)
   # Whether weather caused by an ability lasts 5 rounds (true) or forever (false).
   FIXED_DURATION_WEATHER_FROM_ABILITY         = (MECHANICS_GENERATION >= 6)
   # Whether the fog weather behave like its Gen 8 counterpart (true)
   # or Gen 4 counterpart (false)
   SWSH_FOG_IN_BATTLES                         = (MECHANICS_GENERATION >= 8)
+  # Whether any Pokémon (originally owned by the player or foreign) can disobey
+  # the player's commands if the Pokémon is too high a level compared to the
+  # number of Gym Badges the player has.
+  ANY_HIGH_LEVEL_POKEMON_CAN_DISOBEY          = false
+  # Whether foreign Pokémon can disobey the player's commands if the Pokémon is
+  # too high a level compared to the number of Gym Badges the player has.
+  FOREIGN_HIGH_LEVEL_POKEMON_CAN_DISOBEY      = false
+
+  #=============================================================================
+
+  # Whether Pokémon with high affection will gain more Exp from battles, have a
+  # chance of avoiding/curing negative effects by themselves, resisting
+  # fainting, etc.
+  # (Only works when used with bo4p5687's Pokemon Amie script for v19)
+  AFFECTION_EFFECTS        = (MECHANICS_GENERATION >= 6)
 
   #=============================================================================
 
@@ -36,6 +52,9 @@ module Settings
   # Whether a Pokémon holding a Power item gains 8 (true) or 4 (false) EVs in
   # the relevant stat.
   MORE_EVS_FROM_POWER_ITEMS        = (MECHANICS_GENERATION >= 7)
+  # Whether the damage boost from the Terrains is 1.5x (false) like in Gen 6
+  # and 7, or 1.3x (true) like in Gen 8.
+  NERFED_TERRAIN_DAMAGE            = (MECHANICS_GENERATION >= 8)
 
   #=============================================================================
 

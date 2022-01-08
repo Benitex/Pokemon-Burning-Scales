@@ -381,8 +381,8 @@ def pbHyperTrainer(standard_item ,rare_item, check_level = true,check_badges = t
   return ret
 end
 
-def pbShowStatSelectionCommands(item,pkmn)
-  commands2 = []; displayCmd2 = [];
+def pbShowStatSelectionCommands(item, pkmn)
+  commands = []; displayCmd = [];
   cmdwindow=Window_CommandPokemonEx.new([])
   cmdwindow.z=99999
   cmdwindow.visible=true
@@ -391,15 +391,15 @@ def pbShowStatSelectionCommands(item,pkmn)
   need_refresh = true
   loop do
     if need_refresh
-      commands2 = []; displayCmd2 = [];
+      commands = []; displayCmd = [];
       GameData::Stat.each_main do |s|
         next if pkmn.ivMaxed[s.id] || pkmn.iv[s.id] == Pokemon::IV_STAT_LIMIT
-        commands2.push(s.id)
-        displayCmd2.push(_INTL("{1} {2}",statSelected.include?(s.id) ? "[x]" : "[  ]",s.name))
+        commands.push(s.id)
+        displayCmd.push(_INTL("{1} {2}",statSelected.include?(s.id) ? "[x]" : "[  ]",s.name))
       end
-      commands2.push(:NONE)
-      displayCmd2.push("Lets train!")
-      cmdwindow.commands = displayCmd2
+      commands.push(:NONE)
+      displayCmd.push("Lets train!")
+      cmdwindow.commands = displayCmd
       cmdwindow.resizeToFit(cmdwindow.commands)
       need_refresh = false
     end
@@ -408,20 +408,16 @@ def pbShowStatSelectionCommands(item,pkmn)
     cmdwindow.update
     yield if block_given?
     if Input.trigger?(Input::USE)
-      selCmd2 = cmdwindow.index
-      cmd2 = commands2[selCmd2]
-      break if cmd2 == :NONE
-      echoln statSelected
-      echoln statSelected.length
-      echoln $PokemonBag.pbQuantity(item)
-      if statSelected.include?(cmd2)
-        statSelected.delete(cmd2)
+      cmd = commands[cmdwindow.index]
+      break if cmd == :NONE
+      if statSelected.include?(cmd)
+        statSelected.delete(cmd)
       else
-        statSelected.push(cmd2)
+        statSelected.push(cmd)
       end
       if statSelected.length > $PokemonBag.pbQuantity(item)
         pbMessage(_INTL("You don't have enough {1}",GameData::Item.get(item).name_plural))
-        statSelected.delete(cmd2)
+        statSelected.delete(cmd)
       end
       need_refresh = true
     elsif Input.trigger?(Input::BACK)
@@ -433,4 +429,78 @@ def pbShowStatSelectionCommands(item,pkmn)
   cmdwindow.dispose
   Input.update
   return statSelected
+end
+
+#===============================================================================
+# Gen 8 Fossil Combiner
+#===============================================================================
+def pbFossilCombiner
+  combos = {
+    :DRACOZOLT => [:FOSSILIZEDDRAKE,:FOSSILIZEDBIRD],
+    :DRACOVISH => [:FOSSILIZEDDRAKE,:FOSSILIZEDFISH],
+    :ARCTOZOLT => [:FOSSILIZEDDINO,:FOSSILIZEDBIRD],
+    :ARCTOVISH => [:FOSSILIZEDDINO,:FOSSILIZEDFISH]
+  }
+  combineables = []
+  failed = true
+  combos.each do |_,fossil|
+    fossil.each { |item| combineables.push(item) if $PokemonBag.pbHasItem?(item) }
+    failed = false  if fossil.all? { |item| $PokemonBag.pbHasItem?(item) }
+  end
+  if failed
+    pbMessage(_INTL("Come back when you have 2 fossils that can be combined."))
+    return false
+  end
+  if !pbConfirmMessage(_INTL("Would you like to combine 2 fossils?"))
+    pbMessage(_INTL("Come back if you'd like to combine any fossils."))
+    return false
+  end
+  pkmn = nil
+  loop do
+    combineables.uniq!
+    combine_names = combineables.clone.map! { |item| next GameData::Item.get(item).name }
+    cmd = pbMessage(_INTL("Which fossil would you like to combine?"),combine_names)
+    fossil1 = combineables[cmd]
+    combineables2  = combineables.clone
+    combineables2.delete(fossil1)
+    combine_names2 = combineables2.clone.map! { |item| next GameData::Item.get(item).name }
+    cmd = pbMessage(_INTL("Which fossil would you like to combine with {1}?", GameData::Item.get(fossil1).name),
+                    combine_names2)
+    fossil2 = combineables2[cmd]
+    pkmn = nil
+    combos.each do |key,items|
+      next if !items.include?(fossil1) || !items.include?(fossil2)
+      pkmn = key
+      break
+    end
+    if !pkmn
+      pbMessage(_INTL("Oh... {1} and {2} cannot be combined.",GameData::Item.get(fossil1).name, GameData::Item.get(fossil2).name))
+      next if combineables.length > 2 && pbConfirmMessage(_INTL("Would you like to combine other fossils then?"))
+      pbMessage(_INTL("Come back if you'd like to combine any fossils."))
+      return false
+    end
+    if pbConfirmMessage(_INTL("Would you like to combine and restore the {1} and {2}?",GameData::Item.get(fossil1).name, GameData::Item.get(fossil2).name))
+      $PokemonBag.pbDeleteItem(fossil1)
+      $PokemonBag.pbDeleteItem(fossil2)
+      break
+    end
+    if !pbConfirmMessage(_INTL("Would you like to combine other fossils then?"))
+      pbMessage(_INTL("Come back if you'd like to combine any fossils."))
+      return false
+    end
+  end
+  pbFadeOutInWithMusic(99999) {
+    pbMEPlay("Evolution start")
+    pbWait(Graphics.frame_rate)
+    pbBGMPlay("Evolution")
+    frames = Array.new(3, "\\wt[#{Graphics.frame_rate - 4 + rand(10)}]\\se[Battle catch click]" )
+    frames.push("\\wt[#{Graphics.frame_rate + 12}]\\se[Battle ball drop]")
+    pbMessage(_INTL("Combining the fossils in 3 ...{1} 2 ...{2} 1 ... {3} and ...{4} !\\wtnp[10]",frames[0],frames[1],frames[2],frames[3]))
+    pbWait(8)
+    pbMessage(_INTL("\\me[Evolution success]Congratulations! The restoration was successful!"))
+  }
+  pbMessage(_INTL("Here's your restored Pokémon. Take good care of it!"))
+  pbAddPokemon(pkmn,10)
+  pbMessage(_INTL("Come back if you'd like to combine any fossils."))
+  return true
 end

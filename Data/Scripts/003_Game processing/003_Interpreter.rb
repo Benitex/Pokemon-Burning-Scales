@@ -109,6 +109,9 @@ class Interpreter
         for event in $game_map.events.values
           return if event.move_route_forcing
         end
+        $PokemonTemp.dependentEvents.eachEvent do |event, _|
+          return if event.move_route_forcing
+        end
         @move_route_waiting = false
       end
       # Do nothing while waiting

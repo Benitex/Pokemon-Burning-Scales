@@ -72,7 +72,7 @@ class PokeBattle_Battler
     @battle.peer.pbOnLeavingBattle(@battle,@pokemon,@battle.usedInBattle[idxOwnSide][@index/2])
     @pokemon.makeUnmega if mega?
     @pokemon.makeUnprimal if primal?
-    self.damage_done = 0 # Yamask
+    self.damage_done = 0
     # Do other things
     @battle.pbClearChoice(@index)   # Reset choice
     pbOwnSide.effects[PBEffects::LastRoundFainted] = @battle.turnCount
@@ -138,6 +138,14 @@ class PokeBattle_Battler
     @effects[PBEffects::Roost]  = false
   end
 
+  def pbResetTypes
+    @type1 = @pokemon.type1
+    @type2 = @pokemon.type2
+    @effects[PBEffects::Type3]  = nil
+    @effects[PBEffects::BurnUp] = false
+    @effects[PBEffects::Roost]  = false
+  end
+
   #=============================================================================
   # Forms
   #=============================================================================
@@ -174,18 +182,17 @@ class PokeBattle_Battler
     end
   end
 
-  def pbCheckFormOnWeatherChange
+  def pbCheckFormOnWeatherChange(abil_changed = false)
     return if fainted? || @effects[PBEffects::Transform]
     # Castform - Forecast
     if isSpecies?(:CASTFORM)
       if hasActiveAbility?(:FORECAST)
         newForm = 0
-        case @battle.pbWeather
+        case effectiveWeather
         when :Sun, :HarshSun   then newForm = 1
         when :Rain, :HeavyRain then newForm = 2
         when :Hail             then newForm = 3
         end
-        newForm = 0 if hasUtilityUmbrella? && [1,2].include?(newForm)
         if @form!=newForm
           @battle.pbShowAbilitySplash(self,true)
           @battle.pbHideAbilitySplash(self)
@@ -199,8 +206,7 @@ class PokeBattle_Battler
     if isSpecies?(:CHERRIM)
       if hasActiveAbility?(:FLOWERGIFT)
         newForm = 0
-        newForm = 1 if [:Sun, :HarshSun].include?(@battle.pbWeather)
-        newForm = 0 if hasUtilityUmbrella?
+        newForm = 1 if [:Sun, :HarshSun].include?(effectiveWeather)
         if @form!=newForm
           @battle.pbShowAbilitySplash(self,true)
           @battle.pbHideAbilitySplash(self)
@@ -210,44 +216,9 @@ class PokeBattle_Battler
         pbChangeForm(0,_INTL("{1} transformed!",pbThis))
       end
     end
-    # Eiscue - Ice Face
-    if isSpecies?(:EISCUE) && self.ability == :ICEFACE && @battle.pbWeather == :Hail
-      if @form == 1
-        @battle.pbShowAbilitySplash(self,true)
-        pbChangeForm(0,_INTL("{1} transformed!",pbThis))
-        @battle.pbHideAbilitySplash(self)
-      end
-    end
-  end
-
-  def pbCheckFormOnTerrainChange
-    return if fainted?
-    if hasActiveAbility?(:MIMICRY)
-      newTypes = self.pbTypes
-      originalTypes = [@pokemon.type1,@pokemon.type2] | []
-      case @battle.field.terrain
-      when :Electric   then newTypes = :ELECTRIC
-      when :Grassy     then newTypes = :GRASS
-      when :Misty      then newTypes = :FAIRY
-      when :Psychic    then newTypes = :PSYCHIC
-      else;                 newTypes = originalTypes.dup
-      end
-      if self.pbTypes != newTypes
-        pbChangeTypes(newTypes)
-        @battle.pbShowAbilitySplash(self,true)
-        if newTypes != originalTypes
-          if PokeBattle_SceneConstants::USE_ABILITY_SPLASH
-            @battle.pbDisplay(_INTL("{1}'s type changed to {3}!",pbThis,
-             self.abilityName,GameData::Type.get(newTypes).name))
-          else
-            @battle.pbDisplay(_INTL("{1}'s {2} made it the {3} type!",pbThis,
-             self.abilityName,GameData::Type.get(newTypes).name))
-          end
-        else
-          @battle.pbDisplay(_INTL("{1} returned back to normal!",pbThis))
-        end
-        @battle.pbHideAbilitySplash(self)
-      end
+    if !abil_changed && isSpecies?(:EISCUE) && self.ability == :ICEFACE &&
+       @form == 1 && effectiveWeather == :Hail
+      @canRestoreIceFace = true   # Changed form at end of round
     end
   end
 
@@ -258,12 +229,10 @@ class PokeBattle_Battler
     return if fainted? || @effects[PBEffects::Transform]
     # Form changes upon entering battle and when the weather changes
     pbCheckFormOnWeatherChange if !endOfRound
-    # Form changes upon entering battle and when the terrain changes
-    pbCheckFormOnTerrainChange if !endOfRound
     # Darmanitan - Zen Mode
     if isSpecies?(:DARMANITAN) && self.ability == :ZENMODE
       newForm = @form
-      newForm = @form + (@form < 2)? 2 : -2 if @hp <= @totalhp/2
+      newForm = @form + (@form < 2 ? 2 : -2) if @hp <= @totalhp/2
       if newForm != @form
         @battle.pbShowAbilitySplash(self,true)
         pbChangeForm(newForm,_INTL("{1} triggered!",abilityName))

@@ -106,16 +106,10 @@ class PokeBattle_Battler
 
   def pbEndTurn(_choice)
     @lastRoundMoved = @battle.turnCount   # Done something this round
-    # Gorilla Tactics
-    if !@effects[PBEffects::GorillaTactics] && hasActiveAbility?(:GORILLATACTICS)
-      if @lastMoveUsed && pbHasMove?(@lastMoveUsed)
-        @effects[PBEffects::GorillaTactics] = @lastMoveUsed
-      elsif @lastRegularMoveUsed && pbHasMove?(@lastRegularMoveUsed)
-        @effects[PBEffects::GorillaTactics] = @lastRegularMoveUsed
-      end
-    end
+    # Choice Items
     if !@effects[PBEffects::ChoiceBand] &&
-       hasActiveItem?([:CHOICEBAND,:CHOICESPECS,:CHOICESCARF])
+      (hasActiveItem?([:CHOICEBAND,:CHOICESPECS,:CHOICESCARF]) ||
+      hasActiveAbility?(:GORILLATACTICS))
       if @lastMoveUsed && pbHasMove?(@lastMoveUsed)
         @effects[PBEffects::ChoiceBand] = @lastMoveUsed
       elsif @lastRegularMoveUsed && pbHasMove?(@lastRegularMoveUsed)
@@ -331,7 +325,7 @@ class PokeBattle_Battler
       @battle.pbCommonAnimation("Powder",user)
       @battle.pbDisplay(_INTL("When the flame touched the powder on the Pokémon, it exploded!"))
       user.lastMoveFailed = true
-      if ![:Rain, :HeavyRain].include?(@battle.pbWeather) && user.takesIndirectDamage?
+      if ![:Rain, :HeavyRain].include?(user.effectiveWeather) && user.takesIndirectDamage?
         oldHP = user.hp
         user.pbReduceHP((user.totalhp/4.0).round,false)
         user.pbFaint if user.fainted?
@@ -372,7 +366,7 @@ class PokeBattle_Battler
         @battle.pbShowAbilitySplash(user)
         user.pbChangeTypes(move.calcType)
         typeName = GameData::Type.get(move.calcType).name
-        @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",user.pbThis,typeName))
+        @battle.pbDisplay(_INTL("{1}'s type changed to {2}!",user.pbThis,typeName))
         @battle.pbHideAbilitySplash(user)
         # NOTE: The GF games say that if Curse is used by a non-Ghost-type
         #       Pokémon which becomes Ghost-type because of Protean / Libero,
@@ -386,7 +380,7 @@ class PokeBattle_Battler
     end
     # Redirect Dragon Darts first hit if necessary
     if move.function == "17C" && @battle.pbSideSize(targets[0].index) > 1
-      targets = pbChangeTargets(move,user,targets,0)
+      targets = pbChangeDragonDartsTarget(move, user, targets, 0)
     end
     #---------------------------------------------------------------------------
     magicCoater  = -1
@@ -430,6 +424,7 @@ class PokeBattle_Battler
       realNumHits = 0
       for i in 0...numHits
         break if magicCoater>=0 || magicBouncer>=0
+        break if defined?(Settings::ZUD_COMPAT) && _ZUD_BreakMultiHits(targets,i)
         success = pbProcessMoveHit(move,user,targets,i,skipAccuracyCheck)
         if !success
           if i==0 && targets.length>0
@@ -498,7 +493,16 @@ class PokeBattle_Battler
         newChoice[3] = user.index
         newTargets = pbFindTargets(newChoice,move,b)
         newTargets = pbChangeTargets(move,b,newTargets)
-        success = pbProcessMoveHit(move,b,newTargets,0,false)
+        success = false
+        if !move.pbMoveFailed?(b, newTargets)
+          newTargets.each_with_index do |newTarget, idx|
+            next if !pbSuccessCheckAgainstTarget(move, b, newTarget)
+            success = true
+            newTargets[idx] = nil
+          end
+          newTargets.compact!
+        end
+        pbProcessMoveHit(move, b, newTargets, 0, false) if success
         b.lastMoveFailed = true if !success
         targets.each { |otherB| otherB.pbFaint if otherB && otherB.fainted? }
         user.pbFaint if user.fainted?
@@ -511,7 +515,10 @@ class PokeBattle_Battler
           @battle.pbShowAbilitySplash(mc) if magicBouncer>=0
           @battle.pbDisplay(_INTL("{1} bounced the {2} back!",mc.pbThis,move.name))
           @battle.pbHideAbilitySplash(mc) if magicBouncer>=0
-          success = pbProcessMoveHit(move,mc,[],0,false)
+          success = false
+          if !move.pbMoveFailed?(mc, [])
+            success = pbProcessMoveHit(move,mc,[],0,false)
+          end
           mc.lastMoveFailed = true if !success
           targets.each { |b| b.pbFaint if b && b.fainted? }
           user.pbFaint if user.fainted?
@@ -544,14 +551,16 @@ class PokeBattle_Battler
       next if idxMove<0
       oldLastRoundMoved = b.lastRoundMoved
       @battle.pbDisplay(_INTL("{1} used the move instructed by {2}!",b.pbThis,user.pbThis(true)))
-      PBDebug.logonerr{
-        b.effects[PBEffects::Instructed] = true
-        b.pbUseMoveSimple(b.lastMoveUsed,b.lastRegularMoveTarget,idxMove,false)
-        b.effects[PBEffects::Instructed] = false
-      }
-      b.lastRoundMoved = oldLastRoundMoved
-      @battle.pbJudge
-      return if @battle.decision>0
+      b.effects[PBEffects::Instructed] = true
+      if b.pbCanChooseMove?(@moves[idxMove], false)
+        PBDebug.logonerr{
+          b.pbUseMoveSimple(b.lastMoveUsed,b.lastRegularMoveTarget,idxMove,false)
+        }
+        b.lastRoundMoved = oldLastRoundMoved
+        @battle.pbJudge
+        return if @battle.decision>0
+      end
+      b.effects[PBEffects::Instructed] = false
     end
     # Dancer
     if !@effects[PBEffects::Dancer] && !user.lastMoveFailed && realNumHits>0 &&
@@ -578,16 +587,18 @@ class PokeBattle_Battler
           @battle.pbDisplay(_INTL("{1} kept the dance going with {2}!",
              nextUser.pbThis,nextUser.abilityName))
         end
-        PBDebug.logonerr{
-          nextUser.effects[PBEffects::Dancer] = true
-          nextUser.pbUseMoveSimple(move.id,preTarget)
-          nextUser.effects[PBEffects::Dancer] = false
-        }
-        nextUser.lastRoundMoved = oldLastRoundMoved
-        nextUser.effects[PBEffects::Outrage] = oldOutrage
-        nextUser.currentMove = oldCurrentMove
-        @battle.pbJudge
-        return if @battle.decision>0
+        nextUser.effects[PBEffects::Dancer] = true
+        if nextUser.pbCanChooseMove?(move, false)
+          PBDebug.logonerr{
+            nextUser.pbUseMoveSimple(move.id,preTarget)
+          }
+          nextUser.lastRoundMoved = oldLastRoundMoved
+          nextUser.effects[PBEffects::Outrage] = oldOutrage
+          nextUser.currentMove = oldCurrentMove
+          @battle.pbJudge
+          return if @battle.decision>0
+        end
+        nextUser.effects[PBEffects::Dancer] = false
       end
     end
   end
@@ -603,8 +614,8 @@ class PokeBattle_Battler
     # Count a hit for Parental Bond (if it applies)
     user.effects[PBEffects::ParentalBond] -= 1 if user.effects[PBEffects::ParentalBond]>0
     # Redirect Dragon Darts other hits
-    if move.function=="17C" && @battle.pbSideSize(targets[0].index)>1 && hitNum>0
-      targets = pbChangeTargets(move,user,targets,1)
+    if move.function == "17C" && @battle.pbSideSize(targets[0].index) > 1 && hitNum > 0
+      targets = pbChangeDragonDartsTarget(move, user, targets, 1)
     end
     targets.each { |b| b.damageState.resetPerHit }
     # Accuracy check (accuracy/evasion calc)
@@ -700,6 +711,7 @@ class PokeBattle_Battler
         next if b.damageState.unaffected
         move.pbEndureKOMessage(b)
       end
+      _ZUD_ProcessRaidEffects(move,user,targets,hitNum) if defined?(Settings::ZUD_COMPAT)
       # HP-healing held items (checks all battlers rather than just targets
       # because Flame Burst's splash damage affects non-targets)
       @battle.pbPriority(true).each { |b| b.pbItemHPHealCheck }
@@ -717,6 +729,7 @@ class PokeBattle_Battler
     targets.each { |b| b.pbFaint if b && b.fainted? }
     user.pbFaint if user.fainted?
     # Additional effect
+    _ZUD_ProcessRaidEffects2(move,user,targets) if defined?(Settings::ZUD_COMPAT)
     if !user.hasActiveAbility?(:SHEERFORCE)
       targets.each do |b|
         next if b.damageState.calcDamage==0

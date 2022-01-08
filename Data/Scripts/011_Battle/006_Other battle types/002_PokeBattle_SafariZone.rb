@@ -400,6 +400,19 @@ class PokeBattle_SafariZone
     return @scene.pbDisplayConfirmMessage(msg)
   end
 
+  #=============================================================================
+  # Pokedex Registration
+  #=============================================================================
+  def pbSetBattled(battler)
+    return if !battler || !@internalBattle
+    if battler.respond_to?(:opposes?)
+      return if battler.opposes?
+      pbPlayer.pokedex.register_battled(battler.displaySpecies)
+    else
+      pbPlayer.pokedex.register_battled(battler.species)
+    end
+  end
+
 
 
   class BattleAbortedException < Exception; end

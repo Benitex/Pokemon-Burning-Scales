@@ -631,8 +631,13 @@ class PokeBattle_Battle
   end
 
   def pbSetBattled(battler)
-    return if !battler || !@internalBattle || !battler.opposes?
-    pbPlayer.pokedex.register_battled(battler.displaySpecies)
+    return if !battler || !@internalBattle
+    if battler.respond_to?(:opposes?)
+      return if battler.opposes?
+      pbPlayer.pokedex.register_battled(battler.displaySpecies)
+    else
+      pbPlayer.pokedex.register_battled(battler.species)
+    end
   end
 
   def nextPickupUse
@@ -740,11 +745,9 @@ class PokeBattle_Battle
     when :Psychic
       pbDisplay(_INTL("The battlefield got weird!"))
     end
-    # Check for terrain seeds that boost stats in a terrain
-    eachBattler { |b|
-	  b.pbCheckFormOnTerrainChange
-	  b.pbItemTerrainStatBoostCheck
-	}
+    # Check for abilities/items that trigger upon the terrain changing
+    eachBattler { |b| b.pbAbilityOnTerrainChange }
+    eachBattler { |b| b.pbItemTerrainStatBoostCheck }
   end
 
   #=============================================================================
@@ -778,10 +781,10 @@ class PokeBattle_Battle
     @scene.pbCommonAnimation(name,user,targets) if @showAnims
   end
 
-  def pbShowAbilitySplash(battler,delay=false,logTrigger=true,ability=nil)
+  def pbShowAbilitySplash(battler,delay=false,logTrigger=true)
     PBDebug.log("[Ability triggered] #{battler.pbThis}'s #{battler.abilityName}") if logTrigger
     return if !PokeBattle_SceneConstants::USE_ABILITY_SPLASH
-    @scene.pbShowAbilitySplash(battler,ability)
+    @scene.pbShowAbilitySplash(battler)
     if delay
       Graphics.frame_rate.times { @scene.pbUpdate }   # 1 second
     end

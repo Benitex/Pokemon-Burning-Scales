@@ -109,6 +109,9 @@ class PokemonEncounters
     # Check if enc_type has a defined step chance/encounter table
     return false if !@step_chances[enc_type] || @step_chances[enc_type] == 0
     return false if !has_encounter_type?(enc_type)
+    # Poké Radar encounters always happen, ignoring the minimum step period and
+    # trigger probabilities
+    return true if pbPokeRadarOnShakingGrass
     # Get base encounter chance and minimum steps grace period
     encounter_chance = @step_chances[enc_type].to_f
     min_steps_needed = (8 - encounter_chance / 10).clamp(0, 8).to_f
@@ -176,8 +179,9 @@ class PokemonEncounters
   # taking into account Repels and ability effects.
   def allow_encounter?(enc_data, repel_active = false)
     return false if !enc_data
+    return true if pbPokeRadarOnShakingGrass
     # Repel
-    if repel_active && !pbPokeRadarOnShakingGrass
+    if repel_active
       first_pkmn = (Settings::REPEL_COUNTS_FAINTED_POKEMON) ? $Trainer.first_pokemon : $Trainer.first_able_pokemon
       if first_pkmn && enc_data[1] < first_pkmn.level
         @chance_accumulator = 0
@@ -350,11 +354,7 @@ class PokemonEncounters
     chance_total = 0
     enc_list.each { |a| chance_total += a[0] }
     # Choose a random entry in the encounter table based on entry probabilities
-    rnd = 0
-    chance_rolls.times do
-      r = rand(chance_total)
-      rnd = r if r > rnd   # Prefer rarer entries if rolling repeatedly
-    end
+    rnd = rand(chance_total)
     encounter = nil
     enc_list.each do |enc|
       rnd -= enc[0]
@@ -392,22 +392,17 @@ def pbGenerateWildPokemon(species,level,isRoamer=false)
   elsif itemrnd<(chances[0]+chances[1]+chances[2])
     genwildpoke.item = items[2]
   end
-  # Shiny Charm makes shiny Pokémon more likely to generate
-  if GameData::Item.exists?(:SHINYCHARM) && $PokemonBag.pbHasItem?(:SHINYCHARM)
-    2.times do   # 3 times as likely
-      break if genwildpoke.shiny?
-      genwildpoke.shiny = nil
-      genwildpoke.personalID = rand(2**16) | rand(2**16) << 16
-    end
+  # Improve chances of shiny Pokémon with Shiny Charm and Number Battled
+  shiny_retries = 0
+  shiny_retries += 2 if GameData::Item.exists?(:SHINYCHARM) && $PokemonBag.pbHasItem?(:SHINYCHARM)
+  shiny_tier = $Trainer.pokedex.number_battled_shiny_tier(genwildpoke.species)
+  if Settings::NUMBER_BATTLED_BOOSTS_SHINY_ODDS && shiny_tier[1] > 1
+    shiny_retries += shiny_tier[0] if rand(1000) < shiny_tier[1]
   end
-  # Number Battled shiny method
-  shinyTier = $Trainer.pokedex.number_battled_shiny_tier(genwildpoke.species)
-  if Settings::NUMBER_BATTLED_BOOSTS_SHINY_ODDS && shinyTier[1] > 1 && rand(1000) < shinyTier[1]
-    shinyTier[0].times do   # 2-6 times as likely
-      break if genwildpoke.shiny?
-      genwildpoke.shiny = nil
-      genwildpoke.personalID = rand(2 ** 16) | rand(2 ** 16) << 16
-    end
+  shiny_retries.times do
+    break if genwildpoke.shiny?
+    genwildpoke.shiny = nil
+    genwildpoke.personalID = rand(2**16) | rand(2**16) << 16
   end
   # Brilliant Pokemon
   brilliantBoost = $Trainer.pokedex.number_battled_brilliant_tier(genwildpoke.species)

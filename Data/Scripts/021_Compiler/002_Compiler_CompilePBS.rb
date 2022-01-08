@@ -32,6 +32,7 @@ module Compiler
           record = pbGetCsvRecord($~[2],lineno,schema)
           if settingname=="Name"
             rgnnames[currentmap] = record
+            sections[currentmap][schema[0]] = record
           elsif settingname=="Point"
             placenames.push(record[2])
             placedescs.push(record[3])
@@ -486,9 +487,11 @@ module Compiler
           :generation            => contents["Generation"],
           :back_sprite_x         => contents["BattlerPlayerX"],
           :back_sprite_y         => contents["BattlerPlayerY"],
+          :back_sprite_scale     => contents["BackSpriteScale"],
           :front_sprite_x        => contents["BattlerEnemyX"],
           :front_sprite_y        => contents["BattlerEnemyY"],
           :front_sprite_altitude => contents["BattlerAltitude"],
+          :front_sprite_scale    => contents["FrontSpriteScale"],
           :shadow_x              => contents["BattlerShadowX"],
           :shadow_size           => contents["BattlerShadowSize"]
         }
@@ -689,9 +692,11 @@ module Compiler
           :mega_message          => contents["MegaMessage"],
           :back_sprite_x         => contents["BattlerPlayerX"] || base_data.back_sprite_x,
           :back_sprite_y         => contents["BattlerPlayerY"] || base_data.back_sprite_y,
+          :back_sprite_scale     => contents["BackSpriteScale"] || base_data.back_sprite_scale,
           :front_sprite_x        => contents["BattlerEnemyX"] || base_data.front_sprite_x,
           :front_sprite_y        => contents["BattlerEnemyY"] || base_data.front_sprite_y,
           :front_sprite_altitude => contents["BattlerAltitude"] || base_data.front_sprite_altitude,
+          :front_sprite_scale    => contents["FrontSpriteScale"] || base_data.front_sprite_scale,
           :shadow_x              => contents["BattlerShadowX"] || base_data.shadow_x,
           :shadow_size           => contents["BattlerShadowSize"] || base_data.shadow_size
         }
@@ -1322,7 +1327,8 @@ module Compiler
           end
           # Write all line data to hash
           moves = [line_data[3], line_data[4], line_data[5], line_data[6]]
-          moves.uniq!.compact!
+          moves.uniq!
+          moves.compact!
           ivs = {}
           if line_data[12]
             GameData::Stat.each_main do |s|

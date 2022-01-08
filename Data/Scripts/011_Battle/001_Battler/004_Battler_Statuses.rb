@@ -52,7 +52,7 @@ class PokeBattle_Battler
       return false
     end
     # Weather immunity
-    if newStatus == :FROZEN && [:Sun, :HarshSun].include?(@battle.pbWeather) && !hasUtilityUmbrella?
+    if newStatus == :FROZEN && [:Sun, :HarshSun].include?(effectiveWeather)
       @battle.pbDisplay(_INTL("It doesn't affect {1}...",pbThis(true))) if showMessages
       return false
     end
@@ -451,7 +451,7 @@ class PokeBattle_Battler
       return false
     end
     # Terrains immunity
-    if affectedByTerrain? && @battle.field.terrain == :Misty
+    if affectedByTerrain? && @battle.field.terrain == :Misty && Settings::MECHANICS_GENERATION >= 7
       @battle.pbDisplay(_INTL("{1} surrounds itself with misty terrain!",pbThis(true))) if showMessages
       return false
     end

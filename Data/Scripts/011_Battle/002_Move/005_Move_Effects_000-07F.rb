@@ -130,8 +130,7 @@ class PokeBattle_Move_008 < PokeBattle_ParalysisMove
   def hitsFlyingTargets?; return true; end
 
   def pbBaseAccuracy(user,target)
-    return super if target.hasUtilityUmbrella?
-    case @battle.pbWeather
+    case target.effectiveWeather
     when :Sun, :HarshSun
       return 50
     when :Rain, :HeavyRain
@@ -202,7 +201,7 @@ end
 #===============================================================================
 class PokeBattle_Move_00D < PokeBattle_FreezeMove
   def pbBaseAccuracy(user,target)
-    return 0 if @battle.pbWeather == :Hail
+    return 0 if target.effectiveWeather == :Hail
     return super
   end
 end
@@ -308,8 +307,7 @@ class PokeBattle_Move_015 < PokeBattle_ConfuseMove
   def hitsFlyingTargets?; return true; end
 
   def pbBaseAccuracy(user,target)
-    return super if target.hasUtilityUmbrella?
-    case @battle.pbWeather
+    case target.effectiveWeather
     when :Sun, :HarshSun
       return 50
     when :Rain, :HeavyRain
@@ -565,6 +563,13 @@ class PokeBattle_Move_01C < PokeBattle_StatUpMove
     super
     @statUp = [:ATTACK,1]
   end
+
+  def pbEffectGeneral(user)
+    super
+    if @id == :HOWL && Settings::MECHANICS_GENERATION >= 8
+      user.eachAlly { |b| b.pbRaiseStatStage(@statUp[0],@statUp[1],b) }
+    end
+  end
 end
 
 
@@ -733,7 +738,7 @@ class PokeBattle_Move_028 < PokeBattle_MultiStatUpMove
 
   def pbOnStartUse(user,targets)
     increment = 1
-    increment = 2 if [:Sun, :HarshSun].include?(@battle.pbWeather) && !user.hasUtilityUmbrella?
+    increment = 2 if [:Sun, :HarshSun].include?(user.effectiveWeather)
     @statUp[1] = @statUp[3] = increment
   end
 end
@@ -1841,8 +1846,8 @@ class PokeBattle_Move_05E < PokeBattle_Move
   def pbEffectGeneral(user)
     newType = @newTypes[@battle.pbRandom(@newTypes.length)]
     user.pbChangeTypes(newType)
-    typeName = GameData::Item.get(newType).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",user.pbThis,typeName))
+    typeName = GameData::Type.get(newType).name
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!", user.pbThis, typeName))
   end
 end
 
@@ -1886,7 +1891,7 @@ class PokeBattle_Move_05F < PokeBattle_Move
     newType = @newTypes[@battle.pbRandom(@newTypes.length)]
     user.pbChangeTypes(newType)
     typeName = GameData::Type.get(newType).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!", user.pbThis, typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!",user.pbThis,typeName))
   end
 end
 
@@ -1962,7 +1967,7 @@ class PokeBattle_Move_060 < PokeBattle_Move
   def pbEffectGeneral(user)
     user.pbChangeTypes(@newType)
     typeName = GameData::Type.get(@newType).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",user.pbThis,typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!", user.pbThis, typeName))
   end
 end
 
@@ -1984,7 +1989,7 @@ class PokeBattle_Move_061 < PokeBattle_Move
   def pbEffectAgainstTarget(user,target)
     target.pbChangeTypes(:WATER)
     typeName = GameData::Type.get(:WATER).name
-    @battle.pbDisplay(_INTL("{1} transformed into the {2} type!",target.pbThis,typeName))
+    @battle.pbDisplay(_INTL("{1}'s type changed to {2}!",target.pbThis,typeName))
   end
 end
 
