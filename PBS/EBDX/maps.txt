@@ -1,6 +1,6 @@
 #-------------------------------
 [002]
-BattleEnv       = INDOOR
+BattleEnv       = CITY
 #-------------------------------
 [004]
 BattleEnv       = OUTDOOR
@@ -12,7 +12,7 @@ BattleEnv       = MOUNTAIN
 BattleEnv       = MOUNTAIN
 #-------------------------------
 [007]
-BattleEnv       = INDOOR
+BattleEnv       = CITY
 #-------------------------------
 [017]
 BattleEnv       = INDOOR
@@ -41,5 +41,14 @@ BattleEnv       = INDOOR
 [031]
 BattleEnv       = INDOOR
 #-------------------------------
+[034]
+BattleEnv       = INDOOR
+#-------------------------------
 [037]
+BattleEnv       = INDOOR
+#-------------------------------
+[060]
+BattleEnv       = INDOOR
+#-------------------------------
+[061]
 BattleEnv       = INDOOR
