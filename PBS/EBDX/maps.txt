@@ -11,6 +11,9 @@ BattleEnv       = MOUNTAIN
 [006]
 BattleEnv       = MOUNTAIN
 #-------------------------------
+[007]
+BattleEnv       = INDOOR
+#-------------------------------
 [017]
 BattleEnv       = INDOOR
 #-------------------------------
