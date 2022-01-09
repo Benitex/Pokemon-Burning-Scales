@@ -6,7 +6,6 @@
 * Pessoas nas ruas de Castelia para fazer pesquisa política
 * Eventos nos piers
 * Adicionar os eventos da battle company (1F recepção, 2F Loja de Hold Items, 3F Loja de items consumíveis, 4F sala de pesquisa e lazer, 5F conversa com o dono)
-* Link com hold items para loja, [indicações do reddit](https://www.reddit.com/r/pokemon/comments/qir4ob/what_are_the_best_nonconsumable_held_items_for/?utm_medium=android_app&utm_source=share)
 * Conversas no Game Corner
 * Casa abandonada
 * Clubes das eleições
