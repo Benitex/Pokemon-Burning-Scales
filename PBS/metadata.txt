@@ -322,6 +322,10 @@ MapPosition = 0,13,6
 #-------------------------------
 [036]
 # Game Corner
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
 HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------

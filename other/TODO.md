@@ -12,6 +12,7 @@
 * Clubes das eleições
 * Quest do apaixonado
 * Quest do dançarino procurando um grupo musical
+* Adicionar o [IKazart's NPC Trade Evolution](https://reliccastle.com/resources/845/)
 
 ## Para futuras demos
 
