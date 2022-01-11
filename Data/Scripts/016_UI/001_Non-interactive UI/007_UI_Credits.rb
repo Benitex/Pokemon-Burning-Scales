@@ -276,6 +276,9 @@ Café Sonata - Sun & Moon Iki Town Remix (edited)
 Thomniverse Remix
 Hops Battle Theme Remix - Castelia Trainers
 
+HoopsandHipHop 
+Poké Mart (Reorchestrated) Pokémon HGSS - Castelia Marts
+
 Pokémon X & Y
 Poké Mart Shopping - Route 4
 Gate - Castelia interiors
