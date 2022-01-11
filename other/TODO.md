@@ -5,6 +5,7 @@
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Pessoas nas ruas de Castelia para fazer pesquisa política
 * Eventos nos piers
+* Eventos no Centro Pokemon de Castelia
 * Adicionar os eventos da battle company (1F recepção, 2F Loja de Hold Items, 3F Loja de items consumíveis, 4F sala de pesquisa e lazer, 5F conversa com o dono)
 * Conversas no Game Corner
 * Casa abandonada

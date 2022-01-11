@@ -231,7 +231,7 @@ module Settings
   def self.pokedex_names
     return [
       [_INTL("Sul de Unova"), 0],
-	    [_INTL("Pandemônio"), 1],
+	    [_INTL("???"), 1],
       _INTL("National Pokédex")
     ]
   end
