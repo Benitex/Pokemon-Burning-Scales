@@ -355,22 +355,22 @@ Pokemon = GRANBULL,20
 [CUEBALL,Motoqueiro de elite 1]
 LoseText = "Uou."
 Pokemon = BISHARP,23
-Pokemon = SKUNTANK,23
+Pokemon = GRAPPLOCT,23
 #-------------------------------
 [CUEBALL,Motoqueiro de elite 2]
 LoseText = "O cara é forte."
 Pokemon = KROKOROK,23
-Pokemon = GARBODOR,23
+Pokemon = MIGHTYENA,23
 #-------------------------------
 [BIKERBOSS,Chefe dos Motoqueiros]
 Items = SUPERPOTION
 LoseText = "Não. Não. Nãoooooooo!"
 Pokemon = CRAWDAUNT,25
-Pokemon = MIGHTYENA,25
+Pokemon = OBSTAGOON,25
 Pokemon = HOUNDOOM,25
     Item = HOUNDOOMINITE
-Pokemon = MUK,25
-Pokemon = CROBAT,25
+Pokemon = TOXTRICITY,25
+Pokemon = MORGREM,25
 Pokemon = SCOLIPEDE,25
 #-------------------------------
 [POKEMONTRAINER_Jasmine,Jasmine]
@@ -385,12 +385,11 @@ Pokemon = STARAPTOR,25
 Items = SUPERPOTION
 LoseText = "Uma vitória, realmente."
 Pokemon = DUGTRIOP,25
+Pokemon = MANDIBUZZ,25
 Pokemon = BASCULIN,25
 Pokemon = HEATMOR,25
 Pokemon = SCEPTILE,25
     Form = 2
-#-------------------------------
-# Entrada do Desert Resort
 #-------------------------------
 [CUEBALL,Motoqueiro da Sala de Pesquisa]
 LoseText = "Não não não não não não!!!"
