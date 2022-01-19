@@ -2,8 +2,6 @@
 
 ## Para próxima demo
 
-* Adicionar os oponentes do torneio de Nimbasa em Castelia
-* Modificar a forma como o vendedor de pokemon do parque de Nimbasa funciona
 * Senhora na Oceanfront Road que detalha o que tem em cada rua
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Pessoas nas ruas de Castelia para fazer pesquisa política
@@ -13,6 +11,7 @@
 * Conversas no Game Corner
 * Casa abandonada
 * Lugar que vende espaços para plantar berrys
+* Casa na Central Plaza com cara que evolui os pokémon por troca
 * Clubes das eleições
 * Quest do apaixonado
 * Quest do dançarino procurando um grupo musical
