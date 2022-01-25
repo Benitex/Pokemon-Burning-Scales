@@ -1,9 +1,6 @@
 Name         = Following Pokemon EX
-Version      = 2.1.1
+Version      = 2.1.2
 Requires     = v19.1 Hotfixes, 1.0.7
-Optional     = Battle Scripting EX, 1.0.0
-Optional     = Boss Battles EX, 1.0.0
-Optional     = Battle Databoxes EX, 1.0.0
 Optional     = Party Screen BW Style, 2.1.0
 Optional     = Maruno's Experimental Map Renderer, 1.0.0
 Optional     = Advanced HM Items, 1.0.0

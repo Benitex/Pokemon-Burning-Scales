@@ -50,7 +50,7 @@ class Game_Character
       new_x = x + (d == 6 ? 1 : d == 4 ? -1 : 0)
       new_y = y + (d == 2 ? 1 : d == 8 ? -1 : 0)
       $PokemonTemp.dependentEvents.realEvents.each do |e|
-        return false if e.at_coordinate?(new_x, new_y) && !e.through
+        return false if e.at_coordinate?(new_x, new_y) && !e.through && e.is_a?(Game_FollowerEvent) && FollowingPkmn.active?
       end
     end
     return ret

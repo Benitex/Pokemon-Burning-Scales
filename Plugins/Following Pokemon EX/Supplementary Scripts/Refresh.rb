@@ -154,8 +154,6 @@ def pbAfterBattle(*args)
   $PokemonGlobal.call_refresh = true
 end
 
-
-
 class Scene_Map
   #-----------------------------------------------------------------------------
   # Check for Toggle input and update follower's time_taken for to tracking
@@ -180,13 +178,13 @@ class Scene_Map
       FollowingPkmn.toggle_off
       loop do
         pkmn = $Trainer.party.shift
- 			  $Trainer.party.push(pkmn)
-        $PokemonGlobal.__followingpkmn__toggled = true
+        $Trainer.party.push(pkmn)
+        $PokemonGlobal.follower_toggled = true
         if FollowingPkmn.active?
-          $PokemonGlobal.__followingpkmn__toggled = false
+          $PokemonGlobal.follower_toggled = false
           break
         end
-        $PokemonGlobal.__followingpkmn__toggled = false
+        $PokemonGlobal.follower_toggled = false
       end
       FollowingPkmn.toggle_on
       return

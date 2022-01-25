@@ -73,12 +73,17 @@ end
 # Also track new data like the current surfing and diving follower
 #-------------------------------------------------------------------------------
 class PokemonGlobalMetadata
-  attr_accessor :follower_toggled
+  attr_reader   :follower_toggled
   attr_accessor :call_refresh
   attr_accessor :time_taken
   attr_accessor :follower_hold_item
   attr_accessor :current_surfing
   attr_accessor :current_diving
+
+  def follower_toggled=(value)
+    @follower_toggled = value
+    FollowingPkmn.refresh_internal
+  end
 
   def call_refresh
     @call_refresh = [false, false] if !@call_refresh

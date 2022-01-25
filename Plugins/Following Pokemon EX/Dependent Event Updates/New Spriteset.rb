@@ -26,7 +26,7 @@ class Spriteset_Global
 
   attr_reader :followingpkmn_sprites
 
-  alias __followingpkmn__initialize initialize unless method_defined?(:__followingpkmn__initialize)
+  alias __followingpkmn__initialize initialize unless private_method_defined?(:__followingpkmn__initialize)
   def initialize(*args)
     __followingpkmn__initialize(*args)
     @followingpkmn_sprites = DependentEventSprites.new(Spriteset_Map.viewport, nil)
