@@ -8,11 +8,11 @@ Pokemon fan game that focuses on a rich story and on the exploration of a small 
 
 For now, Pokemon Burning Scales is only available in Portuguese. If you want this game translated to other languages, feel free to send me a message with the language you speak. I plan on translating it to English, but it depends on how many people ask me to do it.
 
-## Story:
+## Story
 
 In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her researches about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms.
 
-## Features:
+## Features
 
 * **A different story.** Perfect for the ones that are tired of defeating gym leaders and the Elite 4.
 * **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
@@ -29,7 +29,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Different pokemon depending on the time of the day**.
 * **A few pokemon with altered forms**.
 
-## Screenshots:
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png" width="400"/>

@@ -190,6 +190,7 @@ Professor Sycamore's Theme – Desert Resort Entrance
 Relic Castle – Relic Castle B2
 Lookers Theme – Search for the girl questline
 Unwavering Emotions - Storyteller theme
+Dreamyard - Castelia Greenhouse
 
 GlitchxCity
 Rival Bede – Nimbasa trainers
