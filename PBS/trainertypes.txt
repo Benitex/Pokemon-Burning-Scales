@@ -87,3 +87,4 @@
 84,SMASHER,Smasher,48,,,,Female,,
 85,HOOPSTER,Hoopster,48,,,,Male,,
 86,CLOWN,Clown,24,,,,Male,,
+87,HEXMANIAC,Hex Maniac,60,,,,Female,,

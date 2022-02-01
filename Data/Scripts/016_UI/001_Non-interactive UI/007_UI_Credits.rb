@@ -128,6 +128,12 @@ Kobi2604
 Shadow Trial trainer sprites
 Skeizerr
 
+Hex trainer battle sprite
+Bombbity
+
+Hex trainer OW sprite
+PokelustCompany
+
 Officer Jenny Generation 4 Styled Sprite
 78Cabbage
 ultrademise
