@@ -277,7 +277,7 @@ module QuestModule
     :QuestGiver => "Policial",
     :Stage1 => "Pergunte a 5 pessoas.",
     :Stage2 => "Avise ao policial.",
-    :Location1 => "Castelia",
+    :Location1 => "Oceanfront Road",
     :Location2 => "Quartel de Castelia",
     :QuestDescription => "Um policial me pediu para fazer pesquisas de opinião com pessoas pelas ruas de Castelia. Devo conversar com 5 pessoas e descobrir o que elas pensam dos partidos políticos.",
     :RewardString => "nil"
