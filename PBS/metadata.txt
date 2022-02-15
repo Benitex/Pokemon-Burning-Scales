@@ -643,3 +643,14 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
+#-------------------------------
+[081]
+# Área aberta
+Outdoor = true
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = true
+Dungeon = false
