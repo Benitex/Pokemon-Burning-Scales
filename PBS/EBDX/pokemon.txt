@@ -8881,3 +8881,9 @@ BattlerPlayerX          = 7
 BattlerPlayerY          = 53
 BattlerEnemyX           = -5
 #-------------------------------
+[PUPLIN]
+BattlerEnemyY           = 73
+BattlerAltitude         = 0
+BattlerPlayerX          = 5
+BattlerPlayerY          = 76
+BattlerEnemyX           = 3
