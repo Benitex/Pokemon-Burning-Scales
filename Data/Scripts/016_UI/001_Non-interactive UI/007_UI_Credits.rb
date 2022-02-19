@@ -323,6 +323,9 @@ ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
 DiegoWT's Starter Selection
 DiegoWT
 
+IKazart's NPC Trade Evolution
+IKazart
+
 B2W2 Bag
 Erassus,CharizardThree3/LackDeJurane
 

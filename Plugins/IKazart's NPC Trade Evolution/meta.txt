@@ -1,0 +1,4 @@
+Name         = IKazart's NPC Trade Evolution
+Version      = 1.1
+Website      = https://reliccastle.com/resources/845/
+Credits      = IKazart

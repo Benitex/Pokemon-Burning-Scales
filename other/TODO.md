@@ -4,21 +4,22 @@
 
 * Senhora na Oceanfront Road que detalha o que tem em cada rua
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
-* Pessoas nas ruas de Castelia para fazer pesquisa política
-* Eventos nos piers
+* Pesquisa política na Oceanfront Road
+* Diálogos nos piers
 * Eventos no Centro Pokemon de Castelia
 * Adicionar os eventos da battle company (1F recepção, 2F Loja de Hold Items, 3F Loja de items consumíveis, 4F sala de pesquisa e lazer, 5F conversa com o dono)
 * Conversas no Game Corner
-* Casa abandonada
-* Lugar que vende espaços para plantar berrys
-* Casa na Central Plaza com cara que evolui os pokémon por troca
-* Clubes das eleições
-* Quest do apaixonado
 * Quest do dançarino procurando um grupo musical
+* Quest do apaixonado
+* Mapa da casa abandonada
+* Estufa para plantar apricorns
+* Casa na Central Plaza com homem que transforma apricorns em pokebolas
+* Casa na Central Plaza com cara que evolui os pokémon por troca
 * Adicionar o [IKazart's NPC Trade Evolution](https://reliccastle.com/resources/845/)
 
 ## Para futuras demos
 
+* Clubes das eleições
 * Esgotos de Castelia
 * Relic Passage
 * Ginásio antigo de Nimbasa
