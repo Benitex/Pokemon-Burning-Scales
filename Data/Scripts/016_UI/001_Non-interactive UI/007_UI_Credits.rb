@@ -216,7 +216,7 @@ Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
 Relic Song - Burning Scales theme
-Nimbasa City Gym (Stage) - Nimbasa City Gym pos Elesa
+Nimbasa City Gym (Runaway & Stage) - Nimbasa City Gym pos Elesa
 Gate Remastered - Route gates
 Game Corner (Johto): Remastered - Game Corner interior
 Hoenn Game Corner: Remastered - Game Corner entrace
@@ -286,12 +286,12 @@ Hops Battle Theme Remix - Castelia Trainers
 HoopsandHipHop 
 Poké Mart (Reorchestrated) Pokémon HGSS - Castelia Marts
 
+ONION_MU
+Battle! (Professor Sycamore) - Desert Resort wild battle
+
 Pokémon X & Y
 Poké Mart Shopping - Route 4
 Gate - Castelia interiors
-
-Monster Hunter Rise
-Sandy Plains Domain of Dust and Desolation - Desert Resort wild battle
 
 
 Plugins

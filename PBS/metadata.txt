@@ -84,7 +84,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Sandy Plains - Domain of Dust and Desolation.mp3
+WildBattleBGM = Battle! (Professor Sycamore).mp3
 #-------------------------------
 [007]
 # Castelia
