@@ -15,7 +15,6 @@
 * Estufa para plantar apricorns
 * Casa na Central Plaza com homem que transforma apricorns em pokebolas
 * Casa na Central Plaza com cara que evolui os pokémon por troca
-* Adicionar o [IKazart's NPC Trade Evolution](https://reliccastle.com/resources/845/)
 
 ## Para futuras demos
 
