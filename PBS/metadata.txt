@@ -645,12 +645,13 @@ Bicycle = false
 BicycleAlways = false
 #-------------------------------
 [081]
-# Área aberta
+# Parque das estufas
 Outdoor = true
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
 DarkMap = false
 SafariMap = false
-SnapEdges = true
+SnapEdges = false
 Dungeon = false
+WildBattleBGM = Battle wild.mp3

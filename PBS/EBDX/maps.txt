@@ -52,3 +52,6 @@ BattleEnv       = INDOOR
 #-------------------------------
 [061]
 BattleEnv       = INDOOR
+#-------------------------------
+[081]
+BattleEnv       = OUTDOOR
