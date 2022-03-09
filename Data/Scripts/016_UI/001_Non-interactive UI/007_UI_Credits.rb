@@ -347,6 +347,10 @@ Shashu-Greninja,DeepBlue PacificWaves,Shiney570
 BW Text Entry Scene
 Shashu-Greninja,DeepBlue PacificWaves,Erassus
 
+BW PokéMart Screen
+Script by DeepBlue PacificWaves
+Sprites Ripped by DeepBlue PacificWaves
+
 v19.1 Hotfixes
 Maruno
 
