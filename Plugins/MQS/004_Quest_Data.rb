@@ -288,7 +288,7 @@ module QuestModule
     :Name => "Pokemon desaparecidos",
     :QuestGiver => "nil",
     :Stage1 => "Encontre os pokemon",
-    :Location1 => "Cidade dos motoqueiros",
+    :Location1 => "???",
     :QuestDescription => "Vários treinadores de Castelia estão reportando que seus pokemon estão desaparecendo das boxes. A maioria acredita que sejam os motoqueiros, que estão causando muitas confusões ultimamente. Preciso resolver esse problema e trazer esses pokemon de volta.",
     :RewardString => "nil"
   }
@@ -304,6 +304,16 @@ module QuestModule
     :Location2 => "Oceanfront Road",
     :Location3 => "Oceanfront Road",
     :QuestDescription => "Encontrei uma senhora no Café Sonata que perdeu sua tenda de berrys depois de uma crise. Devo doar algum dinheiro a ela para dar uma segunda chance a ela.",
+    :RewardString => "nil"
+  }
+
+  Quest23 = {
+    :ID => "23",
+    :Name => "Pérola pro velhinho",
+    :QuestGiver => "Velhinho",
+    :Stage1 => "Entregue uma pérola",
+    :Location1 => "Central Plaza",
+    :QuestDescription => "Um velhinho na Central Plaza me pediu para pegar uma pérola e entregar para ele, ele acredita que a esposa vai ficar mais feliz ao se lembrar do primeiro presente que recebeu dele.",
     :RewardString => "nil"
   }
 

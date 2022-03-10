@@ -4,7 +4,6 @@
 
 * Policiais explicando as ruas
 * Alguém falando sobre hotéis em Castelia e dizendo o que tem para fazer por lá
-* Quest alguém pedindo uma joia
 * Moça falando dos palhaços
 
 * Senhora na Oceanfront Road falando sobre as eleições
