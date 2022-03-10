@@ -571,7 +571,7 @@
 561,DARKMEMORY,Dark Memory,Dark Memories,1,1000,"A memory disc containing Dark-type data. It changes the holder's type if held by a certain Pokémon.",0,0,0
 562,STEELMEMORY,Steel Memory,Steel Memories,1,1000,"A memory disc containing Steel-type data. It changes the holder's type if held by a certain Pokémon.",0,0,0
 563,FAIRYMEMORY,Fairy Memory,Fairy Memories,1,1000,"A memory disc containing Fairy-type data. It changes the holder's type if held by a certain Pokémon.",0,0,0
-564,VENUSAURITE,Venusaurite,Venusaurites,1,10000,"One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.",0,0,12,
+564,VENUSAURITE,Venusaurite,Venusaurites,1,3000,"One of a variety of mysterious Mega Stones. Have Venusaur hold it, and it will be able to Mega Evolve.",0,0,12,
 565,CHARIZARDITEX,Charizardite X,Charizardite Xs,1,3000,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.",0,0,12,
 566,CHARIZARDITEY,Charizardite Y,Charizardite Ys,1,3000,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and it will be able to Mega Evolve.",0,0,12,
 567,BLASTOISINITE,Blastoisinite,Blastoisinites,1,3000,"One of a variety of mysterious Mega Stones. Have Blastoise hold it, and it will be able to Mega Evolve.",0,0,12,
