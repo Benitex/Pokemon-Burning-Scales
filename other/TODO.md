@@ -2,6 +2,10 @@
 
 ## Para próxima demo
 
+* Policiais explicando as ruas.
+* Alguém falando sobre hotéis em Castelia e dizendo o que tem para fazer por lá.
+* Quest alguém pedindo uma joia.
+
 * Senhora na Oceanfront Road que detalha o que tem em cada rua
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Pesquisa política na Oceanfront Road
