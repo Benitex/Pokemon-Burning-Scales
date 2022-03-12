@@ -197,7 +197,7 @@ module QuestModule
   
   Quest14 = {
     :ID => "14",
-    :Name => "Um favor para o explorador",
+    :Name => "Um favor pro explorador",
     :QuestGiver => "Explorador da Rota 4",
     :Stage1 => "Enfrente o explorador.",
 	  :Stage2 => "Capture um cubone e entregue.",
@@ -288,7 +288,9 @@ module QuestModule
     :Name => "Pokemon desaparecidos",
     :QuestGiver => "nil",
     :Stage1 => "Encontre os pokemon",
+    :Stage2 => "Liberte os pokemon",
     :Location1 => "???",
+    :Location2 => "Cidade dos Motoqueiros",
     :QuestDescription => "Vários treinadores de Castelia estão reportando que seus pokemon estão desaparecendo das boxes. A maioria acredita que sejam os motoqueiros, que estão causando muitas confusões ultimamente. Preciso resolver esse problema e trazer esses pokemon de volta.",
     :RewardString => "nil"
   }
