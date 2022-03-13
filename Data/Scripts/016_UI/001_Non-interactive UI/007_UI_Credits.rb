@@ -138,6 +138,13 @@ Officer Jenny Generation 4 Styled Sprite
 78Cabbage
 ultrademise
 
+ORAS/XY themed battle backgrounds for EBDX
+PhoenixOfLight92 for ripping the Gen 6 battlebacks
+LackDeJurane for the combined battlebacks
+
+Cool Pokeball Anims for EBDX
+Lichenprincess
+
 Gen 8 Project:
 
 Battler Sprites:
@@ -167,10 +174,6 @@ Gen 8 Pokemon Cries          - Zeak6464
 
 PBS Credits:
 Golisopod User, Zerokid, TheToxic, HM100, KyureJL, ErwanBeurier
-
-ORAS/XY themed battle backgrounds for EBDX
-PhoenixOfLight92 for ripping the Gen 6 battlebacks
-LackDeJurane for the combined battlebacks
 
 Script Credits:
 EBS Bitmap Wrapper - Luka S.J.
