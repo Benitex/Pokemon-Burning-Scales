@@ -330,7 +330,7 @@ HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------
 [037]
-# Laboratórios
+# Escritórios de Pesquisa
 MapPosition = 0,13,6
 BattleBack = EliteA
 #-------------------------------
@@ -652,6 +652,6 @@ Bicycle = false
 BicycleAlways = false
 DarkMap = false
 SafariMap = false
-SnapEdges = false
+SnapEdges = true
 Dungeon = false
 WildBattleBGM = Battle wild.mp3
