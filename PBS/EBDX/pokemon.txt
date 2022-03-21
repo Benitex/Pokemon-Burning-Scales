@@ -8887,3 +8887,10 @@ BattlerAltitude         = 0
 BattlerPlayerX          = 5
 BattlerPlayerY          = 76
 BattlerEnemyX           = 3
+#-------------------------------
+[VOLCARONAP]
+BattlerEnemyY           = 21
+BattlerAltitude         = 15
+BattlerPlayerX          = 11
+BattlerPlayerY          = 24
+BattlerEnemyX           = 7

@@ -23,6 +23,7 @@
 * Clubes das eleições
 * Esgotos de Castelia
 * Relic Passage
+* NPCs variando conforme o dia no Centro Pokemon de Castelia.
 * Ginásio antigo de Nimbasa
 * Parte de competição dos estádios em Nimbasa
 * Colocar [NPC battles](https://reliccastle.com/resources/321/) no torneio (esperando atualizações do script)
