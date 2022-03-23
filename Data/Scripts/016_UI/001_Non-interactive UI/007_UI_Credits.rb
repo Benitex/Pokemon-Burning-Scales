@@ -47,7 +47,7 @@ class Scene_Credits
   # Start Editing
   CREDIT = <<_END_
 
-Pokemon Burning Scales
+Pokémon Burning Scales
 
 
 
@@ -299,67 +299,6 @@ Battle! (Professor Sycamore) - Desert Resort wild battle
 Pokémon X & Y
 Poké Mart Shopping - Route 4
 Gate - Castelia interiors
-
-
-Plugins
-
-Elite Battle: DX
-Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
-
-Following Pokemon EX
-Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Armin (Fairies Resource Pack), Maruno
-
-Modular Title Screen
-Luka S.J.
-
-Voltseon's Pause Menu
-Voltseon, Golisopod User, ENLS
-
-Modern Quest System + UI
-ThatWelshOne_,mej71,derFischae,Marin
-
-Overworld Shadows EX
-Golisopod User, Wolf PP, Marin
-
-Random Pokemon Selector
-ThatWelshOne_
-
-Encounter List UI (v19)
-ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
-
-DiegoWT's Starter Selection
-DiegoWT
-
-IKazart's NPC Trade Evolution
-IKazart
-
-B2W2 Bag
-Erassus,CharizardThree3/LackDeJurane
-
-BW Party Screen
-DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
-
-Pokedex BW Style
-DeepBlue PacificWaves, NettoHikari, Xtreme1992
-
-Storage System BW Style
-DeepBlue PacificWaves
-
-BW Summary Screen
-DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
-
-BW Location Signposts
-Shashu-Greninja,DeepBlue PacificWaves,Shiney570
-
-BW Text Entry Scene
-Shashu-Greninja,DeepBlue PacificWaves,Erassus
-
-BW PokéMart Screen
-Script by DeepBlue PacificWaves
-Sprites Ripped by DeepBlue PacificWaves
-
-v19.1 Hotfixes
-Maruno
 
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}

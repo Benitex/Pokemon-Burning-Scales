@@ -655,3 +655,7 @@ SafariMap = false
 SnapEdges = true
 Dungeon = false
 WildBattleBGM = Battle wild.mp3
+#-------------------------------
+[084]
+# Câmara do Volcarona
+WildBattleBGM = Snowbelle City Remix XY.mp3
