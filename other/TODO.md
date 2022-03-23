@@ -5,7 +5,7 @@
 ### Eventos específicos
 
 * Diálogos com os policiais explicando as ruas
-* Alguém falando sobre hotéis em Castelia e dizendo o que tem para fazer por lá (no centro pokemon)
+* Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Senhora na Oceanfront Road falando sobre as eleições
 * Quest do dançarino procurando um grupo de dança
 * Quest do apaixonado, mapa da casa abandonada
@@ -14,8 +14,7 @@
 ### Objetivos gerais
 
 * Pesquisa política na Oceanfront Road
-* Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
-* Diálogos: piers, Centro Pokemon, game corner
+* Diálogos: piers, game corner, estúdio castelia
 * battle company (1F recepção, 2F Loja de Hold Items, 3F Loja de items consumíveis, 4F sala de pesquisa e lazer, 5F conversa com o dono)
 
 ## Para futuras demos
