@@ -18,6 +18,7 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 * **Sistema que mostra pokemon disponíveis na rota** e quais deles já foram capturados ou vistos.
 * **Sistema de dificuldades.**
 * **Nuzlocke e randomizer**.
+* **Modo de IVs perfeitas** (opcional).
 * **Salvamento automático**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.

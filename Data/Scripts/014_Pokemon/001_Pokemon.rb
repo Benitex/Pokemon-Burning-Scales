@@ -1092,7 +1092,11 @@ class Pokemon
     this_ivs = self.iv
     ret = {}
     GameData::Stat.each_main do |s|
-      ret[s.id] = (@ivMaxed[s.id]) ? IV_STAT_LIMIT : this_ivs[s.id]
+      if $game_switches[97] == true
+        ret[s.id] = 31
+      else
+        ret[s.id] = (@ivMaxed[s.id]) ? IV_STAT_LIMIT : this_ivs[s.id]
+      end
     end
     return ret
   end

@@ -13,7 +13,7 @@
 ### Objetivos gerais
 
 * Pesquisa política na Oceanfront Road
-* Diálogos: piers, game corner, estúdio castelia
+* Diálogos: piers, game corner, estúdio castelia, mode street, central plaza, oceanfront road, gym street
 * battle company (1F recepção, 2F Loja de Hold Items, 3F Loja de items consumíveis, 4F sala de pesquisa e lazer, 5F conversa com o dono)
 
 ## Para futuras demos

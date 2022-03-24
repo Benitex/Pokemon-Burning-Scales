@@ -24,6 +24,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **A system that shows available pokemon in the route.** And which were already captured or seen.
 * **A difficulty system**, with three different options based pokémon in your party levels.
 * **Nuzlocke and randomizer modes**.
+* **Perfect IVs mode** (optional).
 * **Auto saving**.
 * **Pokémon walking on the routes**.
 * **Different pokemon depending on the time of the day**.
