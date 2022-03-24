@@ -9,7 +9,6 @@
 * Senhora na Oceanfront Road falando sobre as eleições
 * Quest do dançarino procurando um grupo de dança
 * Quest do apaixonado, mapa da casa abandonada
-* Casa na Central Plaza com cara que evolui os pokémon por troca
 
 ### Objetivos gerais
 
