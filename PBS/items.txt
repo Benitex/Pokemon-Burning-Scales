@@ -249,14 +249,14 @@
 246,MAXETHER,Max Ether,Max Ethers,2,2000,"It fully restores the PP of a single selected move that has been learned by the target Pokémon.",1,2,0
 247,ELIXIR,Elixir,Elixirs,2,3000,"It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.",1,1,0
 248,MAXELIXIR,Max Elixir,Max Elixirs,2,4500,"It fully restores the PP of all the moves learned by the targeted Pokémon.",1,1,0
-249,PPUP,PP Up,PP Ups,2,9800,"It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.",1,0,0
-250,PPMAX,PP Max,PP Maxes,2,9800,"It maximally raises the top PP of a selected move that has been learned by the target Pokémon.",1,0,0
-251,HPUP,HP Up,HP Ups,2,9800,"A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.",1,0,0
-252,PROTEIN,Protein,Proteins,2,9800,"A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.",1,0,0
-253,IRON,Iron,Irons,2,9800,"A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.",1,0,0
-254,CALCIUM,Calcium,Calciums,2,9800,"A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.",1,0,0
-255,ZINC,Zinc,Zincs,2,9800,"A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.",1,0,0
-256,CARBOS,Carbos,Carbos,2,9800,"A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.",1,0,0
+249,PPUP,PP Up,PP Ups,2,300,"It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.",1,0,0
+250,PPMAX,PP Max,PP Maxes,2,1000,"It maximally raises the top PP of a selected move that has been learned by the target Pokémon.",1,0,0
+251,HPUP,HP Up,HP Ups,2,1000,"A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.",1,0,0
+252,PROTEIN,Protein,Proteins,2,1000,"A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.",1,0,0
+253,IRON,Iron,Irons,2,1000,"A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.",1,0,0
+254,CALCIUM,Calcium,Calciums,2,1000,"A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.",1,0,0
+255,ZINC,Zinc,Zincs,2,1000,"A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.",1,0,0
+256,CARBOS,Carbos,Carbos,2,1000,"A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.",1,0,0
 257,HEALTHFEATHER,Health Feather,Health Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.",1,0,0
 258,MUSCLEFEATHER,Muscle Feather,Muscle Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.",1,0,0
 259,RESISTFEATHER,Resist Feather,Resist Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.",1,0,0
