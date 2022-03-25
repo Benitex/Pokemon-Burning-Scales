@@ -19,7 +19,7 @@ Events.onWildPokemonCreate += proc { |_sender, e|
 # and other such details.  Of course, you don't HAVE to use this code.
 Events.onWildPokemonCreate += proc { |_sender, e|
   pokemon = e[0]
-  if $game_switches[100] == true
+  if $game_switches[100]
     if $game_variables[100] == 1
       new_level = pbBalancedLevel($Trainer.party) - 2 + rand(2)
     elsif $game_variables[100] == 2

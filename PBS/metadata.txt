@@ -35,7 +35,7 @@ ShowArea = false
 Bicycle = false
 BicycleAlways = false
 HealingSpot = 3,9,7
-MapPosition = 0,13,12
+MapPosition = 0,15,4
 DiveMap = 3
 DarkMap = false
 SafariMap = false
@@ -47,7 +47,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,17,3
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -62,7 +62,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,11
+MapPosition = 0,15,7
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -79,7 +79,7 @@ ShowArea = true
 Bicycle = false
 BicycleAlways = false
 Weather = Sandstorm,100
-MapPosition = 0,13,11
+MapPosition = 0,9,7
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -92,7 +92,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -103,12 +103,11 @@ MapSize = 2,11
 #-------------------------------
 [008]
 # Relic Castle
-MapPosition = 0,13,12
+MapPosition = 0,9,7
 #-------------------------------
 [009]
 # Casa da Anna
-HealingSpot = 8,17,11
-MapPosition = 0,14,10
+MapPosition = 0,15,4
 #-------------------------------
 [010]
 # Teatro
@@ -116,21 +115,21 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 BattleBack = elite6
 TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
 #-------------------------------
 [011]
 # Battle Subway
-MapPosition = 0,14,10
+MapPosition = 0,15,4
 #-------------------------------
 [012]
 # Estádio Grande
-MapPosition = 0,14,10
+MapPosition = 0,15,4
 #-------------------------------
 [013]
 # Quadra Pequena
-MapPosition = 0,14,10
+MapPosition = 0,15,4
 #-------------------------------
 [014]
 # Estádio da Comilança
@@ -138,7 +137,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -147,19 +146,19 @@ TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [015]
 # Quarto da filha
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 #-------------------------------
 [016]
-# FNF
-MapPosition = 0,13,10
+# Faculdade de Nimbasa de Filosofia
+MapPosition = 0,15,4
 #-------------------------------
 [017]
-# FNF 2F
+# Faculdade de Nimbasa de Filosofia 2F
 Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -173,7 +172,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -188,7 +187,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -202,7 +201,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,13,10
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -214,7 +213,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,14,8
+MapPosition = 0,15,4
 TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 MapSize = 1,11
 #-------------------------------
@@ -224,11 +223,11 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-BattleBack = 
 TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 #-------------------------------
 [023]
@@ -237,7 +236,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,15,8
+MapPosition = 0,15,4
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -250,7 +249,7 @@ ShowArea = true
 Bicycle = true
 BicycleAlways = false
 HealingSpot = 23,11,15
-MapPosition = 0,15,5
+MapPosition = 0,15,6
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -268,49 +267,45 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-BattleBack = Mountain
 WildBattleBGM = Battle wild.mp3
 TrainerBattleBGM = Rival Bede GlitchxCity.mp3
 Environment = Sand
 #-------------------------------
 [026]
 # Pesquisador de fósseis
-MapPosition = 0,15,8
+MapPosition = 0,15,7
 #-------------------------------
 [027]
 # Sala dos fósseis
-MapPosition = 0,15,8
-BattleBack = Indoor
+MapPosition = 0,15,7
 TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [028]
 # Entrada
 Outdoor = true
 ShowArea = true
-MapPosition = 0,16,8
-BattleBack = Forest
+MapPosition = 0,15,4
 #-------------------------------
 [029]
 # Quadra de Tênis
 Bicycle = true
-MapPosition = 0,16,8
+MapPosition = 0,15,4
 #-------------------------------
 [030]
 # Piscina de Natação
-MapPosition = 0,16,8
+MapPosition = 0,15,4
 #-------------------------------
 [031]
 # Casa Beethoven
 Outdoor = true
 ShowArea = true
-MapPosition = 0,14,6
+MapPosition = 0,15,7
 MapSize = 2,1101
 #-------------------------------
 [034]
 # Casa do chefe
 Bicycle = true
-MapPosition = 0,15,6
-BattleBack = IndoorC
+MapPosition = 0,15,7
 #-------------------------------
 [035]
 # Centro Pokémon
@@ -318,7 +313,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,6
+MapPosition = 0,15,15
 #-------------------------------
 [036]
 # Game Corner
@@ -326,12 +321,11 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-HealingSpot = 35,17,7
-MapPosition = 0,13,6
+MapPosition = 0,15,15
 #-------------------------------
 [037]
 # Escritórios de Pesquisa
-MapPosition = 0,13,6
+MapPosition = 0,15,15
 BattleBack = EliteA
 #-------------------------------
 [038]
@@ -340,7 +334,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,6
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -350,7 +344,7 @@ Dungeon = false
 # Clube de Hikers
 Outdoor = true
 ShowArea = true
-MapPosition = 0,11,6
+MapPosition = 0,15,15
 MapSize = 2,11
 #-------------------------------
 [040]
@@ -358,20 +352,21 @@ MapSize = 2,11
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
-MapPosition = 0,11,6
+MapPosition = 0,15,15
 #-------------------------------
 [041]
 # Clube de Dedicados
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
-MapPosition = 0,11,7
+MapPosition = 0,15,15
 MapSize = 1,111
 #-------------------------------
 [043]
 # Central Plaza
 Outdoor = true
 ShowArea = true
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -382,7 +377,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,11,10
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -395,7 +390,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,11,10
+MapPosition = 0,15,15
 SnapEdges = true
 #-------------------------------
 [046]
@@ -404,7 +399,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,12,6
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -416,7 +411,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,15,10
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -430,6 +425,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -438,58 +434,65 @@ Dungeon = false
 [049]
 # Campo de baseball
 Bicycle = true
-MapPosition = 0,16,10
+MapPosition = 0,15,4
 #-------------------------------
 [050]
 # Campo de futebol
 Bicycle = true
-MapPosition = 0,16,10
+MapPosition = 0,15,4
 DarkMap = true
 BattleBack = CaveDark
 #-------------------------------
 [051]
 # Quadra de basquete
 Bicycle = true
-MapPosition = 0,16,10
+MapPosition = 0,15,4
 Dungeon = true
 #-------------------------------
 [052]
 # Caverna dos Zubat
 Outdoor = true
 ShowArea = true
-MapPosition = 0,17,10
+MapPosition = 0,9,7
 #-------------------------------
 [053]
 # Teatro Musical
 HealingSpot = 52,17,14
-MapPosition = 0,17,10
+MapPosition = 0,15,4
 TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [054]
 # Elevador
-MapPosition = 0,17,10
+MapPosition = 0,15,7
 #-------------------------------
 [055]
 # Laboratório da Juniper
 HealingSpot = 52,30,10
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 #-------------------------------
 [056]
 # Corredores
-MapPosition = 0,17,10
-BattleBack = EliteA
+MapPosition = 0,15,4
 #-------------------------------
 [057]
 # Passagem
-MapPosition = 0,17,10
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [058]
 # Esgotos de Castelia
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 #-------------------------------
 [059]
 # Clube dos Palhaços
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 BattleBack = EliteD
 #-------------------------------
 [060]
@@ -498,14 +501,14 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,17,10
+MapPosition = 0,15,7
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Forbidden Melody.mp3
 #-------------------------------
 [061]
 # Sala do Chefe
-MapPosition = 0,17,10
+MapPosition = 0,15,7
 BattleBack = EliteB
 #-------------------------------
 [062]
@@ -514,7 +517,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 DarkMap = true
 SafariMap = false
 SnapEdges = false
@@ -523,7 +526,7 @@ TrainerBattleBGM = Abandoned Ship Remix.mp3
 #-------------------------------
 [063]
 # Estúdio Castelia
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 #-------------------------------
 [064]
 # Piers
@@ -531,7 +534,7 @@ Outdoor = true
 ShowArea = false
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -540,7 +543,7 @@ BattleBack =
 #-------------------------------
 [065]
 # Prisão
-MapPosition = 0,17,10
+MapPosition = 0,15,15
 #-------------------------------
 [066]
 # Café Sonata
@@ -548,7 +551,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,12,12
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -560,13 +563,13 @@ Outdoor = false
 ShowArea = true
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,12,12
+MapPosition = 0,15,15
 #-------------------------------
 [068]
 # Casa de recepção
 Outdoor = true
 ShowArea = true
-MapPosition = 0,12,12
+MapPosition = 0,15,6
 SafariMap = true
 BattleBack = Forest
 #-------------------------------
@@ -576,8 +579,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,13
-DiveMap = 70
+MapPosition = 0,15,6
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -589,7 +591,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,13
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -601,7 +603,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,13,13
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = false
@@ -613,13 +615,13 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,18,17
+MapPosition = 0,15,15
 #-------------------------------
 [073]
 # Battle Company 2F
 Outdoor = false
 ShowArea = false
-MapPosition = 0,22,16
+MapPosition = 0,15,15
 #-------------------------------
 [074]
 # Battle Company 3F
@@ -627,7 +629,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 0,12,10
+MapPosition = 0,15,15
 #-------------------------------
 [075]
 # Battle Company 4F
@@ -635,7 +637,7 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
-MapPosition = 1,13,16
+MapPosition = 0,15,15
 #-------------------------------
 [076]
 # Battle Company 5F
@@ -643,6 +645,19 @@ Outdoor = false
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
+MapPosition = 0,15,15
+#-------------------------------
+[077]
+# Passagem
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [081]
 # Parque das estufas
@@ -650,6 +665,7 @@ Outdoor = true
 ShowArea = false
 Bicycle = false
 BicycleAlways = false
+MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
@@ -658,4 +674,13 @@ WildBattleBGM = Battle wild.mp3
 #-------------------------------
 [084]
 # Câmara do Volcarona
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,6
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 WildBattleBGM = Snowbelle City Remix XY.mp3

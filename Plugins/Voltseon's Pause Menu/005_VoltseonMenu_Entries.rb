@@ -187,7 +187,7 @@ class MenuEntryMap < MenuEntry # Play Pokémon Splice
     pbShowMap(-1,false)
   end
 
-  def selectable?; return $PokemonBag.pbHasItem?(:TOWNMAP); end
+  def selectable?; return true; end
 end
 #-------------------------------------------------------------------------------
 # Entry for Options Screen
