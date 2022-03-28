@@ -59,5 +59,8 @@ BattleEnv       = INDOOR
 [081] # Parque das estufas
 BattleEnv       = OUTDOOR
 #-------------------------------
+[084] # Relic Castle B1F
+BattleEnv       = CAVE
+#-------------------------------
 [085] # Relic Castle B1F
 BattleEnv       = CAVE
