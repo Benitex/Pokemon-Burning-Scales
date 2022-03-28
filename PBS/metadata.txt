@@ -404,6 +404,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = true
 Dungeon = false
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
 [047]
 # Narrow Street

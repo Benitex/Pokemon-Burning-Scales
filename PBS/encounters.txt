@@ -112,3 +112,15 @@ Cave,5
     20,KOFFING,10
     10,GULPIN,5
     10,CROAGUNK,4
+#-------------------------------
+[085] # Relic Castle B1F
+Cave,5
+    30,WOOBAT,20
+    20,BALTOY,20
+    20,GOLETT,10
+    10,NATU,10
+    5,MEDITITE,5
+    5,MUNNA,5
+    5,ELGYEM,4
+    4,YAMASK,4
+    1,BELDUM,1

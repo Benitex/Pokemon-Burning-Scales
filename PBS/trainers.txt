@@ -420,8 +420,12 @@ Pokemon = SKORUPI,20
 Pokemon = VULLABY,20
 Pokemon = PAWNIARD,20
 #-------------------------------
-# Castelia
+# Castelia - Castelia Street
 #-------------------------------
+[POLICEMAN,Policial da Castelia Street]
+LoseText = "Boa batalha!"
+Pokemon = HERDIER,20
+Pokemon = GROWLITHE,20
 #-------------------------------
 # Laboratórios
 #-------------------------------

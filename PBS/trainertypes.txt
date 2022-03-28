@@ -88,3 +88,4 @@
 85,HOOPSTER,Hoopster,48,,,,Male,,
 86,CLOWN,Clown,24,,,,Male,,
 87,HEXMANIAC,Hex Maniac,60,,,,Female,,
+88,POLICEMAN,Policeman,40,,,,Male,,

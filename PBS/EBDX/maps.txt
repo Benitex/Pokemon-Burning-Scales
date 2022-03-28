@@ -1,57 +1,63 @@
 #-------------------------------
-[002]
+[002] # Nimbasa
 BattleEnv       = CITY
 #-------------------------------
-[004]
+[004] # Parque de Nimbasa
 BattleEnv       = OUTDOOR
 #-------------------------------
-[005]
+[005] # Rota 4
 BattleEnv       = MOUNTAIN
 #-------------------------------
-[006]
+[006] # Desert Resort
 BattleEnv       = MOUNTAIN
 #-------------------------------
-[007]
+[007] # Castelia
 BattleEnv       = CITY
 #-------------------------------
-[017]
+[008] # Relic Castle
+BattleEnv       = CAVE
+#-------------------------------
+[017] # Faculdade de Nimbasa de Filosofia 2F
 BattleEnv       = INDOOR
 #-------------------------------
-[018]
+[018] # Estádio
 BattleEnv       = NET
 #-------------------------------
-[019]
+[019] # Sala da Anna
 BattleEnv       = STAGE
 #-------------------------------
-[021]
+[021] # Ginásio de Nimbasa
 BattleEnv       = DISCO
 #-------------------------------
-[022]
+[022] # Antigo Ginásio de Nimbasa
 BattleEnv       = STAGE
 #-------------------------------
-[023]
+[023] # Sala do Giovanni
 BattleEnv       = INDOOR
 #-------------------------------
-[025]
+[025] # Entrada do Desert Resort
 BattleEnv       = MOUNTAIN
 #-------------------------------
-[027]
+[027] # Sala dos fósseis
 BattleEnv       = INDOOR
 #-------------------------------
-[031]
+[031] # Casa Beethoven
 BattleEnv       = INDOOR
 #-------------------------------
-[034]
+[034] # Casa do chefe
 BattleEnv       = INDOOR
 #-------------------------------
-[037]
+[037] # Escritórios de Pesquisa
 BattleEnv       = INDOOR
 #-------------------------------
-[060]
+[060] # Laboratório
 BattleEnv       = INDOOR
 #-------------------------------
-[061]
+[061] # Sala do Chefe
 BattleEnv       = INDOOR
 #-------------------------------
-[081]
+[081] # Parque das estufas
 BattleEnv       = OUTDOOR
+#-------------------------------
+[085] # Relic Castle B1F
+BattleEnv       = CAVE
