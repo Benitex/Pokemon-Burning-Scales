@@ -10,7 +10,7 @@ Immunities = GHOST
 Name = Fighting
 InternalName = FIGHTING
 Weaknesses = FLYING,PSYCHIC,FAIRY
-Resistances = ROCK,BUG,DARK
+Resistances = ROCK,DARK
 #-------------------------------
 [2]
 Name = Flying
@@ -42,7 +42,7 @@ Resistances = NORMAL,FLYING,POISON,FIRE
 Name = Bug
 InternalName = BUG
 Weaknesses = FLYING,ROCK,FIRE
-Resistances = FIGHTING,GROUND,GRASS
+Resistances = FIGHTING,GROUND,GRASS,PSYCHIC,DARK,FAIRY
 #-------------------------------
 [7]
 Name = Ghost
@@ -124,6 +124,6 @@ Immunities = PSYCHIC
 Name = Fairy
 InternalName = FAIRY
 IsSpecialType = true
-Weaknesses = POISON,STEEL
-Resistances = FIGHTING,BUG,DARK
+Weaknesses = POISON,STEEL,BUG
+Resistances = FIGHTING,DARK
 Immunities = DRAGON

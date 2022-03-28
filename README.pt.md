@@ -27,6 +27,7 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 ### Mudanças de balanceamento
 
 * **Buff no tipo gelo**, pokemon do tipo gelo agora resistem a golpes dos tipos gelo, água, voador e terrestre. Hail agora aumenta a defesa dos pokemon do tipo gelo em 50%.
+* **Bug no tipo inseto**, pokemon do tipo insto agora também resistem a golpes dos tipos fada, psíquico e sombrio, além dos tipos que já resistia. Golpes do tipo inseto são super efetivos contra o tipo fada e neutros contra o tipo lutador.
 
 ## Screenshots
 

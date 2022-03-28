@@ -33,6 +33,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 ### Balance Changes
 
 * **Ice Type Buff**, ice type pokemon resist to ice, water, flying and ground moves. Hail increases ice types defense by 50%.
+* **Bug Type Buff**, bug type pokemon resist fairy, psychic and dark type moves, in adition to its original resistances. Bug type moves are supereffective against fairy types and neutral against fighting types.
 
 ## Screenshots
 
