@@ -30,6 +30,10 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Different pokemon depending on the time of the day**.
 * **A few pokemon with altered forms**.
 
+### Balance Changes
+
+* **Ice Type Buff**, ice type pokemon resist to ice, water, flying and ground moves. Hail increases ice types defense by 50%.
+
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png" width="400"/>

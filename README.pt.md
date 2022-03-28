@@ -22,7 +22,11 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 * **Salvamento automático**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
-* **Alguns poucos pokemon com formas alteradas**
+* **Alguns poucos pokemon com formas alteradas**.
+
+### Mudanças de balanceamento
+
+* **Buff no tipo gelo**, pokemon do tipo gelo agora resistem a golpes dos tipos gelo, água, voador e terrestre. Hail agora aumenta a defesa dos pokemon do tipo gelo em 50%.
 
 ## Screenshots
 
