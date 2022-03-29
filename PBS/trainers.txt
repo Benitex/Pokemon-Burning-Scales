@@ -53,7 +53,7 @@ LoseText = "Você é bem forte!"
 Pokemon = MAGIKARP,15
 Pokemon = TYMPOLE,15
 #-------------------------------
-#Estádio da Comilaça
+# Estádio da Comilaça
 #-------------------------------
 [BUGCATCHER,Ben]
 LoseText = "..."
@@ -416,9 +416,9 @@ Pokemon = SCRAGGY,20
 #-------------------------------
 [BIKER,Motoqueiro bloqueador]
 LoseText = "Droga!"
-Pokemon = SKORUPI,20
-Pokemon = VULLABY,20
-Pokemon = PAWNIARD,20
+Pokemon = SKORUPI,22
+Pokemon = VULLABY,22
+Pokemon = PAWNIARD,22
 #-------------------------------
 # Castelia
 #-------------------------------

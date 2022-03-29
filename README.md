@@ -6,7 +6,7 @@
 
 Pokemon fan game that focuses on a rich story and on the exploration of a small open world full of sidequests. Made with Pokémon Essentials v19.1 and RPG Maker XP.
 
-For now, Pokemon Burning Scales is only available in Portuguese. If you want this game translated to other languages, feel free to send me a message with the language you speak. I plan on translating it to English, but it depends on how many people ask me to do it.
+For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 
 ## Story
 

@@ -266,7 +266,7 @@
 263,RARECANDY,Rare Candy,Rare Candies,2,0,"A candy that is packed with energy. It raises the level of a single Pokémon by one.",1,0,0
 #-------------------------------
 264,MASTERBALL,Master Ball,Master Balls,3,0,"The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",0,4,4
-265,ULTRABALL,Ultra Ball,Ultra Balls,3,1200,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,4
+265,ULTRABALL,Ultra Ball,Ultra Balls,3,800,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,4
 266,GREATBALL,Great Ball,Great Balls,3,600,"A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.",0,4,4
 267,POKEBALL,Poké Ball,Poké Balls,3,200,"A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.",0,4,4
 268,SAFARIBALL,Safari Ball,Safari Balls,3,0,"A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.",0,4,4
