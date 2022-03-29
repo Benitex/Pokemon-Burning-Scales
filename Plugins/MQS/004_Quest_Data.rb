@@ -178,14 +178,18 @@ module QuestModule
     :Name => "Apaixonado e amaldiçoado",
     :QuestGiver => "Treinador apaixonado",
     :Stage1 => "Invada a casa da treinadora.",
+    :Stage2 => "Encontre a solução da maldição.",
+    :Stage3 => "Quebre a maldição.",
     :Location1 => "Mode Street",
+    :Location2 => "Casa Abandonada",
+    :Location3 => "Rota 4",
     :QuestDescription => "Um treinador da Rota 4 foi impedido de ir para o torneio em Nimbasa e encontrar sua amada graças a uma maldição de outra treinadora de Castelia, preciso quebrar a maldição para ajudar ele.",
     :RewardString => "nil"
   }
   
   Quest13 = {
     :ID => "13",
-    :Name => "Recuperando um oculos... no lixo?",
+    :Name => "Recuperando um óculos... no lixo?",
     :QuestGiver => "nil",
     :Stage1 => "Pegar o óculos no lixo.",
 	  :Stage2 => "Devolva o óculos pro treinador.",

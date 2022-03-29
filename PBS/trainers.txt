@@ -420,16 +420,20 @@ Pokemon = SKORUPI,20
 Pokemon = VULLABY,20
 Pokemon = PAWNIARD,20
 #-------------------------------
-# Castelia - Castelia Street
+# Castelia
 #-------------------------------
 [POLICEMAN,Policial da Castelia Street]
 LoseText = "Boa batalha!"
 Pokemon = HERDIER,20
 Pokemon = GROWLITHE,20
 #-------------------------------
-# Laboratórios
-#-------------------------------
 [SUPERNERD,Dedicado]
 LoseText = "Ah não!"
 Pokemon = KLINK,20
 Pokemon = MAGNEMITE,20
+#-------------------------------
+[HEXMANIAC,Ex do apaixonado]
+LoseText = "Maldição!"
+Pokemon = NOIBAT,20
+Pokemon = HYPNO,20
+Pokemon = MISMAGIUS,20

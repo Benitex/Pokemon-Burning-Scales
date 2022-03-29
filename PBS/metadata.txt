@@ -707,3 +707,17 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 BattleBack = 
+#-------------------------------
+[086]
+# Casa abandonada 2F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Abandoned Ship Remix.mp3
+TrainerBattleBGM = Abandoned Ship Remix.mp3

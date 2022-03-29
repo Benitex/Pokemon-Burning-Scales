@@ -8,7 +8,6 @@
 * Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
 * Senhora na Oceanfront Road falando sobre as eleições
 * Quest do dançarino procurando um grupo de dança
-* Quest do apaixonado, mapa da casa abandonada, recompensa é um sooth bell
 
 ### Objetivos gerais
 
