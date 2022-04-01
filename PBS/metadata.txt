@@ -583,7 +583,7 @@ SafariMap = true
 BattleBack = Forest
 #-------------------------------
 [069]
-# Casa com portal
+# Casa com aparelhos
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -647,6 +647,7 @@ ShowArea = false
 Bicycle = false
 BicycleAlways = false
 MapPosition = 0,15,15
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
 [076]
 # Battle Company 5F

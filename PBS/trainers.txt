@@ -420,20 +420,95 @@ Pokemon = SKORUPI,22
 Pokemon = VULLABY,22
 Pokemon = PAWNIARD,22
 #-------------------------------
-# Castelia
+# Castelia Street
 #-------------------------------
 [POLICEMAN,Policial da Castelia Street]
 LoseText = "Boa batalha!"
 Pokemon = HERDIER,20
 Pokemon = GROWLITHE,20
 #-------------------------------
+# Escritórios de pesquisa
+#-------------------------------
 [SUPERNERD,Dedicado]
 LoseText = "Ah não!"
 Pokemon = KLINK,20
 Pokemon = MAGNEMITE,20
+#-------------------------------
+# Casa abandonada
 #-------------------------------
 [HEXMANIAC,Ex do apaixonado]
 LoseText = "Maldição!"
 Pokemon = NOIBAT,20
 Pokemon = HYPNO,20
 Pokemon = MISMAGIUS,20
+#-------------------------------
+# Battle Company
+#-------------------------------
+[POKEMONTRAINER_Robert,Robert,2]
+LoseText = "Preciso melhorar minha estratégia..."
+Pokemon = HIPPOPOTAS,25
+    Item = EVIOLITE
+Pokemon = GURDURR,25
+    Item = FLAMEORB
+    AbilityIndex = 0
+Pokemon = EXCADRILL,24
+    Item = LEFTOVERS
+    AbilityIndex = 1
+Pokemon = KROKOROK,25
+    Item = CHOPLEBERRY
+#-------------------------------
+[SUPERNERD,Cientista rechonchudo]
+LoseText = "Boa batalha!"
+Pokemon = CHANSEY,20
+Pokemon = WOBBUFFET,20
+Pokemon = WAILMER,20
+    Item = EVIOLITE
+Pokemon = DRIFBLIM,20
+Pokemon = SNORLAX,20
+Pokemon = VAPOREON,20
+#-------------------------------
+[SCIENTIST,Cientista malhado]
+LoseText = "Boa batalha!"
+Pokemon = DARMANITAN,20
+Pokemon = CONKELDURR,20
+Pokemon = ESCAVALIER,20
+Pokemon = DHELMISE,20
+Pokemon = SCIZOR,20
+Pokemon = FLAREON,20
+#-------------------------------
+[SUPERNERD,Cientista espaçoso]
+LoseText = "Boa batalha!"
+Pokemon = SHUCKLE,20
+Pokemon = STEELIX,20
+Pokemon = CLOYSTER,20
+Pokemon = DOUBLADE,20
+    Item = EVIOLITE
+Pokemon = RUNERIGUS,20
+Pokemon = LEAFEON,20
+#-------------------------------
+[LASS,Cientista acelerada]
+LoseText = "Boa batalha!"
+Pokemon = NINJASK,20
+Pokemon = ACCELGOR,20
+Pokemon = BARRASKEWDA,20
+Pokemon = CROBAT,20
+Pokemon = WEAVILE,20
+Pokemon = JOLTEON,20
+#-------------------------------
+[LASS,Cientista ofensiva]
+LoseText = "Boa batalha!"
+Pokemon = ALAKAZAM,20
+Pokemon = POLTEAGEIST,20
+Pokemon = DRAMPA,20
+Pokemon = MAGNEZONE,20
+Pokemon = GENGAR,20
+Pokemon = ESPEON,20
+#-------------------------------
+[SUPERNERD,Cientista coach]
+LoseText = "Boa batalha!"
+Pokemon = SHUCKLE,20
+Pokemon = CARBINK,20
+Pokemon = MANTINE,20
+Pokemon = CRYOGONAL,20
+Pokemon = ARAQUANID,20
+Pokemon = UMBREON,20
