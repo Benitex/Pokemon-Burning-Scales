@@ -13,7 +13,7 @@
 
 * Pesquisa política na Oceanfront Road
 * NPCs pra enfrentar em batalha em Castelia
-* Diálogos: piers, game corner, estúdio castelia, mode street, central plaza, oceanfront road, gym street,
+* Diálogos: oceanfront road, piers, central plaza, gym street, mode street, game corner,
 * battle company (2F Loja de Hold Items, 3F Loja de items consumíveis, 5F conversa com o dono)
 
 ## Para futuras demos
