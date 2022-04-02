@@ -420,7 +420,14 @@ Pokemon = SKORUPI,22
 Pokemon = VULLABY,22
 Pokemon = PAWNIARD,22
 #-------------------------------
-# Castelia Street
+# Castelia
+#-------------------------------
+[COOLTRAINER_M,Aspirante a policial]
+LoseText = "Preico me esforçar mais."
+Pokemon = SERVINE,20
+Pokemon = SWALOT,20
+Pokemon = RELICANTH,20
+Pokemon = MAWILE,20
 #-------------------------------
 [POLICEMAN,Policial da Castelia Street]
 LoseText = "Boa batalha!"

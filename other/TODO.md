@@ -1,22 +1,14 @@
 # Lista de tarefas
 
-## Para demo 5
-
-### Eventos específicos
+## Demo 5
 
 * Diálogos com os policiais explicando as ruas (Mode Street, Gym Street)
-* Pessoas nas ruas de Castelia pedindo para salvar seus pokemon
-* Senhora na Oceanfront Road falando sobre as eleições
 * Quest do dançarino procurando um grupo de dança
 
-### Objetivos gerais
-
-* Pesquisa política na Oceanfront Road
-* NPCs pra enfrentar em batalha em Castelia
-* Diálogos: oceanfront road, piers, central plaza, gym street, mode street, game corner,
+* Diálogos e batalhas: piers, central plaza, gym street, mode street, game corner,
 * battle company (2F Loja de Hold Items, 3F Loja de items consumíveis, 5F conversa com o dono)
 
-## Para futuras demos
+## Future demos
 
 * Clubes das eleições
 * Esgotos de Castelia
