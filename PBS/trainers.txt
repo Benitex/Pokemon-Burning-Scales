@@ -436,7 +436,7 @@ Pokemon = GROWLITHE,20
 #-------------------------------
 # Escritórios de pesquisa
 #-------------------------------
-[SUPERNERD,Dedicado]
+[SUPERNERD,Dediê Dedicado]
 LoseText = "Ah não!"
 Pokemon = KLINK,20
 Pokemon = MAGNEMITE,20
