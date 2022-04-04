@@ -19,17 +19,23 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Wild pokemon and trainers auto-level scaling**.
 * **A lot of sidequests**. That can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
-* **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form.
-* **A Quests System**. That registers all your registered quests, including your next objectives and locations.
-* **A system that shows available pokemon in the route.** And which were already captured or seen.
 * **A difficulty system**, with three different options based pokémon in your party levels.
-* **Nuzlocke and randomizer modes**.
-* **Perfect IVs mode** (optional).
-* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or by using cheaper vitamins.
-* **Auto saving**.
 * **Pokémon walking on the routes**.
 * **Different pokemon depending on the time of the day**.
 * **A few pokemon with altered forms**.
+
+### Quality of life
+
+* **Perfect IVs mode** (optional).
+* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or by using cheaper vitamins.
+* **Auto saving** (optional).
+
+### Plugin features
+
+* **Quests System**. That registers all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
+* **A system that shows available pokemon in the route.** And which were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
+* **Nuzlocke and randomizer modes**. Using [Elite Battle DX](https://luka-sj.com/res/ebdx).
+* **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 
 ### Balance Changes
 
