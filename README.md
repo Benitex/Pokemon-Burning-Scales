@@ -25,6 +25,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **A difficulty system**, with three different options based pokémon in your party levels.
 * **Nuzlocke and randomizer modes**.
 * **Perfect IVs mode** (optional).
+* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or by using cheaper vitamins.
 * **Auto saving**.
 * **Pokémon walking on the routes**.
 * **Different pokemon depending on the time of the day**.

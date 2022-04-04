@@ -50,6 +50,12 @@ BattleEnv       = INDOOR
 [037] # Escritórios de Pesquisa
 BattleEnv       = INDOOR
 #-------------------------------
+[046] # Castelia Street
+BattleEnv       = CITY
+#-------------------------------
+[047] # Narrow Street 
+BattleEnv       = CITY
+#-------------------------------
 [060] # Laboratório
 BattleEnv       = INDOOR
 #-------------------------------

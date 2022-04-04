@@ -19,6 +19,7 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 * **Sistema de dificuldades.**
 * **Nuzlocke e randomizer**.
 * **Modo de IVs perfeitas** (opcional).
+* **Grind de EVs facilitado**, existe a opção de maximizar EVs ao derrotar determinados treinadores, também é possível aumentar com vitaminas mais baratas.
 * **Salvamento automático**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.

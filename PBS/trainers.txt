@@ -434,6 +434,11 @@ LoseText = "Boa batalha!"
 Pokemon = HERDIER,20
 Pokemon = GROWLITHE,20
 #-------------------------------
+[CUEBALL,Motoqueiro da Narrow Street]
+LoseText = "Humph."
+Pokemon = JOLTIK,20
+Pokemon = SKORUPI,20
+#-------------------------------
 # Escritórios de pesquisa
 #-------------------------------
 [SUPERNERD,Dediê Dedicado]
