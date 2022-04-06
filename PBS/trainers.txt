@@ -439,6 +439,15 @@ LoseText = "Humph."
 Pokemon = JOLTIK,20
 Pokemon = SKORUPI,20
 #-------------------------------
+[FISHERMAN,Tommy]
+LoseText = "Não posso acreditar..."
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,20
+#-------------------------------
 # Escritórios de pesquisa
 #-------------------------------
 [SUPERNERD,Dediê Dedicado]

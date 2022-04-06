@@ -5,6 +5,7 @@
 * Diálogos e batalhas: piers, central plaza, gym street, mode street, game corner,
 * Quest do dançarino procurando um grupo de dança
 * Conversa com o dono da battle company
+* Gráfico do Nathan com vara de pesca
 
 ## Futuras demos
 

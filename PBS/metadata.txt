@@ -356,14 +356,14 @@ MapPosition = 0,15,15
 MapSize = 2,11
 #-------------------------------
 [040]
-# Clube de Vagabundos
+# Clube Cluchar
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,15,15
 #-------------------------------
 [041]
-# Clube de Dedicados
+# Clube Dediê
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
@@ -380,7 +380,7 @@ SafariMap = false
 SnapEdges = true
 #-------------------------------
 [044]
-# Quartel
+# Delegacia
 Outdoor = false
 ShowArea = true
 Bicycle = false
@@ -549,6 +549,7 @@ SafariMap = false
 SnapEdges = true
 Dungeon = false
 BattleBack = 
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
 [065]
 # Prisão

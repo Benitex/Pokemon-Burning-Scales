@@ -120,21 +120,21 @@ module Settings
   # Whether you need at least a certain number of badges to use some hidden
   # moves in the field (true), or whether you need one specific badge to use
   # them (false). The amounts/specific badges are defined below.
-  FIELD_MOVES_COUNT_BADGES = true
+  FIELD_MOVES_COUNT_BADGES = false
   # Depending on FIELD_MOVES_COUNT_BADGES, either the number of badges required
   # to use each hidden move in the field, or the specific badge number required
   # to use each move. Remember that badge 0 is the first badge, badge 1 is the
   # second badge, etc.
   #   e.g. To require the second badge, put false and 1.
   #        To require at least 2 badges, put true and 2.
-  BADGE_FOR_CUT       = 0
-  BADGE_FOR_FLASH     = 0
-  BADGE_FOR_ROCKSMASH = 0
-  BADGE_FOR_SURF      = 0
-  BADGE_FOR_FLY       = 0
-  BADGE_FOR_STRENGTH  = 0
-  BADGE_FOR_DIVE      = 0
-  BADGE_FOR_WATERFALL = 0
+  BADGE_FOR_CUT       = 7
+  BADGE_FOR_FLASH     = 7
+  BADGE_FOR_ROCKSMASH = 7
+  BADGE_FOR_SURF      = 7
+  BADGE_FOR_FLY       = 7
+  BADGE_FOR_STRENGTH  = 7
+  BADGE_FOR_DIVE      = 7
+  BADGE_FOR_WATERFALL = 7
 
   #=============================================================================
 

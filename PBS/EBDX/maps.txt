@@ -62,6 +62,9 @@ BattleEnv       = INDOOR
 [061] # Sala do Chefe
 BattleEnv       = INDOOR
 #-------------------------------
+[064] # Piers
+BattleEnv       = CITY
+#-------------------------------
 [081] # Parque das estufas
 BattleEnv       = OUTDOOR
 #-------------------------------

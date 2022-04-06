@@ -31,12 +31,14 @@ module QuestModule
   
   Quest3 = {
     :ID => "3",
-    :Name => "Iniciado na pescaria",
+    :Name => "O caminho da pesca",
     :QuestGiver => "Pescador do parque",
     :Stage1 => "Aprenda mais sobre a pesca.",
     :Stage2 => "Volte com uma nova vara!",
+    :Stage3 => "Consiga a vara final.",
     :Location1 => "Parque de Nimbasa",
     :Location2 => "Parque de Nimbasa",
+    :Location3 => "???",
     :QuestDescription => "Encontrei um pescador no Parque de Nimbasa que sabe muito sobre a pesca, ele pode me ajudar a iniciar na pescaria.",
     :RewardString => "nil"
   }
@@ -320,6 +322,18 @@ module QuestModule
     :Stage1 => "Entregue uma pérola",
     :Location1 => "Central Plaza",
     :QuestDescription => "Um velhinho na Central Plaza me pediu para pegar uma pérola e entregar para ele, ele acredita que a esposa vai ficar mais feliz ao se lembrar do primeiro presente que recebeu dele.",
+    :RewardString => "nil"
+  }
+
+  Quest24 = {
+    :ID => "24",
+    :Name => "Filho de peixe, peixinho é",
+    :QuestGiver => "Pescador do Liberty Pier",
+    :Stage1 => "Encontre o tio do pescador",
+    :Stage2 => "Leve um Frillish para o pescador",
+    :Location1 => "Nimbasa",
+    :Location2 => "Castelia",
+    :QuestDescription => "Um jovem pescador me pediu ajuda para capturar um Frillish para impressionar seu pai, devo arranjar um jeito de capturar um e entregar para ele.",
     :RewardString => "nil"
   }
 
