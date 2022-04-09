@@ -49,3 +49,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 <img src="https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/64505839/144768032-3a5102b6-4203-49e9-a1ee-ac02cba8c8f0.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/64505839/144768027-a2ae809c-d0aa-464a-8353-153abde939ef.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768023-eff3c883-7d4d-407d-aaa9-5bfa81df573a.png" width="400"/>
+
+## Credits
+
+You can read the detailed credits [here](other/Créditos.md).

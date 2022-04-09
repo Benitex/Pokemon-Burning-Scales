@@ -112,6 +112,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
+WildBattleBGM = Battle Rival Alder.mp3
 #-------------------------------
 [009]
 # Casa da Anna
@@ -709,6 +710,7 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 BattleBack = 
+WildBattleBGM = Battle Rival Alder.mp3
 #-------------------------------
 [086]
 # Casa abandonada 2F

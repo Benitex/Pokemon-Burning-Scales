@@ -448,6 +448,12 @@ Pokemon = MAGIKARP,20
 Pokemon = MAGIKARP,20
 Pokemon = MAGIKARP,20
 #-------------------------------
+[LASS,Namorada do Flávio]
+LoseText = "Boa batalha."
+Pokemon = WHIMSICOTT,20
+Pokemon = TOGEKISS,20
+Pokemon = AZUMARILL,20
+#-------------------------------
 # Escritórios de pesquisa
 #-------------------------------
 [SUPERNERD,Dediê Dedicado]

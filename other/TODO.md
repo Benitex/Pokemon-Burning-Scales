@@ -2,18 +2,18 @@
 
 ## Demo 5
 
-* Diálogos e batalhas: piers, central plaza, gym street, mode street, game corner,
+* Diálogos e batalhas: central plaza, gym street, mode street, game corner,
 * Quest do dançarino procurando um grupo de dança
 * Conversa com o dono da battle company
-* Gráfico do Nathan com vara de pesca
 
 ## Futuras demos
 
 ### Novos mapas
 
-* Rota 4
+* Desert Resort
 * Esgotos de Castelia
 * Relic Passage
+* Andares inferiores do Relic Castle
 
 ### Nimbasa
 

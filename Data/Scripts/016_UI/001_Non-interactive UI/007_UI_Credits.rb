@@ -222,6 +222,7 @@ Relic castle - Relic castle B1 floor
 Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
+Battle! RIVAL ALDER - Relic Castle wild battle
 Relic Song - Burning Scales theme
 Nimbasa City Gym (Runaway & Stage) - Nimbasa City Gym pos Elesa
 Gate Remastered - Route gates
