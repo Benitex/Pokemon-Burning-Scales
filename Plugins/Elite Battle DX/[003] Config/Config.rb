@@ -28,7 +28,7 @@ module EliteBattle
   CUSTOM_COMMON_ANIM = false
 
   # set this to true to use animations from the Animation editor for missing move animations
-  CUSTOM_MOVE_ANIM = false
+  CUSTOM_MOVE_ANIM = true
 
   # disables "camera" zooming and movement throughout the entire scene
   DISABLE_SCENE_MOTION = false

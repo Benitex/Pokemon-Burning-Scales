@@ -444,7 +444,7 @@ LoseText = "ARrrrrrrrr!"
 Pokemon = CHATOT,20
 Pokemon = DHELMISE,20
 Pokemon = SANDYGAST,20
-Pokemon = AEGISLASH,20
+Pokemon = DOUBLADE,20
 #-------------------------------
 [FISHERMAN,Tommy]
 LoseText = "Não posso acreditar..."

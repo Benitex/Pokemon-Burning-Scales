@@ -149,6 +149,12 @@ LackDeJurane for the combined battlebacks
 Cool Pokeball Anims for EBDX
 Lichenprincess
 
+Gen 8 move animation project
+Project lead by StCooler.
+Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
+Thanks to the Reborn team for letting people use their resources. You are awesome.
+Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
+
 Gen 8 Project:
 
 Battler Sprites:

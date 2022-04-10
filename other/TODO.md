@@ -4,6 +4,7 @@
 
 * Diálogos e batalhas: central plaza, mode street, game corner,
 * Quest do dançarino procurando um grupo de dança
+* Atualizar as fotos do README
 
 ## Futuras demos
 
