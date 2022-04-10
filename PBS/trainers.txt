@@ -420,7 +420,7 @@ Pokemon = SKORUPI,22
 Pokemon = VULLABY,22
 Pokemon = PAWNIARD,22
 #-------------------------------
-# Castelia
+# Ruas de Castelia
 #-------------------------------
 [COOLTRAINER_M,Aspirante a policial]
 LoseText = "Preico me esforçar mais."
@@ -438,6 +438,13 @@ Pokemon = GROWLITHE,20
 LoseText = "Humph."
 Pokemon = JOLTIK,20
 Pokemon = SKORUPI,20
+#-------------------------------
+[SAILOR,Marinheiro corsário]
+LoseText = "ARrrrrrrrr!"
+Pokemon = CHATOT,20
+Pokemon = DHELMISE,20
+Pokemon = SANDYGAST,20
+Pokemon = AEGISLASH,20
 #-------------------------------
 [FISHERMAN,Tommy]
 LoseText = "Não posso acreditar..."

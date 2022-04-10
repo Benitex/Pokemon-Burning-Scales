@@ -337,4 +337,16 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest25 = {
+    :ID => "25",
+    :Name => "Grupo de dança",
+    :QuestGiver => "Breakdancer",
+    :Stage1 => "Encontre dois outros breakdancers",
+    :Stage2 => "Reencontre o breakdancer",
+    :Location1 => "Castelia",
+    :Location2 => "Central Plaza",
+    :QuestDescription => " .",
+    :RewardString => "nil"
+  }
+
 end

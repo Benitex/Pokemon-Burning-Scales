@@ -2,7 +2,7 @@
 
 ## Demo 5
 
-* Diálogos e batalhas: central plaza, gym street, mode street, game corner,
+* Diálogos e batalhas: central plaza, mode street, game corner,
 * Quest do dançarino procurando um grupo de dança
 
 ## Futuras demos
