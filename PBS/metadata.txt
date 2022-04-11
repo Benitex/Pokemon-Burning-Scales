@@ -651,14 +651,6 @@ BicycleAlways = false
 MapPosition = 0,15,15
 TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
-[076]
-# Battle Company 5F
-Outdoor = false
-ShowArea = false
-Bicycle = false
-BicycleAlways = false
-MapPosition = 0,15,15
-#-------------------------------
 [077]
 # Passagem
 Outdoor = false
