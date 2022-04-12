@@ -345,7 +345,7 @@ module QuestModule
     :Stage2 => "Reencontre o breakdancer",
     :Location1 => "Castelia",
     :Location2 => "Central Plaza",
-    :QuestDescription => " .",
+    :QuestDescription => "Encontrei um breakdancer em Castelia que quer montar um grupo de dança, ele me pediu para procurar outros breakdancers por Castelia que pudessem fazer parte do grupo.",
     :RewardString => "nil"
   }
 
