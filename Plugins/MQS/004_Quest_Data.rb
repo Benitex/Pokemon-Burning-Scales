@@ -4,7 +4,7 @@ module QuestModule
   # I included this here mostly as an example of what not to do, but also to show it's a thing that exists
   Quest0 = {
   }
-  
+
   Quest1 = {
     :ID => "1",
     :Name => "O vendedor de produtos",
@@ -18,7 +18,7 @@ module QuestModule
     :QuestDescription => "Dizem que um rapaz está vendendo produtos interessantes no parque de Nimbasa, pode valer a pena conferir.",
     :RewardString => "Produto especial"
   }
-  
+
   Quest2 = {
     :ID => "2",
     :Name => "O jogo de futebol",
@@ -28,7 +28,7 @@ module QuestModule
     :QuestDescription => "Depois de uma batalha, um atleta em Nimbasa me pediu para assistir sua participação na competição no Grande Estádio em Nimbasa.",
     :RewardString => "nil"
   }
-  
+
   Quest3 = {
     :ID => "3",
     :Name => "O caminho da pesca",
@@ -42,7 +42,7 @@ module QuestModule
     :QuestDescription => "Encontrei um pescador no Parque de Nimbasa que sabe muito sobre a pesca, ele pode me ajudar a iniciar na pescaria.",
     :RewardString => "nil"
   }
-  
+
   Quest4 = {
     :ID => "4",
     :Name => "O tirtouga perdido no parque",
@@ -54,7 +54,7 @@ module QuestModule
     :QuestDescription => "Um tirtouga foi perdido no Parque de Nimbasa, preciso devolver para o dono.",
     :RewardString => "nil"
   }
-  
+
   Quest5 = {
     :ID => "5",
     :Name => "Conversa com o diretor da FNF",
@@ -80,7 +80,7 @@ module QuestModule
     :QuestDescription => "Uma vendedora do Centro Pokémon de Nimbasa pediu que conversasse com sua mãe no sul de Nimbasa.",
     :RewardString => "nil"
   }
-  
+
   Quest7 = {
     :ID => "7",
     :Name => "O Grande Torneio de Nimbasa",
@@ -94,7 +94,7 @@ module QuestModule
     :QuestDescription => "Nimbasa está em período de festa graças ao torneio anual, muitas pessoas se reunem por no Teatro Musical e acontecem várias batalhas. Participar das batalhas pode ser interessante.",
     :RewardString => "nil"
   }
-  
+
   Quest8 = {
     :ID => "8",
     :Name => "Um ginásio eletrizante",
@@ -108,7 +108,7 @@ module QuestModule
     :QuestDescription => "Elesa pediu que passasse um tempo no ginásio para me atualizar e conversar um pouco com ela.",
     :RewardString => "nil"
   }
-  
+
   Quest9 = {
     :ID => "9",
     :Name => "Escamas Ardentes",
@@ -152,7 +152,7 @@ module QuestModule
     :QuestDescription => "Uma mãe teve problemas com sua filha, que acabou fugindo. Ela me pediu para ajudar a encontrá-la.",
     :RewardString => "nil"
   }
-  
+
   Quest11 = {
     :ID => "11",
     :Name => "Os treinadores desapontados",
@@ -164,7 +164,7 @@ module QuestModule
     :QuestDescription => "Um policial na Rota 4 me pediu para enfrentar os treinadores que não podem chegar até o torneio, para tentar elevar um pouco o ânimo deles.",
     :RewardString => "nil"
   }
-  
+
   Quest12 = {
     :ID => "12",
     :Name => "Vamos pescar.. um Kyogre???",
@@ -174,7 +174,7 @@ module QuestModule
     :QuestDescription => "Os pescadores dizem que já viram um Kyogre nadando pela região, apesar de improvável, parece valer a pena a tentativa.",
     :RewardString => "nil"
   }
-  
+
   Quest12 = {
     :ID => "12",
     :Name => "Apaixonado e amaldiçoado",
@@ -188,7 +188,7 @@ module QuestModule
     :QuestDescription => "Um treinador da Rota 4 foi impedido de ir para o torneio em Nimbasa e encontrar sua amada graças a uma maldição de outra treinadora de Castelia, preciso quebrar a maldição para ajudar ele.",
     :RewardString => "nil"
   }
-  
+
   Quest13 = {
     :ID => "13",
     :Name => "Recuperando um óculos... no lixo?",
@@ -200,7 +200,7 @@ module QuestModule
     :QuestDescription => "Um treinador na Rota 4 me pediu para pegar o óculos dele, que pelo visto está no lixo de uma casa no centro da rota.",
     :RewardString => "nil"
   }
-  
+
   Quest14 = {
     :ID => "14",
     :Name => "Um favor pro explorador",
@@ -212,7 +212,7 @@ module QuestModule
     :QuestDescription => "Um treinador na Rota 4 me pediu para capturar um pokémon especial para ele, já que ele não pode ir até o Desert Resort.",
     :RewardString => "nil"
   }
-  
+
   Quest15 = {
     :ID => "15",
     :Name => "Procurando um onix no meio das pedras",
@@ -224,7 +224,7 @@ module QuestModule
     :QuestDescription => "Uma criança perdeu um onix de brinquedo no meio das pedras da Rota 4 e preciso devolver para o pai, imagino o que mais pode haver nessas pedras.",
     :RewardString => "nil"
   }
-  
+
   Quest16 = {
     :ID => "16",
     :Name => "Uma carta amável",
@@ -236,7 +236,7 @@ module QuestModule
     :QuestDescription => "Um ciêntista pervertido me pediu para entregar uma carta de amor para uma menina na praia.",
     :RewardString => "nil"
   }
-  
+
   Quest17 = {
     :ID => "17",
     :Name => "Acabando com os motoqueiros!",
@@ -346,6 +346,16 @@ module QuestModule
     :Location1 => "Castelia",
     :Location2 => "Central Plaza",
     :QuestDescription => "Encontrei um breakdancer em Castelia que quer montar um grupo de dança, ele me pediu para procurar outros breakdancers por Castelia que pudessem fazer parte do grupo.",
+    :RewardString => "nil"
+  }
+
+  Quest26 = {
+    :ID => "26",
+    :Name => "Especialistas em Triple Triad",
+    :QuestGiver => "nil",
+    :Stage1 => "Derrote os dois especialistas",
+    :Location1 => "Game Corner",
+    :QuestDescription => "Descobri que existem dois jogadores profissionais de Triple Triad que desafiam outros jogadores a derrotá-los em jogos com regras especiais no Game Corner. Enfrentar eles pode ser uma boa ideia.",
     :RewardString => "nil"
   }
 

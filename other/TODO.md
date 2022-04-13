@@ -2,7 +2,7 @@
 
 ## Demo 5
 
-* Diálogos e batalhas: central plaza, mode street, game corner,
+* Diálogos e batalhas na central plaza e mode street
 
 ## Futuras demos
 
@@ -22,9 +22,9 @@
 
 ### Castelia
 
-* NPCs variando conforme o dia no Centro Pokemon de Castelia.
 * Construção indefinida na Gym Street
-* Clubes das eleições
+* Clubes das eleições (Cluchar, Dediê, Hikers, Palhaços e Motoqueiros)
+* Cluchar gostam de jogar Triple Triad, para conhecer o líder, é preciso derrotar os mestres no game corner
 
 ### Plugins
 
