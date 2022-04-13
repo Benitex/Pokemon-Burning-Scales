@@ -475,6 +475,7 @@ LoseText = "Maldição!"
 Pokemon = NOIBAT,20
 Pokemon = HYPNO,20
 Pokemon = MISMAGIUS,20
+Pokemon = PHANTUMPP,20
 #-------------------------------
 # Battle Company
 #-------------------------------
