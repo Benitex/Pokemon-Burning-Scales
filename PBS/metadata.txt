@@ -379,6 +379,7 @@ MapPosition = 0,15,15
 DarkMap = false
 SafariMap = false
 SnapEdges = true
+TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
 [044]
 # Delegacia

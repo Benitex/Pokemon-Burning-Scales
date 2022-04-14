@@ -439,6 +439,11 @@ LoseText = "Humph."
 Pokemon = JOLTIK,20
 Pokemon = SKORUPI,20
 #-------------------------------
+[CUEBALL,Motoqueiro que dá passagem]
+LoseText = "Você vai ver!"
+Pokemon = SCRAGGY,20
+Pokemon = SKORUPI,20
+#-------------------------------
 [SAILOR,Marinheiro corsário]
 LoseText = "ARrrrrrrrr!"
 Pokemon = CHATOT,20
@@ -460,6 +465,15 @@ LoseText = "Boa batalha."
 Pokemon = WHIMSICOTT,20
 Pokemon = TOGEKISS,20
 Pokemon = AZUMARILL,20
+#-------------------------------
+[PSYCHIC_F,Testadora]
+LoseText = "É. Está pronto."
+Pokemon = ABRA,20
+Pokemon = EXEGGCUTE,20
+Pokemon = SMOOCHUM,20
+Pokemon = WOOBAT,20
+Pokemon = INKAY,20
+Pokemon = STARMIE,20
 #-------------------------------
 # Escritórios de pesquisa
 #-------------------------------

@@ -2,7 +2,7 @@
 
 ## Demo 5
 
-* Diálogos e batalhas na central plaza e mode street
+* Diálogos e batalhas na mode street
 
 ## Futuras demos
 

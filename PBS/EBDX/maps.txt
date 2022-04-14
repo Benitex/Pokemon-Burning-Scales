@@ -50,6 +50,9 @@ BattleEnv       = INDOOR
 [037] # Escritórios de Pesquisa
 BattleEnv       = INDOOR
 #-------------------------------
+[043] # Central Plaza
+BattleEnv       = OUTDOOR
+#-------------------------------
 [046] # Castelia Street
 BattleEnv       = CITY
 #-------------------------------
