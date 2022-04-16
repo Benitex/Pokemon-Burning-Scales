@@ -13,11 +13,6 @@ LoseText = "Uou, você é forte, irmão!"
 Pokemon = DARUMAKA,7
 Pokemon = TIMBURR,7
 #-------------------------------
-[LASS,Menina de Nimbasa]
-LoseText = "Você é bem forte!"
-Pokemon = DEERLING,7
-Pokemon = LILLIPUP,7
-#-------------------------------
 [CUEBALL,Motoqueiro de Undella]
 LoseText = "Isso que é luta!"
 Pokemon = VENIPEDE,9
@@ -38,15 +33,6 @@ LoseText = "Ótima batalha."
 Pokemon = DITTO,10
 Pokemon = SMEARGLE,10
 Pokemon = CASTFORM,10
-#-------------------------------
-[BLACKBELT,Desconhecido arrogante]
-LoseText = "Ferrou"
-Pokemon = TIMBURR,10
-Pokemon = MIENFOO,10
-#-------------------------------
-[AROMALADY,Observadora do mar]
-LoseText = "Tão forte quanto as ondas do mar..."
-Pokemon = AUDINO,15
 #-------------------------------
 [FISHERMAN,Pescador do parque]
 LoseText = "Você é bem forte!"
