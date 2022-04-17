@@ -36,3 +36,4 @@ TODO o TODO lol
 
 * Evoluções do puplin
 * Continuação da história
+* Loop dos áudios

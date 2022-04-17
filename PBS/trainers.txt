@@ -27,6 +27,7 @@ Pokemon = PANPOUR,10
 [AROMALADY,Lucina]
 LoseText = "Emocionante!"
 Pokemon = TIRTOUGA,15
+    Shiny = yes
 #-------------------------------
 [YOUNGSTER,Garoto do Parque]
 LoseText = "Ótima batalha."
