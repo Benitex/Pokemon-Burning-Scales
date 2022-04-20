@@ -306,7 +306,7 @@ MapPosition = 0,15,4
 #-------------------------------
 [031]
 # Casa Beethoven
-Outdoor = true
+Outdoor = false
 ShowArea = true
 MapPosition = 0,15,7
 MapSize = 2,1101
@@ -579,7 +579,7 @@ MapPosition = 0,15,15
 #-------------------------------
 [068]
 # Casa de recepção
-Outdoor = true
+Outdoor = false
 ShowArea = true
 MapPosition = 0,15,6
 SafariMap = true

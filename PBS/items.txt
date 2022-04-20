@@ -113,7 +113,7 @@
 111,LAGGINGTAIL,Lagging Tail,Lagging Tails,1,4000,"An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.",0,0,0
 112,QUICKCLAW,Quick Claw,Quick Claws,1,4000,"An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.",0,0,0
 113,FOCUSBAND,Focus Band,Focus Bands,1,4000,"An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.",0,0,0
-114,FOCUSSASH,Focus Sash,Focus Sashes,1,4000,"An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.",0,0,0
+114,FOCUSSASH,Focus Sash,Focus Sashes,1,500,"An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.",0,0,0
 115,FLAMEORB,Flame Orb,Flame Orbs,1,4000,"An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.",0,0,0
 116,TOXICORB,Toxic Orb,Toxic Orbs,1,4000,"An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.",0,0,0
 117,STICKYBARB,Sticky Barb,Sticky Barbs,1,4000,"A held item that damages the holder on every turn. It may latch on to Pokémon that touch the holder.",0,0,0
@@ -263,7 +263,7 @@
 260,GENIUSFEATHER,Genius Feather,Genius Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.",1,0,0
 261,CLEVERFEATHER,Clever Feather,Clever Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.",1,0,0
 262,SWIFTFEATHER,Swift Feather,Swift Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.",1,0,0
-263,RARECANDY,Rare Candy,Rare Candies,2,0,"A candy that is packed with energy. It raises the level of a single Pokémon by one.",1,0,0
+263,RARECANDY,Rare Candy,Rare Candies,2,1000,"A candy that is packed with energy. It raises the level of a single Pokémon by one.",1,0,0
 #-------------------------------
 264,MASTERBALL,Master Ball,Master Balls,3,0,"The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.",0,4,4
 265,ULTRABALL,Ultra Ball,Ultra Balls,3,800,"An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.",0,4,4
