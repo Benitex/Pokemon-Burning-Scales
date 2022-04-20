@@ -2,13 +2,15 @@
 
 ## Demo 6
 
-TODO o TODO lol
+* Conversa com o professor Carvalho sobre o Desert Resort
+* Mapa do Desert Resort
+* Cavernas no desert resort
+* Colocar pokemon fixos no Relic Castle
 
 ## Futuras demos
 
 ### Novos mapas
 
-* Desert Resort
 * Esgotos de Castelia
 * Relic Passage
 * Andares inferiores do Relic Castle
