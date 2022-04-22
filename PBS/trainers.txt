@@ -37,7 +37,8 @@ Pokemon = CASTFORM,10
 #-------------------------------
 [FISHERMAN,Pescador do parque]
 LoseText = "Você é bem forte!"
-Pokemon = MAGIKARP,15
+Pokemon = KRABBY,15
+Pokemon = CARVANHA,15
 Pokemon = TYMPOLE,15
 #-------------------------------
 # Estádio da Comilaça
@@ -242,6 +243,7 @@ Pokemon = AUDINO,20
 #-------------------------------
 [HIKER,Caminhante da rota 4]
 LoseText = "Você se mostrou digno."
+Pokemon = GEODUDE,25
 Pokemon = BOLDORE,25
 Pokemon = DWEBBLE,20
 #-------------------------------
@@ -257,13 +259,14 @@ Pokemon = ALOMOMOLA,20
 #-------------------------------
 [POKEMONRANGER_M,Cara do lixo]
 LoseText = "Muito bem."
-Pokemon = MARACTUS,20
+Pokemon = CACNEA,20
 Pokemon = DRILBUR,20
 Pokemon = ROCKRUFF,20
 #-------------------------------
 [BLACKBELT,Pai lutador]
 LoseText = "Boa festa."
 Pokemon = MEDITITE,15
+Pokemon = HELIOPTILE,15
 Pokemon = ONIX,15
 #-------------------------------
 [FISHERMAN,Pescador da Rota 4]

@@ -124,3 +124,12 @@ Cave,5
     5,ELGYEM,4
     4,YAMASK,4
     1,BELDUM,1
+#-------------------------------
+[090] # Relic Castle B6F
+Cave,5
+    20,VANILLITE,20
+    20,CUBCHOO,20
+    20,SNORUNT,20
+    15,SWINUB,20
+    15,BERGMITE,20
+    10,CRYOGONAL,20

@@ -97,6 +97,7 @@ zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge
 spaceemotion - Goldenrod City Gamecorner HGSS, Castelia Game Corner
 vazquinho - Casino Tiles, Castelia Game Corner
+Hek-el-grande - Relic tiles, New pallete :3
 
 
 Yamask Variants
@@ -120,7 +121,7 @@ DiegoWT
 Gen 4 and 5 Trainer sprites:
 Mr. Gela/theo#7722
 
-Team Plasma Grunt OW(male and female)
+Team Plasma Grunt OW (male and female)
 PurpleZaffre
 
 Team Plasma battle sprites

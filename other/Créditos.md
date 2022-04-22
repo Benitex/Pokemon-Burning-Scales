@@ -40,6 +40,7 @@ zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
 Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge
 spaceemotion - Goldenrod City Gamecorner HGSS, Castelia Game Corner
 vazquinho - Casino Tiles, Castelia Game Corner
+Hek-el-grande - Relic tiles, New pallete :3
 
 ### Character OWs
 
