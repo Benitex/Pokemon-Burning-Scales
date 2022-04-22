@@ -6,6 +6,8 @@
 * Mapa do Desert Resort
 * Cavernas no desert resort
 * Colocar pokemon fixos no Relic Castle
+* Quest dos 5 bosses do Desert Resort (A-Marowak, Metang, Weavile)
+* Quest do yamask
 
 ## Futuras demos
 
