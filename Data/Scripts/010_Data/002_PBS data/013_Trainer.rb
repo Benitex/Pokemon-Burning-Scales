@@ -116,17 +116,17 @@ module GameData
       # Create each Pokémon owned by the trainer
       @pokemon.each do |pkmn_data|
         species = GameData::Species.get(pkmn_data[:species]).species
+        level = pkmn_data[:level]
         if $game_switches[99]
           if $game_variables[100] == 1
-            pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) - 2 + rand(2), trainer, false)
+            level = pbBalancedLevel($Trainer.party) - 2 + rand(2)
           elsif $game_variables[100] == 2
-            pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) + rand(2), trainer, false)
+            level = pbBalancedLevel($Trainer.party) + rand(2)
           else
-            pkmn = Pokemon.new(species, pbBalancedLevel($Trainer.party) + 3 + rand(3), trainer, false)
+            level = pbBalancedLevel($Trainer.party) + 3 + rand(3)
           end
-        else
-          pkmn = Pokemon.new(species, pkmn_data[:level], trainer, false)
         end
+        pkmn = Pokemon.new(species, level, trainer, false)
         trainer.party.push(pkmn)
         # Set Pokémon's properties if defined
         if pkmn_data[:form]

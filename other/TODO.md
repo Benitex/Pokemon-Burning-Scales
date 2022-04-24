@@ -38,5 +38,5 @@
 ### Outros
 
 * Evoluções do puplin
-* Continuação da história
 * Loop dos áudios
+* Continuação da história
