@@ -85,6 +85,7 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Battle! (Professor Sycamore).mp3
+Environment = Sand
 #-------------------------------
 [007]
 # Castelia
@@ -461,10 +462,17 @@ MapPosition = 0,15,4
 Dungeon = true
 #-------------------------------
 [052]
-# Caverna dos Zubat
-Outdoor = true
+# Caverna dos Zubats
+Outdoor = false
 ShowArea = true
+Bicycle = true
+BicycleAlways = false
 MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+Environment = Cave
 #-------------------------------
 [053]
 # Teatro Musical
@@ -718,3 +726,15 @@ SnapEdges = false
 Dungeon = false
 WildBattleBGM = Abandoned Ship Remix.mp3
 TrainerBattleBGM = Abandoned Ship Remix.mp3
+#-------------------------------
+[091]
+# Caverna do Ultra Abismal
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+Environment = Cave

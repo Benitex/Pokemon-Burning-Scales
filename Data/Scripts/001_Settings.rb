@@ -230,8 +230,9 @@ module Settings
   # Dex list, no matter which region the player is currently in.
   def self.pokedex_names
     return [
-      [_INTL("Sul de Unova"), 0],
+      [_INTL("South Unova"), 0],
 	    [_INTL("???"), 1],
+	    [_INTL("Ultra Space"), 2],
       _INTL("National Pokédex")
     ]
   end

@@ -359,4 +359,14 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest27 = {
+    :ID => "27",
+    :Name => "Os Guardiões do Desert Resort",
+    :QuestGiver => "nil",
+    :Stage1 => "Derrote ou capture os guardiões",
+    :Location1 => "Desert Resort",
+    :QuestDescription => " ",
+    :RewardString => "nil"
+  }
+
 end
