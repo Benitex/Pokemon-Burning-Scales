@@ -365,7 +365,7 @@ module QuestModule
     :QuestGiver => "nil",
     :Stage1 => "Derrote ou capture os guardiões",
     :Location1 => "Desert Resort",
-    :QuestDescription => " ",
+    :QuestDescription => "Existem cinco pokémon especiais espalhados pelo Desert Resort. Posso testar minhas habilidades desafiando eles, ou tentar capturá-los.",
     :RewardString => "nil"
   }
 
