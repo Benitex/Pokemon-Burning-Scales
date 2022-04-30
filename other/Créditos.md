@@ -245,6 +245,9 @@ DiegoWT
 IKazart's NPC Trade Evolution
 IKazart
 
+Always inside Bushes
+Kotaro,KleinStudio
+
 B2W2 Bag
 Erassus,CharizardThree3/LackDeJurane
 
