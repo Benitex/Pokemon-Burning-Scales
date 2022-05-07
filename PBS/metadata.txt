@@ -82,7 +82,7 @@ Weather = Sandstorm,100
 MapPosition = 0,9,7
 DarkMap = false
 SafariMap = false
-SnapEdges = false
+SnapEdges = true
 Dungeon = false
 WildBattleBGM = Battle! (Professor Sycamore).mp3
 Environment = Sand
@@ -462,7 +462,7 @@ MapPosition = 0,15,4
 Dungeon = true
 #-------------------------------
 [052]
-# Caverna dos Zubats
+# Caverna Ultra Abismal
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -728,7 +728,7 @@ WildBattleBGM = Abandoned Ship Remix.mp3
 TrainerBattleBGM = Abandoned Ship Remix.mp3
 #-------------------------------
 [091]
-# Caverna do Ultra Abismal
+# Caverna dos Zubats
 Outdoor = false
 ShowArea = true
 Bicycle = true
