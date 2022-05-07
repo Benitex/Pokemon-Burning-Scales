@@ -119,7 +119,7 @@ module QuestModule
     :Stage4 => "Procure o Relic Castle.",
     :Stage5 => "Encontre o professor.",
     :Stage6 => "Explore os esgotos.",
-    :Stage7 => "Enfrente o Team Plamsa.",
+    :Stage7 => "Enfrente o Team Plasma.",
     :Stage8 => "Enfrete Volcarona.",
     :Location1 => "Castelia",
     :Location2 => "Rota 4",
