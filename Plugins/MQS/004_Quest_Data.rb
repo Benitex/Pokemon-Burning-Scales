@@ -369,4 +369,14 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest28 = {
+    :ID => "28",
+    :Name => "Invasão interdimensional no deserto",
+    :QuestGiver => "nil",
+    :Stage1 => "Derrote ou capture Ultra Beasts",
+    :Location1 => "Desert Resort",
+    :QuestDescription => "Várias Ultra Beasts se reuniram em uma caverna no Desert Resort, devo dar uma olhada nesse lugar.",
+    :RewardString => "nil"
+  }
+
 end
