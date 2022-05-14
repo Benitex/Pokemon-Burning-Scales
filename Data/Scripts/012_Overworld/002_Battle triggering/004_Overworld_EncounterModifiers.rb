@@ -18,14 +18,15 @@ Events.onWildPokemonCreate += proc { |_sender, e|
 # This is a simple method, and can/should be modified to account for evolutions
 # and other such details.  Of course, you don't HAVE to use this code.
 Events.onWildPokemonCreate += proc { |_sender, e|
-  pokemon = e[0]
   if $game_switches[100]
-    if $game_variables[100] == 1
-      new_level = pbBalancedLevel($Trainer.party) - 2 + rand(2)
-    elsif $game_variables[100] == 2
-      new_level = pbBalancedLevel($Trainer.party) - 2 + rand(4)
-    else
-      new_level = pbBalancedLevel($Trainer.party) + 1 + rand(3)
+    pokemon = e[0]
+    new_level = pbBalancedLevel($Trainer.party)
+    if $game_variables[100] == 1      # Easy
+      new_level += rand(2) - 2
+    elsif $game_variables[100] == 2   # Normal
+      new_level += rand(4) - 2
+    else                              # Hard
+      new_level += rand(3) + 1
     end
     new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
     pokemon.level = new_level
@@ -39,8 +40,24 @@ Events.onWildPokemonCreate += proc { |_sender, e|
 # Note that you can only modify a partner trainer's Pokémon, and not the trainer
 # themselves nor their items this way, as those are generated from scratch
 # before each battle.
-#Events.onTrainerPartyLoad += proc { |_sender, trainer|
-#  if trainer   # An NPCTrainer object containing party/items/lose text, etc.
-#    YOUR CODE HERE
-#  end
-#}
+Events.onTrainerPartyLoad += proc { |_sender, trainer|
+  if trainer   # An NPCTrainer object containing party/items/lose text, etc.
+    if $game_switches[99]
+      for pokemon in trainer[0].party
+        new_level = pbBalancedLevel($Trainer.party)
+        # Difficulty modifiers
+        if $game_variables[100] == 1      # Easy
+          new_level += rand(2) - 2
+        elsif $game_variables[100] == 2   # Normal
+          new_level += rand(2)
+        else                              # Hard
+          new_level += rand(3) + 3
+        end
+        new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
+        pokemon.level = new_level
+        pokemon.calc_stats
+        pokemon.reset_moves
+      end
+    end
+  end
+}
