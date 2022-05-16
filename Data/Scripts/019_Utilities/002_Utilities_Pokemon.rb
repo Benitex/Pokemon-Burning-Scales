@@ -205,6 +205,8 @@ def pbBalancedLevel(party)
   mean /= weightSum
   mean = mean.round
   mean = 1 if mean < 1
+  # Add 2 to the mean to challenge the player
+  mean += 2
   # Adjust level to maximum
   mean = mLevel if mean > mLevel
   return mean

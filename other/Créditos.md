@@ -216,6 +216,9 @@ Gate - Castelia interiors
 
 ## Plugins
 
+Automatic Level Scaling
+Benitex, Joltik, Umbreon
+
 Elite Battle: DX
 Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
 
