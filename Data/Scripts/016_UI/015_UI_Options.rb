@@ -13,6 +13,8 @@ class PokemonSystem
   attr_accessor :bgmvolume
   attr_accessor :sevolume
   attr_accessor :textinput
+  attr_accessor :difficulty
+  attr_accessor :autosave
 
   def initialize
     @textspeed   = 1     # Text speed (0=slow, 1=normal, 2=fast)
@@ -26,6 +28,8 @@ class PokemonSystem
     @bgmvolume   = 100   # Volume of background music and ME
     @sevolume    = 100   # Volume of sound effects
     @textinput   = 0     # Text input mode (0=cursor, 1=keyboard)
+    @difficulty  = $game_variables[LevelScalingSettings::TRAINER_VARIABLE]  # Automatic Level Scaling difficulty id
+    @autosave    = 0     # autosave feature (0=on, 1=off)
   end
 end
 
@@ -338,6 +342,25 @@ class PokemonOption_Scene
        EnumOption.new(_INTL("Battle Effects"),[_INTL("On"),_INTL("Off")],
          proc { $PokemonSystem.battlescene },
          proc { |value| $PokemonSystem.battlescene = value }
+       ),
+       EnumOption.new(_INTL("Difficulty"),[_INTL("Easy"),_INTL("Medium"),_INTL("Hard")],
+         proc { $PokemonSystem.difficulty },
+         proc { |value|
+          $PokemonSystem.difficulty = value
+          $game_variables[LevelScalingSettings::TRAINER_VARIABLE] = value + 1
+          $game_variables[LevelScalingSettings::WILD_VARIABLE] = value + 1
+         }
+       ),
+       EnumOption.new(_INTL("Autosave"),[_INTL("On"),_INTL("Off")],
+         proc { $PokemonSystem.autosave },
+         proc { |value|
+          $PokemonSystem.autosave = value
+          if value == 0
+            $game_switches[98] = true
+          else
+            $game_switches[98] = false
+          end
+         }
        ),
        EnumOption.new(_INTL("Battle Style"),[_INTL("Switch"),_INTL("Set")],
          proc { $PokemonSystem.battlestyle },
