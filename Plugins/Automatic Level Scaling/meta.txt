@@ -1,8 +1,7 @@
 Name         = Automatic Level Scaling
-Version      = 1.0.0
+Version      = 1.2.0
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
-
 #===============================================================================
 # Instalation
 #===============================================================================
@@ -32,15 +31,30 @@ Credits      = Benitex, Joltik, Umbreon
 #   "id" is the value stored in TRAINERVARIABLE or WILDVARIABLE
 #   "random_increase" is a random value that increases the pokemon level
 #   "fixed_increase" is a pre-defined value that increases the pokemon level
-#   "first_evolution_level" is the level required for pokemon that don't evolve by level to get to the mid form
-#   "second_evolution_level" is the level required for pokemon that don't evolve by level to get to the final form
 # Note that these variables can also store negative values. 
 # Setting them to 0 would have the same effect of calling "pbBalancedLevel($Trainer.party)" 
 # and removing two from the avarage.
 # 
+# # Changing settings for a specific battle:
+# 
+# You can use the following function to change some settings before a specific battle.
+# All arguments are optional and can be positioned in any order.
+# Don't forget to change them back to the original settings after the battle.
+# AutomaticLevelScaling.setSettings(
+#   update_moves:,
+#   automatic_evolutions:,
+#   proportional_scaling:, 
+#   first_evolution_level:,
+#   second_evolution_level:
+# )
+#   "update_moves" can be set to false if you don't want moves to be updated after setting the new level and stage
+#   "proportional_scaling" can be set to true if you want to scale levels but take original level differences into consideration
+#   "automatic_evolutions" can be set to false if you don't pokemon to automatically evolve if possible
+#   "first_evolution_level" is the level required for pokemon that don't evolve by level to get to the mid form
+#   "second_evolution_level" is the level required for pokemon that don't evolve by level to get to the final form
 #===============================================================================
 # Detailed credits
 #===============================================================================
 # The one script I was inspired by the most is Joltik's Advanced Pokemon Level Balancing + evolution, 
 # but the default Essentials random dungeon script was also important to make this script.
-#
+#===============================================================================
