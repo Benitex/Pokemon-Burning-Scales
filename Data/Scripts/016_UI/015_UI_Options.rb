@@ -28,7 +28,7 @@ class PokemonSystem
     @bgmvolume   = 100   # Volume of background music and ME
     @sevolume    = 100   # Volume of sound effects
     @textinput   = 0     # Text input mode (0=cursor, 1=keyboard)
-    @difficulty  = $game_variables[LevelScalingSettings::TRAINER_VARIABLE]  # Automatic Level Scaling difficulty id
+    @difficulty  = 0     # Automatic Level Scaling difficulty id
     @autosave    = 0     # autosave feature (0=on, 1=off)
   end
 end
