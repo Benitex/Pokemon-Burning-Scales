@@ -51,7 +51,7 @@ module Settings
   #=============================================================================
 
   # The amount of money the player starts the game with.
-  INITIAL_MONEY        = 3000
+  INITIAL_MONEY        = 10000
   # The maximum amount of money the player can have.
   MAX_MONEY            = 999_999
   # The maximum number of Game Corner coins the player can have.

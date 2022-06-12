@@ -16,7 +16,7 @@ Pokemon = TIMBURR,7
 [CUEBALL,Motoqueiro de Undella]
 LoseText = "Isso que é luta!"
 Pokemon = VENIPEDE,9
-Pokemon = WHIRLIPEDE,9
+Pokemon = FOONGUS,9
 #-------------------------------
 [LASS,Menina do Panpour]
 LoseText = "Você é bem forte!"
