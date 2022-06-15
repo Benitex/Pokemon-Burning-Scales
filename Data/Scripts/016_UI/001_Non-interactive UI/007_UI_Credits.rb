@@ -151,6 +151,9 @@ LackDeJurane for the combined battlebacks
 Cool Pokeball Anims for EBDX
 Lichenprincess
 
+SwSh Item Icon pack
+RandomTalkingBush, AiurJordan, TechSkylander1518
+
 Gen 8 move animation project
 Project lead by StCooler.
 Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
