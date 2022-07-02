@@ -169,7 +169,7 @@ Pokemon = NIDORANfE,22
 #-------------------------------
 [POKEMONTRAINER_Albert,Albert]
 Items = SUPERPOTION
-LoseText = "Não esperava encontar alguém tão forte..."
+LoseText = "Não esperava encontrar alguém tão forte..."
 Pokemon = MEDITITE,22
     Moves = FORCEPALM,HIDDENPOWER,CONFUSION,DETECT
 Pokemon = TORKOAL,22
@@ -183,7 +183,7 @@ Pokemon = COMBUSKEN,23
 #-------------------------------
 [POKEMONTRAINER_Albert,Albert,1]
 Items = POTION
-LoseText = "Não esperava encontar alguém tão forte..."
+LoseText = "Não esperava encontrar alguém tão forte..."
 Pokemon = PIGNITE,23
 Pokemon = HARIYAMA,24
 Pokemon = COMBUSKEN,23
