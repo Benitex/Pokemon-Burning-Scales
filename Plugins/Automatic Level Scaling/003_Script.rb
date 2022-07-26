@@ -3,29 +3,6 @@
 # By Benitex
 #===============================================================================
 
-Events.onWildPokemonCreate += proc { |_sender, e|
-  pokemon = e[0]
-  id = $game_variables[LevelScalingSettings::WILD_VARIABLE]
-  if id != 0
-    AutomaticLevelScaling.setDifficulty(id)
-    AutomaticLevelScaling.setNewLevel(pokemon)
-  end
-}
-
-Events.onTrainerPartyLoad += proc { |_sender, trainer|
-  id = $game_variables[LevelScalingSettings::TRAINER_VARIABLE]
-  if trainer && id != 0
-    AutomaticLevelScaling.setDifficulty(id)
-    avarage_level = 0
-    trainer[0].party.each { |pokemon| avarage_level += pokemon.level }
-    avarage_level /= trainer[0].party.length
-
-    for pokemon in trainer[0].party
-      AutomaticLevelScaling.setNewLevel(pokemon, pokemon.level - avarage_level)
-    end
-  end
-}
-
 class AutomaticLevelScaling
   @@selectedDifficulty = Difficulty.new(id: 0)
   @@settings = {
@@ -33,6 +10,8 @@ class AutomaticLevelScaling
     first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL,
     second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL,
     proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING,
+    only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER,
+    only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER,
     update_moves: true
   }
 
@@ -42,35 +21,45 @@ class AutomaticLevelScaling
     end
   end
 
-  def self.setSettings(update_moves: true, automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS, proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING, first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL, second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL)
+  def self.setSettings(update_moves: true, automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS, proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING, first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL, second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL, only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER, only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER)
     @@settings[:update_moves] = update_moves
     @@settings[:first_evolution_level] = first_evolution_level
     @@settings[:second_evolution_level] = second_evolution_level
     @@settings[:proportional_scaling] = proportional_scaling
     @@settings[:automatic_evolutions] = automatic_evolutions
+    @@settings[:only_scale_if_higher] = only_scale_if_higher
+    @@settings[:only_scale_if_lower] = only_scale_if_lower
   end
 
   def self.setNewLevel(pokemon, difference_from_average = 0)
     new_level = pbBalancedLevel($Trainer.party) - 2 # pbBalancedLevel increses level by 2 to challenge the player
 
-    # Difficulty modifiers
-    new_level += @@selectedDifficulty.fixed_increase
-    if @@selectedDifficulty.random_increase < 0
-      new_level += rand(@@selectedDifficulty.random_increase..0)
-    elsif @@selectedDifficulty.random_increase > 0
-      new_level += rand(@@selectedDifficulty.random_increase)
+    # Checks for only_scale_if_higher and only_scale_if_lower
+    higher_level_block = @@settings[:only_scale_if_higher] && pokemon.level > new_level
+    lower_level_block = @@settings[:only_scale_if_lower] && pokemon.level < new_level
+    if !higher_level_block && !lower_level_block
+
+      # Difficulty modifiers
+      new_level += @@selectedDifficulty.fixed_increase
+      if @@selectedDifficulty.random_increase < 0
+        new_level += rand(@@selectedDifficulty.random_increase..0)
+      elsif @@selectedDifficulty.random_increase > 0
+        new_level += rand(@@selectedDifficulty.random_increase)
+      end
+
+      # Proportional scaling
+      new_level += difference_from_average if @@settings[:proportional_scaling]
+
+      new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
+      pokemon.level = new_level
+
+      # Evolution part
+      AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
+
+      pokemon.calc_stats
+      pokemon.reset_moves if @@settings[:update_moves]
+
     end
-    # Proportional scaling
-    new_level += difference_from_average if @@settings[:proportional_scaling]
-
-    new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
-    pokemon.level = new_level
-
-    # Evolution part
-    AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
-
-    pokemon.calc_stats
-    pokemon.reset_moves if @@settings[:update_moves]
   end
 
   def self.setNewStage(pokemon)
