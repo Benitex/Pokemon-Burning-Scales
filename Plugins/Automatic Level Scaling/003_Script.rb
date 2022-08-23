@@ -63,9 +63,14 @@ class AutomaticLevelScaling
   end
 
   def self.setNewStage(pokemon)
+    form = pokemon.form   # regional form
     pokemon.species = GameData::Species.get(pokemon.species).get_baby_species # revert to the first stage
+    regionalForm = false
+    for species in LevelScalingSettings::POKEMON_WITH_REGIONAL_FORMS do
+      regionalForm = true if pokemon.isSpecies?(species)
+    end
 
-    2.times do |evolvedTimes|
+    2.times do |stage|
       evolutions = GameData::Species.get(pokemon.species).get_evolutions(false)
 
       # Checks if the species only evolve by level up
@@ -76,23 +81,37 @@ class AutomaticLevelScaling
         end
       }
 
-      if !other_evolving_method   # Species that evolve by level up
+      if !other_evolving_method && !regionalForm   # Species that evolve by level up
         if pokemon.check_evolution_on_level_up != nil
           pokemon.species = pokemon.check_evolution_on_level_up
+          pokemon.setForm(form) if regionalForm
         end
 
       else  # For species with other evolving methods
         # Checks if the pokemon is in it's midform and defines the level to evolve
-        level = evolvedTimes == 0 ? @@settings[:second_evolution_level] : @@settings[:second_evolution_level]
+        level = stage == 0 ? @@settings[:first_evolution_level] : @@settings[:second_evolution_level]
 
         if pokemon.level >= level
-          if evolutions.length == 1     # Species with only one possible evolution
+          if evolutions.length == 1         # Species with only one possible evolution
             pokemon.species = evolutions[0][0]
-          elsif evolutions.length > 1   # Species with multiple possible evolutions (the evolution is randomly defined)
-            pokemon.species = evolutions[rand(0, evolutions.length - 1)][0]
+            pokemon.setForm(form) if regionalForm
+
+          elsif evolutions.length > 1
+            if regionalForm
+              if form >= evolutions.length  # regional form
+                pokemon.species = evolutions[0][0]
+                pokemon.setForm(form)
+              else                          # regional evolution
+                pokemon.species = evolutions[form][0]
+              end
+
+            else                            # Species with multiple possible evolutions
+              pokemon.species = evolutions[rand(0, evolutions.length - 1)][0]
+            end
           end
         end
       end
     end
   end
+
 end
