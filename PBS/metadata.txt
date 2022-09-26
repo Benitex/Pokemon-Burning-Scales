@@ -306,7 +306,7 @@ MapPosition = 0,15,4
 MapPosition = 0,15,4
 #-------------------------------
 [031]
-# Casa Beethoven
+# Casa com Beethoven
 Outdoor = false
 ShowArea = true
 MapPosition = 0,15,7
@@ -726,6 +726,45 @@ SnapEdges = false
 Dungeon = false
 WildBattleBGM = Abandoned Ship Remix.mp3
 TrainerBattleBGM = Abandoned Ship Remix.mp3
+#-------------------------------
+[088]
+# Relic Castle B4F
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
+Environment = Ice
+#-------------------------------
+[089]
+# Relic Castle B5F
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
+Environment = Ice
+#-------------------------------
+[090]
+# Relic Castle B6F
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+Weather = Blizzard,100
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+Environment = Ice
 #-------------------------------
 [091]
 # Caverna dos Zubats

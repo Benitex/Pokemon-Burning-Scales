@@ -224,6 +224,7 @@ Vanilluxe Pavilion
 Relic Castle – Relic Castle B3
 Po Town - Bikers theme
 Mt. Coronet Remix - Caves
+Alabaster Icelands - Relic Castle B4 and B5 wild battles
 
 Zame
 Relic castle - Relic castle B1 floor
