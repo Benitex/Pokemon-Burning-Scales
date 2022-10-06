@@ -71,8 +71,14 @@ BattleEnv       = CITY
 [081] # Parque das estufas
 BattleEnv       = OUTDOOR
 #-------------------------------
-[084] # Relic Castle B1F
-BattleEnv       = CAVE
+[084] # Câmara do Volcarona
+BattleEnv       = MAGMA
 #-------------------------------
-[085] # Relic Castle B1F
-BattleEnv       = CAVE
+[088] # Relic Castle B4F
+BattleEnv       = CAVESNOW
+#-------------------------------
+[089] # Relic Castle B5F
+BattleEnv       = CAVESNOW
+#-------------------------------
+[090] # Relic Castle B6F
+BattleEnv       = CAVESNOW

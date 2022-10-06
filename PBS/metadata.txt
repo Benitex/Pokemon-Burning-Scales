@@ -54,7 +54,6 @@ SnapEdges = true
 Dungeon = false
 BattleBack = City
 TrainerBattleBGM = Rival Bede GlitchxCity.mp3
-Environment = None
 #-------------------------------
 [005]
 # Rota 4
@@ -472,7 +471,6 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-Environment = Cave
 #-------------------------------
 [053]
 # Teatro Musical
@@ -710,7 +708,6 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-BattleBack = 
 WildBattleBGM = Battle Rival Alder.mp3
 #-------------------------------
 [086]
@@ -738,7 +735,6 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
-Environment = Ice
 #-------------------------------
 [089]
 # Relic Castle B5F
@@ -751,7 +747,6 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
-Environment = Ice
 #-------------------------------
 [090]
 # Relic Castle B6F
@@ -764,7 +759,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-Environment = Ice
+WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
 #-------------------------------
 [091]
 # Caverna dos Zubats
@@ -776,4 +771,3 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-Environment = Cave

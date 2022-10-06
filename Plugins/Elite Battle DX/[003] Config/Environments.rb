@@ -34,6 +34,22 @@ module EnvironmentEBDX
     }, "bubbles" => "bubbleDark"
   }
   #-----------------------------------------------------------------------------
+  CAVESNOW = {
+    "backdrop" => "Snow", "img001" => {
+      :scrolling => true, :speed => 2, :direction => -1,
+      :bitmap => "decor006",
+      :oy => 0, :z => 3, :flat => true, :opacity => 155
+    }, "img002" => {
+      :scrolling => true, :speed => 1, :direction => 1,
+      :bitmap => "decor009",
+      :oy => 0, :z => 3, :flat => true, :opacity => 96
+    }, "img003" => {
+      :scrolling => true, :speed => 0.5, :direction => 1,
+      :bitmap => "fog",
+      :oy => 0, :z => 4, :flat => true
+    }
+  }
+  #-----------------------------------------------------------------------------
   WATER = { "backdrop" => "Water", "sky" => true, "water" => true }
   #-----------------------------------------------------------------------------
   UNDERWATER = {
@@ -252,20 +268,6 @@ module EnvironmentEBDX
         :bitmap => "base001c",
         :oy => 0, :y => 122, :z => 3, :flat => true
       }
-  }
-  #-----------------------------------------------------------------------------
-  SNOW = {
-    "backdrop" => "Snow", "sky" => true, "trees" => {
-      :elements => 9,
-      :x => [150,271,78,288,176,42,118,348,321],
-      :y => [108,117,118,126,126,128,136,136,145],
-      :zoom => [0.44,0.44,0.59,0.59,0.59,0.64,0.85,0.7,1],
-      :mirror => [false,false,true,true,true,false,false,true,false],
-      :colorize => "slight", :bitmap => "treeB"
-    }, "img001" => {
-      :bitmap => "mountainB",
-      :x => 192, :y => 107
-    }
   }
   #-----------------------------------------------------------------------------
   CITY = { "backdrop" => "City" }
