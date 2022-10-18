@@ -235,6 +235,9 @@ Luka S.J.
 Voltseon's Pause Menu
 Voltseon, Golisopod User, ENLS
 
+NPC Battles (NPC vs. NPC)
+hollow_ego
+
 Modern Quest System + UI
 ThatWelshOne_,mej71,derFischae,Marin
 

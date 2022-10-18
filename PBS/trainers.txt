@@ -171,7 +171,7 @@ Pokemon = NIDORANfE,22
 Items = SUPERPOTION
 LoseText = "Não esperava encontrar alguém tão forte..."
 Pokemon = MEDITITE,22
-    Moves = FORCEPALM,HIDDENPOWER,CONFUSION,DETECT
+    Moves = FORCEPALM,ICEPUNCH,CONFUSION,DETECT
 Pokemon = TORKOAL,22
 	Moves = RAPIDSPIN,FLAMEWHEEL,FIRESPIN,CURSE
 Pokemon = PIGNITE,23
@@ -190,27 +190,30 @@ Pokemon = COMBUSKEN,23
 #-------------------------------
 [POKEMONTRAINER_Robert,Robert]
 LoseText = "Tão forte quanto eu imaginava."
-Pokemon = GURDURR,25
-    Moves = SLAM,ROCKSLIDE,LOWKICK,BULKUP
-    AbilityIndex = 0
+Pokemon = HIPPOPOTAS,24
+    Moves = STEALTHROCK,BULLDOZE,YAWN,SLACKOFF
 Pokemon = DRILBUR,24
     Moves = ROCKTOMB,BULLDOZE,METALCLAW,SANDSTORM
+    AbilityIndex = 0
+Pokemon = GURDURR,25
+    Moves = SLAM,ROCKSLIDE,LOWKICK,MACHPUNCH
     AbilityIndex = 1
 Pokemon = KROKOROK,25
     Moves = BITE,BULLDOZE,SANDTOMB,SWAGGER
 #-------------------------------
 [POKEMONTRAINER_Robert,Robert,1]
 LoseText = "Tão forte quanto eu imaginava."
-Pokemon = TIMBURR,25
-    AbilityIndex = 0
+Pokemon = HIPPOPOTAS,24
 Pokemon = DRILBUR,24
     AbilityIndex = 1
+Pokemon = TIMBURR,25
+    AbilityIndex = 0
 Pokemon = KROKOROK,25
 #-------------------------------
 [CHAMPION_Anna,Anna]
 Items = SUPERPOTION
 LoseText = "Não acredito nisso!"
-Pokemon = ABSOLP,25
+Pokemon = ABSOLP,27
     Moves = THUNDERFANG,TAUNT,QUICKATTACK,SWORDSDANCE
     Item = ABSOLITE
 Pokemon = PALPITOAD,25
@@ -225,7 +228,7 @@ Items = POTION
 LoseText = "Não acredito nisso!"
 Pokemon = ABSOLP,25
     Item = ABSOLITE
-Pokemon = TYMPOLE,25
+Pokemon = PALPITOAD,25
 Pokemon = LARVESTA,25
 #-------------------------------
 # Rota 4

@@ -1,0 +1,34 @@
+Name         = NPC Battles (NPC vs. NPC)
+Version      = 1.01
+Website      = https://reliccastle.com/resources/321/
+Credits      = hollow_ego
+#===============================================================================
+# Simulated Battles are pretty mucht the same as regular battles. The only 
+# difference is, that the AI controlls all battlers.
+# Starting a simulated battle is no different from vanilla battles.
+# There is no method for simulated wild battles.
+#===============================================================================
+# The starting method takes the following arguments
+# pbSimulatedTrainerBattle(player,opponent,size0=1,size1=1,canLose=true,outcomeVar=1,fullNames=[false,false])
+#===============================================================================
+# The scripted trainers take the following arguments
+# Scripted_Trainer.new(trainerid,trainername,partyid = 0,endSpeech = nil)
+#===============================================================================
+# All arguments that are noted with a = are optional
+#===============================================================================
+# Examples: 
+# Starting a 1v1 battle
+# players = pbLoadTrainer(:RIVAL1,"Blue")
+# opponents = pbLoadTrainer(:LEADER_Brock,"Brock")
+# pbSimulatedTrainerBattle(players,opponents)
+#===============================================================================
+# Starting a 1v1 double battle
+# players = pbLoadTrainer(:RIVAL1,"Blue")
+# opponents = pbLoadTrainer(:LEADER_Brock,"Brock")
+# pbSimulatedTrainerBattle(players,opponents,2,2)
+#===============================================================================
+# Starting a 2v2 double battle (the players / opponents variables need to be arrays
+# players = [pbLoadTrainer(:RIVAL1,"Blue"),pbLoadTrainer(:CAMPER,"Liam")]
+# opponents = [pbLoadTrainer(:LEADER_Brock,"Brock"),pbLoadTrainer(:Camper,"Jeff")]
+# pbSimulatedTrainerBattle(players,opponents,2,2)
+#===============================================================================

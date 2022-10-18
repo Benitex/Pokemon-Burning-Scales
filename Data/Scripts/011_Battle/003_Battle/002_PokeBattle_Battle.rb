@@ -631,7 +631,7 @@ class PokeBattle_Battle
   end
 
   def pbSetBattled(battler)
-    return if !battler || !@internalBattle
+    return if !battler || !@internalBattle || pbPlayer != $Trainer
     if battler.respond_to?(:opposes?)
       return if battler.opposes?
       pbPlayer.pokedex.register_battled(battler.displaySpecies)
