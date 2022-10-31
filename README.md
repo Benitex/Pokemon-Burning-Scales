@@ -4,7 +4,7 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Pokemon fan game that focuses on a rich story and on the exploration of a small open world full of sidequests. Made with Pokémon Essentials v19.1 and RPG Maker XP.
+Pokemon fan game that focuses on a rich story and on the exploration of a small open world full of sidequests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
 For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 

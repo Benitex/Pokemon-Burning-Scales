@@ -221,13 +221,14 @@ Team Plasma Remix - Plasma intelligence battle
 Abandoned Ship - Aficcionada battle
 
 Vanilluxe Pavilion
-Relic Castle – Relic Castle B3
+Relic Castle – Relic Castle B6
 Po Town - Bikers theme
 Mt. Coronet Remix - Caves
 Alabaster Icelands - Relic Castle B4 and B5 wild battles
+Pokemon G/S/C - Ice Path [Remix 2], "Nevermelt 2" - Team Plasma in the Relic Castle
 
 Zame
-Relic castle - Relic castle B1 floor
+Relic castle - Relic castle B1
 Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
