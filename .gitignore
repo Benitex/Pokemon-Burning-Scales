@@ -1,13 +1,3 @@
-# Data folder
-Data/Actors.rxdata
-Data/Animations.rxdata
-Data/Armors.rxdata
-Data/Enemies.rxdata
-Data/Items.rxdata
-Data/Skills.rxdata
-Data/States.rxdata
-Data/Weapons.rxdata
-
 # Common code editor folders & files
 .vscode/
 *.code-workspace

@@ -12,12 +12,12 @@ WINDOWSKIN = "base.png"
 # E.g. "Surfing" instead of "Water"
 # If missing, the script will use the encounter type names in GameData::EncounterTypes
 USER_DEFINED_NAMES = {
-:Land => "Grass",
-:LandDay => "Grass (day)",
-:LandNight => "Grass (night)",
-:LandMorning => "Grass (morning)",
-:LandAfternoon => "Grass (afternoon)", 
-:LandEvening => "Grass (evening)",
+:Land => "Sand",
+:LandDay => "Sand (day)",
+:LandNight => "Sand (night)",
+:LandMorning => "Sand (morning)",
+:LandAfternoon => "Sand (afternoon)", 
+:LandEvening => "Sand (evening)",
 :Cave => "Cave",
 :CaveDay => "Cave (day)",
 :CaveNight => "Cave (night)",
