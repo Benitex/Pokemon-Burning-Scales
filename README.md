@@ -1,46 +1,47 @@
 # Pokemon Burning Scales
 
-*Read this in other languages: [English](README.md), [Português](README.pt.md).*
+*Read this in other languages: [English](README.md), [Português](Docs/README.pt.md).*
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Pokemon fan game that focuses on a rich story and on the exploration of a small open world full of sidequests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
+Pokemon fan game that focuses on a rich story and the exploration of a small open world full of sidequests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
 For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 
 ## Story
 
-In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her researches about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms.
+In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms.
 
 ## Features
 
-* **A different story.** Perfect for the ones that are tired of defeating gym leaders and the Elite 4.
+* **A different story**, Focused on the exploration of very detailed cities and routes and the story of the people that live on them.
 * **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
-* **Wild pokemon and trainers auto-level scaling**.
-* **A lot of sidequests**. That can generate hours of extra content apart from the main story.
+* **Wild pokemon and trainers automatic level scaling**.
+* **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
-* **A difficulty system**, with three different options based pokémon in your party levels.
-* **Pokémon walking on the routes**.
-* **Different pokemon depending on the time of the day**.
-* **A few pokemon with altered forms**.
+* **A difficulty system**, with three different options, and based on the levels of the pokemon in your party.
+* **Pokemon walking on the routes**.
+* **Different pokemon on routes depending on the time of the day**.
+* **A handful of pokemon with altered forms**.
 
 ### Quality of life
 
+* **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Perfect IVs mode** (optional).
-* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or by using cheaper vitamins.
+* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or using cheaper vitamins.
 * **Auto saving** (optional).
 
 ### Plugin features
 
-* **Quests System**. That shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
-* **A system that shows available pokemon in the route.** And which were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
-* **Nuzlocke and randomizer modes**. Using [Elite Battle DX](https://luka-sj.com/res/ebdx).
+* **Quests System**, which shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
+* **A system that shows available pokemon in the route**, and which ones were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
+* **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 
 ### Balance Changes
 
-* **Ice Type Buff**, ice type pokemon resist to ice, water, flying and ground moves. Hail increases ice types defense by 50%.
-* **Bug Type Buff**, bug type pokemon resist fairy, psychic and dark type moves, in adition to its original resistances. Bug type moves are supereffective against fairy types and neutral against fighting types.
+* **Ice Type Buff**, ice-type pokemon resist ice, water, flying, and ground moves. Hail increases ice-types defense by 50%.
+* **Bug Type Buff**, bug type pokemon resist fairy, psychic and dark type moves, in addition to its original resistances. Bug-type moves are supereffective against fairy types and neutral against fighting types.
 
 ## Screenshots
 
@@ -55,4 +56,4 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 
 ## Credits
 
-You can read the detailed credits [here](other/Créditos.md).
+You can read the detailed credits [here](Docs/Créditos.md).

@@ -4,7 +4,11 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que já viajou pelo mundo. No momento está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, pelo menos até um pokemon misterioso começar a causar caos na parte sul de Unova. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosos.
+Fan game de pokemon com foco em uma rica história e na exploração de um pequeno mundo aberto cheio de sidequests. Feito com [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 e RPG Maker XP.
+
+## História
+
+Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pelo mundo pokemon. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, até que um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas.
 
 ## Features
 
@@ -20,6 +24,7 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 
 ### Qualidade de vida (QoL)
 
+* **Tabela com a localização dos pokemon**, você pode baixar a tabela com a forma de conseguir cada pokemon [nesse link](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Modo de IVs perfeitas** (opcional).
 * **Grind de EVs facilitado**, existe a opção de maximizar EVs ao derrotar determinados treinadores, também é possível aumentar com vitaminas mais baratas.
 * **Salvamento automático** (opcional).
@@ -49,4 +54,4 @@ Em Pokemon Burning Scales você se coloca no lugar de Nathan, um treinador que j
 
 ## Creditos
 
-Veja os créditos detalhados [aqui](other/Créditos.md).
+Veja os créditos detalhados [aqui](Créditos.md).
