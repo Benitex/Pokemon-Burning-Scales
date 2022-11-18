@@ -116,7 +116,7 @@ Route 225 DP – Intro theme
 Gladion – Anna's Theme
 Boutique XY – Nimbasa buildings
 Professor Sycamore's Theme – Desert Resort Entrance
-Relic Castle – Relic Castle B2
+Relic Castle – Relic Castle Entrance, B1F, B2F
 Lookers Theme – Search for the girl questline
 Unwavering Emotions - Storyteller theme
 Dreamyard - Castelia Greenhouse
@@ -129,14 +129,14 @@ Team Plasma Remix - Plasma intelligence battle
 Abandoned Ship - Aficcionada battle
 
 Vanilluxe Pavilion
-Relic Castle – Relic Castle B6
+Relic Castle – Relic Castle B7F
 Po Town - Bikers theme
 Mt. Coronet Remix - Caves
-Alabaster Icelands - Relic Castle B4 and B5 wild battles
+Alabaster Icelands - Relic Castle B5F, B6F, B7F wild battles
 Pokemon G/S/C - Ice Path Remix 2, "Nevermelt 2" - Team Plasma in the Relic Castle
 
 Zame
-Relic castle - Relic castle B1
+Relic castle - Relic castle B3F, B4F
 Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
