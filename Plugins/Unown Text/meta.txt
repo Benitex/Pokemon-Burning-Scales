@@ -1,0 +1,14 @@
+﻿Name      = Unown Text
+Version   = 1.0.1
+Website   = https://punishedfelix.com/project
+Credits   = PunishedFelix
+#=====================================================================
+# Change log
+#=====================================================================
+# 1.0.1
+# - Added Unown Mode.
+# 1.0.0:
+# - Initial release.
+#   Supports drawing windows of text as Unown characters (A-Z, !, ?) 
+#   with alignment (left, right, center) and transparent/background.
+#=====================================================================

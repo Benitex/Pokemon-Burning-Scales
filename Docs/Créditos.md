@@ -251,6 +251,9 @@ ThatWelshOne_
 Encounter List UI (v19)
 ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
 
+Unown Text
+PunishedFelix
+
 DiegoWT's Starter Selection
 DiegoWT
 
