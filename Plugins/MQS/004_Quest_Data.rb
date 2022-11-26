@@ -378,4 +378,14 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest29 = {
+    :ID => "29",
+    :Name => "Preso na Caverna dos Zubats",
+    :QuestGiver => "nil",
+    :Stage1 => "Encontre uma saída",
+    :Location1 => "Caverna dos Zubats",
+    :QuestDescription => "Encontrei uma caverna no Desert Resort e acabei preso dentro dela, pra piorar, o lugar é cheio de zubats.",
+    :RewardString => "nil"
+  }
+
 end

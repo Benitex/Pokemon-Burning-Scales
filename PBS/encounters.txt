@@ -151,3 +151,10 @@ Cave,5
     15,SWINUB,20
     15,BERGMITE,20
     10,CRYOGONAL,20
+#-------------------------------
+[091] # Caverna dos Zubats
+Cave,5
+    70,ZUBAT,20
+    15,WOOBAT,20
+    10,GLIGAR,20
+    5,NOIBAT,20

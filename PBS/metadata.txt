@@ -102,7 +102,7 @@ TrainerBattleBGM = Hops Battle Theme Remix.mp3
 MapSize = 2,11
 #-------------------------------
 [008]
-# Relic Castle
+# Relic Castle B1F
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -119,7 +119,7 @@ WildBattleBGM = Battle Rival Alder.mp3
 MapPosition = 0,15,4
 #-------------------------------
 [010]
-# Teatro
+# Relic Castle
 Outdoor = false
 ShowArea = true
 Bicycle = false
@@ -698,7 +698,7 @@ Dungeon = false
 WildBattleBGM = Snowbelle City Remix XY.mp3
 #-------------------------------
 [085]
-# Relic Castle B1F
+# Relic Castle B2F
 Outdoor = false
 ShowArea = false
 Bicycle = true
@@ -767,7 +767,7 @@ Outdoor = false
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-DarkMap = false
+DarkMap = true
 SafariMap = false
 SnapEdges = false
 Dungeon = false
