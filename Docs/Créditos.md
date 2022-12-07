@@ -197,6 +197,9 @@ Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
 Deplode
 Pokemon Relic Song with violins - Meloetta encounter
 
+PokeRemixStudio
+Dark Cave Remix 2
+
 Vanitas
 Lavender town ochestral arrangementx - Lavender town ochestral arrangement
 
