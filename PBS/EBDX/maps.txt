@@ -82,3 +82,9 @@ BattleEnv       = CAVESNOW
 #-------------------------------
 [090] # Relic Castle B6F
 BattleEnv       = CAVESNOW
+#-------------------------------
+[091] # Caverna dos Zubats
+BattleEnv       = CAVE
+#-------------------------------
+[092] # Caverna dos Zubats 2F
+BattleEnv       = CAVE

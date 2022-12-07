@@ -444,21 +444,15 @@ Dungeon = false
 #-------------------------------
 [049]
 # Campo de baseball
-Bicycle = true
 MapPosition = 0,15,4
 #-------------------------------
 [050]
 # Campo de futebol
-Bicycle = true
 MapPosition = 0,15,4
-DarkMap = true
-BattleBack = CaveDark
 #-------------------------------
 [051]
 # Quadra de basquete
-Bicycle = true
 MapPosition = 0,15,4
-Dungeon = true
 #-------------------------------
 [052]
 # Caverna Ultra Abismal
