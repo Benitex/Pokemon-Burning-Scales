@@ -77,6 +77,39 @@ end
 #===============================================================================
 #
 #===============================================================================
+class WonderTradePC
+  def shouldShow?
+    return true;
+  end
+
+  def name
+    return _INTL("Wonder Trade PC")
+  end
+
+  def access
+    pbMessage(_INTL("\\se[PC access]Accessed Wonder Trade PC.",$Trainer.name))
+    if pbConfirmMessage(_INTL("Would you like to exchange 500$ for a random pokémon?"))
+      if $Trainer.money >= 500
+        $Trainer.money -= 500
+        pkmn = pbChooseRandomPokemon(
+          nil,
+          "suggested"
+        )
+
+        level = pbBalancedLevel($Trainer.party) - 2
+        level = level.clamp(1,GameData::GrowthRate.max_level)
+
+        pbAddPokemon(pkmn,level)
+      else
+        pbMessage(_INTL("You don't have enough money."))
+      end
+    end
+  end
+end
+
+#===============================================================================
+#
+#===============================================================================
 module PokemonPCList
   @@pclist = []
 
@@ -257,3 +290,4 @@ end
 #===============================================================================
 PokemonPCList.registerPC(StorageSystemPC.new)
 PokemonPCList.registerPC(TrainerPC.new)
+PokemonPCList.registerPC(WonderTradePC.new)
