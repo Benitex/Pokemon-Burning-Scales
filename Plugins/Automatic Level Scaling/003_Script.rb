@@ -6,6 +6,7 @@
 class AutomaticLevelScaling
   @@selectedDifficulty = Difficulty.new(id: 0)
   @@settings = {
+    temporary: false,
     automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS,
     first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL,
     second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL,
@@ -21,44 +22,51 @@ class AutomaticLevelScaling
     end
   end
 
-  def self.setSettings(update_moves: true, automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS, proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING, first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL, second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL, only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER, only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER)
-    @@settings[:update_moves] = update_moves
-    @@settings[:first_evolution_level] = first_evolution_level
-    @@settings[:second_evolution_level] = second_evolution_level
-    @@settings[:proportional_scaling] = proportional_scaling
-    @@settings[:automatic_evolutions] = automatic_evolutions
-    @@settings[:only_scale_if_higher] = only_scale_if_higher
-    @@settings[:only_scale_if_lower] = only_scale_if_lower
+  def self.getScaledLevel
+    level = pbBalancedLevel($Trainer.party) - 2 # pbBalancedLevel increses level by 2 to challenge the player
+
+    # Difficulty modifiers
+    level += @@selectedDifficulty.fixed_increase
+    if @@selectedDifficulty.random_increase < 0
+      level += rand(@@selectedDifficulty.random_increase..0)
+    elsif @@selectedDifficulty.random_increase > 0
+      level += rand(@@selectedDifficulty.random_increase)
+    end
+
+    level = level.clamp(1, GameData::GrowthRate.max_level)
+
+    return level
   end
 
   def self.setNewLevel(pokemon, difference_from_average = 0)
-    new_level = pbBalancedLevel($Trainer.party) - 2 # pbBalancedLevel increses level by 2 to challenge the player
-
     # Checks for only_scale_if_higher and only_scale_if_lower
     higher_level_block = @@settings[:only_scale_if_higher] && pokemon.level > new_level
     lower_level_block = @@settings[:only_scale_if_lower] && pokemon.level < new_level
     if !higher_level_block && !lower_level_block
-
-      # Difficulty modifiers
-      new_level += @@selectedDifficulty.fixed_increase
-      if @@selectedDifficulty.random_increase < 0
-        new_level += rand(@@selectedDifficulty.random_increase..0)
-      elsif @@selectedDifficulty.random_increase > 0
-        new_level += rand(@@selectedDifficulty.random_increase)
-      end
+      pokemon.level = AutomaticLevelScaling.getScaledLevel
 
       # Proportional scaling
-      new_level += difference_from_average if @@settings[:proportional_scaling]
-
-      new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
-      pokemon.level = new_level
+      pokemon.level += difference_from_average if @@settings[:proportional_scaling]
 
       # Evolution part
       AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
 
       pokemon.calc_stats
       pokemon.reset_moves if @@settings[:update_moves]
+    end
 
+    # Settings reset
+    if @@settings[:temporary]
+      @@settings = {
+        temporary: false,
+        automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS,
+        first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL,
+        second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL,
+        proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING,
+        only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER,
+        only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER,
+        update_moves: true
+      }
     end
   end
 
@@ -114,4 +122,48 @@ class AutomaticLevelScaling
     end
   end
 
+  def self.setTemporarySetting(setting, value)
+    # Parameters validation
+    case setting
+    when "firstEvolutionLevel", "secondEvolutionLevel"
+      if !value.is_a?(Integer)
+        raise _INTL("\"{1}\" requires an integer value, but {2} was provided.",setting,value)
+      end
+    when "updateMoves", "automaticEvolutions", "proportionalScaling", "onlyScaleIfHigher", "onlyScaleIfLower"
+      if !(value.is_a?(FalseClass) || value.is_a?(TrueClass))
+        raise _INTL("\"{1}\" requires a boolean value, but {2} was provided.",setting,value)
+      end
+    else
+      raise _INTL("\"{1}\" is not a defined setting name.",setting)
+    end
+
+    @@settings[:temporary] = true
+    case setting
+    when "updateMoves"
+      @@settings[:update_moves] = value
+    when "automaticEvolutions"
+      @@settings[:automatic_evolutions] = value
+    when "proportionalScaling"
+      @@settings[:proportional_scaling] = value
+    when "firstEvolutionLevel"
+      @@settings[:first_evolution_level] = value
+    when "secondEvolutionLevel"
+      @@settings[:second_evolution_level] = value
+    when "onlyScaleIfHigher"
+      @@settings[:only_scale_if_higher] = value
+    when "onlyScaleIfLower"
+      @@settings[:only_scale_if_lower] = value
+    end
+  end
+
+  def self.setSettings(temporary: false, update_moves: true, automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS, proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING, first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL, second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL, only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER, only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER)
+    @@settings[:temporary] = temporary
+    @@settings[:update_moves] = update_moves
+    @@settings[:first_evolution_level] = first_evolution_level
+    @@settings[:second_evolution_level] = second_evolution_level
+    @@settings[:proportional_scaling] = proportional_scaling
+    @@settings[:automatic_evolutions] = automatic_evolutions
+    @@settings[:only_scale_if_higher] = only_scale_if_higher
+    @@settings[:only_scale_if_lower] = only_scale_if_lower
+  end
 end

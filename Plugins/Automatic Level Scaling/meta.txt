@@ -1,19 +1,20 @@
 Name         = Automatic Level Scaling
-Version      = 1.3.2
+Version      = 1.4.0
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
 #===============================================================================
 # Instalation
 #===============================================================================
-# To install this plugin, extract the zip file into your game project main folder.
-# Then, you should check if you're already using variables 99 and 100 in your game. 
+# To install this plugin, extract the zip file into your game root folder.
+# Then, you should check if you"re already using variables 99 and 100 in your game. 
 # These are the variables that control trainer and wild pokemon difficulty, respectively.
 # 
 # If you are already using these variables, go to the Settings.rb script and change 
 # the value to whichever variable you want to use to change the difficulty.
 # 
-# In Settings.rb, you can also create other difficulty options and disable automatic 
-# evolutions and updated movesets.
+# In "Settings.rb", you can also change some options, create other difficulty options, 
+# and enable more complex conditions for level scaling. This is everything you need to do
+# to install the script, but you should also activate it by selecting a difficulty.
 # 
 #===============================================================================
 # How to use
@@ -22,43 +23,70 @@ Credits      = Benitex, Joltik, Umbreon
 # 
 # In order to change the difficulty, you should use an event to change the variable
 # value according to the pre-defined difficulties. If you want to disable automatic 
-# level scaling, just set the variable value to 0. By default, all variable values are 0.
+# level scaling, just set the variable value to 0. By default, all variable values are 0,
+# so levels are not balanced unless you set these variables to one of the difficulties ids.
+# 
+# Selecting a difficulty:
+# 
+# In order to change the difficulty, you should use an event to change the variable
+# value according to the pre-defined difficulties. If you want to disable automatic 
+# level scaling, just set the variable value to 0. By default, all variable values are 0,
+# so levels are not balanced unless you set these variables to one of the difficulties ids.
+# 
+# Setting up gift pokemon, trades, fixed encounters:
+# 
+# Whenever you find a field where you should insert a pokemon level (except for PBS),
+# you can use the function "AutomaticLevelScaling.getScaledLevel" and the level will be 
+# automatically defined according to the currently selected difficulty.
 # 
 # Creating new difficulties:
 # 
 # There are three pre-defined difficulties, but you can add your own new ones by using 
 # the function "Difficulty.new(id, random_increase, fixed_increase)"
-#   "id" is the value stored in TRAINERVARIABLE or WILDVARIABLE
-#   "random_increase" is a random value that increases the pokemon level
-#   "fixed_increase" is a pre-defined value that increases the pokemon level
+#   "id" is the value that you use to select the difficulty in "TRAINER_VARIABLE" or "WILD_VARIABLE"
+#   "fixed_increase" is a pre-defined value that increases the pokemon level (optional)
+#   "random_increase" is a randomly selected value between 0 and the value provided (optional)
 # Note that these variables can also store negative values. 
-# Setting them to 0 would have the same effect of calling "pbBalancedLevel($Trainer.party)" 
+# Setting them to 0 would have the same effect of calling "pbBalancedLevel($player.party)" 
 # and removing two from the avarage.
 # 
-# # Changing settings for a specific battle:
+# Changing settings for a specific battle:
 # 
-# You can use the following function to change some settings before a specific battle.
-# All arguments are optional and can be positioned in any order.
-# Don't forget to change them back to the original settings after the battle.
+# You can use the function "AutomaticLevelScaling.setTemporarySetting(setting, value)" to apply a
+# temporary change to a setting for a specific battle, all changes will be reverted after the battle.
+# This is a new way to change settings in v1.4, based on Essentials "setBattleRule" function.
+# You can simply insert the setting name in the first parameter and the value defined in the second,
+# you should call it multiple times if you want to apply multiple settings. You can still use the older
+# "AutomaticLevelScaling.setSettings" function if you prefer though.
+# 
+# "AutomaticLevelScaling.setSettings" does not automatically revert changes after the next battle and
+# they will be permanent until the game is closed or new changes are made. You can use the "temporary"
+# parameter to revert the changes after the battle. If you don"t use it, don"t forget to change them
+# back to the original settings after the battle or series of battles. All arguments are optional and
+# can be positioned in any order, use a value of the type indicated after the parameter name.
+# 
 # AutomaticLevelScaling.setSettings(
-#   update_moves:,
-#   automatic_evolutions:,
-#   proportional_scaling:,
-#   only_scale_if_higher:,
-#   only_scale_if_lower:,
-#   first_evolution_level:,
-#   second_evolution_level:
+#   update_moves: boolean,
+#   automatic_evolutions: boolean,
+#   proportional_scaling: boolean,
+#   only_scale_if_higher: boolean,
+#   only_scale_if_lower: boolean,
+#   first_evolution_level: Integer,
+#   second_evolution_level: Integer
 # )
-#   "update_moves" can be set to false if you don't want moves to be updated after setting the new level and stage
-#   "proportional_scaling" can be set to true if you want to scale levels but take original level differences into consideration
-#   "only_scale_if_higher" can be set to true if you want to use the original level when a player's pokemon level is lower than the original level
-#   "only_scale_if_lower" can be set to true if you want to use the original level when a player's pokemon level is higher than the original level
-#   "automatic_evolutions" can be set to false if you don't pokemon to automatically evolve if possible
-#   "first_evolution_level" is the level required for pokemon that don't evolve by level to get to the mid form
-#   "second_evolution_level" is the level required for pokemon that don't evolve by level to get to the final form
+#
+#   Setting                 Description
+#   "updateMoves"           Set to false if you want to use the pre-moves defined in the PBS.
+#   "proportionalScaling"   When true, Takes original level differences from the PBS into consideration when scaling levels.
+#   "automaticEvolutions"   Set to false if you don't want pokemon automatically evolving.
+#   "firstEvolutionLevel"   Select the level required for pokemon that don't evolve by level up to get to their mid-form.
+#   "secondEvolutionLevel"  Select the level required for pokemon that don't evolve by level up to get to their final form.
+#   "onlyScaleIfHigher"     When true, the script will only scale levels if the player is over-leveled.
+#   "onlyScaleIfLower"      When true, The script will only scale levels if the player is under-leveled.
+#   "temporary"             Only in `setSettings`. Restores all settings to their default values after the next battle.
 #===============================================================================
 # Detailed credits
 #===============================================================================
-# The one script I was inspired by the most is Joltik's Advanced Pokemon Level Balancing + evolution, 
+# The one script I was inspired by the most is Joltik"s Advanced Pokemon Level Balancing + evolution, 
 # but the default Essentials random dungeon script was also important to make this script.
 #===============================================================================
