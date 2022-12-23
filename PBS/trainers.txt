@@ -138,10 +138,12 @@ Pokemon = NIDOKING,13
 Pokemon = CROBAT,13
     Item = HEAVYDUTYBOOTS
     AbilityIndex = 1
-Pokemon = WEEZING_1,12
+Pokemon = WEEZING,12
+    Form = 1
     Item = BLACKSLUDGE
     AbilityIndex = 0
-Pokemon = MUK_1,13
+Pokemon = MUK,13
+    Form = 1
     Item = ASSAULTVEST
     AbilityIndex = 2
 Pokemon = GENGAR,13
@@ -211,7 +213,8 @@ Pokemon = TROPIUS,13
 #-------------------------------
 [LEADER_Brycen,Brycen]
 LoseText = ""
-Pokemon = NINETALES_1,12
+Pokemon = NINETALES,12
+    Form = 1
     Item = LIGHTCLAY
     AbilityIndex = 1
 Pokemon = VANILLISH,12
