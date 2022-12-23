@@ -83,6 +83,191 @@ Pokemon = ZOROARK,21
 Pokemon = SAMUROTT,20
 Pokemon = COFAGRIGUS,21
 #-------------------------------
+# Battle Subway
+#-------------------------------
+[LEADER_Cheren,Cheren]
+LoseText = ""
+Pokemon = LIEPARD,13
+    Item = CHOICEBAND
+    AbilityIndex = 0
+Pokemon = GIGALITH,12
+    Item = LEFTOVERS
+    AbilityIndex = 0
+Pokemon = PIDOVE,13
+    Item = SCOPELENS
+    AbilityIndex = 1
+Pokemon = PANPOUR,13
+    Item = LIFEORB
+    AbilityIndex = 1
+Pokemon = PANSAGE,13
+    Item = LIFEORB
+    AbilityIndex = 1
+Pokemon = PANSEAR,13
+    Item = LIFEORB
+    AbilityIndex = 1
+#-------------------------------
+[LEADER_Lenora,Lenora]
+LoseText = ""
+Pokemon = STOUTLAND,12
+    Item = CHOICEBAND
+    AbilityIndex = 2
+Pokemon = INDEEDEE,12
+    Item = CHOICESPECS
+    AbilityIndex = 1
+Pokemon = LOPUNNY,12
+    Item = LOPUNNITE
+    AbilityIndex = 2
+Pokemon = WATCHOG,13
+    Item = LIFEORB
+    AbilityIndex = 2
+Pokemon = DITTO,13
+    Item = CHOICESCARF
+    AbilityIndex = 1
+Pokemon = BRAVIARY,12
+    Item = LEFTOVERS
+    AbilityIndex = 2
+#-------------------------------
+[LEADER_Roxie,Roxie]
+LoseText = ""
+Pokemon = WHIRLIPEDE,13
+    Item = FOCUSSASH
+    AbilityIndex = 2
+Pokemon = NIDOKING,13
+    Item = LIFEORB
+    AbilityIndex = 2
+Pokemon = CROBAT,13
+    Item = HEAVYDUTYBOOTS
+    AbilityIndex = 1
+Pokemon = WEEZING_1,12
+    Item = BLACKSLUDGE
+    AbilityIndex = 0
+Pokemon = MUK_1,13
+    Item = ASSAULTVEST
+    AbilityIndex = 2
+Pokemon = GENGAR,13
+    Item = GENGARITE
+#-------------------------------
+[LEADER_Burgh,Burgh]
+LoseText = ""
+Pokemon = LEAVANNY,13
+    Item = FOCUSSASH
+    AbilityIndex = 0
+Pokemon = DWEBBLE,12
+    Item = HEAVYDUTYBOOTS
+    AbilityIndex = 0
+Pokemon = SHELMET,13
+    Item = THROATSPRAY
+    AbilityIndex = 1
+Pokemon = KARRABLAST,13
+    Item = LEFTOVERS
+    AbilityIndex = 2
+Pokemon = SCIZOR,13
+    Item = SCIZORITE
+    AbilityIndex = 0
+Pokemon = VOLCARONA,13
+    Item = HEAVYDUTYBOOTS
+    AbilityIndex = 0
+#-------------------------------
+[LEADER_Clay,Clay]
+LoseText = ""
+Pokemon = HIPPOWDON,12
+    Item = LEFTOVERS
+Pokemon = KROKOROK,12
+    Item = CHOICESCARF
+    AbilityIndex = 1
+Pokemon = CAMERUPT,12
+    Item = LEFTOVERS
+    AbilityIndex = 1
+Pokemon = SANDSLASH,13
+    Item = LEFTOVERS
+    AbilityIndex = 1
+Pokemon = STEELIX,13
+    Item = STEELIXITE
+    AbilityIndex = 1
+Pokemon = EXCADRILL,13
+    Item = LEFTOVERS
+    AbilityIndex = 0
+#-------------------------------
+[LEADER_Skyla,Skyla]
+LoseText = ""
+Pokemon = SWOOBAT,12
+    Item = SALACBERRY
+    AbilityIndex = 2
+Pokemon = SKARMORY,13
+    Item = ROCKYHELMET
+    AbilityIndex = 1
+Pokemon = SIGILYPH,13
+    Item = LIFEORB
+    AbilityIndex = 1
+Pokemon = TALONFLAME,13
+    Item = HEAVYDUTYBOOTS
+    AbilityIndex = 1
+Pokemon = SWANNA,13
+    Item = LIFEORB
+    AbilityIndex = 2
+Pokemon = TROPIUS,13
+    Item = SITRUSBERRY
+    AbilityIndex = 2
+#-------------------------------
+[LEADER_Brycen,Brycen]
+LoseText = ""
+Pokemon = NINETALES_1,12
+    Item = LIGHTCLAY
+    AbilityIndex = 1
+Pokemon = VANILLISH,12
+    Item = CHOICESPECS
+    AbilityIndex = 0
+Pokemon = CRYOGONAL,13
+    Item = LEFTOVERS
+Pokemon = GLALIE,13
+    Item = GLALITITE
+    AbilityIndex = 1
+Pokemon = MAMOSWINE,13
+    Item = LIFEORB
+    AbilityIndex = 2
+Pokemon = BEARTIC,13
+    Item = LIFEORB
+    AbilityIndex = 1
+#-------------------------------
+[LEADER_Drayden,Drayden]
+LoseText = ""
+Pokemon = DRUDDIGON,12
+    Item = ROCKYHELMET
+    AbilityIndex = 0
+Pokemon = DRAGAPULT,12
+    Item = CHOICESPECS
+    AbilityIndex = 1
+Pokemon = HYDREIGON,12
+    Item = CHOICESPECS
+Pokemon = FLYGON,13
+    Item = CHOICESCARF
+Pokemon = ALTARIA,13
+    Item = ALTARIANITE
+Pokemon = HAXORUS,13
+    Item = LUMBERRY
+    AbilityIndex = 1
+#-------------------------------
+[LEADER_Marlon,Marlon]
+LoseText = ""
+Pokemon = WAILORD,12
+    Item = LEFTOVERS
+    AbilityIndex = 2
+Pokemon = CARRACOSTA,13
+    Item = LEFTOVERS
+    AbilityIndex = 0
+Pokemon = SLOWBRO,13
+    Item = SLOWBRONITE
+    AbilityIndex = 2
+Pokemon = JELLICENT,13
+    Item = LEFTOVERS
+    AbilityIndex = 0
+Pokemon = TOXAPEX,12
+    Item = ROCKYHELMET
+    AbilityIndex = 2
+Pokemon = ALOMOMOLA,12
+    Item = ROCKYHELMET
+    AbilityIndex = 2
+#-------------------------------
 # Faculdade de Nimbasa de Filosofia
 #-------------------------------
 [GENTLEMAN,Diretor da FNF]
