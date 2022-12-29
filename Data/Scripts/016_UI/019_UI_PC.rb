@@ -79,7 +79,7 @@ end
 #===============================================================================
 class WonderTradePC
   def shouldShow?
-    return true;
+    return true
   end
 
   def name
@@ -91,10 +91,7 @@ class WonderTradePC
     if pbConfirmMessage(_INTL("Would you like to exchange 500$ for a random pokémon?"))
       if $Trainer.money >= 500
         $Trainer.money -= 500
-        pkmn = pbChooseRandomPokemon(
-          nil,
-          "suggested"
-        )
+        pkmn = pbChooseRandomPokemon(nil, "suggested")
 
         level = pbBalancedLevel($Trainer.party) - 2
         level = level.clamp(1,GameData::GrowthRate.max_level)

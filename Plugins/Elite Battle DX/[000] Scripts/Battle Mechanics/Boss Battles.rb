@@ -138,7 +138,7 @@ module EliteBattle
   #-----------------------------------------------------------------------------
   # 2v1 boss battle
   #-----------------------------------------------------------------------------
-  def self.bossBattle(species, level, partysize = 2, cancatch = true, options = {})
+  def self.bossBattle(species, level, partysize = 2, cancatch = false, options = {})
     data = {
       :species => randomizeSpecies(species, true),
       :level => level,

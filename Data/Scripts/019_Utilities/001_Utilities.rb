@@ -595,3 +595,54 @@ def pbScreenCapture
   Graphics.screenshot(capturefile)
   pbSEPlay("Pkmn exp full") if FileTest.audio_exist?("Audio/SE/Pkmn exp full")
 end
+
+# Toca o cry de um pokemon selvagem e inicia uma batalha.
+def pbStaticPokemonBattle(species, canRun = true, canLose = false)
+  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false) # desabilita a evolução automática momentaneamente
+  Pokemon.play_cry(species)
+  pbWildBattle(species, 1, 1, canRun, canLose)
+end
+
+# Toca o cry de um pokemon selvagem e inicia uma batalha no modo boss do EBDX.
+def pbStaticBossBattle(species, partySize = 6, canCatch = true)
+  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false) # desabilita a evolução automática momentaneamente
+  Pokemon.play_cry(species)
+  EliteBattle.bossBattle(
+    species,
+    AutomaticLevelScaling.getScaledLevel,
+    partySize,
+    canCatch
+  )
+end
+
+# Ativa o efeito do HM Flash.
+def activateFlash
+  darkness = $PokemonTemp.darknessSprite
+  $PokemonGlobal.flashUsed = true
+  radiusDiff = 8*20/Graphics.frame_rate
+  while darkness.radius < darkness.radiusMax
+    Graphics.update
+    Input.update
+    pbUpdateSceneMap
+    darkness.radius += radiusDiff
+    darkness.radius = darkness.radiusMax if darkness.radius > darkness.radiusMax
+  end
+end
+
+# Retorna true caso o último pokemon selvagem enfrentado tenha sido capturado ou derrotado.
+def wonBattle?(outcomeVar = 1)
+  # Resultados possíveis:
+  # 0 - Undecided or aborted.
+  # 1 - Player won (the wild Pokémon fainted).
+  # 2 - Player lost.
+  # 3 - Player or wild Pokémon ran from battle.
+  # 4 - Wild Pokémon was caught.
+  # 5 - Draw.
+  # Capturar ou derrotar o pokemon é considerado vitória.
+  return $game_variables[outcomeVar] == 1 || $game_variables[outcomeVar] == 4
+end
+
+# Adiciona um pokemon à party a partir do nível da dificuldade selecionada
+def pbAddScaledPokemon(species)
+  pbAddPokemon(species, AutomaticLevelScaling.getScaledLevel)
+end
