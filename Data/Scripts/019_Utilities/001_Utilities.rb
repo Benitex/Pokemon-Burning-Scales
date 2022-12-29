@@ -646,3 +646,28 @@ end
 def pbAddScaledPokemon(species)
   pbAddPokemon(species, AutomaticLevelScaling.getScaledLevel)
 end
+
+def getRandomGymLeader(exclude = {})
+  gymLeaders = {
+    :LEADER_Cheren => "Cheren",
+    :LEADER_Lenora => "Lenora",
+    :LEADER_Roxie => "Roxie",
+    :LEADER_Burgh => "Burgh",
+    :LEADER_Clay => "Clay",
+    :LEADER_Skyla => "Skyla",
+    :LEADER_Brycen => "Brycen",
+    :LEADER_Drayden => "Drayden",
+    :LEADER_Marlon => "Marlon"
+  }
+
+  exclude.each { |key, value|
+    gymLeaders.delete(key)
+  }
+
+  return 0 if gymLeaders.length == 0
+  selectedLeader = rand(gymLeaders.length)
+  return [
+    gymLeaders.keys[selectedLeader],  # Trainer class
+    gymLeaders.values[selectedLeader] # Trainer name
+  ]
+end
