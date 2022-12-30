@@ -104,8 +104,6 @@ module EliteBattle
     randomized = {
       :TRAINERS => proc{ next EliteBattle.randomizeTrainers },
       :ENCOUNTERS => proc{ next EliteBattle.randomizeEncounters },
-      :STATIC => proc{ next EliteBattle.randomizeStatic },
-      :GIFTS => proc{ next EliteBattle.randomizeStatic },
       :ITEMS => proc{ next EliteBattle.randomizeItems }
     }
     # applies randomized data for specified rule sets
@@ -151,13 +149,11 @@ module EliteBattle
   #-----------------------------------------------------------------------------
   def self.randomizerSelection
     # list of all possible rules
-    modifiers = [:TRAINERS, :ENCOUNTERS, :STATIC, :GIFTS, :ITEMS]
+    modifiers = [:TRAINERS, :ENCOUNTERS, :ITEMS]
     # list of rule descriptions
     desc = [
       _INTL("Randomize Trainer parties"),
       _INTL("Randomize Wild encounters"),
-      _INTL("Randomize Static encounters"),
-      _INTL("Randomize Gifted Pokémon"),
       _INTL("Randomize Items")
     ]
     # default
@@ -229,9 +225,6 @@ def randomizeSpecies(species, static = false, gift = false)
       return (pokemon.nil? ? species : pokemon) if species == ent
     end
   end
-  # randomizes static encounters
-  species = EliteBattle.getRandomizedData(species, :STATIC, species) if static
-  species = EliteBattle.getRandomizedData(species, :GIFTS, species) if gift
   if !pokemon.nil?
     pokemon.species = species
     pokemon.calc_stats
