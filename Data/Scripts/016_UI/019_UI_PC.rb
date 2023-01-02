@@ -107,6 +107,45 @@ end
 #===============================================================================
 #
 #===============================================================================
+
+class UpdatesPC
+  def shouldShow?
+    return true if $game_variables[75] < 60
+    return false
+  end
+  
+  def name
+    return _INTL("Updates PC")
+  end
+
+  def access
+    if $game_variables[75] < 60
+      # Variáveis modificadas
+      $game_variables[49] = 0
+      $game_variables[99] = $game_switches[100]
+
+      # Switches modificadas
+      $game_switches[54] = false
+      $game_switches[62] = false
+      $game_switches[70] = false
+      $game_switches[79] = false
+      $game_switches[99] = false
+      $game_switches[100] = false
+
+      # Bug na quest do vendedor de produtos
+      if $game_switches[75] && $game_variables[28] < 4
+        failQuest(:Quest1)
+      end
+
+      $game_variables[75] = 60
+    end
+    pbMessage(_INTL("O save foi atualizado com sucesso."))  
+  end
+end
+
+#===============================================================================
+#
+#===============================================================================
 module PokemonPCList
   @@pclist = []
 
@@ -288,3 +327,4 @@ end
 PokemonPCList.registerPC(StorageSystemPC.new)
 PokemonPCList.registerPC(TrainerPC.new)
 PokemonPCList.registerPC(WonderTradePC.new)
+PokemonPCList.registerPC(UpdatesPC.new)
