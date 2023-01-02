@@ -27,7 +27,6 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Tabela com a localização dos pokemon**, você pode baixar a tabela com a forma de conseguir cada pokemon [nesse link](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Modo de IVs perfeitas** (opcional).
 * **Grind de EVs facilitado**, existe a opção de maximizar EVs ao derrotar determinados treinadores, também é possível aumentar com vitaminas mais baratas.
-* **Salvamento automático** (opcional).
 
 ### Features por plugins
 
@@ -35,6 +34,7 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Sistema que mostra pokemon disponíveis na rota** e quais deles já foram capturados ou vistos. Usando [Encounter List UI](https://reliccastle.com/resources/658/).
 * **Nuzlocke e randomizer**. Usando [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio. Usando [Random Pokemon Selector](https://reliccastle.com/resources/693/).
+* **Múltiplos saves e salvamento automático**, usando [Auto Multi Save](https://reliccastle.com/threads/5644/).
 
 ### Mudanças de balanceamento
 

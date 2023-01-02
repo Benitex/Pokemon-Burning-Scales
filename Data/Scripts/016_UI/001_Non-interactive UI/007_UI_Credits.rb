@@ -59,12 +59,8 @@ Criado por Benito André Pepe, aka Benitex
 
 Agradecimentos especiais:
 
-Agradeço a Shirou Douglas por ensinar
-o básico de pokemon essentials.
-
-E a Thundaga, que também inspirou vários recursos 
-jogo e presta muitos serviços a comunidade de
-fan games pokemon pelo mundo a fora.
+Shirou Douglas
+Thundaga
 
 
 

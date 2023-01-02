@@ -29,7 +29,6 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Perfect IVs mode** (optional).
 * **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or using cheaper vitamins.
-* **Auto saving** (optional).
 
 ### Plugin features
 
@@ -37,6 +36,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **A system that shows available pokemon in the route**, and which ones were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
 * **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
+* **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
 
 ### Balance Changes
 

@@ -6,12 +6,8 @@ Criado por Benito André Pepe, aka Benitex
 
 ## Agradecimentos especiais
 
-Agradeço a Shirou Douglas por ensinar
-o básico de pokemon essentials.
-
-E a Thundaga, que também inspirou vários recursos
-jogo e presta muitos serviços a comunidade de
-fan games pokemon pelo mundo a fora.
+Shirou Douglas
+Thundaga
 
 Esse jogos foi feito utilizando recursos de:
 
@@ -253,6 +249,9 @@ ThatWelshOne_
 
 Encounter List UI (v19)
 ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
+
+Auto Multi Save
+http404error
 
 Unown Text
 PunishedFelix

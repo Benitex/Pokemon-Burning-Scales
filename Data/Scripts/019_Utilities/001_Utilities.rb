@@ -647,6 +647,7 @@ def pbAddScaledPokemon(species)
   pbAddPokemon(species, AutomaticLevelScaling.getScaledLevel)
 end
 
+# Função para escolher um líder de ginásio para enfrentar no Battle Subway
 def getRandomGymLeader(exclude = {})
   gymLeaders = {
     :LEADER_Cheren => "Cheren",
