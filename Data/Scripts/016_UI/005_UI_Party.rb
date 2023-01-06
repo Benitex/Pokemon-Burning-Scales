@@ -1217,6 +1217,7 @@ class PokemonPartyScreen
       pkmn = @party[pkmnid]
       commands   = []
       cmdSummary = -1
+      cmdRelearn = -1   #by Kota
       cmdDebug   = -1
       cmdMoves   = [-1] * pkmn.numMoves
       cmdSwitch  = -1
@@ -1224,6 +1225,7 @@ class PokemonPartyScreen
       cmdItem    = -1
       # Build the commands
       commands[cmdSummary = commands.length]      = _INTL("Summary")
+      commands[cmdRelearn = commands.length]      = _INTL("Relearn")  #by Kota
       commands[cmdDebug = commands.length]        = _INTL("Debug") if $DEBUG
       if !pkmn.egg?
         # Check for hidden moves and add any that were found
@@ -1303,6 +1305,8 @@ class PokemonPartyScreen
         @scene.pbSummary(pkmnid) {
           @scene.pbSetHelpText((@party.length>1) ? _INTL("Choose a Pokémon.") : _INTL("Choose Pokémon or cancel."))
         }
+      elsif cmdRelearn>=0 && command==cmdRelearn
+        pbRelearnMoveScreen(pkmn)
       elsif cmdDebug>=0 && command==cmdDebug
         pbPokemonDebug(pkmn,pkmnid)
       elsif cmdSwitch>=0 && command==cmdSwitch

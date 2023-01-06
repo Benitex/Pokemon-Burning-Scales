@@ -165,6 +165,10 @@ class MoveRelearnerScreen
         tmoves.push(i) if !pkmn.hasMove?(i) && !moves.include?(i)
       end
     end
+    species_data = GameData::Species.get(pkmn.species)
+    babyspecies = species_data.get_baby_species
+    GameData::Species.get(babyspecies).egg_moves.each { |m| moves.push(m) }
+    species_data.tutor_moves.each { |m| moves.push(m) }
     moves = tmoves + moves
     return moves | []   # remove duplicates
   end

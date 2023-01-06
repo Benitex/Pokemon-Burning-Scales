@@ -265,6 +265,9 @@ IKazart
 Always inside Bushes
 Kotaro,KleinStudio
 
+LA Moverelearner
+Kotaro,IndianAnimator
+
 B2W2 Bag
 Erassus,CharizardThree3/LackDeJurane
 

@@ -313,6 +313,9 @@ Gate - Castelia interiors
 
 {INSERTS_PLUGIN_CREDITS_DO_NOT_REMOVE}
 
+LA Moverelearner
+Kotaro,IndianAnimator
+
 "Pokémon Essentials" was created by:
 Flameguru
 Poccil (Peter O.)

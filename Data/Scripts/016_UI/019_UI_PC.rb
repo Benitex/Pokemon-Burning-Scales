@@ -7,7 +7,7 @@ class TrainerPC
   end
 
   def name
-    return _INTL("{1}'s PC",$Trainer.name)
+    return _INTL("Item Storage PC")
   end
 
   def access
@@ -25,11 +25,7 @@ class StorageSystemPC
   end
 
   def name
-    if $Trainer.seen_storage_creator
-      return _INTL("{1}'s PC",pbGetStorageCreator)
-    else
-      return _INTL("Someone's PC")
-    end
+    return _INTL("Pokemon Storage PC")
   end
 
   def access
