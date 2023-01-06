@@ -44,20 +44,20 @@ Pokemon = TYMPOLE,15
 # Estádio da Comilaça
 #-------------------------------
 [BUGCATCHER,Ben]
-LoseText = "..."
+LoseText = "Em Kanto esse time era mais forte..."
 Pokemon = BUTTERFREE,18
 Pokemon = IVYSAUR,18
 Pokemon = MAGIKARP,19
 Pokemon = PIDGEOTTO,20
 #-------------------------------
 [CAMPER,Ben]
-LoseText = "..."
+LoseText = "Se eu não tivesse deixado metade dos meus Pokémon em Johto..."
 Pokemon = BAYLEEF,18
 Pokemon = KADABRA,20
 Pokemon = PILOSWINE,19
 #-------------------------------
 [BIRDKEEPER,Ben]
-LoseText = "..."
+LoseText = "Gostou do meu time? Usei na liga em Hoenn!"
 Pokemon = SWELLOW,19
 Pokemon = BLAZIKEN,20
 Pokemon = IVYSAUR,19
@@ -65,7 +65,7 @@ Pokemon = GYARADOS,20
 Pokemon = METANG,20
 #-------------------------------
 [TUBER_M,Ben]
-LoseText = "..."
+LoseText = "Gostou do meu magmar shiny? Diretamente de Sinnoh!"
 Pokemon = STARAVIA,20
 Pokemon = VESPIQUEN,19
 Pokemon = MAGMAR,20
@@ -75,7 +75,7 @@ Pokemon = PILOSWINE,20
 Pokemon = FLOATZEL,19
 #-------------------------------
 [YOUNGSTER,Ben]
-LoseText = "..."
+LoseText = "Sinto que você já conhecia meu time..."
 Pokemon = MARACTUS,20
 Pokemon = LUCARIO,21
 Pokemon = UNFEZANT,20
@@ -86,7 +86,7 @@ Pokemon = COFAGRIGUS,21
 # Battle Subway
 #-------------------------------
 [LEADER_Cheren,Cheren]
-LoseText = ""
+LoseText = "Isso! Isso que é uma batalha de verdade!"
 Pokemon = LIEPARD,13
     Item = CHOICEBAND
     AbilityIndex = 0
@@ -107,7 +107,7 @@ Pokemon = PANSEAR,13
     AbilityIndex = 1
 #-------------------------------
 [LEADER_Lenora,Lenora]
-LoseText = ""
+LoseText = "Minha teoria sobre você estava correta."
 Pokemon = STOUTLAND,12
     Item = CHOICEBAND
     AbilityIndex = 2
@@ -128,7 +128,7 @@ Pokemon = BRAVIARY,12
     AbilityIndex = 2
 #-------------------------------
 [LEADER_Roxie,Roxie]
-LoseText = ""
+LoseText = "Espera, a música ainda estava no meio!"
 Pokemon = WHIRLIPEDE,13
     Item = FOCUSSASH
     AbilityIndex = 2
@@ -150,7 +150,7 @@ Pokemon = GENGAR,13
     Item = GENGARITE
 #-------------------------------
 [LEADER_Burgh,Burgh]
-LoseText = ""
+LoseText = "Hum, acabou! Você é incrível!"
 Pokemon = LEAVANNY,13
     Item = FOCUSSASH
     AbilityIndex = 0
@@ -171,7 +171,7 @@ Pokemon = VOLCARONA,13
     AbilityIndex = 0
 #-------------------------------
 [LEADER_Clay,Clay]
-LoseText = ""
+LoseText = "Bom, isso foi suficiente para mim. Saiba que não peguei leve com você."
 Pokemon = HIPPOWDON,12
     Item = LEFTOVERS
 Pokemon = KROKOROK,12
@@ -191,7 +191,7 @@ Pokemon = EXCADRILL,13
     AbilityIndex = 0
 #-------------------------------
 [LEADER_Skyla,Skyla]
-LoseText = ""
+LoseText = "Te enfrentar em batalha foi uma nova fonte de aprendizado pra mim, obrigada!"
 Pokemon = SWOOBAT,12
     Item = SALACBERRY
     AbilityIndex = 2
@@ -212,7 +212,7 @@ Pokemon = TROPIUS,13
     AbilityIndex = 2
 #-------------------------------
 [LEADER_Brycen,Brycen]
-LoseText = ""
+LoseText = "Que bela combinação com seus Pokémon, que amizade poderosa!"
 Pokemon = NINETALES,12
     Form = 1
     Item = LIGHTCLAY
@@ -233,7 +233,7 @@ Pokemon = BEARTIC,13
     AbilityIndex = 1
 #-------------------------------
 [LEADER_Drayden,Drayden]
-LoseText = ""
+LoseText = "A amargura que flui em mim depois dessa derrota... O coração que não sucumbe a esse sentimento está preenchido por energia e vida!"
 Pokemon = DRUDDIGON,12
     Item = ROCKYHELMET
     AbilityIndex = 0
@@ -251,7 +251,7 @@ Pokemon = HAXORUS,13
     AbilityIndex = 1
 #-------------------------------
 [LEADER_Marlon,Marlon]
-LoseText = ""
+LoseText = "Você arrasou! Você realmente sabe o que é ser um bom treinador!"
 Pokemon = WAILORD,12
     Item = LEFTOVERS
     AbilityIndex = 2
