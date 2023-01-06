@@ -639,7 +639,7 @@ def wonBattle?(outcomeVar = 1)
   # 4 - Wild Pokémon was caught.
   # 5 - Draw.
   # Capturar ou derrotar o pokemon é considerado vitória.
-  return $game_variables[outcomeVar] == 1 || $game_variables[outcomeVar] == 4
+  return pbGet(outcomeVar) == 1 || pbGet(outcomeVar) == 4
 end
 
 # Adiciona um pokemon à party a partir do nível da dificuldade selecionada

@@ -106,7 +106,7 @@ end
 
 class UpdatesPC
   def shouldShow?
-    return true if $game_variables[75] < 60
+    return true if pbGet(75) < 60
     return false
   end
   
@@ -117,8 +117,8 @@ class UpdatesPC
   def access
     if $game_variables[75] < 60
       # Variáveis modificadas
-      $game_variables[49] = 0
-      $game_variables[99] = $game_switches[100]
+      pbSet(49, 0)
+      pbSet(99, pbGet(100))
 
       # Switches modificadas
       $game_switches[54] = false
@@ -129,13 +129,14 @@ class UpdatesPC
       $game_switches[100] = false
 
       # Bug na quest do vendedor de produtos
-      if $game_switches[75] && $game_variables[28] < 4
+      if $game_switches[75] && pbGet(28) < 4
         failQuest(:Quest1)
       end
 
-      $game_variables[75] = 60
+      pbSet(75, 60)
     end
-    pbMessage(_INTL("O save foi atualizado com sucesso."))  
+    pbMessage(_INTL("O save foi atualizado com sucesso."))
+    Game.auto_save if $game_switches[98]
   end
 end
 
