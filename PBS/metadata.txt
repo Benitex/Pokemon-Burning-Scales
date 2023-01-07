@@ -130,7 +130,15 @@ TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
 #-------------------------------
 [011]
 # Battle Subway
+Outdoor = false
+ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,15,4
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 #-------------------------------
 [012]
 # Estádio Grande
@@ -281,11 +289,11 @@ TrainerBattleBGM = Rival Bede GlitchxCity.mp3
 Environment = Sand
 #-------------------------------
 [026]
-# Pesquisador de fósseis
+# Casa do Pesquisador de fósseis
 MapPosition = 0,15,7
 #-------------------------------
 [027]
-# Sala dos fósseis
+# Sala das máquinas
 MapPosition = 0,15,7
 TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
@@ -455,7 +463,7 @@ MapPosition = 0,15,4
 MapPosition = 0,15,4
 #-------------------------------
 [052]
-# Caverna Ultra Abismal
+# Caverna Abismal
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -644,7 +652,6 @@ BicycleAlways = false
 MapPosition = 0,15,15
 #-------------------------------
 [075]
-# Battle Company 4F
 Outdoor = false
 ShowArea = false
 Bicycle = false

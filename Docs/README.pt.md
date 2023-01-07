@@ -36,13 +36,6 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio. Usando [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Múltiplos saves e salvamento automático**, usando [Auto Multi Save](https://reliccastle.com/threads/5644/).
 
-### Mudanças de balanceamento
-
-Você pode desativar as mudanças de balanceamento copiando os arquivos na pasta [PBS/Default Files](//PBS/Default%20Files/) e colando na pasta PBS, sobrescrevendo os arquivos.
-
-* **Buff no tipo gelo**, pokemon do tipo gelo agora resistem a golpes dos tipos gelo, água, voador e terrestre. Hail agora aumenta a defesa dos pokemon do tipo gelo em 50%.
-* **Bug no tipo inseto**, pokemon do tipo insto agora também resistem a golpes dos tipos fada, psíquico e sombrio, além dos tipos que já resistia. Golpes do tipo inseto são super efetivos contra o tipo fada e neutros contra o tipo lutador.
-
 ## Screenshots
 
 <details>

@@ -38,13 +38,6 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Wonder Trade-like system**, you can spend money to get a random pokemon in its first form. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
 
-### Balance Changes
-
-You can disable balance changes by copying the files in the [PBS/Default Files](PBS/Default%20Files/) folder and pasting them into the PBS folder, overwriting the old files.
-
-* **Ice Type Buff**, ice-type pokemon resist ice, water, flying, and ground moves. Hail increases ice-types defense by 50%.
-* **Bug Type Buff**, bug type pokemon resist fairy, psychic and dark type moves, in addition to its original resistances. Bug-type moves are supereffective against fairy types and neutral against fighting types.
-
 ## Screenshots
 
 <details>

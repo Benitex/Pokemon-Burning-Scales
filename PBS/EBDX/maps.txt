@@ -17,6 +17,9 @@ BattleEnv       = CITY
 [008] # Relic Castle
 BattleEnv       = CAVE
 #-------------------------------
+[011] # Battle Subway
+BattleEnv       = INDOOR
+#-------------------------------
 [017] # Faculdade de Nimbasa de Filosofia 2F
 BattleEnv       = INDOOR
 #-------------------------------
