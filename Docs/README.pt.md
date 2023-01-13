@@ -33,7 +33,7 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Sistema de Quests** que registra próximos objetivos, localizações e uma lista com quests completas e em progresso. Usando [Modern Quest System](https://reliccastle.com/resources/709/).
 * **Sistema que mostra pokemon disponíveis na rota** e quais deles já foram capturados ou vistos. Usando [Encounter List UI](https://reliccastle.com/resources/658/).
 * **Nuzlocke e randomizer**. Usando [Elite Battle DX](https://luka-sj.com/res/ebdx).
-* **Sistema parecido com Wonder Trade**, em que se gasta dinheiro para receber um pokemon aleatório em seu primeiro estágio. Usando [Random Pokemon Selector](https://reliccastle.com/resources/693/).
+* **Wonder Trade Offiline**, você também pode gasta dinheiro para subir o nível do Pokémon e deixar equilibrado com sua equipe. Usando [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Múltiplos saves e salvamento automático**, usando [Auto Multi Save](https://reliccastle.com/threads/5644/).
 
 ## Screenshots

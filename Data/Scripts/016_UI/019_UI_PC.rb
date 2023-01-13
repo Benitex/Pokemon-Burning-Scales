@@ -84,18 +84,21 @@ class WonderTradePC
 
   def access
     pbMessage(_INTL("\\se[PC access]Accessed Wonder Trade PC.",$Trainer.name))
-    if pbConfirmMessage(_INTL("Would you like to exchange 500$ for a random pokémon?"))
-      if $Trainer.money >= 500
-        $Trainer.money -= 500
-        pkmn = pbChooseRandomPokemon(nil, "suggested")
-
-        level = pbBalancedLevel($Trainer.party) - 2
-        level = level.clamp(1,GameData::GrowthRate.max_level)
-
-        pbAddPokemon(pkmn,level)
-      else
-        pbMessage(_INTL("You don't have enough money."))
+    pbChooseNonEggPokemon(1,3)
+    if pbConfirmMessage(_INTL("Would you like trade {1} for a random pokémon?",pbGet(3)))
+      $Trainer.party.delete_at(pbGet(1))
+      pkmn = pbChooseRandomPokemon(nil, "suggested")
+      pkmn = Pokemon.new(pkmn,10)
+      if pbConfirmMessage(_INTL("Would you like spend $500 to scale its level to your party?"))
+        if $Trainer.money >= 500
+          $Trainer.money -= 500
+          AutomaticLevelScaling.setNewLevel(pkmn)
+        else
+          pbMessage(_INTL("You don't have enough money."))
+        end
       end
+      pbAddPokemon(pkmn)
+      Game.auto_save if $game_switches[98]
     end
   end
 end

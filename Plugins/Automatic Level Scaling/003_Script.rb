@@ -155,15 +155,4 @@ class AutomaticLevelScaling
       @@settings[:only_scale_if_lower] = value
     end
   end
-
-  def self.setSettings(temporary: false, update_moves: true, automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS, proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING, first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL, second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL, only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER, only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER)
-    @@settings[:temporary] = temporary
-    @@settings[:update_moves] = update_moves
-    @@settings[:first_evolution_level] = first_evolution_level
-    @@settings[:second_evolution_level] = second_evolution_level
-    @@settings[:proportional_scaling] = proportional_scaling
-    @@settings[:automatic_evolutions] = automatic_evolutions
-    @@settings[:only_scale_if_higher] = only_scale_if_higher
-    @@settings[:only_scale_if_lower] = only_scale_if_lower
-  end
 end
