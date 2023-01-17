@@ -274,6 +274,7 @@ class PokemonLoadScreen
       commands = []
       cmd_continue     = -1
       cmd_new_game     = -1
+      cmd_controls     = -1
       cmd_options      = -1
       cmd_language     = -1
       cmd_mystery_gift = -1
@@ -287,6 +288,7 @@ class PokemonLoadScreen
         end
       end
       commands[cmd_new_game = commands.length]  = _INTL('New Game')
+      commands[cmd_controls = commands.length]   = _INTL('Controls')
       commands[cmd_options = commands.length]   = _INTL('Options') if false
       commands[cmd_language = commands.length]  = _INTL('Language') if Settings::LANGUAGES.length >= 2
       commands[cmd_debug = commands.length]     = _INTL('Debug') if $DEBUG
@@ -318,6 +320,8 @@ class PokemonLoadScreen
           @scene.pbEndScene
           Game.start_new
           return
+        when cmd_controls
+          pbFadeOutIn { pbEventScreen(ButtonEventScene) }
         when cmd_mystery_gift
           pbFadeOutIn { pbDownloadMysteryGift(@save_data[:player]) }
         when cmd_options
