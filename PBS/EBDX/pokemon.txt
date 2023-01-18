@@ -8888,6 +8888,20 @@ BattlerPlayerX          = 5
 BattlerPlayerY          = 76
 BattlerEnemyX           = 3
 #-------------------------------
+[PRINPLIN]
+BattlerEnemyY           = 50
+BattlerAltitude         = 0
+BattlerPlayerX          = 10
+BattlerPlayerY          = 59
+BattlerEnemyX           = 8
+#-------------------------------
+[PULINPUPLIN]
+BattlerEnemyY           = 30
+BattlerAltitude         = 0
+BattlerPlayerX          = 7
+BattlerPlayerY          = 41
+BattlerEnemyX           = 0
+#-------------------------------
 [VOLCARONAP]
 BattlerEnemyY           = 21
 BattlerAltitude         = 15
