@@ -261,6 +261,10 @@ Kunning Fox
 Victory is Right Before Your Eyes! - Title Screen
 Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
 
+sentsinkanteun
+Shoal Cave - Abandoned House
+Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
+
 Seii
 Route 111 RSE – Desert Resort theme
 
@@ -288,14 +292,11 @@ Pokemon Relic Song with violins - Meloetta encounter
 PokeRemixStudio
 Dark Cave Remix 2
 
-Vanitas
-Lavender town ochestral arrangementx - Lavender town ochestral arrangement
-
 hyeonjiim
-Sala da meloeatta - Meloettas Song of the Sunset Cover
+Meloettas Song of the Sunset Cover - Sala da meloeatta
 
 sentsinkanteun
-Café Sonata - Sun & Moon Iki Town Remix (edited)
+Sun & Moon Iki Town Remix - Café Sonata
 
 Thomniverse Remix
 Hops Battle Theme Remix - Castelia Trainers
