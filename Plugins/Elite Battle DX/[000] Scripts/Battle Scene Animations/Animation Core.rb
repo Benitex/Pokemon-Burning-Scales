@@ -115,7 +115,7 @@ module EliteBattle
     end
     # attempt to play regular move animation
     if !@@moveAnimations.has_key?(id)
-      EliteBattle.log.debug("No EBDX Move Animation found for: #{id}")
+      # EliteBattle.log.debug("No EBDX Move Animation found for: #{id}")
       return false
     end
     # playback of cloned move animations

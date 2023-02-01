@@ -1,5 +1,5 @@
 Name         = Automatic Level Scaling
-Version      = 1.4.0
+Version      = 1.4.1
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
 #===============================================================================
@@ -68,6 +68,7 @@ Credits      = Benitex, Joltik, Umbreon
 # AutomaticLevelScaling.setSettings(
 #   update_moves: boolean,
 #   automatic_evolutions: boolean,
+#   include_previous_stages: boolean,
 #   proportional_scaling: boolean,
 #   only_scale_if_higher: boolean,
 #   only_scale_if_lower: boolean,
@@ -79,6 +80,7 @@ Credits      = Benitex, Joltik, Umbreon
 #   "updateMoves"           Set to false if you want to use the pre-moves defined in the PBS.
 #   "proportionalScaling"   When true, Takes original level differences from the PBS into consideration when scaling levels.
 #   "automaticEvolutions"   Set to false if you don't want pokemon automatically evolving.
+#   "includePreviousStages" When true, returns pokemon to their previous evolution stages if they did not reach their evolution level.
 #   "firstEvolutionLevel"   Select the level required for pokemon that don't evolve by level up to get to their mid-form.
 #   "secondEvolutionLevel"  Select the level required for pokemon that don't evolve by level up to get to their final form.
 #   "onlyScaleIfHigher"     When true, the script will only scale levels if the player is over-leveled.

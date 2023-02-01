@@ -96,9 +96,9 @@ class Trainer
   #-----------------------------------------------------------------------------
   #  potential fix for trainer names having double spaces
   #-----------------------------------------------------------------------------
-  def full_name
-    return sprintf("%s %s", trainer_type_name, @name)
-  end
+  # def full_name
+  #   return sprintf("%s %s", trainer_type_name, @name)
+  # end
 end
 #-------------------------------------------------------------------------------
 #  trainer generation override

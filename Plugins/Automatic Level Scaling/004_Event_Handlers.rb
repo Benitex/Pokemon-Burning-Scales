@@ -6,7 +6,7 @@
 # Activates script when a wild pokemon is created
 Events.onWildPokemonCreate += proc { |_sender, e|
   pokemon = e[0]
-  id = $game_variables[LevelScalingSettings::WILD_VARIABLE]
+  id = pbGet(LevelScalingSettings::WILD_VARIABLE)
   if id != 0
     AutomaticLevelScaling.setDifficulty(id)
     AutomaticLevelScaling.setNewLevel(pokemon)
@@ -15,7 +15,7 @@ Events.onWildPokemonCreate += proc { |_sender, e|
 
 # Activates script when a trainer pokemon is created
 Events.onTrainerPartyLoad += proc { |_sender, trainer|
-  id = $game_variables[LevelScalingSettings::TRAINER_VARIABLE]
+  id = pbGet(LevelScalingSettings::TRAINER_VARIABLE)
   if trainer && id != 0
     AutomaticLevelScaling.setDifficulty(id)
     avarage_level = 0
