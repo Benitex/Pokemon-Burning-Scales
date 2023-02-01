@@ -242,6 +242,9 @@ hollow_ego
 Modern Quest System + UI
 ThatWelshOne_,mej71,derFischae,Marin
 
+Improved AI
+KRLW890
+
 Overworld Shadows EX
 Golisopod User, Wolf PP, Marin
 

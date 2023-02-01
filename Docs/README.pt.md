@@ -35,6 +35,7 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Nuzlocke e randomizer**. Usando [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Wonder Trade Offiline**, você também pode gasta dinheiro para subir o nível do Pokémon e deixar equilibrado com sua equipe. Usando [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Múltiplos saves e salvamento automático**, usando [Auto Multi Save](https://reliccastle.com/threads/5644/).
+* **IA de batalha melhorada**, usando [Improved Battle AI](https://reliccastle.com/resources/1163/).
 
 ## Screenshots
 

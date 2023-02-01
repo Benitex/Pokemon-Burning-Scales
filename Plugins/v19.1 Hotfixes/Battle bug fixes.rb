@@ -23,29 +23,29 @@ end
 #==============================================================================
 # Fix for typo in Mind Blown's AI.
 #==============================================================================
-class PokeBattle_AI
-  alias __hotfixes__pbGetMoveScoreFunctionCode pbGetMoveScoreFunctionCode
-  def pbGetMoveScoreFunctionCode(score,move,user,target,skill=100)
-    case move.function
-    #---------------------------------------------------------------------------
-    when "170"   # Mind Blown
-      reserves = @battle.pbAbleNonActiveCount(user.idxOwnSide)
-      foes     = @battle.pbAbleNonActiveCount(user.idxOpposingSide)
-      if @battle.pbCheckGlobalAbility(:DAMP)
-        score -= 100
-      elsif skill>=PBTrainerAI.mediumSkill && reserves==0 && foes>0
-        score -= 100   # don't want to lose
-      elsif skill>=PBTrainerAI.highSkill && reserves==0 && foes==0
-        score += 80   # want to draw
-      else
-        score -= (user.totalhp-user.hp)*75/user.totalhp
-      end
-    else
-	  score = __hotfixes__pbGetMoveScoreFunctionCode(score,move,user,target,skill)
-	end
-	return score
-  end
-end
+# class PokeBattle_AI
+#   alias __hotfixes__pbGetMoveScoreFunctionCode pbGetMoveScoreFunctionCode
+#   def pbGetMoveScoreFunctionCode(score,move,user,target,skill=100)
+#     case move.function
+#     #---------------------------------------------------------------------------
+#     when "170"   # Mind Blown
+#       reserves = @battle.pbAbleNonActiveCount(user.idxOwnSide)
+#       foes     = @battle.pbAbleNonActiveCount(user.idxOpposingSide)
+#       if @battle.pbCheckGlobalAbility(:DAMP)
+#         score -= 100
+#       elsif skill>=PBTrainerAI.mediumSkill && reserves==0 && foes>0
+#         score -= 100   # don't want to lose
+#       elsif skill>=PBTrainerAI.highSkill && reserves==0 && foes==0
+#         score += 80   # want to draw
+#       else
+#         score -= (user.totalhp-user.hp)*75/user.totalhp
+#       end
+#     else
+# 	  score = __hotfixes__pbGetMoveScoreFunctionCode(score,move,user,target,skill)
+# 	end
+# 	return score
+#   end
+# end
 
 #==============================================================================
 # Fix for Mummy treating an ability as an integer rather than a symbol.

@@ -37,6 +37,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Offline Wonder Trade**, you can also spend money to scale the pokemon level to your party. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
+* **Better Trainer AI**, using [Improved Battle AI](https://reliccastle.com/resources/1163/).
 
 ## Screenshots
 

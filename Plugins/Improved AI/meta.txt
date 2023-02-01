@@ -1,0 +1,4 @@
+Name         = Improved AI
+Version      = 1.0.0
+Optional     = Generation 9 Pack
+Credits      = KRLW890
