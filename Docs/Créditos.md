@@ -172,9 +172,10 @@ Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
 sentsinkanteun
 Shoal Cave - Abandoned House
 Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
+Sun & Moon Iki Town Remix (edited) - Café Sonata
 
 Seii
-Route 111 RSE – Desert Resort theme
+Route 111 RSE - Desert Resort theme
 
 Snivys
 Join avenue “You're invited” - Join Avenue
@@ -202,9 +203,6 @@ Dark Cave Remix 2
 
 hyeonjiim
 Sala da meloeatta - Meloettas Song of the Sunset Cover
-
-sentsinkanteun
-Café Sonata - Sun & Moon Iki Town Remix (edited)
 
 Thomniverse Remix
 Hops Battle Theme Remix - Castelia Trainers

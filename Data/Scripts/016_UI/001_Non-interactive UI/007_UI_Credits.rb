@@ -36,7 +36,7 @@
 class Scene_Credits
   # Backgrounds to show in credits. Found in Graphics/Titles/ folder
   BACKGROUNDS_LIST       = ["credits5","credits4","credits1"]
-  BGM                    = "Credits"
+  BGM                    = "Song of the Storms sentsinkanteun.mp3"
   SCROLL_SPEED           = 40   # Pixels per second
   SECONDS_PER_BACKGROUND = 11
   TEXT_OUTLINE_COLOR     = Color.new(0, 0, 128, 255)
@@ -264,9 +264,10 @@ Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
 sentsinkanteun
 Shoal Cave - Abandoned House
 Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
+Sun & Moon Iki Town Remix - Café Sonata
 
 Seii
-Route 111 RSE – Desert Resort theme
+Route 111 RSE - Desert Resort theme
 
 Snivys
 Join avenue “You're invited” - Join Avenue
@@ -294,9 +295,6 @@ Dark Cave Remix 2
 
 hyeonjiim
 Meloettas Song of the Sunset Cover - Sala da meloeatta
-
-sentsinkanteun
-Sun & Moon Iki Town Remix - Café Sonata
 
 Thomniverse Remix
 Hops Battle Theme Remix - Castelia Trainers
