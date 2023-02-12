@@ -366,10 +366,15 @@ MapSize = 2,11
 #-------------------------------
 [040]
 # Clube Cluchar
-Outdoor = true
+Outdoor = false
 ShowArea = true
-BicycleAlways = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [041]
 # Clube Dediê
@@ -652,6 +657,7 @@ BicycleAlways = false
 MapPosition = 0,15,15
 #-------------------------------
 [075]
+# Clube secreto
 Outdoor = false
 ShowArea = false
 Bicycle = false
