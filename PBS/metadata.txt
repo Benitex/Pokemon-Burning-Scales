@@ -378,11 +378,15 @@ Dungeon = false
 #-------------------------------
 [041]
 # Clube Dediê
-Outdoor = true
+Outdoor = false
 ShowArea = true
-BicycleAlways = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,15,15
-MapSize = 1,111
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 #-------------------------------
 [043]
 # Central Plaza
