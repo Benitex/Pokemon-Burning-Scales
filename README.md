@@ -19,10 +19,17 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 * **Wild pokemon and trainers automatic level scaling**.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
-* **A difficulty system**, with three different options, and based on the levels of the pokemon in your party.
 * **Pokemon walking on the routes**.
 * **Different pokemon on routes depending on the time of the day**.
 * **A handful of pokemon with altered forms**.
+
+### Difficulty Options
+
+You can choose between 3 difficulty options after the end of the prologue chapter and select another one at any moment in the options menu.
+
+* **Casual**: Wild pokemon don't evolve. All pokemon are up to 3 levels below your team.
+* **Balanced**: This is the recommended difficulty for first playthroughs. Trainer's pokemon are between 1 level below and 2 levels above your team. Wild pokemon are up to 3 below your team.
+* **Hard**: You can only use the "set" [battle style](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) instead of "switch". All pokemon are from 1 to 3 levels above your team.
 
 ### Quality of life
 

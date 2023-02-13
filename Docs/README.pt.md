@@ -17,10 +17,17 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 * **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe**.
 * **Muitas sidequests espalhadas pelo mapa** para gerar horas de conteúdos extras fora da história principal.
 * **Escolhas que impactam o resultado das quests** ou revelam informações adicionais/situações engraçadas.
-* **Sistema de dificuldades.**
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
 * **Alguns poucos pokemon com formas alteradas**.
+
+### Sistema de dificuldades
+
+Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mudá-las a qualquer instante pelo menu de opções.
+
+* **Casual**: Pokemon selvagem não evoluem. Todos os pokemon estão em até 3 níveis abaixo da sua equipe.
+* **Balanceado**: Essa é a dificuldade recomendada para a primeira vez. Treinadores usam pokemon entre 1 nível abaixo e até 2 níveis acima da sua equipe. Pokemon selvagem estão em até 3 níveis abaixo da sua equipe.
+* **Difícil**: Você só pode usar o [estilo de batalha](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) "set" em vez do "switch". Todos os pokemon estão entre 1 e 3 níveis acima da sua equipe.
 
 ### Qualidade de vida (QoL)
 

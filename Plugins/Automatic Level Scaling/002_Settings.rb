@@ -30,9 +30,9 @@ module LevelScalingSettings
   #   "random_increase" is a randomly selected value between 0 and the value provided (optional)
   # (These variables can also store negative values)
   DIFICULTIES = [
-    Difficulty.new(id: 1, fixed_increase: -2, random_increase: 2),  # Easy
-    Difficulty.new(id: 2, random_increase: 2),                      # Medium
-    Difficulty.new(id: 3, fixed_increase: 3, random_increase: 3),   # Hard
+    Difficulty.new(id: 1, fixed_increase: -3, random_increase: 3),
+    Difficulty.new(id: 2, fixed_increase: -1, random_increase: 3),
+    Difficulty.new(id: 3, fixed_increase: 1, random_increase: 2),
   ]
 
   # You can insert the first stage of a custom regional form here

@@ -9,6 +9,9 @@ Events.onWildPokemonCreate += proc { |_sender, e|
   id = pbGet(LevelScalingSettings::WILD_VARIABLE)
   if id != 0
     AutomaticLevelScaling.setDifficulty(id)
+    if id == 1
+      AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
+    end
     AutomaticLevelScaling.setNewLevel(pokemon)
   end
 }
@@ -18,6 +21,12 @@ Events.onTrainerPartyLoad += proc { |_sender, trainer|
   id = pbGet(LevelScalingSettings::TRAINER_VARIABLE)
   if trainer && id != 0
     AutomaticLevelScaling.setDifficulty(id)
+
+    if id == 3
+      setBattleRule("setStyle")
+    end
+
+    # Avarage for proportional Scaling
     avarage_level = 0
     trainer[0].party.each { |pokemon| avarage_level += pokemon.level }
     avarage_level /= trainer[0].party.length

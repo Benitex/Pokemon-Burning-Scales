@@ -123,6 +123,9 @@ class UpdatesPC
       pbSet(49, 0)
       pbSet(99, pbGet(100))
 
+      # Nova dificuldade do balanceado para pokemon selvagem
+      pbSet(100, 1) if pbGet(99) == 2
+
       # Switches modificadas
       $game_switches[54] = false
       $game_switches[62] = false

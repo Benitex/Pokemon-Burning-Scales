@@ -347,19 +347,24 @@ class PokemonOption_Scene
          proc { $PokemonSystem.difficulty },
          proc { |value|
           $PokemonSystem.difficulty = value
-          $game_variables[LevelScalingSettings::TRAINER_VARIABLE] = value + 1
-          $game_variables[LevelScalingSettings::WILD_VARIABLE] = value + 1
+          case value
+          when 0
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 1)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
+          when 1
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 2)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
+          when 2
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 3)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 3)
+          end
          }
        ),
        EnumOption.new(_INTL("Autosave"),[_INTL("On"),_INTL("Off")],
          proc { $PokemonSystem.autosave },
          proc { |value|
           $PokemonSystem.autosave = value
-          if value == 0
-            $game_switches[98] = true
-          else
-            $game_switches[98] = false
-          end
+          $game_switches[98] = (value == 0)
          }
        ),
        EnumOption.new(_INTL("Battle Style"),[_INTL("Switch"),_INTL("Set")],
