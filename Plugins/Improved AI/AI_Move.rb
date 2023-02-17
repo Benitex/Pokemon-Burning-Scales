@@ -1,7 +1,8 @@
 class PokeBattle_AI
-  #==================================================================================
-  # Main move-choosing method (moves with higher scores are more likely to be chosen)
-  #==================================================================================
+  #=============================================================================
+  # Main move-choosing method (moves with higher scores are more likely to be
+  # chosen)
+  #=============================================================================
 
   def pbChooseMoves(idxBattler)
     user        = @battle.battlers[idxBattler]
@@ -52,16 +53,23 @@ class PokeBattle_AI
     end
     # Log the available choices
     if $INTERNAL
-      logMsg = "[AI] Move choices for #{user.pbThis(true)} (#{user.index}): "
+      logMsg = "[AI] Move choices for #{user.pbThis(true)} (#{user.index}): raw: ("
+      choices.each_with_index do |c, i|
+        logMsg += "#{user.moves[c[0]].name}=#{c[1]}"
+        logMsg += " (target #{c[2]})" if c[2] >= 0
+        logMsg += ", " if i < choices.length - 1
+      end
+      logMsg += "), weighted: ("
       weightedChoices.each_with_index do |c, i|
         logMsg += "#{user.moves[c[0]].name}=#{c[1]}"
         logMsg += " (target #{c[2]})" if c[2] >= 0
         logMsg += ", " if i < choices.length - 1
       end
+      logMsg += ")"
       PBDebug.log(logMsg)
     end
     # Choose a move based off of the weighted score values
-    if !wildBattler && skill >= PBTrainerAI.highSkill && maxScore > 100
+    if !wildBattler && maxScore > 100
       randNum = pbAIRandom(totalWeightedScore)
       weightedChoices.each do |c|
         randNum -= c[1]

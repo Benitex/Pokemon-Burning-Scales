@@ -10,9 +10,9 @@ class PokeBattle_AI
     when "AddSpikesToFoeSide"
       if user.pbOpposingSide.effects[PBEffects::Spikes] >= 3 && move.statusMove?
         score -= 90
-      elsif user.allOpposing.none? { |b| @battle.pbCanChooseNonActive?(b.index) }
+      elsif user.allOpposing.none? { |b| @battle.pbCanChooseNonActive?(b.index) } && move.statusMove?
         score -= 90   # Opponent can't switch in any Pokemon
-      else
+      elsif user.pbOpposingSide.effects[PBEffects::Spikes] < 3
         score += 15 * @battle.pbAbleNonActiveCount(user.idxOpposingSide)
         score += [40, 32, 24][user.pbOpposingSide.effects[PBEffects::Spikes]]
       end
@@ -119,6 +119,8 @@ class PokeBattle_AI
         score += 20 if user.ability == :ICEBODY || user.ability == :SNOWCLOAK
       end
     #---------------------------------------------------------------------------
+    else
+      return improvedAI_pbGetMoveScoreFunctionCode(score, move, user, target, skill)
     end
     return score
   end

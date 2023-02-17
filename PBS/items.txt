@@ -250,13 +250,13 @@
 247,ELIXIR,Elixir,Elixirs,2,3000,"It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.",1,1,0
 248,MAXELIXIR,Max Elixir,Max Elixirs,2,4500,"It fully restores the PP of all the moves learned by the targeted Pokémon.",1,1,0
 249,PPUP,PP Up,PP Ups,2,300,"It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.",1,0,0
-250,PPMAX,PP Max,PP Maxes,2,1000,"It maximally raises the top PP of a selected move that has been learned by the target Pokémon.",1,0,0
-251,HPUP,HP Up,HP Ups,2,1000,"A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.",1,0,0
-252,PROTEIN,Protein,Proteins,2,1000,"A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.",1,0,0
-253,IRON,Iron,Irons,2,1000,"A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.",1,0,0
-254,CALCIUM,Calcium,Calciums,2,1000,"A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.",1,0,0
-255,ZINC,Zinc,Zincs,2,1000,"A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.",1,0,0
-256,CARBOS,Carbos,Carbos,2,1000,"A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.",1,0,0
+250,PPMAX,PP Max,PP Maxes,2,20,"It maximally raises the top PP of a selected move that has been learned by the target Pokémon.",1,0,0
+251,HPUP,HP Up,HP Ups,2,20,"A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.",1,0,0
+252,PROTEIN,Protein,Proteins,2,20,"A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.",1,0,0
+253,IRON,Iron,Irons,2,20,"A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.",1,0,0
+254,CALCIUM,Calcium,Calciums,2,20,"A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.",1,0,0
+255,ZINC,Zinc,Zincs,2,20,"A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.",1,0,0
+256,CARBOS,Carbos,Carbos,2,20,"A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.",1,0,0
 257,HEALTHFEATHER,Health Feather,Health Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.",1,0,0
 258,MUSCLEFEATHER,Muscle Feather,Muscle Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.",1,0,0
 259,RESISTFEATHER,Resist Feather,Resist Feathers,2,3000,"An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.",1,0,0
@@ -650,27 +650,27 @@
 #-------------------------------
 635,BOTTLECAP,Bottle Cap,Bottle Caps,1,5000,"A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.",0,0,0
 636,GOLDBOTTLECAP,Gold Bottle Cap,Gold Bottle Caps,1,10000,"A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.",0,0,0
-637,LONELYMINT,Lonely Mint,Lonely Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",1,0,0
-638,ADAMANTMINT,Adamant Mint,Adamant Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
-639,NAUGHTYMINT,Naughty Mint,Naughty Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
-640,BRAVEMINT,Brave Mint,Brave Mints,1,20,"When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.",1,0,0
-641,BOLDMINT,Bold Mint,Bold Mints,1,20,"When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.",1,0,0
-642,IMPISHMINT,Impish Mint,Impish Mints,1,20,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
-643,LAXMINT,Lax Mint,Lax Mints,1,20,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
-644,RELAXEDMINT,Relaxed Mint,Relaxed Mints,1,20,"When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.",1,0,0
-645,MODESTMINT,Modest Mint,Modest Mints,1,20,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.",1,0,0
-646,MILDMINT,Mild Mint,Mild Mints,1,20,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.",1,0,0
-647,RASHMINT,Rash Mint,Rash Mints,1,20,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
-648,QUIETMINT,Quiet Mint,Quiet Mints,1,20,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly.",1,0,0
-649,CALMMINT,Calm Mint,Calm Mints,1,20,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.",1,0,0
-650,GENTLEMINT,Gentle Mint,Gentle Mints,1,20,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.",1,0,0
-651,CAREFULMINT,Careful Mint,Careful Mints,1,20,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
-652,SASSYMINT,Sassy Mint,Sassy Mints,1,20,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.",1,0,0
-653,TIMIDMINT,Timid Mint,Timid Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",1,0,0
-654,HASTYMINT,Hasty Mint,Hasty Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.",1,0,0
-655,JOLLYMINT,Jolly Mint,Jolly Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
-656,NAIVEMINT,Naive Mint,Naive Mints,1,20,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
-657,SERIOUSMINT,Serious Mint,Serious Mints,1,20,"When a Pokémon smells this mint, all of its stats will grow at an equal rate.",1,0,0
+637,LONELYMINT,Lonely Mint,Lonely Mints,1,200,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",1,0,0
+638,ADAMANTMINT,Adamant Mint,Adamant Mints,1,200,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
+639,NAUGHTYMINT,Naughty Mint,Naughty Mints,1,200,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
+640,BRAVEMINT,Brave Mint,Brave Mints,1,200,"When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.",1,0,0
+641,BOLDMINT,Bold Mint,Bold Mints,1,200,"When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.",1,0,0
+642,IMPISHMINT,Impish Mint,Impish Mints,1,200,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
+643,LAXMINT,Lax Mint,Lax Mints,1,200,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
+644,RELAXEDMINT,Relaxed Mint,Relaxed Mints,1,200,"When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.",1,0,0
+645,MODESTMINT,Modest Mint,Modest Mints,1,200,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.",1,0,0
+646,MILDMINT,Mild Mint,Mild Mints,1,200,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.",1,0,0
+647,RASHMINT,Rash Mint,Rash Mints,1,200,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
+648,QUIETMINT,Quiet Mint,Quiet Mints,1,200,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly.",1,0,0
+649,CALMMINT,Calm Mint,Calm Mints,1,200,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.",1,0,0
+650,GENTLEMINT,Gentle Mint,Gentle Mints,1,200,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.",1,0,0
+651,CAREFULMINT,Careful Mint,Careful Mints,1,200,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
+652,SASSYMINT,Sassy Mint,Sassy Mints,1,200,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.",1,0,0
+653,TIMIDMINT,Timid Mint,Timid Mints,1,200,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",1,0,0
+654,HASTYMINT,Hasty Mint,Hasty Mints,1,200,"When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.",1,0,0
+655,JOLLYMINT,Jolly Mint,Jolly Mints,1,200,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.",1,0,0
+656,NAIVEMINT,Naive Mint,Naive Mints,1,200,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.",1,0,0
+657,SERIOUSMINT,Serious Mint,Serious Mints,1,200,"When a Pokémon smells this mint, all of its stats will grow at an equal rate.",1,0,0
 658,BLUNDERPOLICY,Blunder Policy,Blunder Policies,1,4000,"An item to be held by a Pokémon. Raises Speed sharply when the holder misses a move because of accuracy.",0,0,0
 659,EJECTPACK,Eject Pack,Eject Packs,1,4000,"An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.",0,0,0
 660,HEAVYDUTYBOOTS,Heavy-Duty Boots,Heavy-Duty Boots,1,4000,"An item to be held by a Pokémon. They prevent the effects of hazards on the battlefield.",0,0,0
