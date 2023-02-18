@@ -25,7 +25,7 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 
 Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mudá-las a qualquer instante pelo menu de opções.
 
-* **Casual**: Pokemon selvagem não evoluem. Todos os pokemon estão em até 3 níveis abaixo da sua equipe.
+* **Casual**: Pokemon selvagem não evoluem. Você não perde dinheiro depois de ser derrotado. Todos os pokemon estão em até 3 níveis abaixo da sua equipe.
 * **Balanceado**: Essa é a dificuldade recomendada para a primeira vez. Treinadores usam pokemon entre 1 nível abaixo e até 2 níveis acima da sua equipe. Pokemon selvagem estão em até 3 níveis abaixo da sua equipe.
 * **Difícil**: Você só pode usar o [estilo de batalha](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) "set" em vez do "switch". Todos os pokemon estão entre 1 e 3 níveis acima da sua equipe.
 

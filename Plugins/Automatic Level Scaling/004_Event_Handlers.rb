@@ -9,9 +9,15 @@ Events.onWildPokemonCreate += proc { |_sender, e|
   id = pbGet(LevelScalingSettings::WILD_VARIABLE)
   if id != 0
     AutomaticLevelScaling.setDifficulty(id)
-    if id == 1
+
+    case pbGet(LevelScalingSettings::TRAINER_VARIABLE)
+    when 1
       AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
+      $game_switches[33] = true
+    else
+      $game_switches[33] = false
     end
+
     AutomaticLevelScaling.setNewLevel(pokemon)
   end
 }
@@ -22,7 +28,13 @@ Events.onTrainerPartyLoad += proc { |_sender, trainer|
   if trainer && id != 0
     AutomaticLevelScaling.setDifficulty(id)
 
-    if id == 3
+    case id
+    when 1
+      $game_switches[33] = true
+    when 2
+      $game_switches[33] = false
+    when 3
+      $game_switches[33] = false
       setBattleRule("setStyle")
     end
 
