@@ -53,17 +53,11 @@ DiegoWT
 Gen 4 and 5 Trainer sprites:
 Mr. Gela/theo#7722
 
-Team Plasma Grunt OW(male and female)
-PurpleZaffre
-
 Team Plasma battle sprites
 xxxSnow
 
 Team Plasma grunt with Articuno wings
 Kobi2604
-
-Shadow Trial trainer sprites
-Skeizerr
 
 Hex trainer battle sprite
 Bombbity
