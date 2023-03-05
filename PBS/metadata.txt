@@ -359,9 +359,15 @@ Dungeon = false
 #-------------------------------
 [039]
 # Clube de Hikers
-Outdoor = true
+Outdoor = false
 ShowArea = true
+Bicycle = false
+BicycleAlways = false
 MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 MapSize = 2,11
 #-------------------------------
 [040]
@@ -667,6 +673,10 @@ ShowArea = false
 Bicycle = false
 BicycleAlways = false
 MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
 TrainerBattleBGM = Hops Battle Theme Remix.mp3
 #-------------------------------
 [077]
@@ -796,3 +806,14 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+#-------------------------------
+[098]
+# Sala do líder
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
