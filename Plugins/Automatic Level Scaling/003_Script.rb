@@ -76,6 +76,7 @@ class AutomaticLevelScaling
   end
 
   def self.setNewStage(pokemon)
+    original_species = pokemon.species
     form = pokemon.form   # regional form
     stage = 0             # evolution stage
 
@@ -129,6 +130,12 @@ class AutomaticLevelScaling
 
             else                            # Species with multiple possible evolutions
               pokemon.species = evolutions[rand(0, evolutions.length - 1)][0]
+              # Checks for the evolution defined in the PBS
+              for evolution in evolutions do
+                if evolution[0] == original_species
+                  pokemon.species = evolution[0]
+                end
+              end
             end
           end
         end
