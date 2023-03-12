@@ -8,7 +8,7 @@
 
 TOWN = ["town"]
 
-CITY = ["Nimbasa", "Castelia"]
+CITY = ["Nimbasa", "Castelia", "Street"]
 
 ROUTE = ["Rota"]
 
@@ -22,7 +22,7 @@ FOREST = ["forest" , "grove"]
 
 CAVE = ["Caverna", "Relic"]
 
-PORT = ["port", "harbor"]
+PORT = ["Piers"]
 
 DESERT = ["Desert"]
 
