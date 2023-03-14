@@ -14,7 +14,7 @@ In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has travele
 
 ## Features
 
-* **A different story**, Focused on the exploration of detailed cities and routes and the people that live on them.
+* **A different story**, focused on the exploration of detailed cities and routes and the people that live on them.
 * **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
 * **Wild pokemon and trainers automatic level scaling**.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
@@ -40,7 +40,7 @@ You can choose between 3 difficulty options after the end of the prologue chapte
 ### Plugin features
 
 * **Quests System**, which shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
-* **A system that shows available pokemon in the route**, and which ones were already captured or seen. Using [Encounter List UI](https://reliccastle.com/resources/658/).
+* **Encounter List UI**, showing available pokemon in the route and which ones were already captured. Using [Encounter List UI](https://reliccastle.com/resources/658/).
 * **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).
 * **Offline Wonder Trade**, you can also spend money to scale the pokemon level to your party. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
 * **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
