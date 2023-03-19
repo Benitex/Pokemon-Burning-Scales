@@ -343,7 +343,7 @@ class PokemonOption_Scene
          proc { $PokemonSystem.battlescene },
          proc { |value| $PokemonSystem.battlescene = value }
        ),
-       EnumOption.new(_INTL("Difficulty"),[_INTL("Easy"),_INTL("Medium"),_INTL("Hard")],
+       EnumOption.new(_INTL("Difficulty"),[_INTL("Casual"),_INTL("Balanced"),_INTL("Hard")],
          proc { $PokemonSystem.difficulty },
          proc { |value|
           $PokemonSystem.difficulty = value
