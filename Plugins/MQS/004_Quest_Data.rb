@@ -388,4 +388,18 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest30 = {
+    :ID => "30",
+    :Name => "Infestação de Vibravas",
+    :QuestGiver => "Hiker",
+    :Stage1 => "Derrote 7 vibravas",
+    :Stage2 => "Converse com o hiker",
+    :Stage3 => "Receba a recompensa com o Líder",
+    :Location1 => "Desert Resort",
+    :Location2 => "Clube de Hikers",
+    :Location3 => "Clube de Hikers",
+    :QuestDescription => "Está acontecendo uma superpopulação de Vibravas no sudoeste no Desert Resort e um dos hikers do clube me pediu para resolver esse problema.",
+    :RewardString => "nil"
+  }
+
 end
