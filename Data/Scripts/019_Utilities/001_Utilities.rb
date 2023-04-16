@@ -598,21 +598,37 @@ end
 
 # Toca o cry de um pokemon selvagem e inicia uma batalha.
 def pbStaticPokemonBattle(species, canRun = true, canLose = false)
-  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false) # desabilita a evolução automática momentaneamente
+  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
   Pokemon.play_cry(species)
   pbWildBattle(species, 1, 1, canRun, canLose)
 end
 
 # Toca o cry de um pokemon selvagem e inicia uma batalha no modo boss do EBDX.
 def pbStaticBossBattle(species, partySize = 6, canCatch = true)
-  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false) # desabilita a evolução automática momentaneamente
+  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
   Pokemon.play_cry(species)
+
+  difficulty = pbGet(LevelScalingSettings::WILD_VARIABLE)
+  pbSet(LevelScalingSettings::WILD_VARIABLE, 0)
+
+  levelIncrease = 0
+  case pbGet(LevelScalingSettings::TRAINER_VARIABLE)
+  when 1
+    levelIncrease = 5
+  when 2
+    levelIncrease = 10
+  else
+    levelIncrease = 20
+  end
+
   EliteBattle.bossBattle(
     species,
-    AutomaticLevelScaling.getScaledLevel,
+    AutomaticLevelScaling.getScaledLevel + levelIncrease,
     partySize,
     canCatch
   )
+
+  pbSet(LevelScalingSettings::WILD_VARIABLE, difficulty)
 end
 
 # Ativa o efeito do HM Flash.
