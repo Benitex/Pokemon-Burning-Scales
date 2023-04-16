@@ -402,4 +402,18 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest31 = {
+    :ID => "31",
+    :Name => "Wailord na praia",
+    :QuestGiver => "Marujo hiker",
+    :Stage1 => "Encontre e derrote o wailord",
+    :Stage2 => "Converse com o marinheiro",
+    :Stage3 => "Receba a recompensa com o Líder",
+    :Location1 => "Desert Resort",
+    :Location2 => "Clube de Hikers",
+    :Location3 => "Clube de Hikers",
+    :QuestDescription => "No Clube dos Hikers, um marinheiro me contou sobre um wailord que encontrou na pequena praia da Rota 4. Ele me pediu para derrotar esse wailord, que está assustando os banhistas.",
+    :RewardString => "nil"
+  }
+
 end
