@@ -40,17 +40,20 @@ class AutomaticLevelScaling
   end
 
   def self.setNewLevel(pokemon, difference_from_average = 0)
-    # Checks for only_scale_if_higher and only_scale_if_lower
-    higher_level_block = @@settings[:only_scale_if_higher] && pokemon.level > new_level
-    lower_level_block = @@settings[:only_scale_if_lower] && pokemon.level < new_level
-    unless higher_level_block || lower_level_block
-      pokemon.level = AutomaticLevelScaling.getScaledLevel
+    new_level = AutomaticLevelScaling.getScaledLevel
 
+    # Checks for only_scale_if_higher and only_scale_if_lower
+    is_blocked_by_higher_level = @@settings[:only_scale_if_higher] && pokemon.level > new_level
+    is_blocked_by_lower_level = @@settings[:only_scale_if_lower] && pokemon.level < new_level
+
+    unless is_blocked_by_higher_level || is_blocked_by_lower_level
       # Proportional scaling
       if @@settings[:proportional_scaling]
-        level = pokemon.level + difference_from_average
-        pokemon.level = level.clamp(1, GameData::GrowthRate.max_level)
+        new_level += difference_from_average
+        new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
       end
+
+      pokemon.level = new_level
 
       # Evolution part
       AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
