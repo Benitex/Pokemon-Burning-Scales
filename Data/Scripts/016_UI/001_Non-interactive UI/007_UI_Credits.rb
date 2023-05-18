@@ -144,6 +144,9 @@ Lichenprincess
 SwSh Item Icon pack
 RandomTalkingBush, AiurJordan, TechSkylander1518
 
+Screen's Updated Mining Resources
+Screen Lady
+
 Gen 8 move animation project
 Project lead by StCooler.
 Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
