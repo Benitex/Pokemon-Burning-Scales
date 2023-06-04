@@ -398,7 +398,7 @@ module QuestModule
     :Location1 => "Desert Resort",
     :Location2 => "Clube de Hikers",
     :Location3 => "Clube de Hikers",
-    :QuestDescription => "Está acontecendo uma superpopulação de Vibravas no sudoeste no Desert Resort e um dos hikers do clube me pediu para resolver esse problema.",
+    :QuestDescription => "Está acontecendo uma superpopulação de Vibravas no sudoeste no Desert Resort e um dos hikers do Clube me pediu para resolver esse problema.",
     :RewardString => "nil"
   }
 
@@ -416,4 +416,13 @@ module QuestModule
     :RewardString => "nil"
   }
 
+  Quest32 = {
+    :ID => "32",
+    :Name => "Registrando a Rota 4",
+    :QuestGiver => "Hiker idoso",
+    :Stage1 => "Capture todas as espécies da Rota 4",
+    :Location1 => "Rota 4",
+    :QuestDescription => "Um senhor no Clube de Hikers me pediu para registrar todos as espécies que habitam na Rota 4. Devo capturar todos os pokemon e mostrar para o Chefe seus registros.",
+    :RewardString => "nil"
+  }
 end
