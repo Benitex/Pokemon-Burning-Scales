@@ -37,6 +37,7 @@
 Events.onStepTaken += proc {
   if $game_switches[98]
     $Trainer.autosave_steps = 0 if !$Trainer.autosave_steps
+    next if $PokemonGlobal.sliding
     $Trainer.autosave_steps += 1
     if $Trainer.autosave_steps >= 100
       echo("Autosaving...")
@@ -188,6 +189,7 @@ module SaveData
       echoln ' done.'
     end
     echoln '' if conversions_to_run.length > 0
+    echoln "All save file conversions applied successfully"
     save_data[:essentials_version] = Essentials::VERSION
     save_data[:game_version] = Settings::GAME_VERSION
     return true
@@ -289,7 +291,6 @@ class PokemonLoadScreen
       end
       commands[cmd_new_game = commands.length]  = _INTL('New Game')
       commands[cmd_controls = commands.length]   = _INTL('Controls')
-      commands[cmd_options = commands.length]   = _INTL('Options') if false
       commands[cmd_language = commands.length]  = _INTL('Language') if Settings::LANGUAGES.length >= 2
       commands[cmd_debug = commands.length]     = _INTL('Debug') if $DEBUG
       commands[cmd_quit = commands.length]      = _INTL('Quit Game')
