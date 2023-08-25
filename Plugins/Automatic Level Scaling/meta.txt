@@ -1,5 +1,5 @@
 Name         = Automatic Level Scaling
-Version      = 1.4.4
+Version      = 1.4.5
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
 #===============================================================================
@@ -41,11 +41,10 @@ Credits      = Benitex, Joltik, Umbreon
 # 
 # Creating new difficulties:
 # 
-# There are three pre-defined difficulties, but you can add your own new ones by using 
-# the function "Difficulty.new(id, random_increase, fixed_increase)"
-#   "id" is the value that you use to select the difficulty in "TRAINER_VARIABLE" or "WILD_VARIABLE"
-#   "fixed_increase" is a pre-defined value that increases the pokemon level (optional)
-#   "random_increase" is a randomly selected value between 0 and the value provided (optional)
+# There are three pre-defined difficulties, but you can add your own new ones by using the function 
+# "Difficulty.new(random_increase, fixed_increase)" in the DIFFICULTIES Hash in `Settings.rb`.
+#   "fixed_increase" is a pre-defined value that increases the pokemon level
+#   "random_increase" is a randomly selected value between 0 and the value provided
 # Note that these variables can also store negative values. 
 # Setting them to 0 would have the same effect of calling "pbBalancedLevel($player.party)" 
 # and removing two from the avarage.

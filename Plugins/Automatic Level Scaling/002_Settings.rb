@@ -24,16 +24,16 @@ module LevelScalingSettings
   ONLY_SCALE_IF_HIGHER = false   # The script will only scale levels if the player is overleveled
   ONLY_SCALE_IF_LOWER = false    # The script will only scale levels if the player is underleveled
 
-  # You can add your own difficulties here, using the function "Difficulty.new(id, fixed_increase, random_increase)"
-  #   "id" is the value stored in TRAINER_VARIABLE or WILD_VARIABLE, defines the active difficulty
-  #   "fixed_increase" is a pre defined value that increases the level (optional)
-  #   "random_increase" is a randomly selected value between 0 and the value provided (optional)
-  # (These variables can also store negative values)
-  DIFICULTIES = [
-    Difficulty.new(id: 1, fixed_increase: -3, random_increase: 3),
-    Difficulty.new(id: 2, fixed_increase: -1, random_increase: 3),
-    Difficulty.new(id: 3, fixed_increase: 1, random_increase: 2),
-  ]
+  # You can add your own difficulties in the following Hash, using the function "Difficulty.new(fixed_increase, random_increase)"
+  #   "fixed_increase" is a pre defined value that increases the level
+  #   "random_increase" is a randomly selected value between 0 and the value provided
+  # Each difficulty has an index in the Hash, which represents the difficulty
+  # You can change the active difficulty by updating TRAINER_VARIABLE or WILD_VARIABLE according to these indexes
+  DIFFICULTIES = {
+    1 => Difficulty.new(random_increase: -3),                     # Easy
+    2 => Difficulty.new(fixed_increase: -1, random_increase: 3),  # Medium
+    3 => Difficulty.new(fixed_increase: 1, random_increase: 2),   # Hard
+  }
 
   # You can insert the first stage of a custom regional form here
   # Pokemon not included in this array will have their evolution selected randomly among all their possible forms
