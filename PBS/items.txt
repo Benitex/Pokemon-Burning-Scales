@@ -821,6 +821,6 @@
 # Custom items
 #-------------------------------
 799,EXPALL,Exp Share,Exp Shares,8,0,"TURNED ON. Gives all Pokémon in your party Exp. Points even without battling.",2,0,6,
-900,EXPALLOFF,Exp Share,Exp Shares,8,0,"TURNED OFF. Gives all Pokémon in your party Exp. Points even without battling.",2,0,6,
-901,OCULOSESTRANHOS,Oculos estranhos,Oculos estranhos,8,0,"Oculos com formato um tanto peculiar, encontrados em uma casa na Rota 4.",0,0,6,
-902,ONIXDEBRINQUEDO,Onix de brinquedo,Brinquedos de Onix,8,0,"Um brinquedo no formato de um Onix, encontrado no caminho para o Desert Resort.",0,0,6,
+800,EXPALLOFF,Exp Share,Exp Shares,8,0,"TURNED OFF. Gives all Pokémon in your party Exp. Points even without battling.",2,0,6,
+801,OCULOSESTRANHOS,Oculos estranhos,Oculos estranhos,8,0,"Oculos com formato um tanto peculiar, encontrados em uma casa na Rota 4.",0,0,6,
+802,ONIXDEBRINQUEDO,Onix de brinquedo,Brinquedos de Onix,8,0,"Um brinquedo no formato de um Onix, encontrado no caminho para o Desert Resort.",0,0,6,

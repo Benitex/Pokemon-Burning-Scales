@@ -33,7 +33,7 @@ Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mu
 
 * **Tabela com a localização dos pokemon**, você pode baixar a tabela com a forma de conseguir cada pokemon [nesse link](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Modo de IVs perfeitas** (opcional).
-* **Grind de EVs facilitado**, existe a opção de maximizar EVs ao derrotar determinados treinadores, também é possível aumentar com vitaminas mais baratas.
+* **Grind de EVs facilitado**, usando vitaminas baratas.
 
 ### Features por plugins
 

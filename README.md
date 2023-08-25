@@ -35,7 +35,7 @@ You can choose between 3 difficulty options after the end of the prologue chapte
 
 * **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 * **Perfect IVs mode** (optional).
-* **Super easy EV grind**, with the option to maximize EVs by defeating certain trainers or using cheaper vitamins.
+* **Super easy EV grind**, by using cheap vitamins.
 
 ### Plugin features
 
