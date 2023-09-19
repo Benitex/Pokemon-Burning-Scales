@@ -98,7 +98,7 @@ class PokeBattle_Battle
   end
 
   def pbItemMenu(idxBattler,firstAction)
-    if !@internalBattle
+    if !@internalBattle || (@opponent && pbGet(LevelScalingSettings::TRAINER_VARIABLE) == 3)
       pbDisplay(_INTL("Items can't be used here."))
       return false
     end

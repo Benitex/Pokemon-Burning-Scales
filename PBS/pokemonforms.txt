@@ -2817,6 +2817,8 @@ BattlerShadowSize = 3
 #-------------------------------
 [SCEPTILE,2]
 FormName = Pandemonio
+Abilities = PROTEAN
+BaseStats = 70,105,65,120,85,85
 #-------------------------------
 [ABSOLP,1]
 FormName = Mega Absol

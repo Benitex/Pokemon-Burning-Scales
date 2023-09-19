@@ -335,7 +335,6 @@ Pokemon = FRILLISH,21
 Pokemon = CLAMPERL,21
 #-------------------------------
 [LEADER_Giovanni,Giovanni]
-Items = SUPERPOTION
 LoseText = "Como nos velhos tempos."
 Pokemon = NIDORINO,22
     Moves = PECK,POISONSTING,DOUBLEKICK,FURYATTACK
@@ -348,7 +347,6 @@ Pokemon = NIDORINA,22
     Moves = DOUBLEKICK,TAILWHIP,POISONSTING,FURYSWIPES
 #-------------------------------
 [LEADER_Giovanni,Giovanni,1]
-Items = POTION
 LoseText = "Como nos velhos tempos."
 Pokemon = NIDORANmA,22
 Pokemon = RHYHORN,21
@@ -356,7 +354,6 @@ Pokemon = RHYHORN,21
 Pokemon = NIDORANfE,22
 #-------------------------------
 [POKEMONTRAINER_Albert,Albert]
-Items = SUPERPOTION
 LoseText = "Não esperava encontrar alguém tão forte..."
 Pokemon = MEDITITE,22
     Moves = FORCEPALM,ICEPUNCH,CONFUSION,DETECT
@@ -370,7 +367,6 @@ Pokemon = COMBUSKEN,23
     Moves = FLAMECHARGE,PECK,SCRATCH,SANDATTACK
 #-------------------------------
 [POKEMONTRAINER_Albert,Albert,1]
-Items = POTION
 LoseText = "Não esperava encontrar alguém tão forte..."
 Pokemon = PIGNITE,23
 Pokemon = HARIYAMA,24
@@ -399,7 +395,6 @@ Pokemon = TIMBURR,25
 Pokemon = KROKOROK,25
 #-------------------------------
 [CHAMPION_Anna,Anna]
-Items = SUPERPOTION
 LoseText = "Não acredito nisso!"
 Pokemon = ABSOLP,27
     Moves = THUNDERFANG,TAUNT,QUICKATTACK,SWORDSDANCE
@@ -412,7 +407,6 @@ Pokemon = WHIRLIPEDE,25
     Moves = POISONTAIL,BUGBITE,ROLLOUT,PROTECT
 #-------------------------------
 [CHAMPION_Anna,Anna,1]
-Items = POTION
 LoseText = "Não acredito nisso!"
 Pokemon = ABSOLP,25
     Item = ABSOLITE
@@ -544,7 +538,6 @@ Pokemon = KROKOROK,23
 Pokemon = MIGHTYENA,23
 #-------------------------------
 [BIKERBOSS,Chefe dos Motoqueiros]
-Items = SUPERPOTION
 LoseText = "Não. Não. Nãoooooooo!"
 Pokemon = CRAWDAUNT,25
 Pokemon = OBSTAGOON,25
@@ -555,7 +548,6 @@ Pokemon = MORGREM,25
 Pokemon = SCOLIPEDE,25
 #-------------------------------
 [POKEMONTRAINER_Jasmine,Jasmine]
-Items = SUPERPOTION
 LoseText = "Ai... Não!"
 Pokemon = ARCANINE,25
 Pokemon = STOUTLAND,25
@@ -563,7 +555,6 @@ Pokemon = SWANNA,25
 Pokemon = STARAPTOR,25
 #-------------------------------
 [BIKERLEADER,Líder dos Motoqueiros]
-Items = SUPERPOTION
 LoseText = "Uma vitória, realmente."
 Pokemon = DUGTRIOP,25
 Pokemon = MANDIBUZZ,25
@@ -742,3 +733,41 @@ Pokemon = MANTINE,20
 Pokemon = CRYOGONAL,20
 Pokemon = ARAQUANID,20
 Pokemon = UMBREON,20
+#-------------------------------
+# Relic Castle
+#-------------------------------
+[CHAMPION_Anna,Anna,2]
+LoseText = "..."
+Pokemon = SCOLIPEDE,50
+    Item = FOCUSSASH
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Moves = POISONJAB,EARTHQUAKE,ENDEAVOR,SPIKES
+Pokemon = SEISMITOAD,50
+    Item = LEFTOVERS
+    Nature = IMPISH
+    EV = 252,0,192,64,0,0
+    Moves = SCALD,KNOCKOFF,TOXIC,STEALTHROCK
+Pokemon = ABSOLP,50
+    Item = ABSOLITE
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Moves = VOLTTACKLE,PLAYROUGH,KNOCKOFF,SUCKERPUNCH
+Pokemon = SCEPTILE,25
+    Form = 2
+    Item = LIFEORB
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Moves = LEAFBLADE,XSCISSOR,EARTHQUAKE,ROCKSLIDE
+Pokemon = NINETALES,50
+    Item = ICYROCK
+    Form = 1
+    Nature = TIMID
+    EV = 252,0,0,252,4,0
+    Moves = MOONBLAST,BLIZZARD,HYPNOSIS,AURORAVEIL
+Pokemon = VOLCARONAP,50
+    Item = HEAVYDUTYBOOTS
+    AbilityIndex = 0
+    Nature = MODEST
+    EV = 0,0,4,252,252,0
+    Moves = BLIZZARD,FIERYDANCE,PSYCHIC,GIGADRAIN

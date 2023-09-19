@@ -29,7 +29,7 @@ You can choose between 3 difficulty options after the end of the prologue chapte
 
 * **Casual**: Wild pokemon don't evolve. You don't lose money after being defeated. All pokemon are up to 3 levels below your team.
 * **Balanced**: This is the recommended difficulty for first playthroughs. Trainer's pokemon are between 1 level below and 2 levels above your team. Wild pokemon are up to 3 below your team.
-* **Hard**: You can only use the "set" [battle style](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) instead of "switch". All pokemon are from 1 to 3 levels above your team.
+* **Hard**: You can only use the "set" [battle style](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) instead of "switch". You can't use items during trainer battles. All pokemon are up to 3 levels above the average of your team.
 
 ### Quality of life
 
