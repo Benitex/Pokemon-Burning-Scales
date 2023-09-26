@@ -121,8 +121,8 @@ Mr. Gela/theo#7722
 Team Plasma battle sprites
 xxxSnow
 
-Team Plasma grunt with Articuno wings
-Kobi2604
+Ryoku trainer sprite
+flashcs
 
 Hex trainer battle sprite
 Bombbity

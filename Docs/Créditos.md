@@ -39,7 +39,7 @@ vazquinho - Casino Tiles, Castelia Game Corner
 Hek-el-grande - Relic tiles, New pallete :3
 Ulithium_Dragon - Ultra Wormhole
 
-### Character OWs
+### Characters
 
 Gen 4 OW Sprites by:
 Neo-Spriteman
@@ -56,8 +56,8 @@ Mr. Gela/theo#7722
 Team Plasma battle sprites
 xxxSnow
 
-Team Plasma grunt with Articuno wings
-Kobi2604
+Ryoku trainer sprite
+flashcs
 
 Hex trainer battle sprite
 Bombbity
