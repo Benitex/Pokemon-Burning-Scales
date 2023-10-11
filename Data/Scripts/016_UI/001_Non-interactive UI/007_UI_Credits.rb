@@ -205,6 +205,7 @@ Relic Castle – Relic Castle Entrance, B1F, B2F
 Lookers Theme – Search for the girl questline
 Unwavering Emotions - Storyteller theme
 Dreamyard - Castelia Greenhouse
+Cascarrafa - Election Clubs
 
 GlitchxCity
 Rival Bede – Nimbasa trainers

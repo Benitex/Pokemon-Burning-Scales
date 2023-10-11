@@ -57,4 +57,4 @@ Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mu
 
 ## Creditos
 
-Veja os créditos detalhados [aqui](Créditos.md).
+Veja os créditos detalhados [aqui](Credits.md).

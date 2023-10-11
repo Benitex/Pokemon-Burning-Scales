@@ -59,4 +59,4 @@ You can choose between 3 difficulty options after the end of the prologue chapte
 
 ## Credits
 
-You can read the detailed credits [here](Docs/Créditos.md).
+You can read the detailed credits [here](Docs/Credits.md).
