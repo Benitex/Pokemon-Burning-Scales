@@ -4,7 +4,7 @@
 #===============================================================================
 
 class AutomaticLevelScaling
-  @@selectedDifficulty = Difficulty.new
+  @@selected_difficulty = Difficulty.new
   @@settings = {
     temporary: false,
     automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS,
@@ -16,12 +16,15 @@ class AutomaticLevelScaling
     only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER,
     update_moves: true
   }
+  def self.settings
+    return @@settings
+  end
 
   def self.setDifficulty(id)
     if LevelScalingSettings::DIFFICULTIES[id] == nil
       raise _INTL("No difficulty with id \"{1}\" was provided in the DIFFICULTIES Hash of Settings.", id)
     else
-      @@selectedDifficulty = LevelScalingSettings::DIFFICULTIES[id]
+      @@selected_difficulty = LevelScalingSettings::DIFFICULTIES[id]
     end
   end
 
@@ -29,11 +32,11 @@ class AutomaticLevelScaling
     level = pbBalancedLevel($Trainer.party) - 2 # pbBalancedLevel increses level by 2 to challenge the player
 
     # Difficulty modifiers
-    level += @@selectedDifficulty.fixed_increase
-    if @@selectedDifficulty.random_increase < 0
-      level += rand(@@selectedDifficulty.random_increase..0)
-    elsif @@selectedDifficulty.random_increase > 0
-      level += rand(@@selectedDifficulty.random_increase)
+    level += @@selected_difficulty.fixed_increase
+    if @@selected_difficulty.random_increase < 0
+      level += rand(@@selected_difficulty.random_increase..0)
+    elsif @@selected_difficulty.random_increase > 0
+      level += rand(@@selected_difficulty.random_increase)
     end
 
     level = level.clamp(1, GameData::GrowthRate.max_level)
@@ -47,37 +50,21 @@ class AutomaticLevelScaling
     # Checks for only_scale_if_higher and only_scale_if_lower
     is_blocked_by_higher_level = @@settings[:only_scale_if_higher] && pokemon.level > new_level
     is_blocked_by_lower_level = @@settings[:only_scale_if_lower] && pokemon.level < new_level
+    return if is_blocked_by_higher_level || is_blocked_by_lower_level
 
-    unless is_blocked_by_higher_level || is_blocked_by_lower_level
-      # Proportional scaling
-      if @@settings[:proportional_scaling]
-        new_level += difference_from_average
-        new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
-      end
-
-      pokemon.level = new_level
-
-      # Evolution part
-      AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
-
-      pokemon.calc_stats
-      pokemon.reset_moves if @@settings[:update_moves]
+    # Proportional scaling
+    if @@settings[:proportional_scaling]
+      new_level += difference_from_average
+      new_level = new_level.clamp(1, GameData::GrowthRate.max_level)
     end
 
-    # Settings reset
-    if @@settings[:temporary]
-      @@settings = {
-        temporary: false,
-        automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS,
-        include_previous_stages: LevelScalingSettings::INCLUDE_PREVIOUS_STAGES,
-        first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL,
-        second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL,
-        proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING,
-        only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER,
-        only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER,
-        update_moves: true
-      }
-    end
+    pokemon.level = new_level
+
+    # Evolution part
+    AutomaticLevelScaling.setNewStage(pokemon) if @@settings[:automatic_evolutions]
+
+    pokemon.calc_stats
+    pokemon.reset_moves if @@settings[:update_moves]
   end
 
   def self.setNewStage(pokemon)
@@ -94,23 +81,23 @@ class AutomaticLevelScaling
       end
     end
 
-    regionalForm = false
+    is_regional_form = false
     for species in LevelScalingSettings::POKEMON_WITH_REGIONAL_FORMS do
-      regionalForm = true if pokemon.isSpecies?(species)
+      is_regional_form = true if pokemon.isSpecies?(species)
     end
 
     (2 - stage).times do |_|
       evolutions = GameData::Species.get(pokemon.species).get_evolutions
 
       # Checks if the species only evolve by level up
-      other_evolving_method = false
+      has_other_evolving_method = false
       evolutions.length.times { |i|
         if evolutions[i][1] != :Level
-          other_evolving_method = true
+          has_other_evolving_method = true
         end
       }
 
-      unless other_evolving_method || regionalForm  # Species that evolve by level up
+      unless has_other_evolving_method || is_regional_form  # Species that evolve by level up
         if pokemon.check_evolution_on_level_up != nil
           pokemon.species = pokemon.check_evolution_on_level_up
         end
@@ -122,10 +109,10 @@ class AutomaticLevelScaling
         if pokemon.level >= level
           if evolutions.length == 1         # Species with only one possible evolution
             pokemon.species = evolutions[0][0]
-            pokemon.setForm(form) if regionalForm
+            pokemon.setForm(form) if is_regional_form
 
           elsif evolutions.length > 1
-            if regionalForm
+            if is_regional_form
               if form >= evolutions.length  # regional form
                 pokemon.species = evolutions[0][0]
                 pokemon.setForm(form)
@@ -184,5 +171,27 @@ class AutomaticLevelScaling
     when "onlyScaleIfLower"
       @@settings[:only_scale_if_lower] = value
     end
+  end
+
+  def self.setSettings(
+    temporary: false,
+    update_moves: true,
+    automatic_evolutions: LevelScalingSettings::AUTOMATIC_EVOLUTIONS,
+    include_previous_stages: LevelScalingSettings::INCLUDE_PREVIOUS_STAGES,
+    proportional_scaling: LevelScalingSettings::PROPORTIONAL_SCALING,
+    first_evolution_level: LevelScalingSettings::DEFAULT_FIRST_EVOLUTION_LEVEL,
+    second_evolution_level: LevelScalingSettings::DEFAULT_SECOND_EVOLUTION_LEVEL,
+    only_scale_if_higher: LevelScalingSettings::ONLY_SCALE_IF_HIGHER,
+    only_scale_if_lower: LevelScalingSettings::ONLY_SCALE_IF_LOWER
+  )
+    @@settings[:temporary] = temporary
+    @@settings[:update_moves] = update_moves
+    @@settings[:first_evolution_level] = first_evolution_level
+    @@settings[:second_evolution_level] = second_evolution_level
+    @@settings[:proportional_scaling] = proportional_scaling
+    @@settings[:automatic_evolutions] = automatic_evolutions
+    @@settings[:include_previous_stages] = include_previous_stages
+    @@settings[:only_scale_if_higher] = only_scale_if_higher
+    @@settings[:only_scale_if_lower] = only_scale_if_lower
   end
 end
