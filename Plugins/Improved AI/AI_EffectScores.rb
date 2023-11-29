@@ -55,6 +55,7 @@ class PokeBattle_AI
           score += 40 if m.function == "TwoTurnAttackOneTurnInSun"
         end
         
+        score += 60 if user.item == :HEATROCK
         score += 40 if user.ability == :CHLOROPHYLL || user.ability == :FLOWERGIFT || user.ability == :SOLARPOWER || user.ability == :PROTOSYNTHESIS || user.ability == :ORICHALCUMPULSE
         score += 10 if user.ability == :LEAFGUARD
         score -= 20 if user.ability == :DRYSKIN
@@ -72,6 +73,7 @@ class PokeBattle_AI
           score += 25 if m.function == "ParalyzeTargetAlwaysHitsInRainHitsTargetInSky" || m.function == "ConfuseTargetAlwaysHitsInRainHitsTargetInSky"
         end
         
+        score += 60 if user.item == :DAMPROCK
         score += 40 if user.ability == :SWIFTSWIM
         score += 20 if user.ability == :WATERDISH || user.ability == :DRYSKIN
         score += 10 if user.ability == :HYDRATION
@@ -92,6 +94,7 @@ class PokeBattle_AI
           score -= 90
         end
         
+        score += 60 if user.item == :SMOOTHROCK
         score += 40 if user.ability == :SANDRUSH || user.ability == :SANDFORCE
         score += 20 if user.ability == :SANDVEIL
       end
@@ -115,9 +118,61 @@ class PokeBattle_AI
           score -= 90
         end
         
+        score += 60 if user.item == :ICYROCK
         score += 40 if user.ability == :SLUSHRUSH
         score += 20 if user.ability == :ICEBODY || user.ability == :SNOWCLOAK
       end
+    #---------------------------------------------------------------------------
+    when "StartWeakenPhysicalDamageAgainstUserSide"
+    if user.pbOwnSide.effects[PBEffects::Reflect] > 0
+      score -= 90
+    elsif user.item == :LIGHTCLAY
+      score += 70
+    end
+    #---------------------------------------------------------------------------
+    when "StartWeakenSpecialDamageAgainstUserSide"
+    if user.pbOwnSide.effects[PBEffects::LightScreen] > 0
+      score -= 90
+    elsif user.item == :LIGHTCLAY
+      score += 70
+    end
+    #---------------------------------------------------------------------------
+    when "StartWeakenDamageAgainstUserSideIfHail"
+      if user.pbOwnSide.effects[PBEffects::AuroraVeil] > 0 || user.effectiveWeather != :Hail
+        score -= 90
+      elsif user.item == :LIGHTCLAY
+        score += 110
+      else
+        score += 40
+      end
+    #---------------------------------------------------------------------------
+    when "StartElectricTerrain"
+        if @battle.field.terrain == :Electric
+          score -= 90
+        elseif user.item == :TERRAINEXTENDER
+          score += 70
+        end
+    #---------------------------------------------------------------------------
+    when "StartGrassyTerrain"
+        if @battle.field.terrain == :Grassy
+          score -= 90
+        elseif user.item == :TERRAINEXTENDER
+          score += 70
+        end
+    #---------------------------------------------------------------------------
+    when "StartMistyTerrain"
+        if @battle.field.terrain == :Misty
+          score -= 90
+        elseif user.item == :TERRAINEXTENDER
+          score += 70
+        end
+    #---------------------------------------------------------------------------
+    when "StartPsychicTerrain"
+        if @battle.field.terrain == :Psychic
+          score -= 90
+        elseif user.item == :TERRAINEXTENDER
+          score += 70
+        end
     #---------------------------------------------------------------------------
     else
       return improvedAI_pbGetMoveScoreFunctionCode(score, move, user, target, skill)

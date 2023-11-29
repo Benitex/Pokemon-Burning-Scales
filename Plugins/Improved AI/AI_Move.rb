@@ -185,7 +185,11 @@ class PokeBattle_AI
     damagePercentage += 40 if damagePercentage > 100   # Prefer moves likely to be lethal
     score += damagePercentage.to_i
     # prefer super effective moves
-    score += pbCalcTypeLinear(move.type, user, target) * 13
+    if skill >= PBTrainerAI.highSkill
+      score += pbCalcTypeLinear(move.type, user, target) * 14
+    else
+      score += pbCalcTypeLinear(move.type, user, target) * 10
+    end
     return score
   end
 end
