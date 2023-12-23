@@ -1,4 +1,4 @@
 Name         = Improved AI
-Version      = 1.2.1
+Version      = 1.2.2
 Optional     = Generation 9 Pack
 Credits      = KRLW890
