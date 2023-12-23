@@ -10,26 +10,26 @@ For now, Pokemon Burning Scales is only available in Portuguese. I plan to start
 
 ## Story
 
-In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms.
+In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms, while you also get to know many characters and their intriguing stories.
 
 ## Features
 
 * **A different story**, focused on the exploration of detailed cities and routes and the people that live on them.
-* **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
-* **Wild pokemon and trainers automatic level scaling**.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
+* **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
+* **Wild pokemon and trainers automatic level scaling**.
 * **Pokemon walking on the routes**.
 * **Different pokemon on routes depending on the time of the day**.
-* **A handful of pokemon with altered forms**.
+* **Some pokemon with altered forms**.
 
 ### Difficulty Options
 
 You can choose between 3 difficulty options after the end of the prologue chapter and select another one at any moment in the options menu.
 
-* **Casual**: Wild pokemon don't evolve. You don't lose money after being defeated. All pokemon are up to 3 levels below your team.
-* **Balanced**: This is the recommended difficulty for first playthroughs. Trainer's pokemon are between 1 level below and 2 levels above your team. Wild pokemon are up to 3 below your team.
-* **Hard**: Forced "set" mode. Items can't be used during trainer battles. All pokemon are up to 3 levels above the average of your team.
+* **Casual**: Wild pokemon don't evolve. You don't lose money after being defeated. All pokemon are some levels below your team.
+* **Balanced**: This is the recommended difficulty for first playthroughs, a little bit harder than the original games. Trainers' pokemon are around the level of your team and wild pokemon are some levels below.
+* **Hard**: A harder difficulty for experienced players who want more challenge. Forced "set" mode. Items can't be used during trainer battles.
 
 ### Quality of life
 

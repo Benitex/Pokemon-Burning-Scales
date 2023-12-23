@@ -8,15 +8,15 @@ Fan game de pokemon com foco em uma rica história e na exploração de um peque
 
 ## História
 
-Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pelo mundo pokemon. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, até que um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas.
+Em Pokemon Burning Scales você joga como Nathan, um treinador que já viaja pelo mundo pokemon. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, até que um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas, enquanto conhece vários personagens e suas histórias intrigantes.
 
 ## Features
 
 * **História diferente do padrão da série.** Ideal para fugir um pouco do padrão de enfrentar líderes de ginásio até enfrentar a Elite 4.
-* **Mundo aberto livre para exploração desde o início do jogo.** Apesar de não haverem muitas rotas e cidades, todas já estão disponíveis desde o início do jogo, sem enrolações.
-* **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe**.
 * **Muitas sidequests espalhadas pelo mapa** para gerar horas de conteúdos extras fora da história principal.
 * **Escolhas que impactam o resultado das quests** ou revelam informações adicionais/situações engraçadas.
+* **Mundo aberto livre para exploração desde o início do jogo.** Apesar de não haverem muitas rotas e cidades, todas já estão disponíveis desde o início do jogo, sem enrolações.
+* **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
 * **Alguns poucos pokemon com formas alteradas**.
@@ -25,9 +25,9 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viajou pe
 
 Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mudá-las a qualquer instante pelo menu de opções.
 
-* **Casual**: Pokemon selvagem não evoluem. Você não perde dinheiro depois de ser derrotado. Todos os pokemon estão em até 3 níveis abaixo da sua equipe.
-* **Balanceado**: Essa é a dificuldade recomendada para a primeira vez. Treinadores usam pokemon entre 1 nível abaixo e até 2 níveis acima da sua equipe. Pokemon selvagem estão em até 3 níveis abaixo da sua equipe.
-* **Difícil**: Você só pode usar o [estilo de batalha](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) "set" em vez do "switch". Você não pode usar items em batalhas contra treinadores. Todos os pokemon estão entre 1 e 3 níveis acima da sua equipe.
+* **Casual**: Dificuldade recomendada para quem quer jogar pela história, sem passar por muitos desafios. Pokemon selvagem não evoluem. Você não perde dinheiro depois de ser derrotado. Todos os pokemon estão alguns níveis abaixo dos da sua equipe.
+* **Balanceado**: Essa é a dificuldade recomendada para a primeira vez, um pouco mais difícil que os jogos oficiais. Treinadores usam pokemon com nível próximo ao da sua equipe e os Pokemon selvagem estão um pouco abaixo.
+* **Difícil**: Dificuldade recomendada para jogadores mais experientes. Você só pode usar o [estilo de batalha](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) "set" em vez do "switch". Você não pode usar items em batalhas contra treinadores.
 
 ### Qualidade de vida (QoL)
 
