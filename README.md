@@ -10,7 +10,7 @@ For now, Pokemon Burning Scales is only available in Portuguese. I plan to start
 
 ## Story
 
-In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms, while you also get to know many characters and their intriguing stories.
+In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms, while he also gets to know many characters and their intriguing stories.
 
 ## Features
 
