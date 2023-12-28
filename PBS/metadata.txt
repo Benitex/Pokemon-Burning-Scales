@@ -235,7 +235,6 @@ TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 MapSize = 1,11
 #-------------------------------
 [022]
-# Antigo Ginásio de Nimbasa
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -667,7 +666,7 @@ BicycleAlways = false
 MapPosition = 0,15,15
 #-------------------------------
 [075]
-# Clube secreto
+# A Taverna
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -677,7 +676,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-TrainerBattleBGM = Hops Battle Theme Remix.mp3
+TrainerBattleBGM = Marnie Remix Sword and Shield.mp3
 #-------------------------------
 [077]
 # Passagem
