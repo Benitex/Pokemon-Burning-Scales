@@ -8,16 +8,20 @@ Pokemon fan game that focuses on a rich story and the exploration of a small ope
 
 For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 
+Pokemon Burning Scales has a much stronger focus on story than the official games (approaching more of a traditional RPG in that aspect). A considerable part of the battles is optional, making each battle more impactful. You'll encounter dozens of characters who will provide interesting interactions, funny moments, and, most importantly, numerous side quests.
+
 ## Story
 
-In Pokemon Burning Scales you play as Nathan, a pokemon trainer that has traveled around the world. In the past months, he's staying in Unova, helping professor Juniper in her research about a new unknown pokemon form. But a mysterious pokemon starts to cause trouble in the southern part of Unova. Nathan, then, needs to solve this new problem while trying to understand more about the origin of these mysterious new pokemon forms, while he also gets to know many characters and their intriguing stories.
+In Pokemon Burning Scales, you play as Nathan, an experienced trainer who has traveled extensively throughout the Pokémon world and is already known to many characters. Currently, he's assisting Professor Juniper in Unova with research on an unknown form of Pokémon. However, a mysterious Pokémon begins causing chaos in the southern part of the region. Nathan must then help resolve the issue and understand more about the origin of these new mysterious Pokémon forms.
+
+The game's story unfolds at a significantly different pace from the series' standard. The game map comprises the cities of Nimbasa, Castelia, and their surroundings. Instead of traveling throughout the region, you'll explore a small map filled with interactions and side quests. This allows you to thoroughly explore each part, interact with all the characters, dive straight into the main quest, or take it bit by bit at your own pace.
 
 ## Features
 
-* **A different story**, focused on the exploration of detailed cities and routes and the people that live on them.
+* **Different storyline from the series standard**. Ideal for breaking away a bit from the standard of facing gym leaders until facing the Elite 4.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
-* **A small open world to travel.** Although there aren't many routes and cities, they are available since the beginning of the game.
+* **A small open world to travel**. All available since the beginning of the game.
 * **Wild pokemon and trainers automatic level scaling**.
 * **Pokemon walking on the routes**.
 * **Different pokemon on routes depending on the time of the day**.

@@ -6,16 +6,20 @@
 
 Fan game de pokemon com foco em uma rica história e na exploração de um pequeno mundo aberto cheio de sidequests. Feito com [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 e RPG Maker XP.
 
+Pokemon Burning Scales tem um foco na história muito maior do que nos jogos oficiais (se aproximando mais de um RPG tradicional nesse aspecto), boa parte das batalhas é opcional, tornando cada batalha mais impactante. Você vai encontrar dezenas de personagens, que vão proporcionar interações interessantes, momentos engraçados e, principalmente, várias side quests.
+
 ## História
 
-Em Pokemon Burning Scales você joga como Nathan, um treinador que já viaja pelo mundo pokemon. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, até que um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas, enquanto conhece vários personagens e suas histórias intrigantes.
+Em Pokemon Burning Scales você joga como Nathan, um treinador experiente que já viajou bastante pelo mundo pokémon, e já é conhecido por boa parte dos personagens. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, entretanto, um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas.
+
+A história do jogo acontece em um ritmo bastante diferente do padrão da série, o mapa do jogo é composto pelas cidades de Nimbasa, Castelia e seus arredores. Em vez de viajar pela região, você vai explorar um pequeno mapa recheados de interações e side quests. Então você pode explorar cada parte minuciosamente e interagir com todos os personagens, partir diretamente para a quest principal, ou fazer um pouco de cada vez, no seu próprio ritmo.
 
 ## Features
 
-* **História diferente do padrão da série.** Ideal para fugir um pouco do padrão de enfrentar líderes de ginásio até enfrentar a Elite 4.
-* **Muitas sidequests espalhadas pelo mapa** para gerar horas de conteúdos extras fora da história principal.
-* **Escolhas que impactam o resultado das quests** ou revelam informações adicionais/situações engraçadas.
-* **Mundo aberto livre para exploração desde o início do jogo.** Apesar de não haverem muitas rotas e cidades, todas já estão disponíveis desde o início do jogo, sem enrolações.
+* **História diferente do padrão da série**. Ideal para fugir um pouco do padrão de enfrentar líderes de ginásio até enfrentar a Elite 4.
+* **Muitas sidequests espalhadas pelo mapa**, gerando horas de conteúdos extras fora da história principal.
+* **Escolhas que impactam o resultado das quests**, revelam informações adicionais ou situações engraçadas.
+* **Mundo aberto livre para exploração**. Todas já disponíveis desde o início do jogo.
 * **Níveis dos pokémon selvagem e de treinadores equilibrados de acordo com a equipe**.
 * **Pokémon andando pelas rotas**.
 * **Pokémon diferente dependendo do horário do dia**.
@@ -26,7 +30,7 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador que já viaja pel
 Você pode escolher uma das 3 dificuldades a seguir após final do prólogo e mudá-las a qualquer instante pelo menu de opções.
 
 * **Casual**: Dificuldade recomendada para quem quer jogar pela história, sem passar por muitos desafios. Pokemon selvagem não evoluem. Você não perde dinheiro depois de ser derrotado. Todos os pokemon estão alguns níveis abaixo dos da sua equipe.
-* **Balanceado**: Essa é a dificuldade recomendada para a primeira vez, um pouco mais difícil que os jogos oficiais. Treinadores usam pokemon com nível próximo ao da sua equipe e os Pokemon selvagem estão um pouco abaixo.
+* **Balanceado**: Essa é a dificuldade recomendada para jogar pela primeira vez, um pouco mais difícil que os jogos oficiais. Treinadores usam pokemon com nível próximo ao da sua equipe e os Pokemon selvagem estão um pouco abaixo.
 * **Difícil**: Dificuldade recomendada para jogadores mais experientes. Você só pode usar o [estilo de batalha](https://bulbapedia.bulbagarden.net/wiki/Options#Battle_Style) "set" em vez do "switch". Você não pode usar items em batalhas contra treinadores.
 
 ### Qualidade de vida (QoL)
