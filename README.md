@@ -6,9 +6,9 @@
 
 Pokemon fan game that focuses on a rich story and the exploration of a small open world full of sidequests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
-For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
-
 Pokemon Burning Scales has a much stronger focus on story than the official games (approaching more of a traditional RPG in that aspect). A considerable part of the battles is optional, making each battle more impactful. You'll encounter dozens of characters who will provide interesting interactions, funny moments, and, most importantly, numerous side quests.
+
+For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 
 ## Story
 
@@ -16,9 +16,20 @@ In Pokemon Burning Scales, you play as Nathan, an experienced trainer who has tr
 
 The game's story unfolds at a significantly different pace from the series' standard. The game map comprises the cities of Nimbasa, Castelia, and their surroundings. Instead of traveling throughout the region, you'll explore a small map filled with interactions and side quests. This allows you to thoroughly explore each part, interact with all the characters, dive straight into the main quest, or take it bit by bit at your own pace.
 
+## Screenshots
+
+<details open>
+    <summary>Show</summary>
+    <img src="https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png" width="400"/>
+    <img src="https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png" width="400"/>
+    <img src="https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png" width="400"/>
+    <img src="https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162638956-f175a2c1-ccc4-4242-822c-3c66b4aa153a.png" width="400"/>
+    <img src="https://user-images.githubusercontent.com/64505839/162638984-516b63eb-14ce-4a41-879d-fd45ec4c07aa.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162639379-cb054aca-2507-4782-af3b-8a86d099aa0b.png" width="400"/>
+</details>
+
 ## Features
 
-* **Different storyline from the series standard**. Ideal for breaking away a bit from the standard of facing gym leaders until facing the Elite 4.
+* **Different storyline from the series standard**. Ideal for breaking away a bit from the standard of defeating all 8 gym leaders and then facing the Elite 4.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
 * **A small open world to travel**. All available since the beginning of the game.
@@ -26,20 +37,6 @@ The game's story unfolds at a significantly different pace from the series' stan
 * **Pokemon walking on the routes**.
 * **Different pokemon on routes depending on the time of the day**.
 * **Some pokemon with altered forms**.
-
-### Difficulty Options
-
-You can choose between 3 difficulty options after the end of the prologue chapter and select another one at any moment in the options menu.
-
-* **Casual**: Wild pokemon don't evolve. You don't lose money after being defeated. All pokemon are some levels below your team.
-* **Balanced**: This is the recommended difficulty for first playthroughs, a little bit harder than the original games. Trainers' pokemon are around the level of your team and wild pokemon are some levels below.
-* **Hard**: A harder difficulty for experienced players who want more challenge. Forced "set" mode. Items can't be used during trainer battles.
-
-### Quality of life
-
-* **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
-* **Perfect IVs mode** (optional).
-* **Super easy EV grind**, by using cheap vitamins.
 
 ### Plugin features
 
@@ -50,16 +47,19 @@ You can choose between 3 difficulty options after the end of the prologue chapte
 * **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
 * **Better Trainer AI**, using [Improved Battle AI](https://reliccastle.com/resources/1163/).
 
-## Screenshots
+### Quality of life
 
-<details>
-    <summary>Show</summary>
-    <img src="https://user-images.githubusercontent.com/64505839/144768048-336ded8b-f99c-48c1-ad57-e9706e8f6ceb.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768040-f444fe4a-2e4f-4f42-9ae6-fc4623a222c3.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162638956-f175a2c1-ccc4-4242-822c-3c66b4aa153a.png" width="400"/>
-    <img src="https://user-images.githubusercontent.com/64505839/162638984-516b63eb-14ce-4a41-879d-fd45ec4c07aa.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162639379-cb054aca-2507-4782-af3b-8a86d099aa0b.png" width="400"/>
-</details>
+* **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
+* **Perfect IVs mode** (optional).
+* **Super fast EV grind**, by using cheap vitamins.
+
+### Difficulty Options
+
+You can choose between 3 difficulty options after the end of the prologue chapter and select another one at any moment in the options menu.
+
+* **Casual**: Wild pokemon don't evolve. You don't lose money after being defeated. All pokemon are some levels below your team.
+* **Balanced**: This is the recommended difficulty for first playthroughs, a little bit harder than the original games. Trainers' pokemon are around the level of your team and wild pokemon are some levels below.
+* **Hard**: A harder difficulty for experienced players who want more challenge. Forced "set" mode. Items can't be used during trainer battles.
 
 ## Credits
 
