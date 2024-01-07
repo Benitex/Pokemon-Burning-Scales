@@ -233,15 +233,16 @@ Gate Remastered - Route gates
 Game Corner (Johto): Remastered - Game Corner interior
 Hoenn Game Corner: Remastered - Game Corner entrace
 
+sentsinkanteun
+Shoal Cave - Abandoned House
+Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
+Sun & Moon Iki Town Remix - Café Sonata
+Song of the Storms - Credits
+
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
 Vs. Guzma Remix - Bikers fake leader theme
 Vs Lusamine - Plasma boss battle
-
-Raushna
-Shopping Mall - Robert Theme
-Battle! Champion Lillie - Tournament oponnents
-Marnie's Theme ft. ebee – Credits
 
 Vetrom
 Battle Marnie – Bikers and cueballs
@@ -252,17 +253,16 @@ RetroSpecter
 Battle Gladion – Anna's battle theme
 Vs champion Diantha - Route 4 trainer battle
 
+Raushna
+Shopping Mall - Robert Theme
+Battle! Champion Lillie - Tournament oponnents
+
 Falkonkke
 Fur Elise - Beethoven battle
 
 Kunning Fox
 Victory is Right Before Your Eyes! - Title Screen
 Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
-
-sentsinkanteun
-Shoal Cave - Abandoned House
-Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
-Sun & Moon Iki Town Remix - Café Sonata
 
 Seii
 Route 111 RSE - Desert Resort theme
