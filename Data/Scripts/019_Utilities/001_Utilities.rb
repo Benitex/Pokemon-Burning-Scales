@@ -688,3 +688,31 @@ def getRandomGymLeader(exclude = {})
     gymLeaders.values[selectedLeader] # Trainer name
   ]
 end
+
+def caughtAllPokemonInRoute4?
+  speciesFamilies = [
+    [:SANDILE, :KROKOROK, :KROOKODILE],
+    [:DARUMAKA, :DARMANITAN],
+    [:DRILBUR, :EXCADRILL],
+    [:TIMBURR, :GURDURR, :CONKELDURR],
+    [:GROWLITHE, :ARCANINE],
+    [:ROGGENROLA, :BOLDORE, :GIGALITH],
+    [:RUFFLET, :BRAVIARY],
+    [:RUFFLET, :GURDURR, :CONKELDURR],
+    [:RIOLU, :LUCARIO],
+  ]
+
+  for speciesFamily in speciesFamilies
+    speciesCaptured = false
+
+    for species in speciesFamily
+      if Trainer.owned?(species)
+        speciesCaptured = true
+      end
+    end
+
+    return false if !speciesCaptured
+  end
+
+  return true
+end
