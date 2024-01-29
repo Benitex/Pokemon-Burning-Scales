@@ -442,7 +442,7 @@ LoseText = "Aaaaaaah."
 Pokemon = FINNEON,20
 Pokemon = ALOMOMOLA,20
 #-------------------------------
-[ENGINEER,Cara do lixo]
+[BIRDKEEPER,Cara do lixo]
 LoseText = "Muito bem."
 Pokemon = CACNEA,20
 Pokemon = DRILBUR,20
