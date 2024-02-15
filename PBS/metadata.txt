@@ -235,6 +235,7 @@ TrainerBattleBGM = Battle! Gym Leader - Remix Cover Pokemon Black and White.mp3
 MapSize = 1,11
 #-------------------------------
 [022]
+# Palco dos discursos
 Outdoor = false
 ShowArea = false
 Bicycle = false
@@ -520,7 +521,7 @@ SnapEdges = false
 Dungeon = false
 #-------------------------------
 [058]
-# Esgotos de Castelia
+# Relic Passage
 MapPosition = 0,15,15
 #-------------------------------
 [059]
@@ -816,3 +817,16 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
+#-------------------------------
+[101]
+# Esgotos
+Outdoor = false
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,15,15
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
