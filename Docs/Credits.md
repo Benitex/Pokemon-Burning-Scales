@@ -1,38 +1,37 @@
-# Créditos
+# Credits
 
 Pokémon Burning Scales
 
-Criado por Benito André Pepe, aka Benitex
+Made by Benito André Pepe, aka Benitex
 
-## Agradecimentos especiais
+## Special Thanks
 
 Shirou Douglas
 Thundaga
 
-Esse jogos foi feito utilizando recursos de:
-
-## Autores de gráficos
+## Graphics
 
 ### Tilesets
 
-Interiores:
+Interiors:
 4th gen Indoor Tileset - Akizakura16
 
-Exteriores:
+Exteriors:
 WesleyFG:
 BW BUILDINGS TILESET
 BW NATURE TILESET
 BW VELHICES
 HGSS TILISET MY WORK COMPLETE
 
-Cavernas:
+Caves:
 Phyromatical, EVoLiNa, zetavares852 - DoT Day24 Evolina Mountains Full Set
 KingTapir - Desert Tileset (Deluxe Edition)
 
-BW Sewer tileset:
+Sewers:
 paradigmi
+aveontrainer
 
-Com complementos de:
+Complemented with:
 KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets
 dirtywiggles - Interior tileset Primal
 zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
@@ -72,7 +71,7 @@ Officer Jenny Generation 4 Styled Sprite
 78Cabbage
 ultrademise
 
-### Outros
+### Other
 
 Yamask Variants
 Frousteleous
@@ -102,7 +101,7 @@ Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
 Thanks to the Reborn team for letting people use their resources. You are awesome.
 Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All Attacks SFX.
 
-## Autores das músicas
+## Music
 
 Credits scene:
 Marnie's Theme - Raushna ft. ebee

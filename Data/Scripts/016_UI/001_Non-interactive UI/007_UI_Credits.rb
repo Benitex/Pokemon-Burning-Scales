@@ -53,41 +53,39 @@ Pokémon Burning Scales
 
 
 
-Criado por Benito André Pepe, aka Benitex
+Made by Benito André Pepe, aka Benitex
 
 
 
-Agradecimentos especiais:
+Special thanks:
 
 Shirou Douglas
 Thundaga
 
 
 
-Esse jogos foi feito utilizando recursos de:
-
-
-Autores de gráficos:
+Graphics:
 
 Tilesets:
 
 
-Interiores:
+Interiors:
 4th gen Indoor Tileset - Akizakura16
 
-Exteriores:
+Exteriors:
 WesleyFG:
 BW BUILDINGS TILESET
 BW NATURE TILESET
 BW VELHICES
 HGSS TILISET MY WORK COMPLETE
 
-Cavernas:
+Caves:
 Phyromatical, EVoLiNa, zetavares852 - DoT Day24 Evolina Mountains Full Set
 KingTapir - Desert Tileset (Deluxe Edition)
 
-BW Sewer tileset:
+Sewers:
 paradigmi
+aveontrainer
 
 Com complementos de:
 KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets
@@ -194,7 +192,7 @@ Porting to v19
 Golisopod User
 
 
-Autores das músicas:
+Music:
 
 Credits scene:
 Marnie's Theme - Raushna ft. ebee

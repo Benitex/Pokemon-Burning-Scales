@@ -105,13 +105,9 @@ LandNight,21
     10,SANDSHREW,10
     5,LARVITAR,4
 #-------------------------------
-[058] # Esgotos de Castelia
+[058] # Relic Passage
 Cave,5
-    30,GRIMER,20
-    30,TRUBBISH,20
-    20,KOFFING,10
-    10,GULPIN,5
-    10,CROAGUNK,4
+    100,PERSIAN,20
 #-------------------------------
 [085] # Relic Castle B1F
 Cave,5
@@ -158,3 +154,11 @@ Cave,5
     15,WOOBAT,20
     10,GLIGAR,20
     5,NOIBAT,20
+#-------------------------------
+[101] # Esgotos
+Cave,5
+    30,GRIMER,20
+    20,RATTATA,20
+    20,TRUBBISH,20
+    20,KOFFING,10
+    10,CROAGUNK,4

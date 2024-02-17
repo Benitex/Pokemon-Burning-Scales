@@ -62,6 +62,9 @@ BattleEnv       = CITY
 [047] # Narrow Street 
 BattleEnv       = CITY
 #-------------------------------
+[058] # Relic Passage
+BattleEnv       = CAVE
+#-------------------------------
 [060] # Laboratório
 BattleEnv       = INDOOR
 #-------------------------------
@@ -91,3 +94,6 @@ BattleEnv       = CAVE
 #-------------------------------
 [092] # Caverna dos Zubats 2F
 BattleEnv       = CAVE
+#-------------------------------
+[101] # Esgotos
+BattleEnv       = INDOOR
