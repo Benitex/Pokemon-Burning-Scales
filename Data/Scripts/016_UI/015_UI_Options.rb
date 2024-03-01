@@ -15,6 +15,7 @@ class PokemonSystem
   attr_accessor :textinput
   attr_accessor :difficulty
   attr_accessor :autosave
+  attr_accessor :animatedsprites
 
   def initialize
     @textspeed   = 1     # Text speed (0=slow, 1=normal, 2=fast)
@@ -30,6 +31,7 @@ class PokemonSystem
     @textinput   = 0     # Text input mode (0=cursor, 1=keyboard)
     @difficulty  = 0     # Automatic Level Scaling difficulty id
     @autosave    = 0     # autosave feature (0=on, 1=off)
+    @animatedsprites = 0 # Animated Battle Sprites form EBDX (0=on, 1=off)
   end
 end
 
@@ -342,6 +344,10 @@ class PokemonOption_Scene
        EnumOption.new(_INTL("Battle Effects"),[_INTL("On"),_INTL("Off")],
          proc { $PokemonSystem.battlescene },
          proc { |value| $PokemonSystem.battlescene = value }
+       ),
+       EnumOption.new(_INTL("Animated Battler Sprites"),[_INTL("On"),_INTL("Off")],
+         proc { $PokemonSystem.animatedsprites },
+         proc { |value| $PokemonSystem.animatedsprites = value }
        ),
        EnumOption.new(_INTL("Difficulty"),[_INTL("Casual"),_INTL("Balanced"),_INTL("Hard")],
          proc { $PokemonSystem.difficulty },
