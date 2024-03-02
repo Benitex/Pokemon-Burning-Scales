@@ -157,8 +157,8 @@ Cave,5
 #-------------------------------
 [101] # Esgotos
 Cave,5
-    30,GRIMER,20
+    30,GRIMER,30
     20,RATTATA_1,20
     20,TRUBBISH,20
-    20,KOFFING,10
-    10,CROAGUNK,4
+    20,KOFFING,20
+    10,CROAGUNK,10
