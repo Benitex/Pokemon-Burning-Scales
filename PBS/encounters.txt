@@ -67,7 +67,7 @@ LandNight,21
     10,SANDYGAST,10
     5,TRAPINCH,5
 #-------------------------------
-[008] # Relic Castle
+[008] # Relic Castle B1F
 Cave,5
     30,WOOBAT,20
     20,BALTOY,20
@@ -107,9 +107,13 @@ LandNight,21
 #-------------------------------
 [058] # Relic Passage
 Cave,5
-    100,PERSIAN,20
+    30,SANDACONDA,20
+    25,YAMASK,20
+    25,PERSIAN,20
+    19,DEDENNE,20
+    1,BELDUM,20
 #-------------------------------
-[085] # Relic Castle B1F
+[085] # Relic Castle B2F
 Cave,5
     30,WOOBAT,20
     20,BALTOY,20
