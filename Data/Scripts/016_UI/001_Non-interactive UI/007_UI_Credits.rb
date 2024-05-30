@@ -207,6 +207,7 @@ Lookers Theme – Search for the girl questline
 Unwavering Emotions - Storyteller theme
 Dreamyard - Castelia Greenhouse
 Cascarrafa - Election Clubs
+Burned Tower - The Tavern
 
 GlitchxCity
 Rival Bede – Nimbasa trainers
