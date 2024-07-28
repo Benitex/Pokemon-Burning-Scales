@@ -281,9 +281,6 @@ Battle vs. Marnie Remix - Bikers leader theme
 EuroMIX2
 Nimbasa Gym (Give Me What I Need mix) - Nimbasa Gym pre Elesa
 
-John Ferrie Music
-Professor Oaks Lab Theme - Oak's Lab first time
-
 Sheddy
 Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
 

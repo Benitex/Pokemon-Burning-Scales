@@ -4,13 +4,11 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Pokemon Burning Scales tem um foco na história muito maior do que nos jogos oficiais (se aproximando mais de um RPG tradicional nesse aspecto), boa parte das batalhas é opcional, tornando cada batalha mais impactante. Você vai encontrar dezenas de personagens, que vão proporcionar interações interessantes, momentos engraçados e, principalmente, várias side quests.
-
-Fan game de pokemon com foco em uma rica história e na exploração de um pequeno mundo aberto cheio de sidequests. Feito com [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 e RPG Maker XP.
+Pokemon Burning Scales é um fan game de pokémon com foco na exploração de um pequeno mundo aberto e sua história. Você vai encontrar dezenas de personagens, que vão proporcionar interações interessantes, momentos engraçados e, principalmente, várias side quests. Feito com [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 e RPG Maker XP.
 
 ## História
 
-Em Pokemon Burning Scales você joga como Nathan, um treinador experiente que já viajou bastante pelo mundo pokémon, e já é conhecido por boa parte dos personagens. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, entretanto, um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas.
+Em Pokemon Burning Scales você joga como Nathan, um treinador experiente que já viajou bastante pelo mundo pokémon e já é conhecido por boa parte dos personagens. No momento, ele está ajudando a professora Juniper em Unova com pesquisas sobre uma forma de pokemon desconhecida, entretanto, um pokemon misterioso começa a causar caos na parte sul da região. Nathan, então, precisa ajudar a resolver o problema e entender mais sobre a origem dessas novas formas de pokemon misteriosas.
 
 A história do jogo acontece em um ritmo bastante diferente do padrão da série, o mapa do jogo é composto pelas cidades de Nimbasa, Castelia e seus arredores. Em vez de viajar pela região, você vai explorar um pequeno mapa recheados de interações e side quests. Então você pode explorar cada parte minuciosamente e interagir com todos os personagens, partir diretamente para a quest principal, ou fazer um pouco de cada vez, no seu próprio ritmo.
 

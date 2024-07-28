@@ -4,9 +4,7 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-Pokemon fan game that focuses on a rich story and the exploration of a small open world full of sidequests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
-
-Pokemon Burning Scales has a much stronger focus on story than the official games (approaching more of a traditional RPG in that aspect). A considerable part of the battles is optional, making each battle more impactful. You'll encounter dozens of characters who will provide interesting interactions, funny moments, and, most importantly, numerous side quests.
+Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of a small open world and its story. You'll encounter dozens of characters who will provide interesting interactions, impactful battles, funny moments, and, most importantly, numerous side quests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
 For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
 
@@ -29,7 +27,7 @@ The game's story unfolds at a significantly different pace from the series' stan
 
 ## Features
 
-* **Different storyline from the series standard**. Ideal for breaking away a bit from the standard of defeating all 8 gym leaders and then facing the Elite 4.
+* **Different storyline from the series standard**. Breaking away a bit from the standard of defeating all 8 gym leaders and then facing the Elite 4.
 * **Lots of sidequests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
 * **A small open world to travel**. All available since the beginning of the game.
