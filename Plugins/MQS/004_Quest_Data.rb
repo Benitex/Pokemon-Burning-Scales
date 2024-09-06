@@ -102,7 +102,7 @@ module QuestModule
     :Stage5 => "Converse com o professor Carvalho.",
     :Stage6 => "Explore os esgotos.",
     :Stage7 => "Enfrente o Team Plasma.",
-    :Stage8 => "Enfrete Volcarona.",
+    :Stage8 => "Enfrente Volcarona.",
     :Location1 => "Castelia",
     :Location2 => "Rota 4",
     :Location3 => "Castelia Street",
@@ -232,18 +232,20 @@ module QuestModule
     :QuestGiver => "Velho Sábio",
     :Stage1 => "Capture 10 pokemon diferentes.",
     :Location1 => "Laboratório da Juniper",
-    :QuestDescription => "Um senhor que já passou por muitas histórias me desafiou a mostrar 10 espécies diferentes na pokédex e em troca, me dará um pokemon que não posso pegar no sul de Unova.",
+    :QuestDescription => "Um senhor que já passou por muitas histórias me desafiou a mostrar 10 espécies diferentes na pokédex e em troca, me dará um pokemon que vem de fora do sul de Unova.",
   }
   
   Quest19 = {
     :ID => "19",
-    :Name => "O grupo de dança",
-    :QuestGiver => "Dançarino",
-    :Stage1 => "Encontre dois dançarinos.",
-    :Stage2 => "Avise ao dançarino.",
-    :Location1 => "Castelia",
-    :Location2 => "Central Plaza",
-    :QuestDescription => "Encontrei um dançarino na Central Plaza buscando por outros dançarinos para formar um grupo. Ele me pediu que procurasse por alguns em Castelia e resolvi ajudá-lo.",
+    :Name => "Encontre o professor Carvalho",
+    :QuestGiver => "Elesa",
+    :Stage1 => "Atravesse a Rota 4.",
+    :Stage2 => "Explore as ruas de Castelia.",
+    :Stage3 => "Entre no laboratório.",
+    :Location1 => "Rota 4",
+    :Location2 => "Castelia",
+    :Location3 => "Castelia Street",
+    :QuestDescription => "Preciso encontrar o professor Carvalho em Castelia, mas a cidade é enorme, então tenho que descobrir onde é seu laboratório.",
   }
 
   Quest20 = {
@@ -308,7 +310,7 @@ module QuestModule
     :Stage2 => "Reencontre o breakdancer",
     :Location1 => "Castelia",
     :Location2 => "Central Plaza",
-    :QuestDescription => "Encontrei um breakdancer em Castelia que quer montar um grupo de dança, ele me pediu para procurar outros breakdancers por Castelia que pudessem fazer parte do grupo.",
+    :QuestDescription => "Encontrei um breakdancer na Central Plaza, em Castelia, que quer montar um grupo de dança, ele me pediu para procurar outros breakdancers por Castelia que pudessem fazer parte do grupo.",
   }
 
   Quest26 = {
