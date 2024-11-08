@@ -173,28 +173,15 @@ def pbCheckPokemonBitmapFiles(params)
     end
     dirs = []; dirs.push("/Gigantamax") if tgigant; dirs.push("/Dynamax") if tdyna && !tgigant; dirs.push("/Female") if tgender; dirs.push("")
 
-    if $PokemonSystem.animatedsprites == 0
-      for dir in dirs
-        bitmapFileName = sprintf("#{folder}#{dir}/%03d%s%s", GameData::Species.get(species).id_number, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "") rescue nil
-        ret = pbResolveBitmap(bitmapFileName)
-        return ret if ret
-      end
-      for dir in dirs
-        bitmapFileName = sprintf("#{folder}#{dir}/%s%s%s", species, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "")
-        ret = pbResolveBitmap(bitmapFileName)
-        return ret if ret
-      end
-    else
-      for dir in dirs
-        bitmapFileName = sprintf("#{folder}#{dir}/%s%s%s", species, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "") rescue nil
-        ret = pbResolveBitmap(bitmapFileName)
-        return ret if ret
-      end
-      for dir in dirs
-        bitmapFileName = sprintf("#{folder}#{dir}/%03d%s%s", GameData::Species.get(species).id_number, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "")
-        ret = pbResolveBitmap(bitmapFileName)
-        return ret if ret
-      end
+    for dir in dirs
+      bitmapFileName = sprintf("#{folder}#{dir}/%03d%s%s", GameData::Species.get(species).id_number, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "") rescue nil
+      ret = pbResolveBitmap(bitmapFileName)
+      return ret if ret
+    end
+    for dir in dirs
+      bitmapFileName = sprintf("#{folder}#{dir}/%s%s%s", species, (tform != "" ? "_" + tform : ""), tshadow ? "_shadow" : "")
+      ret = pbResolveBitmap(bitmapFileName)
+      return ret if ret
     end
   end
   return nil

@@ -337,6 +337,37 @@ Golisopod User, UberDunsparce
 Porting to v19
 Golisopod User
 
+### Animated Pokemon System
+
+Creator: Lucidious89
+Based on the Generation 8 Pack by Golisopod User and EBDX by Luka S.J.
+
+Sprite Credits:
+Battler Sprites
+Gen 1-5: Luka S.J.
+Gen 6: All Contributors To Smogon X/Y Sprite Project
+Gen 7: All Contributors To Smogon Sun/Moon Sprite Project
+Gen 8: All Contributors To Smogon Sword/Shield Sprite Project
+Gen 9: All Contributors To Smogon Scarlet/Violet Sprite Project
+Contributors to the original "Sprites Animados" spanish plugin:
+Tenshi of War, DPertierra, Skyflyer, Hellfire_raptor, Antiant, AshnixsLaw, AyanoCloud, Azrita, BR0DE0, Caruban, Creobnil, DanEx, Diegotoon20, dimbly, ekurepu, Ebaru, EricLostie, Falcon7, Federico97_ez, Fleimer_, Franark122k, Hellfire0raptor, HM100, HyperactiveFlummi, iametrine, Involuntary-Twitch, ItsYugen, jinta, justnyxnow, KingOfThe-X-Roads, kiriaura, Legitimate Username, localghost, lucasomi, MallowOut, mangalos810, MCH4R1Z4RD, N-Kin, NoelleMBrooks, Noobiess, Nolo33, OldSoulja, OmegalingYT, PKMarioG, PomPomKing, Poki Papillon, PumpkinPastel, RetroNC, RadicalCharizard, seleccion, SelenaArmorclaw, SkidMarc25, Snivy101, Sopita_Yorita, SoulWardenInfinity, TheAetherPlayer, TheCynicalPoet, Typhlito, uppababy
+Other Contributors: Lucidious89, Regis, Rod, kayzering
+
+Icon Sprites
+Gen 1-6: Alaguesia, harveydentmd
+Gen 7: Marin, MapleBranchWing, Contributors to the DS Styled Gen 7+ Repository
+Gen 8: Larry Turbo, Leparagon
+Gen 1-8 (Shiny): StarrWolf, Pokemon Shattered Light Team
+PLA Icons: LuigiTKO
+Gen 9: ezerart, JordanosArt
+Resource Compilation: Golisopod User, UberDunsparce, Caruban
+
+Footprint Sprites
+Gen 6: भाग्य ज्योति
+Gen 7-8: WolfPP
+Gen 9 & PLA: Caruban
+Resource Compilation: komeiji514
+
 ## Pokémon Essentials
 
 Flameguru
