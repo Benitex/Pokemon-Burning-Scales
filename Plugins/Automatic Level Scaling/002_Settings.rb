@@ -10,7 +10,7 @@ module LevelScalingSettings
   WILD_VARIABLE = 100
 
   # You can add your own difficulties in the following Hash, using the constructor "Difficulty.new(fixed_increase, random_increase)"
-  #   "fixed_increase" is a pre defined value that increases the level
+  #   "fixed_increase" is a pre defined value that is always added to the level avarage
   #   "random_increase" is a randomly selected value between 0 and the value provided
   # Each difficulty has an index in the Hash, which represents the difficulty
   # You can change the active difficulty by updating TRAINER_VARIABLE or WILD_VARIABLE according to these indexes
@@ -20,9 +20,14 @@ module LevelScalingSettings
     3 => Difficulty.new(random_increase: 2),                      # Hard
   }
 
-  # Scales levels but takes original level differences into consideration
-  # Don't forget to set random_increase values to 0 when using this setting
+  # Scales levels but takes original level differences between members of the trainer party into consideration
   PROPORTIONAL_SCALING = false
+
+  # Trainer parties will keep the same pokemon and levels of the first battle
+  SAVE_TRAINER_PARTIES = true
+
+  # Defines a "Map Level" in which all wild pokemon in the map will be, based on the the party when the player first enters the map
+  USE_MAP_LEVEL_FOR_WILD_POKEMON = false
 
   # You can use the following to disable level scaling in any condition other then the selected below
   ONLY_SCALE_IF_HIGHER = false   # The script will only scale levels if the player is overleveled
@@ -33,8 +38,8 @@ module LevelScalingSettings
   INCLUDE_NEXT_STAGES = true      # If false, stops evolution at the species used in the function call (or defined in the PBS)
 
   INCLUDE_NON_NATURAL_EVOLUTIONS = true # Evolve all pokemon, even if it only evolves by a non natural method
-  # Evolutions that don't use the methods of this array won't be considered if INCLUDE_NON_NATURAL_EVOLUTIONS is false
-  # All other conditions other than level for these evolutions are ignored
+  # If INCLUDE_NON_NATURAL_EVOLUTIONS is false, the script will only consider evolutions that use the methods in the NATURAL_EVOLUTION_METHODS array
+  # (All conditions other than level for these evolutions are ignored)
   NATURAL_EVOLUTION_METHODS = [
     :Level,
     :LevelMale, :LevelFemale,

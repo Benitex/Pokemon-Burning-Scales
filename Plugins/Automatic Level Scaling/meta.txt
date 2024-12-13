@@ -1,18 +1,18 @@
 Name         = Automatic Level Scaling
-Version      = 1.5.1
+Version      = 1.6.0
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
 #===============================================================================
 # Instalation
 #===============================================================================
 # To install this plugin, extract the zip file into your game root folder.
-# Then, you should check if you"re already using variables 99 and 100 in your game. 
+# Then, you should check if you"re already using variables 99 and 100 in your game.
 # These are the variables that control trainer and wild pokemon difficulty, respectively.
 # 
-# If you are already using these variables, go to the Settings.rb script and change 
+# If you are already using these variables, go to the Settings.rb script and change
 # the value to whichever variable you want to use to change the difficulty.
 # 
-# In "Settings.rb", you can also change some options, create other difficulty options, 
+# In "Settings.rb", you can also change some options, create other difficulty options,
 # and enable more complex conditions for level scaling. This is everything you need to do
 # to install the script, but you should also activate it by selecting a difficulty.
 # 
@@ -22,31 +22,31 @@ Credits      = Benitex, Joltik, Umbreon
 # Selecting a difficulty:
 # 
 # In order to change the difficulty, you should use an event to change the variable
-# value according to the pre-defined difficulties. If you want to disable automatic 
+# value according to the pre-defined difficulties. If you want to disable automatic
 # level scaling, just set the variable value to 0. By default, all variable values are 0,
 # so levels are not balanced unless you set these variables to one of the difficulties ids.
 # 
 # Selecting a difficulty:
 # 
 # In order to change the difficulty, you should use an event to change the variable
-# value according to the pre-defined difficulties. If you want to disable automatic 
+# value according to the pre-defined difficulties. If you want to disable automatic
 # level scaling, just set the variable value to 0. By default, all variable values are 0,
 # so levels are not balanced unless you set these variables to one of the difficulties ids.
 # 
 # Setting up gift pokemon, trades, fixed encounters:
 # 
 # Whenever you find a field where you should insert a pokemon level (except for PBS),
-# you can use the function "AutomaticLevelScaling.getScaledLevel" and the level will be 
+# you can use the function "AutomaticLevelScaling.getScaledLevel" and the level will be
 # automatically defined according to the currently selected difficulty.
 # 
 # Creating new difficulties:
 # 
-# There are three pre-defined difficulties, but you can add your own new ones by using the function 
+# There are three pre-defined difficulties, but you can add your own new ones by using the function
 # "Difficulty.new(random_increase, fixed_increase)" in the DIFFICULTIES Hash in `Settings.rb`.
-#   "fixed_increase" is a pre-defined value that increases the pokemon level
+#   "fixed_increase" is a pre defined value that is always added to the level avarage
 #   "random_increase" is a randomly selected value between 0 and the value provided
-# Note that these variables can also store negative values. 
-# Setting them to 0 would have the same effect of calling "pbBalancedLevel($player.party)" 
+# Note that these variables can also store negative values.
+# Setting them to 0 would have the same effect of calling "pbBalancedLevel($Trainer.party)"
 # and removing two from the avarage.
 # 
 # Changing settings for a specific battle:
@@ -72,7 +72,9 @@ Credits      = Benitex, Joltik, Umbreon
 #   only_scale_if_higher: boolean,
 #   only_scale_if_lower: boolean,
 #   first_evolution_level: Integer,
-#   second_evolution_level: Integer
+#   second_evolution_level: Integer,
+#   saveTrainerParties: boolean,
+#   useMapLevelForWildPokemon: boolean
 # )
 #
 # Setting                       Description
@@ -86,6 +88,8 @@ Credits      = Benitex, Joltik, Umbreon
 # "secondEvolutionLevel"        Select the level required for pokemon that don't evolve by level up to get to their final form.
 # "onlyScaleIfHigher"           When true, the script will only scale levels if the player is over-leveled.
 # "onlyScaleIfLower"            When true, The script will only scale levels if the player is under-leveled.
+# "saveTrainerParties"          When true, trainer parties will keep the same pokemon and levels of the first battle. (If the player gets defeated, the party will not be scaled again)
+# "useMapLevelForWildPokemon"   When first entering a map, the script will define a scaling level based on the player party and use this level for the map for the rest of the game.
 # "temporary"                   Restores all settings to their default values after the next battle. Only possible in `setSettings` because "setTemporarySetting" enables this by default.
 #===============================================================================
 # Detailed credits
