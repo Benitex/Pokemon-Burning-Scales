@@ -343,30 +343,6 @@ class PokemonOption_Scene
          proc { $PokemonSystem.battlescene },
          proc { |value| $PokemonSystem.battlescene = value }
        ),
-       EnumOption.new(_INTL("Difficulty"),[_INTL("Casual"),_INTL("Balanced"),_INTL("Hard")],
-         proc { $PokemonSystem.difficulty },
-         proc { |value|
-          $PokemonSystem.difficulty = value
-          case value
-          when 0
-            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 1)
-            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
-          when 1
-            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 2)
-            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
-          when 2
-            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 3)
-            pbSet(LevelScalingSettings::WILD_VARIABLE, 3)
-          end
-         }
-       ),
-       EnumOption.new(_INTL("Autosave"),[_INTL("On"),_INTL("Off")],
-         proc { $PokemonSystem.autosave },
-         proc { |value|
-          $PokemonSystem.autosave = value
-          $game_switches[98] = (value == 0)
-         }
-       ),
        EnumOption.new(_INTL("Battle Style"),[_INTL("Switch"),_INTL("Set")],
          proc { $PokemonSystem.battlestyle },
          proc { |value| $PokemonSystem.battlestyle = value }
@@ -404,6 +380,39 @@ class PokemonOption_Scene
        )
     ]
     @PokemonOptions = pbAddOnOptions(@PokemonOptions)
+
+    unless inloadscreen
+      @PokemonOptions.push(
+        EnumOption.new(_INTL("Autosave"),[_INTL("On"),_INTL("Off")],
+          proc { $PokemonSystem.autosave },
+          proc { |value|
+          $PokemonSystem.autosave = value
+          $game_switches[98] = (value == 0)
+          }
+        ),
+      )
+      @PokemonOptions.push(
+        EnumOption.new(_INTL("Difficulty"),[_INTL("Casual"),_INTL("Balanced"),_INTL("Hard")],
+         proc { $PokemonSystem.difficulty },
+         proc { |value|
+          next if inloadscreen
+          $PokemonSystem.difficulty = value
+          case value
+          when 0
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 1)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
+          when 1
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 2)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 1)
+          when 2
+            pbSet(LevelScalingSettings::TRAINER_VARIABLE, 3)
+            pbSet(LevelScalingSettings::WILD_VARIABLE, 3)
+          end
+         }
+       )
+      )
+    end
+
     @sprites["option"] = Window_PokemonOption.new(@PokemonOptions,0,
        @sprites["title"].height,Graphics.width,
        Graphics.height-@sprites["title"].height-@sprites["textbox"].height)
