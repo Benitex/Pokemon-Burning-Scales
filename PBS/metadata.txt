@@ -532,6 +532,7 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+TrainerBattleBGM = Marnie Remix Sword and Shield.mp3
 #-------------------------------
 [059]
 # Clube dos Palhaços

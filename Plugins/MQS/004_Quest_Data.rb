@@ -391,4 +391,15 @@ module QuestModule
     :QuestDescription => "Na Delegacia de Castelia, aceitei a missão de ajudar os policiais a investigar A Taverna, um tipo de bar feito e frequentado apenas por Motoqueiros. Um cientista disfarçado me espera lá para ajudar a conseguir mais informações.",
   }
 
+  Quest34 = {
+    :ID => "34",
+    :Name => "Dragões na Passagem",
+    :QuestGiver => "Hiker arqueólogo",
+    :Stage1 => "Atravesse a Relic Passage",
+    :Stage2 => "Derrote o Hydreigon",
+    :Location1 => "Relic Passage",
+    :Location2 => "Relic Passage",
+    :QuestDescription => "Um hiker arqueólogo me pediu para atravessar a Relic Passage junto com ele, enquanto enfrentamos Deinos. Pode ser que a Relic Passage também tenha um Hydreigon, que também causaria grandes dificuldades para outros treinadores atravessarem a caverna.",
+  }
+
 end

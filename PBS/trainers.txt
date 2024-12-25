@@ -671,6 +671,14 @@ Pokemon = TRUBBISH,20
 Pokemon = GRIMER,20
 Pokemon = SKORUPI,20
 #-------------------------------
+# Relic Passage
+#-------------------------------
+[SUPERNERD,Hiker Arqueólogo]
+LoseText = "Eu só queria examinar ossos..."
+Pokemon = EXCADRILL,20
+Pokemon = MUK,20
+Pokemon = RATICATE,20
+#-------------------------------
 # Relic Castle
 #-------------------------------
 [CHAMPION_Anna,Anna,2]
