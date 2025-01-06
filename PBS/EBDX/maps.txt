@@ -80,8 +80,11 @@ BattleEnv       = OUTDOOR
 [084] # Câmara do Volcarona
 BattleEnv       = MAGMA
 #-------------------------------
+[085] # Relic Castle B2F
+BattleEnv       = CAVE
+#-------------------------------
 [088] # Relic Castle B4F
-BattleEnv       = CAVESNOW
+BattleEnv       = CAVE
 #-------------------------------
 [089] # Relic Castle B5F
 BattleEnv       = CAVESNOW

@@ -12,12 +12,7 @@ module QuestModule
   }
 
   Quest2 = {
-    :ID => "2",
-    :Name => "O jogo de futebol",
-    :QuestGiver => "Atleta de Nimbasa",
-    :Stage1 => "Encontre o atleta.",
-    :Location1 => "Grande Estádio",
-    :QuestDescription => "Depois de uma batalha, um atleta em Nimbasa me pediu para assistir sua participação na competição no Grande Estádio em Nimbasa.",
+
   }
 
   Quest3 = {
@@ -330,11 +325,7 @@ module QuestModule
   }
 
   Quest28 = {
-    :ID => "28",
-    :Name => "Invasão interdimensional no deserto",
-    :Stage1 => "Derrote ou capture Ultra Beasts",
-    :Location1 => "Desert Resort",
-    :QuestDescription => "Várias Ultra Beasts se reuniram em uma caverna no Desert Resort, devo dar uma olhada nesse lugar.",
+
   }
 
   Quest29 = {
@@ -399,7 +390,7 @@ module QuestModule
     :Stage2 => "Derrote o Hydreigon",
     :Location1 => "Relic Passage",
     :Location2 => "Relic Passage",
-    :QuestDescription => "Um hiker arqueólogo me pediu para atravessar a Relic Passage junto com ele, enquanto enfrentamos Deinos. Pode ser que a Relic Passage também tenha um Hydreigon, que também causaria grandes dificuldades para outros treinadores atravessarem a caverna.",
+    :QuestDescription => "Um hiker arqueólogo me pediu para atravessar a Relic Passage junto com ele enquanto enfrentamos Deinos. Pode ser que a Relic Passage também tenha um Hydreigon, que pode causar grandes dificuldades para outros treinadores que queiram atravessarem a caverna.",
   }
 
 end

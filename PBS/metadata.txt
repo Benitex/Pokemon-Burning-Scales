@@ -689,6 +689,19 @@ SnapEdges = false
 Dungeon = false
 TrainerBattleBGM = Marnie Remix Sword and Shield.mp3
 #-------------------------------
+[076]
+# Relic Castle B3F
+Outdoor = false
+ShowArea = false
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Battle Rival Alder.mp3
+#-------------------------------
 [077]
 # Passagem
 Outdoor = false
@@ -761,11 +774,12 @@ Outdoor = false
 ShowArea = false
 Bicycle = true
 BicycleAlways = false
+MapPosition = 0,9,7
 DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
+WildBattleBGM = Battle Rival Alder.mp3
 #-------------------------------
 [089]
 # Relic Castle B5F

@@ -113,6 +113,18 @@ Cave,5
     19,DEDENNE,20
     1,BELDUM,20
 #-------------------------------
+[076] # Relic Castle B3F
+Cave,5
+    30,WOOBAT,20
+    20,BALTOY,20
+    20,GOLETT,10
+    10,NATU,10
+    5,MEDITITE,5
+    5,MUNNA,5
+    5,ELGYEM,4
+    4,YAMASK,4
+    1,BELDUM,1
+#-------------------------------
 [085] # Relic Castle B2F
 Cave,5
     30,WOOBAT,20
@@ -125,7 +137,7 @@ Cave,5
     4,YAMASK,4
     1,BELDUM,1
 #-------------------------------
-[088] # Relic Castle B4F
+[087] # Relic Castle B7F
 Cave,5
     20,VANILLITE,20
     20,CUBCHOO,20
@@ -133,6 +145,18 @@ Cave,5
     15,SWINUB,20
     15,BERGMITE,20
     10,CRYOGONAL,20
+#-------------------------------
+[088] # Relic Castle B4F
+Cave,5
+    30,WOOBAT,20
+    20,BALTOY,20
+    20,GOLETT,10
+    10,NATU,10
+    5,MEDITITE,5
+    5,MUNNA,5
+    5,ELGYEM,4
+    4,YAMASK,4
+    1,BELDUM,1
 #-------------------------------
 [089] # Relic Castle B5F
 Cave,5
