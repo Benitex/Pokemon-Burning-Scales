@@ -109,7 +109,7 @@ end
 
 class UpdatesPC
   def shouldShow?
-    return true if pbGet(75) < 60
+    return true if pbGet(75) < 70
     return false
   end
   
@@ -119,11 +119,11 @@ class UpdatesPC
 
   def access
     if $game_variables[75] < 60
-      # Variáveis modificadas
       pbSet(49, 0)
-      pbSet(99, pbGet(100))
 
-      # Nova dificuldade do balanceado para pokemon selvagem
+      # Dificuldade diferente para pokemon selvagens
+      pbSet(99, pbGet(100))
+      # Atualização do scaling de pokemon selvagem para dificuldade equilibrado
       pbSet(100, 1) if pbGet(99) == 2
 
       # Switches modificadas
@@ -141,6 +141,16 @@ class UpdatesPC
 
       pbSet(75, 60)
     end
+
+    if $game_variables[75] < 70
+      # Quests removidas
+      pbMessage(_INTL("Algumas quests, que foram removidas desde a última versão, serão consideradas concluídas."))
+      completeQuest(:Quest2)
+      completeQuest(:Quest28)
+
+      pbSet(75, 70)
+    end
+
     pbMessage(_INTL("O save foi atualizado com sucesso."))
     Game.auto_save if $game_switches[98]
   end
