@@ -131,6 +131,7 @@ Po Town - Bikers theme
 Mt. Coronet Remix - Caves
 Alabaster Icelands - Relic Castle B5F, B6F, B7F wild battles
 Pokemon G/S/C - Ice Path Remix 2, "Nevermelt 2" - Team Plasma in the Relic Castle
+Pokemon G/S/C Vs Johto Gym Leader - Professor Juniper battle
 
 Zame
 Relic castle - Relic castle B3F, B4F
