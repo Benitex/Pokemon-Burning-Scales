@@ -74,6 +74,9 @@ BattleEnv       = INDOOR
 [064] # Piers
 BattleEnv       = CITY
 #-------------------------------
+[076] # Relic Castle B3F
+BattleEnv       = CAVE
+#-------------------------------
 [081] # Parque das estufas
 BattleEnv       = OUTDOOR
 #-------------------------------
@@ -82,6 +85,9 @@ BattleEnv       = MAGMA
 #-------------------------------
 [085] # Relic Castle B2F
 BattleEnv       = CAVE
+#-------------------------------
+[087] # Relic Castle B7F
+BattleEnv       = CAVESNOW
 #-------------------------------
 [088] # Relic Castle B4F
 BattleEnv       = CAVE

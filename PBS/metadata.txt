@@ -768,6 +768,20 @@ Dungeon = false
 WildBattleBGM = Abandoned Ship Remix.mp3
 TrainerBattleBGM = Abandoned Ship Remix.mp3
 #-------------------------------
+[087]
+# Relic Castle B7F
+Outdoor = false
+ShowArea = false
+Bicycle = false
+BicycleAlways = false
+MapPosition = 0,9,7
+DarkMap = false
+SafariMap = false
+SnapEdges = false
+Dungeon = false
+WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
+TrainerBattleBGM = Team Plasma Remix.mp3
+#-------------------------------
 [088]
 # Relic Castle B4F
 Outdoor = false
@@ -805,6 +819,7 @@ SafariMap = false
 SnapEdges = false
 Dungeon = false
 WildBattleBGM = Alabaster Icelands - Vanilluxe Pavilion.mp3
+TrainerBattleBGM = Team Plasma Remix.mp3
 #-------------------------------
 [091]
 # Caverna dos Zubats

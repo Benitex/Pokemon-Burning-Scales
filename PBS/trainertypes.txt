@@ -24,7 +24,7 @@
 21,PAINTER,Painter,32,,,,Female,,
 22,POKEMANIAC,Poké Maniac,64,,,,Male,,
 23,POKEMONBREEDER,Pokémon Breeder,56,,,,Female,,
-24,PROFESSOR,Professor,100,,,,Male,,
+24,PROFESSOR,Professor,100,Lusamine Remix Kamex,,,Male,,
 25,ROCKER,Rocker,24,,,,Male,,
 26,RUINMANIAC,Ruin Maniac,56,,,,Male,,
 27,SAILOR,Sailor,48,,,,Male,,
@@ -98,3 +98,4 @@
 95,LEADER_Brycen,Gym Leader,100,,,,Male,,
 96,LEADER_Drayden,Gym Leader,100,,,,Male,,
 97,LEADER_Marlon,Gym Leader,100,,,,Male,,
+98,PROFESSOR_Juniper,Professora,100,Battle Gym Leader,,,Female,,

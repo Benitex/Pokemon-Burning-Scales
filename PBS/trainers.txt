@@ -683,36 +683,67 @@ Pokemon = RATICATE,20
 #-------------------------------
 [CHAMPION_Anna,Anna,2]
 LoseText = "..."
+Pokemon = SEISMITOAD,50
+    Item = LEFTOVERS
+    Nature = IMPISH
+    EV = 252,0,192,64,0,0
 Pokemon = SCOLIPEDE,50
     Item = FOCUSSASH
     Nature = JOLLY
     EV = 0,252,4,252,0,0
     Moves = POISONJAB,EARTHQUAKE,ENDEAVOR,SPIKES
-Pokemon = SEISMITOAD,50
-    Item = LEFTOVERS
-    Nature = IMPISH
-    EV = 252,0,192,64,0,0
     Moves = SCALD,KNOCKOFF,TOXIC,STEALTHROCK
-Pokemon = ABSOLP,50
-    Item = ABSOLITE
+Pokemon = DUGTRIOP,50
+    Item = CHOICESCARF
     Nature = JOLLY
     EV = 0,252,4,252,0,0
-    Moves = VOLTTACKLE,PLAYROUGH,KNOCKOFF,SUCKERPUNCH
-Pokemon = SCEPTILE,25
-    Form = 2
-    Item = LIFEORB
-    Nature = JOLLY
-    EV = 0,252,4,252,0,0
-    Moves = LEAFBLADE,XSCISSOR,EARTHQUAKE,ROCKSLIDE
+    Moves = EARTHQUAKE,SHADOWCLAW,STONEEDGE,STEALTHROCK
 Pokemon = NINETALES,50
     Item = ICYROCK
     Form = 1
     Nature = TIMID
     EV = 252,0,0,252,4,0
     Moves = MOONBLAST,BLIZZARD,HYPNOSIS,AURORAVEIL
-Pokemon = VOLCARONAP,50
-    Item = HEAVYDUTYBOOTS
-    AbilityIndex = 0
-    Nature = MODEST
-    EV = 0,0,4,252,252,0
-    Moves = BLIZZARD,FIERYDANCE,PSYCHIC,GIGADRAIN
+Pokemon = SCEPTILE,25
+    Form = 2
+    Item = LIFEORB
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Moves = LEAFBLADE,XSCISSOR,EARTHQUAKE,ROCKSLIDE
+Pokemon = ABSOLP,50
+    Item = ABSOLITE
+    Nature = JOLLY
+    EV = 0,252,4,252,0,0
+    Moves = VOLTTACKLE,PLAYROUGH,KNOCKOFF,SUCKERPUNCH
+#-------------------------------
+[POKEMONTRAINER_Ryoku,Ryoku]
+LoseText = "Pandemônio..."
+Pokemon = SCOLIPEDE,50
+Pokemon = ZOROARK,50
+Pokemon = MUSHARNA,50
+Pokemon = ABSOL,50
+Pokemon = GLALIE,50
+    Item = GLALITITE
+Pokemon = HYPNO,50
+#-------------------------------
+[PROFESSOR_Juniper,Profesora Juniper]
+LoseText = "Por favor, não faça isso!"
+Pokemon = WATCHOG,50
+Pokemon = ACCELGOR,50
+Pokemon = ESCAVALIER,50
+Pokemon = UNFEZANT,50
+Pokemon = CINCCINO,50
+Pokemon = AUDINO,50
+    Item = AUDINITE
+#-------------------------------
+[PROFESSOR,Professor Carvalho]
+LoseText = "Nathan..."
+Pokemon = PIKACHU,50
+    Item = LIGHTBALL
+Pokemon = LAPRAS,50
+Pokemon = SNORLAX,50
+Pokemon = BLASTOISE,50
+Pokemon = CHARIZARD,50
+    Item = CHARIZARDITEY
+Pokemon = VENUSAUR,50
+    AbilityIndex = 1
