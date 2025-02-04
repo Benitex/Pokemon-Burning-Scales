@@ -813,7 +813,6 @@ Outdoor = false
 ShowArea = false
 Bicycle = true
 BicycleAlways = false
-Weather = Blizzard,100
 DarkMap = false
 SafariMap = false
 SnapEdges = false
