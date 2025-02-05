@@ -1,0 +1,9 @@
+Name         = Better Speed Up
+Version      = 2.0
+Website      = [coming soon]
+Credits      = Marin for the original script, Phantombass for updating to 19.1
+
+#===================INSTRUCTIONS=========================#
+#Simply place this into your Plugins folder and your game will have a Speed Up switch set to alternate between speeds based upon your preferences!
+#Change the different speed up stages within the array that shows [1,2,3], or change it to only the stages you want to alternate between.
+#To change the button used for the speed up switch, simply press F1 when your game starts and reassign the Q key.

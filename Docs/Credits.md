@@ -144,6 +144,7 @@ Nimbasa City Gym (Runaway & Stage) - Nimbasa City Gym pos Elesa
 Gate Remastered - Route gates
 Game Corner (Johto): Remastered - Game Corner interior
 Hoenn Game Corner: Remastered - Game Corner entrace
+Kalos Route 15 - Ryoku encounter
 
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
