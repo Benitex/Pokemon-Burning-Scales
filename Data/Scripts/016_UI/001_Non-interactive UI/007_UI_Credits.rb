@@ -87,7 +87,7 @@ Sewers:
 paradigmi
 aveontrainer
 
-Com complementos de:
+Complemented by:
 KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets
 dirtywiggles - Interior tileset Primal
 zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
@@ -163,7 +163,10 @@ Gen 7 Pokemon Sprites        - All Contributors To Smogon Sun/Moon Sprite Projec
 Gen 8 Pokemon Sprites        - All Contributors To Smogon  Sword/Shield Sprite Project
 
 Overworld Sprites
-Gen 1-5 Pokemon Overworlds   - MissingLukey, help-14, Kymoyonian, cSc-A7X, 2and2makes5, Pokegirl4ever, Fernandojl, Silver-Skies, TyranitarDark, Getsuei-H, Kid1513, Milomilotic11, Kyt666, kdiamo11, Chocosrawlooid, Syledude, Gallanty, Gizamimi-Pichu, 2and2makes5, Zyon17,LarryTurbo, spritesstealer, LarryTurbo
+Gen 1-5 Pokemon Overworlds   - MissingLukey, help-14, Kymoyonian, cSc-A7X,
+2and2makes5, Pokegirl4ever, Fernandojl, Silver-Skies, TyranitarDark, Getsuei-H,
+Kid1513, Milomilotic11, Kyt666, kdiamo11, Chocosrawlooid, Syledude, Gallanty,
+Gizamimi-Pichu, 2and2makes5, Zyon17, LarryTurbo, spritesstealer, LarryTurbo
 Gen 6 Pokemon Overworlds     - princess-pheonix, LunarDusk, Wolfang62, TintjeMadelintje101, piphybuilder88
 Gen 7 Pokemon Overworlds     - Larry Turbo, princess-pheonix
 Gen 8 Pokemon Overworlds     - SageDeoxys, Wolfang62, LarryTurbo, tammyclaydon
@@ -183,7 +186,9 @@ Golisopod User, Zerokid, TheToxic, HM100, KyureJL, ErwanBeurier
 
 Script Credits:
 EBS Bitmap Wrapper - Luka S.J.
-Gen 8 Scripts      - Golisopod User, Maruno, Vendily, TheToxic, HM100, Aioross, WolfPP, MFilice, lolface, KyureJL, DarrylBD99, Turn20Negate, TheKandinavian, ErwanBeurier
+Gen 8 Scripts      - Golisopod User, Maruno, Vendily, TheToxic, HM100, Aioross,
+WolfPP, MFilice,lolface, KyureJL, DarrylBD99, Turn20Negate,
+TheKandinavian, ErwanBeurier
 
 Compilation of Resources
 Golisopod User, UberDunsparce
@@ -204,7 +209,15 @@ Gen 7: All Contributors To Smogon Sun/Moon Sprite Project
 Gen 8: All Contributors To Smogon Sword/Shield Sprite Project
 Gen 9: All Contributors To Smogon Scarlet/Violet Sprite Project
 Contributors to the original "Sprites Animados" spanish plugin:
-Tenshi of War, DPertierra, Skyflyer, Hellfire_raptor, Antiant, AshnixsLaw, AyanoCloud, Azrita, BR0DE0, Caruban, Creobnil, DanEx, Diegotoon20, dimbly, ekurepu, Ebaru, EricLostie, Falcon7, Federico97_ez, Fleimer_, Franark122k, Hellfire0raptor, HM100, HyperactiveFlummi, iametrine, Involuntary-Twitch, ItsYugen, jinta, justnyxnow, KingOfThe-X-Roads, kiriaura, Legitimate Username, localghost, lucasomi, MallowOut, mangalos810, MCH4R1Z4RD, N-Kin, NoelleMBrooks, Noobiess, Nolo33, OldSoulja, OmegalingYT, PKMarioG, PomPomKing, Poki Papillon, PumpkinPastel, RetroNC, RadicalCharizard, seleccion, SelenaArmorclaw, SkidMarc25, Snivy101, Sopita_Yorita, SoulWardenInfinity, TheAetherPlayer, TheCynicalPoet, Typhlito, uppababy
+Tenshi of War, DPertierra, Skyflyer, Hellfire_raptor, Antiant, AshnixsLaw,
+AyanoCloud, Azrita, BR0DE0, Caruban, Creobnil, DanEx, Diegotoon20, dimbly,
+ekurepu, Ebaru, EricLostie, Falcon7, Federico97_ez, Fleimer_, Franark122k,
+Hellfire0raptor, HM100, HyperactiveFlummi, iametrine, Involuntary-Twitch,
+ItsYugen, jinta, justnyxnow, KingOfThe-X-Roads, kiriaura, Legitimate Username,
+localghost, lucasomi, MallowOut, mangalos810, MCH4R1Z4RD, N-Kin, NoelleMBrooks,
+Noobiess, Nolo33, OldSoulja, OmegalingYT, PKMarioG, PomPomKing, Poki Papillon,
+PumpkinPastel, RetroNC, RadicalCharizard, seleccion, SelenaArmorclaw, SkidMarc25,
+Snivy101, Sopita_Yorita, SoulWardenInfinity, TheAetherPlayer, TheCynicalPoet, Typhlito, uppababy
 Other Contributors: Lucidious89, Regis, Rod, kayzering
 
 Icon Sprites

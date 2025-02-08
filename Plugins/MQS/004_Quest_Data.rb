@@ -97,7 +97,7 @@ module QuestModule
     :Stage5 => "Converse com o professor Carvalho.",
     :Stage6 => "Explore os esgotos.",
     :Stage7 => "Explore o Relic Castle.",
-    :Stage8 => "Enfrente o Team Plasma.",
+    :Stage8 => "Encontre Ryoku.",
     :Stage9 => "Enfrente Volcarona.",
     :Location1 => "Castelia",
     :Location2 => "Rota 4",

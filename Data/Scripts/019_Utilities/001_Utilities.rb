@@ -706,7 +706,7 @@ def caughtAllPokemonInRoute4?
     speciesCaptured = false
 
     for species in speciesFamily
-      if Trainer.owned?(species)
+      if $Trainer.owned?(species)
         speciesCaptured = true
       end
     end
@@ -731,7 +731,7 @@ def caughtAllPandemoniumPokemon?
     speciesCaptured = false
 
     for species in speciesFamily
-      if Trainer.owned?(species)
+      if $Trainer.owned?(species)
         speciesCaptured = true
       end
     end
