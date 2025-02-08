@@ -716,3 +716,66 @@ def caughtAllPokemonInRoute4?
 
   return true
 end
+
+def caughtAllPandemoniumPokemon?
+  speciesFamilies = [
+    [:CHARMANDERP, :CHARMELEONP, :CHARIZARDP],
+    [:ABSOLP],
+    [:DIGLETTP, :DUGTRIOP],
+    [:YAMASKP],
+    [:PUPLIN, :PRINPLIN, :PULINPUPLIN],
+    [:VOLCARONAP],
+  ]
+
+  for speciesFamily in speciesFamilies
+    speciesCaptured = false
+
+    for species in speciesFamily
+      if Trainer.owned?(species)
+        speciesCaptured = true
+      end
+    end
+
+    return false if !speciesCaptured
+  end
+
+  return true
+end
+
+def removeAllPandemoniumPokemon(includeMeloetta = true)
+  speciesFamilies = [
+    [:CHARMANDERP, :CHARMELEONP, :CHARIZARDP],
+    [:ABSOLP],
+    [:DIGLETTP, :DUGTRIOP],
+    [:YAMASKP],
+    [:PUPLIN, :PRINPLIN, :PULINPUPLIN],
+    [:VOLCARONAP],
+  ]
+  speciesFamilies.push([:MELOETTA]) if includeMeloetta
+
+  for i in -1...$PokemonStorage.maxBoxes
+    for j in 0...$PokemonStorage.maxPokemon(i)
+      pkmn = $PokemonStorage[i][j]
+      next if !pkmn
+      for speciesFamily in speciesFamilies
+        for species in speciesFamily
+          if pkmn.isSpecies?(species)
+            $PokemonStorage.pbDelete(i, j)
+            next
+          end
+        end
+      end
+    end
+  end
+end
+
+def removeAllPokemonFromSpecies(species)
+  for i in -1...$PokemonStorage.maxBoxes
+    for j in 0...$PokemonStorage.maxPokemon(i)
+      pkmn = $PokemonStorage[i][j]
+      if pkmn != nil && pkmn.isSpecies?(species)
+        $PokemonStorage.pbDelete(i, j)
+      end
+    end
+  end
+end

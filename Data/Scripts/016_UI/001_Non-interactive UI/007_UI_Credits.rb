@@ -490,13 +490,12 @@ _END_
     @background_sprite.dispose
     @credit_sprites.each { |s| s.dispose if s }
     text_viewport.dispose
-    $PokemonGlobal.creditsPlayed = true
     pbBGMPlay(previousBGM)
   end
 
   # Check if the credits should be cancelled
   def cancel?
-    if Input.trigger?(Input::USE) && $PokemonGlobal.creditsPlayed
+    if Input.trigger?(Input::USE)
       $scene = Scene_Map.new
       pbBGMFade(1.0)
       return true
