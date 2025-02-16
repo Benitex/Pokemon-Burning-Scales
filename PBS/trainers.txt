@@ -681,6 +681,62 @@ Pokemon = RATICATE,20
 #-------------------------------
 # Relic Castle
 #-------------------------------
+[TEAMPLASMA_M,Discípulo da entrada]
+LoseText = "Nossa culpa, por Ryoku."
+Pokemon = SCRAFTY,20
+Pokemon = VANILLUXE,20
+Pokemon = KROOKODILE,20
+Pokemon = MAMOSWINE,20
+#-------------------------------
+[TEAMPLASMA_M,Discípulo do casal]
+LoseText = "Nosso amor, por Ryoku."
+Pokemon = LIEPARD,20
+Pokemon = WATCHOG,20
+Pokemon = GLALIE,20
+#-------------------------------
+[TEAMPLASMA_F,Discípula do casal]
+LoseText = "Nossa morte, por Ryoku."
+Pokemon = AVALUGG,20
+Pokemon = MAMOSWINE,20
+#-------------------------------
+[TEAMPLASMA_F,Discípulo do uniforme]
+LoseText = "Nossa vergonha, por Ryoku."
+Pokemon = LIEPARD,20
+Pokemon = VANILLUXE,20
+Pokemon = GARBODOR,20
+#-------------------------------
+[TEAMPLASMA_M,Discípulo historiador]
+LoseText = "Nossa história, por Ryoku."
+Pokemon = SWOOBAT,20
+Pokemon = MUSHARNA,20
+Pokemon = SIGILYPH,20
+#-------------------------------
+[TEAMPLASMA_F,Discípula solitária]
+LoseText = "Nossa família, por Ryoku."
+Pokemon = LIEPARD,20
+Pokemon = KROOKODILE,20
+Pokemon = HELIOLISK,20
+#-------------------------------
+[PLASMASHADOW,Plasma Shadow Sesan]
+LoseText = "Por Ryoku"
+Pokemon = BISHARP,20
+Pokemon = CRYOGONAL,20
+Pokemon = YAMASKP,20
+#-------------------------------
+[PLASMASHADOW,Plasma Shadow Fericire]
+LoseText = "Por Ryoku."
+Pokemon = BISHARP,20
+Pokemon = ACCELGOR,20
+Pokemon = YAMASKP,20
+    Form = 1
+#-------------------------------
+[PLASMASHADOW,Plasma Shadow Pisti]
+LoseText = "Por Ryoku"
+Pokemon = BISHARP,20
+Pokemon = BANETTE,20
+Pokemon = YAMASKP,20
+    Form = 2
+#-------------------------------
 [CHAMPION_Anna,Anna,2]
 LoseText = "..."
 Pokemon = SEISMITOAD,50
