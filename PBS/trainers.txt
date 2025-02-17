@@ -699,7 +699,7 @@ LoseText = "Nossa morte, por Ryoku."
 Pokemon = AVALUGG,20
 Pokemon = MAMOSWINE,20
 #-------------------------------
-[TEAMPLASMA_F,Discípulo do uniforme]
+[TEAMPLASMA_F,Discípula do uniforme]
 LoseText = "Nossa vergonha, por Ryoku."
 Pokemon = LIEPARD,20
 Pokemon = VANILLUXE,20
@@ -710,12 +710,6 @@ LoseText = "Nossa história, por Ryoku."
 Pokemon = SWOOBAT,20
 Pokemon = MUSHARNA,20
 Pokemon = SIGILYPH,20
-#-------------------------------
-[TEAMPLASMA_F,Discípula solitária]
-LoseText = "Nossa família, por Ryoku."
-Pokemon = LIEPARD,20
-Pokemon = KROOKODILE,20
-Pokemon = HELIOLISK,20
 #-------------------------------
 [PLASMASHADOW,Plasma Shadow Sesan]
 LoseText = "Por Ryoku"
