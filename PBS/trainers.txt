@@ -715,12 +715,14 @@ Pokemon = SIGILYPH,20
 LoseText = "Por Ryoku"
 Pokemon = BISHARP,20
 Pokemon = CRYOGONAL,20
+Pokemon = BASCULIN,20
 Pokemon = YAMASKP,20
 #-------------------------------
 [PLASMASHADOW,Plasma Shadow Fericire]
 LoseText = "Por Ryoku."
 Pokemon = BISHARP,20
 Pokemon = ACCELGOR,20
+Pokemon = LILLIGANT,20
 Pokemon = YAMASKP,20
     Form = 1
 #-------------------------------
@@ -728,6 +730,7 @@ Pokemon = YAMASKP,20
 LoseText = "Por Ryoku"
 Pokemon = BISHARP,20
 Pokemon = BANETTE,20
+Pokemon = MAMOSWINE,20
 Pokemon = YAMASKP,20
     Form = 2
 #-------------------------------

@@ -6,7 +6,7 @@
 
 Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of a small open world and its story. You'll encounter dozens of characters who will provide interesting interactions, impactful battles, funny moments, and, most importantly, numerous side quests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
-For now, Pokemon Burning Scales is only available in Portuguese. I plan to start translating it into English as soon as I finish the main story.
+Pokemon Burning Scales is being translated into English and will be released soon.
 
 ## Story
 
@@ -28,22 +28,22 @@ The game's story unfolds at a significantly different pace from the series' stan
 ## Features
 
 * **Different storyline from the series standard**. Breaking away a bit from the standard of defeating all 8 gym leaders and then facing the Elite 4.
-* **Lots of sidequests**, that can generate hours of extra content apart from the main story.
+* **Lots of side quests**, that can generate hours of extra content apart from the main story.
 * **Choices that impact the story**, reveal additional information and provide funny situations.
 * **A small open world to travel**. All available since the beginning of the game.
 * **Wild pokemon and trainers automatic level scaling**.
-* **Pokemon walking on the routes**.
 * **Different pokemon on routes depending on the time of the day**.
 * **Some pokemon with altered forms**.
 
 ### Plugin features
 
-* **Quests System**, which shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://reliccastle.com/resources/709/).
-* **Encounter List UI**, showing available pokemon in the route and which ones were already captured. Using [Encounter List UI](https://reliccastle.com/resources/658/).
+* **Quests System**, which shows all your registered quests, including your next objectives and locations. Using [Modern Quest System](https://eeveeexpo.com/resources/709/).
+* **Encounter List UI**, showing available pokemon in the route and which ones were already captured. Using [Encounter List UI](https://eeveeexpo.com/resources/658/).
 * **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).
-* **Offline Wonder Trade**, you can also spend money to scale the pokemon level to your party. Using [Random Pokemon Selector](https://reliccastle.com/resources/693/).
-* **Multiple save files and auto save**, using [Auto Multi Save](https://reliccastle.com/threads/5644/).
-* **Better Trainer AI**, using [Improved Battle AI](https://reliccastle.com/resources/1163/).
+* **Offline Wonder Trade**, you can also spend money to scale the pokemon level to your party. Using [Random Pokemon Selector](https://eeveeexpo.com/resources/693/).
+* **Multiple save files and auto save**, using [Auto Multi Save](https://eeveeexpo.com/resources/1059/).
+* **Better Trainer AI**, using [Improved Battle AI](https://eeveeexpo.com/resources/1163/).
+* **Fast Forward**, using [Speed Up](https://eeveeexpo.com/resources/713/).
 
 ### Quality of life
 

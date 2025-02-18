@@ -603,14 +603,7 @@ def pbStaticPokemonBattle(species, canRun = true, canLose = false)
   pbWildBattle(species, 1, 1, canRun, canLose)
 end
 
-# Toca o cry de um pokemon selvagem e inicia uma batalha no modo boss do EBDX.
-def pbStaticBossBattle(species, partySize = 6, canCatch = true)
-  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
-  Pokemon.play_cry(species)
-
-  difficulty = pbGet(LevelScalingSettings::WILD_VARIABLE)
-  pbSet(LevelScalingSettings::WILD_VARIABLE, 0)
-
+def pbGetBossLevel
   levelIncrease = 0
   case pbGet(LevelScalingSettings::TRAINER_VARIABLE)
   when 1
@@ -621,11 +614,49 @@ def pbStaticBossBattle(species, partySize = 6, canCatch = true)
     levelIncrease = 20
   end
 
+  return AutomaticLevelScaling.getScaledLevel + levelIncrease
+end
+
+# Toca o cry de um pokemon selvagem e inicia uma batalha no modo boss do EBDX.
+def pbStaticBossBattle(species, partySize = 6, canCatch = true)
+  AutomaticLevelScaling.setTemporarySetting("automaticEvolutions", false)
+  Pokemon.play_cry(species)
+
+  difficulty = pbGet(LevelScalingSettings::WILD_VARIABLE)
+  pbSet(LevelScalingSettings::WILD_VARIABLE, 0)
+
   EliteBattle.bossBattle(
     species,
-    AutomaticLevelScaling.getScaledLevel + levelIncrease,
+    pbGetBossLevel(),
     partySize,
     canCatch
+  )
+
+  pbSet(LevelScalingSettings::WILD_VARIABLE, difficulty)
+end
+
+def pbVolcaronaBattle
+  setBattleRule("canLose")
+
+  EliteBattle.add_data(
+    :VOLCARONAP,
+    :TRANSITION,
+    "bwLegendary"
+  )
+
+  difficulty = pbGet(LevelScalingSettings::WILD_VARIABLE)
+  pbSet(LevelScalingSettings::WILD_VARIABLE, 0)
+
+  EliteBattle.bossBattle(
+    :VOLCARONAP,
+    pbGetBossLevel(),
+    6,
+    true,
+    {
+      :ability => :MAGICGUARD,
+      :item => :CHARTIBERRY,
+      :moves => [ :QUIVERDANCE, :HEATWAVE, :FROSTBREATH, :GIGADRAIN ]
+    }
   )
 
   pbSet(LevelScalingSettings::WILD_VARIABLE, difficulty)
