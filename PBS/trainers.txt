@@ -595,7 +595,7 @@ Pokemon = PAWNIARD,22
 # Ruas de Castelia
 #-------------------------------
 [COOLTRAINER_M,Aspirante a policial]
-LoseText = "Preico me esforçar mais."
+LoseText = "Preciso me esforçar mais."
 Pokemon = SERVINE,20
 Pokemon = SWALOT,20
 Pokemon = RELICANTH,20
@@ -712,7 +712,7 @@ Pokemon = MUSHARNA,20
 Pokemon = SIGILYPH,20
 #-------------------------------
 [PLASMASHADOW,Plasma Shadow Sesan]
-LoseText = "Por Ryoku"
+LoseText = "Por Ryoku."
 Pokemon = BISHARP,20
 Pokemon = CRYOGONAL,20
 Pokemon = BASCULIN,20
@@ -727,7 +727,7 @@ Pokemon = YAMASKP,20
     Form = 1
 #-------------------------------
 [PLASMASHADOW,Plasma Shadow Pisti]
-LoseText = "Por Ryoku"
+LoseText = "Por Ryoku."
 Pokemon = BISHARP,20
 Pokemon = BANETTE,20
 Pokemon = MAMOSWINE,20

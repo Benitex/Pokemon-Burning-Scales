@@ -239,25 +239,33 @@ end
 #===============================================================================
 class QuestData
 
+  def getModule
+    if $PokemonSystem.language == "English"
+      return QuestModuleEnglish
+    else
+      return QuestModule
+    end
+  end
+
   # Get ID number for quest
   def getID(quest)
-    return "#{QuestModule.const_get(quest)[:ID]}"
+    return "#{getModule.const_get(quest)[:ID]}"
   end
 
   # Get quest name
   def getName(quest)
-    return "#{QuestModule.const_get(quest)[:Name]}"
+    return "#{getModule.const_get(quest)[:Name]}"
   end
 
   # Get name of quest giver
   def getQuestGiver(quest)
-    return "#{QuestModule.const_get(quest)[:QuestGiver]}"
+    return "#{getModule.const_get(quest)[:QuestGiver]}"
   end
 
   # Get array of quest stages
   def getQuestStages(quest)
     arr = []
-    for key in QuestModule.const_get(quest).keys
+    for key in getModule.const_get(quest).keys
       arr.push(key) if key.to_s.include?("Stage")
     end
     return arr
@@ -265,24 +273,24 @@ class QuestData
 
   # Get quest reward
   def getQuestReward(quest)
-    return "#{QuestModule.const_get(quest)[:RewardString]}"
+    return "#{getModule.const_get(quest)[:RewardString]}"
   end
 
   # Get overall quest description
   def getQuestDescription(quest)
-    return "#{QuestModule.const_get(quest)[:QuestDescription]}"
+    return "#{getModule.const_get(quest)[:QuestDescription]}"
   end
 
   # Get current task location
   def getStageLocation(quest,stage)
     loc = ("Location" + "#{stage}").to_sym
-    return "#{QuestModule.const_get(quest)[loc]}"
+    return "#{getModule.const_get(quest)[loc]}"
   end  
 
   # Get summary of current task
   def getStageDescription(quest,stage)
     stg = ("Stage" + "#{stage}").to_sym
-    return "#{QuestModule.const_get(quest)[stg]}"
+    return "#{getModule.const_get(quest)[stg]}"
   end 
 
   # Get maximum number of tasks for quest

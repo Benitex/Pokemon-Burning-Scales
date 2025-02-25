@@ -1,14 +1,14 @@
-module QuestModule
+module QuestModuleEnglish
   Quest1 = {
     :ID => "1",
-    :Name => "O vendedor de produtos",
-    :Stage1 => "Encontre o vendedor de produtos.",
-    :Stage2 => "Se torne um cliente fiel.",
-    :Stage3 => "Compre o pokémon especial.",
-    :Location1 => "Parque de Nimbasa",
-    :Location2 => "Parque de Nimbasa",
-    :Location3 => "Parque de Nimbasa",
-    :QuestDescription => "Dizem que um rapaz está vendendo produtos interessantes no parque de Nimbasa, pode valer a pena conferir.",
+    :Name => "The product seller",
+    :Stage1 => "Find the product seller.",
+    :Stage2 => "Become a loyal customer.",
+    :Stage3 => "Buy the special Pokémon.",
+    :Location1 => "Nimbasa Park",
+    :Location2 => "Nimbasa Park",
+    :Location3 => "Nimbasa Park",
+    :QuestDescription => "Rumor has it that a young man is selling interesting products in Nimbasa Park. Checking it out may be worth it.",
   }
 
   Quest2 = {
@@ -17,25 +17,25 @@ module QuestModule
 
   Quest3 = {
     :ID => "3",
-    :Name => "O caminho da pesca",
-    :QuestGiver => "Pescador do parque",
-    :Stage1 => "Aprenda mais sobre a pesca.",
-    :Stage2 => "Volte com uma nova vara!",
-    :Stage3 => "Consiga a vara final.",
-    :Location1 => "Parque de Nimbasa",
-    :Location2 => "Parque de Nimbasa",
+    :Name => "The path of fishing",
+    :QuestGiver => "Fisherman in the park",
+    :Stage1 => "Learn about fishing.",
+    :Stage2 => "Come back with a new rod!",
+    :Stage3 => "Get the final rod.",
+    :Location1 => "Nimbasa Park",
+    :Location2 => "Nimbasa Park",
     :Location3 => "???",
-    :QuestDescription => "Encontrei um pescador no Parque de Nimbasa que sabe muito sobre a pesca, ele pode me ajudar a iniciar na pescaria.",
+    :QuestDescription => "I met a fisherman in Nimbasa Park who knows a lot about fishing, and he can help me get started.",
   }
 
   Quest4 = {
     :ID => "4",
-    :Name => "O tirtouga perdido no parque",
-    :Stage1 => "Procure pelo parque.",
-    :Stage2 => "Leve o tirtouga para o dono.",
-    :Location1 => "Parque de Nimbasa",
-    :Location2 => "Parque de Nimbasa",
-    :QuestDescription => "Um tirtouga foi perdido no Parque de Nimbasa, preciso devolver para o dono.",
+    :Name => "The tirtouga lost in the park",
+    :Stage1 => "Look around the park.",
+    :Stage2 => "Take the tirtouga to the owner.",
+    :Location1 => "Nimbasa Park",
+    :Location2 => "Nimbasa Park",
+    :QuestDescription => "A tirtouga was lost in Nimbasa Park, I need to return it to its owner.",
   }
 
   Quest5 = {
@@ -88,7 +88,7 @@ module QuestModule
 
   Quest9 = {
     :ID => "9",
-    :Name => "Escamas Ardentes",
+    :Name => "Burning Scales",
     :QuestGiver => "Carvalho",
     :Stage1 => "Encontre o professor Carvalho.",
     :Stage2 => "Enfrente os motoqueiros.",
