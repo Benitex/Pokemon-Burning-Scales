@@ -111,7 +111,7 @@ People in this city say I should study, but I'm too old for that.
 \ff[introBenitex]\bNathan: Eu queria saber...
 \ff[introBenitex]\bNathan: I just wanted to know...
 \ff[introBenitex]\bNathan: Está ansiosa para o torneio? Imagino que muita coisa deve ter mudado nos últimos dias.
-\ff[introBenitex]\bNathan: Are you looking forward to the tournament? I imagine a lot of changes must have happend in these last days.
+\ff[introBenitex]\bNathan: Are you looking forward to the tournament? I imagine a lot of changes must have happened in these last days.
 \l[3]\rMoça: Realmente, a cidade ficou mais movimentada, meus parentes de outras regiões vieram me visitar e todos os dias encontro viajantes novos como você.
 \l[3]\rLady: Yes, that's true. The city has really become busier. My relatives from other regions have come to visit me and I see new travelers like you every single day.
 \ff[introBenitex]\bNathan: Sim, imagino. Mas aconteceu algo mais? Algo que preucupa as pessoas?
@@ -135,7 +135,7 @@ People in this city say I should study, but I'm too old for that.
 \l[3]\rMoça: Ah, ela leva ao parque de Nimbasa, é bem famoso e normalmente é onde as pessoas mais passam seu tempo.
 \l[3]\rLady: Oh, you can go to Nimbasa Park if you walk a little. It's a popular place where usually spend some time.
 \rMas o torneio está chamando mais atenção nesses dias.
-\r The tournament is catching more attention lately though.
+\rThe tournament is catching more attention lately though.
 \rO ginásio da Elesa fica lá também, acho que isso pode te interessar.
 \rThe Nimbasa city Gym is also located there, I think that might interest you..
 \ff[introBenitex]\bNathan: Obrigado pelas informações, Moça.
@@ -178,7 +178,7 @@ Nathan was taken by the police to the court, where he tried to defend himself, b
 \l[3]Nathan passou uma semana na prisão da Delegacia de Castelia. Mas, depois disso, vai ter que fazer serviço comunitário, definido pelos policiais.
 \l[3]Nathan was sentenced to a week in prison at the Castelia Police Station. After that week, he also needs to do community service, defined by the police officers.
 \ff[introBenitex]\bNathan: A rota ainda não está aberta? O deslizamento já aconteceu há um tempão!
-\ff[introBenitex]\bNathan: Isn't the route open yet? The landslides happend a long time ago!
+\ff[introBenitex]\bNathan: Isn't the route open yet? The landslides happened a long time ago!
 \l[3]Ah, você sabe como os políticos são, a rota ainda vai ficar fechada por um bom tempo. Talvez daqui a uns dois anos a obra já tenha acabado.
 \l[3]Oh, you know how politicians work. The route should be closed for a long time still. If we're lucky it's going to be ready in two years.
 \ff[introBenitex]\bNathan: Meu Arceus da eclosão do ovo.
@@ -187,7 +187,7 @@ Ah, olá Nathan. O professor Carvalho pediu que eu bloqueasse essa passagem por 
 Hello Nathan. Professor Oak asked me not to allow anyone to enter this route.
 \ff[introBenitex]\bNathan: Ah é? Por quê?
 \ff[introBenitex]\bNathan: Oh, why?
-\l[3]Vários pokemon estão aparecendo longe do habitatnormal e isso está causando um distúrbio muitoestranho na natureza.
+\l[3]Vários pokemon estão aparecendo longe do habitat normal e isso está causando um distúrbio muitoestranho na natureza.
 \l[3]Many Pokémon are appearing far from their normal habitat. That's causing a strange disturbance in nature.
 Então alguns dos meus companheiros estão levando eles para os seus lares.
 Some of my companions are bringing them to their home.
@@ -292,119 +292,107 @@ Oh no, sorry. I was at home until a little while ago. I didn't see anyone else s
 \ff[introBenitex]\bNathan: A mãe dela está preucupada com a filha, se você vir algo suspeito, fale com ela ali perto do centro pokemon.
 \ff[introBenitex]\bNathan: Her mother is worried about her. If you see anything suspicious, please talk to here next to the Pokémon Center.
 \rNathan! Finalmente te achei!
-\rNathan! Finalmente te achei!
+\rNathan! I finally found you!
 \rTudo bem com você?
-\rTudo bem com você?
+\rHow are you?
 \ff[introBenitex]\bNathan: Elesa? Está me procurando?
-\ff[introBenitex]\bNathan: Elesa? Está me procurando?
+\ff[introBenitex]\bNathan: Elesa? Are you looking for me?
 \ff[introBenitex]\bNathan: Estou ótimo. Estou treinando um pokemon que recebi da professora Juniper.
-\ff[introBenitex]\bNathan: Estou ótimo. Estou treinando um pokemon que recebi da professora Juniper.
+\ff[introBenitex]\bNathan: I'm great. I'm training a Pokémon I received from Professor Juniper.
 \ff[introElesa]\rElesa: Ah, que legal! Se você tiver tempo, passe no ginásio para me mostrar ele!
-\ff[introElesa]\rElesa: Ah, que legal! Se você tiver tempo, passe no ginásio para me mostrar ele!
-\ff[introElesa]\rMas agora não, agora você precisa falar com o professor Cavalho.
-\ff[introElesa]\rMas agora não, agora você precisa falar com o professor Cavalho.
+\ff[introElesa]\rElesa: Oh, that's cool! If you have the time, come by the gym and let me take a look!
+\ff[introElesa]\rAh, mas eu estava esquecendo. Você precisa falar com o professor Cavalho.
+\ff[introElesa]\rOh, but before I forget, you need to talk to Professor Oak.
 \ff[introBenitex]\bNathan: Ele precisa de alguma coisa?
-\ff[introBenitex]\bNathan: Ele precisa de alguma coisa?
+\ff[introBenitex]\bNathan: Does he need something?
 \ff[introElesa]\rElesa: Sim e pelo tom da fala dele, parece muito importante.
-\ff[introElesa]\rElesa: Sim e pelo tom da fala dele, parece muito importante.
+\ff[introElesa]\rElesa: Yes, and from the looks of it, it seems very important.
 \l[3]\ff[introElesa]\rO professor veio até aqui em Unova para fazer algumas pesquisas e agora ele está tendo problemas com um pokémon.
-\l[3]\ff[introElesa]\rO professor veio até aqui em Unova para fazer algumas pesquisas e agora ele está tendo problemas com um pokémon.
+\l[3]\ff[introElesa]\rThe professor came here to Unova to do some research, but now a Pokémon is causing problems in the region.
 \ff[introBenitex]\bNathan: Entendi...
-\ff[introBenitex]\bNathan: Entendi...
+\ff[introBenitex]\bNathan: I see...
 \l[3]\ff[introBenitex]\bNathan: Ah é? Ele pode contar comigo, eu devo muito a ele, foi ele que me fez iniciar minha jornada. Onde ele está agora?
-\l[3]\ff[introBenitex]\bNathan: Ah é? Ele pode contar comigo, eu devo muito a ele, foi ele que me fez iniciar minha jornada. Onde ele está agora?
+\l[3]\ff[introBenitex]\bNathan: He can count on me, I owe him a lot. It was he who got me started on my journey. Where is he now?
 \l[3]\ff[introElesa]\rElesa: Ele está em Castelia, a cidade mais populosa de Unova, fica ao sul, depois da Rota 4, como você deve lembrar.
-\l[3]\ff[introElesa]\rElesa: Ele está em Castelia, a cidade mais populosa de Unova, fica ao sul, depois da Rota 4, como você deve lembrar.
+\l[3]\ff[introElesa]\rElesa: He's in Castelia, the most populous city in Unova. Just south of Route 4, as you may remember.
 \ff[introElesa]\rEle aproveitou as várias conexões que pode ter lá, mas esse pokemon começou a estragar tudo.
-\ff[introElesa]\rEle aproveitou as várias conexões que pode ter lá, mas esse pokemon começou a estragar tudo.
-\ff[introBenitex]\bNathan: Obrigado por me avisar, vou ajudar ele assim que eu puder.
-\ff[introBenitex]\bNathan: Obrigado por me avisar, vou ajudar ele assim que eu puder.
+\ff[introElesa]\rHe's taking advantage of the connections he could have there, but this pokemon started to spoil everything.
 \ff[introElesa]\rElesa: Não foi nada, é pelo bem de Unova. Se você quiser, pode me encontrar no meu ginásio, aí nós conversamos mais um pouco.
-\ff[introElesa]\rElesa: Não foi nada, é pelo bem de Unova. Se você quiser, pode me encontrar no meu ginásio, aí nós conversamos mais um pouco.
+\ff[introElesa]\rElesa: It's nothing, that's for the sake of Unova. If you want, you can meet me at my gym and we can talk some more.
 \ff[introBenitex]\bNathan: Obrigado, eu passo lá depois.
-\ff[introBenitex]\bNathan: Obrigado, eu passo lá depois.
+\ff[introBenitex]\bNathan: Thanks, I'll stop by later.
 \l[3]\ff[introBenitex]\bNathan: Eu até ajudaria ele, mas estou meio ocupado com esse meu pokemon e também queria participar no torneio que vai acontecer daqui a pouco...
-\l[3]\ff[introBenitex]\bNathan: Eu até ajudaria ele, mas estou meio ocupado com esse meu pokemon e também queria participar no torneio que vai acontecer daqui a pouco...
-\l[3]\ff[introElesa]\rElesa: Eu peço que dê preferência a esse pedido, mesmo que as consequências sejam de longo prazo, temos que acabar com a ameaça o mais cedo possível.
-\l[3]\ff[introElesa]\rElesa: Eu peço que dê preferência a esse pedido, mesmo que as consequências sejam de longo prazo, temos que acabar com a ameaça o mais cedo possível.
+\l[3]\ff[introBenitex]\bNathan: I'd help him, but I'm kind of busy raising this Pokémon. I'd also like to take part in the tournament that's going to take place in a little while...
+\ff[introElesa]\rElesa: Acho que não tem problema se você for participar, mas ajude ele depois, por favor.
+\ff[introElesa]\rElesa: I think there's no problem in waiting for the tournament, but help him afterwards, please.
 \ff[introElesa]\rNão é só a pesquisa dele que está sendo comprometida, mas também a vida de vários treinadores, pelo que ele disse, a situação é séria.
-\ff[introElesa]\rNão é só a pesquisa dele que está sendo comprometida, mas também a vida de vários treinadores, pelo que ele disse, a situação é séria.
-\ff[introBenitex]\bNathan: Bom, acho que talvez eu possa falar com ele. Onde o professor está?
-\ff[introBenitex]\bNathan: Bom, acho que talvez eu possa falar com ele. Onde o professor está?
-\ff[introElesa]\l[3]\rElesa: Ele está em Castelia, a cidade mais populosa de Unova, fica ao sul, depois da Rota 4, como você deve lembrar.
-\ff[introElesa]\l[3]\rElesa: Ele está em Castelia, a cidade mais populosa de Unova, fica ao sul, depois da Rota 4, como você deve lembrar.
+\ff[introElesa]\rNot only his research is being compromised, but also the lives of many other trainers. It seems like a very serious situation.
+\ff[introBenitex]\bNathan: Certo, posso falar com ele. Onde o professor está?
+\ff[introBenitex]\bNathan: Alright, I will talk to him. Where is he?
 \ff[introBenitex]\bNathan: Obrigado por me avisar Elesa, vou ajudar ele assim que eu puder.
-\ff[introBenitex]\bNathan: Obrigado por me avisar Elesa, vou ajudar ele assim que eu puder.
-\ff[introBenitex]\bNathan: (Se eu for para Castelia agora, devo perder o torneio.)
-\ff[introBenitex]\bNathan: (Se eu for para Castelia agora, devo perder o torneio.)
+\ff[introBenitex]\bNathan: Thank you for letting me know, I'll help him as soon as I can.
 \w[signskin]Battle Subway
 \w[signskin]Battle Subway
-\w[signskin]Curiosidades: Jogos acontecem no torneio todos os dias, dependendo do horário, você pode desafiar seu atleta favorito para batalhas pokemon.
-\w[signskin]Curiosidades: Jogos acontecem no torneio todos os dias, dependendo do horário, você pode desafiar seu atleta favorito para batalhas pokemon.
 Estou ansiosa para o torneio, dizem que treinadores de todo o mundo batalham lá!
-Estou ansiosa para o torneio, dizem que treinadores de todo o mundo batalham lá!
+I'm looking forward to the tournament, trainers from all over the world are going to participate!
 \ff[introBenitex]\bNathan: Esse torneio vai reunir muitos treinadores poderosos, acho que eu também vou participar.
-\ff[introBenitex]\bNathan: Esse torneio vai reunir muitos treinadores poderosos, acho que eu também vou participar.
+\ff[introBenitex]\bNathan: This tournament should bring together many powerful trainers, I think I should participate.
 \ff[introBenitex]\bNathan: Aproveite o torneio, aposto que você vai encontrar vários amigos muito fortes lá!
-\ff[introBenitex]\bNathan: Aproveite o torneio, aposto que você vai encontrar vários amigos muito fortes lá!
+\ff[introBenitex]\bNathan: Enjoy the tournament, I'm sure you will find many powerful friends!
 \l[3]\ff[introBenitex]\bNathan: (Com certeza ela é a menina que eu estou procurando, ela deve ter fugido para ir assisir o torneio e está só esperando ele começar.)
-\l[3]\ff[introBenitex]\bNathan: (Com certeza ela é a menina que eu estou procurando, ela deve ter fugido para ir assisir o torneio e está só esperando ele começar.)
+\l[3]\ff[introBenitex]\bNathan: (This must be the girl I'm looking for, she must have run away to watch the tournament and is just waiting for it to start.)
 \ff[introBenitex]\bNathan: Onde está sua mãe? Ela deixa você ficar brincando aqui na rua?
-\ff[introBenitex]\bNathan: Onde está sua mãe? Ela deixa você ficar brincando aqui na rua?
+\ff[introBenitex]\bNathan: Where is your mom? Does she let you play here in the streets?
 Ah, ela não liga não. Ela quer mais é que eu saia para não dar trabalho em casa.
-Ah, ela não liga não. Ela quer mais é que eu saia para não dar trabalho em casa.
+Oh, she doesn't mind. She prefers me to go out so I don't make a mess at home.
 \ff[introBenitex]\bNathan: Então, se não é você, alguma de suas amiguinhas teve que fugir de sua casa?
-\ff[introBenitex]\bNathan: Então, se não é você, alguma de suas amiguinhas teve que fugir de sua casa?
+\ff[introBenitex]\bNathan: So, if it's not you, did one of your little friends have to run away from home?
 Olha, eu acho que eu não deveria contar isso, mas eu conheço uma sim. Venha comigo para o teatro musical.
-Olha, eu acho que eu não deveria contar isso, mas eu conheço uma sim. Venha comigo para o teatro musical.
+I'm not sure if I should tell you about this, but one of them did. Come with me to the Musical Theater.
 Diga que você quer "conversar com a garota" eles já estão esperando visitas, vão te deixar entrar.
-Diga que você quer "conversar com a garota" eles já estão esperando visitas, vão te deixar entrar.
+Tell them you are there to "talk to the girl" and they'll let you in.
 \ff[introBenitex]\bNathan: Eu estava procurando uma menina muito parecida com você. Uma menina que saiu de casa sem avisar a mãe, que está muito preocupada.
-\ff[introBenitex]\bNathan: Eu estava procurando uma menina muito parecida com você. Uma menina que saiu de casa sem avisar a mãe, que está muito preocupada.
+\ff[introBenitex]\bNathan: I was looking for a girl that looks just like you. A girl who left home without telling her mother, who is very worried about her.
 Nã-Não... Não conheço ninguém que fugiu de casa não moço!
-Nã-Não... Não conheço ninguém que fugiu de casa não moço!
+No-No... I don't know anyone who ran away from home, sir!
 \ff[introBenitex]\bNathan: Sua mãe está muito preocupada com você, menina. Não posso batalhar agora. Preciso te levar até ela.
-\ff[introBenitex]\bNathan: Sua mãe está muito preocupada com você, menina. Não posso batalhar agora. Preciso te levar até ela.
+\ff[introBenitex]\bNathan: Your mother is very worried about you, young lady. I can't battle now. I need to take you to her.
 Moço, deve ser um mal entendido, minha mãe não se importa em me deixar brincar na rua.
-Moço, deve ser um mal entendido, minha mãe não se importa em me deixar brincar na rua.
+Sir, it must be a misunderstanding. My mom doesn't mind letting me play in the street.
 \ff[introBenitex]\bNathan: Venha comigo, você não vai conseguir me enganar-
-\ff[introBenitex]\bNathan: Venha comigo, você não vai conseguir me enganar-
+\ff[introBenitex]\bNathan: Come with me, you you won't fool me-
 \ff[introBenitex]\bNathan: Ei, espera aí!
-\ff[introBenitex]\bNathan: Ei, espera aí!
+\ff[introBenitex]\bNathan: Hey, wait a minute!
 \ff[introBenitex]\bDroga, agora vou ter que procurar ela pelo norte de Nimbasa...
-\ff[introBenitex]\bDroga, agora vou ter que procurar ela pelo norte de Nimbasa...
+\ff[introBenitex]\bDamn, now I need to look for her in the north of Nimbasa...
 \ff[introBenitex]\bNathan: Oi, você é cozinheira?
-\ff[introBenitex]\bNathan: Oi, você é cozinheira?
+\ff[introBenitex]\bNathan: Hi, are you a cook?
 Sou, meu restaurante é ali do lado.
-Sou, meu restaurante é ali do lado.
+Yes, my restaurant is next door.
 Estou aqui para fazer propaganda e dar uma última olhada nos arredores antes do início do torneio.
-Estou aqui para fazer propaganda e dar uma última olhada nos arredores antes do início do torneio.
+I'm here to advertise and take one last look around before the tournament starts.
 \ff[introBenitex]\bNathan: Ah, legal. Depois eu vou dar uma passada lá.
-\ff[introBenitex]\bNathan: Ah, legal. Depois eu vou dar uma passada lá.
+\ff[introBenitex]\bNathan: Nice, I'll stop by later.
 \l[3]Muito obrigado! Lá você não apenas tem uma deliciosa refeição, mas também pode conhecer vários treinadores poderosos.
-\l[3]Muito obrigado! Lá você não apenas tem uma deliciosa refeição, mas também pode conhecer vários treinadores poderosos.
+\l[3]Thank you very much! Not only do you get a delicious meal there, but you also get to meet several powerful trainers.
 Venham conhecer o Estádio da Comilança, batalhas e comida de alta categoria!
-Venham conhecer o Estádio da Comilança, batalhas e comida de alta categoria!
+Come and see the Comiling Stadium, top-class food and battles!
 \ff[introBenitex]\bNathan: Você que já deve estar aqui a algum tempo, viu uma menina passar apressada por aqui?
-\ff[introBenitex]\bNathan: Você que já deve estar aqui a algum tempo, viu uma menina passar apressada por aqui?
+\ff[introBenitex]\bNathan: You must have been here for quite some time, did you see a girl hurry by?
 Infelizmente não, essa moça já tinha falado comigo, mas eu realmente não vi ninguém assim passar por aqui desde cedo.
-Infelizmente não, essa moça já tinha falado comigo, mas eu realmente não vi ninguém assim passar por aqui desde cedo.
+Unfortunately, no, that girl spoke to me, but I haven't really seen anyone like that pass through here since early this morning.
 Conseguiu encontrar a menina?
-Conseguiu encontrar a menina?
+Did you find the girl?
 \ff[introBenitex]\bNathan: Sim, mas é uma situação complicada. Infelizmente, acredito que ela não vai reencontrar a mãe tão cedo.
-\ff[introBenitex]\bNathan: Sim, mas é uma situação complicada. Infelizmente, acredito que ela não vai reencontrar a mãe tão cedo.
+\ff[introBenitex]\bNathan: Yes, but that's a complicated situation. Unfortunately, I don't think her mother will meet her any time soon.
 Ah, mas que pena...
-Ah, mas que pena...
-\l[3]Ah, olá Nathan. O professor Carvalho disse que não vai permitir que nenhum treinador passe por essa rota até que o pokemon seja controlado.
-\l[3]Ah, olá Nathan. O professor Carvalho disse que não vai permitir que nenhum treinador passe por essa rota até que o pokemon seja controlado.
-\l[3]Eu agradeço sua oferta, mas você está com uma tarefa mais importante agora, vá e converse com o professor, ao sul daqui. Lá você terá mais informações.
-\l[3]Eu agradeço sua oferta, mas você está com uma tarefa mais importante agora, vá e converse com o professor, ao sul daqui. Lá você terá mais informações.
+Oh, that's a real shame...
 \ff[introBenitex]\bNathan: Beleza charmander, hora de respirar ar puro!
-\ff[introBenitex]\bNathan: Beleza charmander, hora de respirar ar puro!
+\ff[introBenitex]\bNathan: Alright charmander, time to breathe some fresh air!
 \ff[introBenitex]\bPode sair da pokebola!
-\ff[introBenitex]\bPode sair da pokebola!
+\ff[introBenitex]\bYou can get out of the Poké Ball!
 \ff[introBenitex]\bNathan: Me pergunto o que deveríamos fazer agora...
-\ff[introBenitex]\bNathan: Me pergunto o que deveríamos fazer agora...
+\ff[introBenitex]\bNathan: I wonder what we should do now...
 \ff[introBenitex]\bTreinar mais um pouco? Ou será que estamos prontos para ir ao torneio?
 \ff[introBenitex]\bTreinar mais um pouco? Ou será que estamos prontos para ir ao torneio?
 \ff[introBenitex]\bBom, tenho que tomar minha decisão agora.
@@ -414,370 +402,364 @@ Ah, mas que pena...
 \ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
 \ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
 Já estou cansada disso...
-Já estou cansada disso...
+I'm sick of this...
 \w[signskin]Cidade de Nimbasa\nCampeonatos eletrizantes sobre as águas
-\w[signskin]Cidade de Nimbasa\nCampeonatos eletrizantes sobre as águas
+\w[signskin]Nimbasa City\nLit by the Flash of Lightning!
 Não consigo achar minha filha, ai Arceus...\nAnna, onde está você?
-Não consigo achar minha filha, ai Arceus...\nAnna, onde está você?
+I can't find my daughter, oh Arceus...\nAnna, where are you?
 \ff[introBenitex]\bNathan: O que aconteceu? Talvez eu possa ajudar.
-\ff[introBenitex]\bNathan: O que aconteceu? Talvez eu possa ajudar.
+\ff[introBenitex]\bNathan: What happened? I might be able to help you.
 \l[3]Alguns dias atrás, eu tive uma discussão com minha filha. Acontece que eu vi ela saindo de casa escondida durante uma noite.
-\l[3]Alguns dias atrás, eu tive uma discussão com minha filha. Acontece que eu vi ela saindo de casa escondida durante uma noite.
+\l[3]A few days ago, I had an argument with my daughter. I happened to see her sneaking out of the house one night.
 Ela não queria me dizer o que aconteceu, então fiquei muito preocupada, e pus ela de castigo para tentar resolver.
-Ela não queria me dizer o que aconteceu, então fiquei muito preocupada, e pus ela de castigo para tentar resolver.
-\ff[introBenitex]\bNathan: Hum, isso não deu muito certo, né?
-\ff[introBenitex]\bNathan: Hum, isso não deu muito certo, né?
+She didn't want to tell me about what had happened, so I got very worried and grounded her to try and sort it out.
 Eu não esperava que ela ia sair de novo, achava que seria só dessa vez...
-Eu não esperava que ela ia sair de novo, achava que seria só dessa vez...
+I didn't expect her to go out again, I thought it would be just this once...
 \l[3]\ff[introBenitex]\bNathan: Eu entendo, talvez eu possa te ajudar. Você tem alguma ideia de onde ela pode estar?
-\l[3]\ff[introBenitex]\bNathan: Eu entendo, talvez eu possa te ajudar. Você tem alguma ideia de onde ela pode estar?
+\l[3]\ff[introBenitex]\bNathan: I understand, I think I can help you. Do you have any idea where she might be?
 \l[3]Eu não sei, da última vez que vi, ela ainda estava no quarto, então resolvi seguir minha vida normalmente.
-\l[3]Eu não sei, da última vez que vi, ela ainda estava no quarto, então resolvi seguir minha vida normalmente.
+\l[3]I don't know, the last moment I saw her, she was still in her room, so I decided to carry on with my life as normal.
 \l[3]Mas, depois de algum tempo, eu voltei para verificar se ela estava bem. Mas era tarde demais, ela tinha sumido.
-\l[3]Mas, depois de algum tempo, eu voltei para verificar se ela estava bem. Mas era tarde demais, ela tinha sumido.
+\l[3]But after a while, I went back to check if she was all right, but it was too late, she was gone.
 Você pode me ajudar a encontrar minha filha?
-Você pode me ajudar a encontrar minha filha?
+Can you help me find my daughter?
 \l[3]\ff[introBenitex]\bNathan: Tudo bem, posso te ajudar a encontrar ela. Vou dar uma volta pela cidade, então te aviso caso encontre algo.
-\l[3]\ff[introBenitex]\bNathan: Tudo bem, posso te ajudar a encontrar ela. Vou dar uma volta pela cidade, então te aviso caso encontre algo.
+\l[3]\ff[introBenitex]\bNathan: Yes, I can. I'm going around the city, so I'll let you know if I find anything.
 Obrigada moço, Arceus manda a ajuda para aqueles que merecem. Que ele abençoe sua jornada.
-Obrigada moço, Arceus manda a ajuda para aqueles que merecem. Que ele abençoe sua jornada.
-Se quiser, pode analizar o quarto da minha filha, dentro da minha casa. Eu te levo até lá.
-Se quiser, pode analizar o quarto da minha filha, dentro da minha casa. Eu te levo até lá.
+Thank you lad, Arceus always helps those in need. I pray he blesses your journey.
+Se quiser, pode analizar o quarto da minha filha, na minha casa. Eu te levo até lá.
+If you're interested, you can take a look at my daughter's room, in my house. I'll take you there.
 \ff[introBenitex]\bNathan: É uma boa ideia, acho que isso pode me ajudar a encontrar a menina.
-\ff[introBenitex]\bNathan: É uma boa ideia, acho que isso pode me ajudar a encontrar a menina.
+\ff[introBenitex]\bNathan: That's a good idea, I think it might help me find the girl.
 Vamos, então.
-Vamos, então.
+Right, let's go.
 \ff[introBenitex]\bNathan: Não senhora, não é necessário. Talvez eu passe lá depois. Mas você pode continuar a sua busca.
-\ff[introBenitex]\bNathan: Não senhora, não é necessário. Talvez eu passe lá depois. Mas você pode continuar a sua busca.
+\ff[introBenitex]\bNathan: No, ma'am, it's not necessary. Maybe I'll stop by later. But you can continue your search.
 É a casa aqui acima, por enquanto estou procurando apenas nos arredores.
-É a casa aqui acima, por enquanto estou procurando apenas nos arredores.
+It's the first house to the north. I'm looking around in the meantime.
 \ff[introBenitex]\bNathan: Acho que posso te ajudar, mas queria esclarecer uma coisa antes.
-\ff[introBenitex]\bNathan: Acho que posso te ajudar, mas queria esclarecer uma coisa antes.
+\ff[introBenitex]\bNathan: I can help you, but I need to clarify something.
 \ff[introBenitex]\bNathan: Não quero soar mal, mas meu tempo é valioso, só queria ter certeza que não estou fazendo isso a toa.
-\ff[introBenitex]\bNathan: Não quero soar mal, mas meu tempo é valioso, só queria ter certeza que não estou fazendo isso a toa.
+\ff[introBenitex]\bNathan: I don't want to sound mean, but my time is valuable, I just want to make sure I'm not doing this for nothing.
 Tudo bem, eu entendo. Isso é um trabalho policial e, quando eu procurei por um, eles não deram bola para o meu caso. Agradeço sua disposição.
-Tudo bem, eu entendo. Isso é um trabalho policial e, quando eu procurei por um, eles não deram bola para o meu caso. Agradeço sua disposição.
+It's ok, I understand. This is a police work, and when I looked for one, they didn't pay any attention to my case. Thank you for your willingness.
 \ff[introBenitex]\bNathan: Infelizmente, não tenho tempo para ajudar a senhora. Te desejo boa sorte na sua procura.
-\ff[introBenitex]\bNathan: Infelizmente, não tenho tempo para ajudar a senhora. Te desejo boa sorte na sua procura.
+\ff[introBenitex]\bNathan: Unfortunately, I don't have the time to help you. Good luck in your search.
 Conseguiu alguma coisa? Qualquer coisa?
-Conseguiu alguma coisa? Qualquer coisa?
+Did you find something? Anything?
 \ff[introBenitex]\bNathan: Não, ainda tenho que procurar mais. Nenhuma novidade por enquanto.
-\ff[introBenitex]\bNathan: Não, ainda tenho que procurar mais. Nenhuma novidade por enquanto.
+\ff[introBenitex]\bNathan: No, not yet. I still need to find out more.
 Que Arceus nos mostre o caminho.
-Que Arceus nos mostre o caminho.
+May Arceus show us the way.
 \ff[introBenitex]\bNathan: Descobri bastante coisa no quarto da sua filha.
-\ff[introBenitex]\bNathan: Descobri bastante coisa no quarto da sua filha.
-\ff[introBenitex]\bMinha hipótese é que ela conheceu alguém que criou uma paixão por batalhas pokemon em um passeio pela cidade.
-\ff[introBenitex]\bMinha hipótese é que ela conheceu alguém que criou uma paixão por batalhas pokemon em um passeio pela cidade.
+\ff[introBenitex]\bNathan: I found quite a lot in your daughter's room.
+\l[3]\ff[introBenitex]\bMinha hipótese é que, em um passeio pela cidade, ela conheceu alguém que criou uma paixão por batalhas pokemon nela.
+\l[3]\ff[introBenitex]\bMy hipothesis is that, during a walk through the city, she met someone who created a passion for Pokémon battles in her.
 \ff[introBenitex]\bImagino que ela esteja em algum lugar onde estejam acontecendo muitas batalhas. Ou onde tenham muitos pokemon.
-\ff[introBenitex]\bImagino que ela esteja em algum lugar onde estejam acontecendo muitas batalhas. Ou onde tenham muitos pokemon.
+\ff[introBenitex]\I imagine she is somewhere where there are lots of Pokémon. Or where there are a lot of battles are taking place.
 Caramba, então você pode encontrar minha filha! Por favor, senhor, você já está tão perto, não desista agora!
-Caramba, então você pode encontrar minha filha! Por favor, senhor, você já está tão perto, não desista agora!
+Oh, boy, so you can find my daughter! Please, you're so close, don't give up now!
 \ff[introBenitex]\bNathan: Tudo bem, eu encontro ela. Mas antes tenho que te dizer algo.
-\ff[introBenitex]\bNathan: Tudo bem, eu encontro ela.  Mas antes tenho que te dizer algo.
-\l[3]\ff[introBenitex]\bNathan: Acho que talvez você esteja se intrometendo demais na vida da sua filha e que talvez esse seja um motivo para ela fugir. Talvez ela esteja se sentindo presa.
-\l[3]\ff[introBenitex]\bNathan: Acho que talvez você esteja se intrometendo demais na vida da sua filha e que talvez esse seja um motivo para ela fugir. Talvez ela esteja se sentindo presa.
+\ff[introBenitex]\bNathan: 
+\l[3]\ff[introBenitex]\bEu sei que você se preocupa com sua filha, mas tome cuidado com o quanto você tenta controlar a vida dela.
+\l[3]\ff[introBenitex]\bI know you care about your daughter, but be careful how much you try to control her life.
 Eu sei, mas eu a amo tanto, que eu quero proteger ela do mundo, evitar todos os perigos.
-Eu sei, mas eu a amo tanto, que eu quero proteger ela do mundo, evitar todos os perigos.
+I know, but I love her so much. I need to protect her from the world, to avoid all the dangers.
 \ff[introBenitex]\bNathan: Tudo bem, eu entendo.
-\ff[introBenitex]\bNathan: Tudo bem, eu entendo.
+\ff[introBenitex]\bNathan: I understand.
 \ff[introBenitex]\bNathan: Descobri tudo.
-\ff[introBenitex]\bNathan: Descobri tudo.
+\ff[introBenitex]\bNathan: I figured it all out.
 Ótimo! Onde está ela? Onde???
-Ótimo! Onde está ela? Onde???
+Great! Where is she? Where???
 \ff[introBenitex]\bNathan: Infelizmente...
-\ff[introBenitex]\bNathan: Infelizmente...
+\ff[introBenitex]\bNathan: Unfortunately...
 Ah não.
-Ah não.
+Oh no.
 Não é possível.
-Não é possível.
+I can't believe it.
 Ela MORREU?
-Ela MORREU?
+Did she DIE?
 \ff[introBenitex]\bNathan: Não, não, calma senhora, ela está bem!
-\ff[introBenitex]\bNathan: Não, não, calma senhora, ela está bem!
+\ff[introBenitex]\bNathan: No, no! Calm down lady, she is fine!
 Ufa, mas o que aconteceu então?
-Ufa, mas o que aconteceu então?
+Phew. What happened to her then?
 \ff[introBenitex]\bNathan: Eu encontrei ela no torneio. Vou te contar o que ela me disse.
-\ff[introBenitex]\bNathan: Eu encontrei ela no torneio.  Vou te contar o que ela me disse.
+\ff[introBenitex]\bNathan: I met her at the tournament. I'll tell you what she told me.
 \l[3]\ff[introBenitex]\bNathan: Ela não me disse muita coisa, acabei perdendo minha batalha contra ela e ela não me considerou digno...
-\l[3]\ff[introBenitex]\bNathan: Ela não me disse muita coisa, acabei perdendo minha batalha contra ela e ela não me considerou digno...
+\l[3]\ff[introBenitex]\bNathan: She didn't tell me much. I ended up losing a battle against her and she didn't consider me worthy...
 Ah, além de mexer com coisas perigosas, agora ela maltrata os outros...
-Ah, além de mexer com coisas perigosas, agora ela maltrata os outros...
-\ff[introBenitex]\bNathan: Por favor, acalme-se.
-\ff[introBenitex]\bNathan: Por favor, acalme-se.
-\ff[introBenitex]\bPorque a notícia que vou te dar não vai te agradar.
-\ff[introBenitex]\bPorque a notícia que vou te dar não vai te agradar.
-\ff[introBenitex]\bNathan: Ela não estava feliz com você. Ela fez um tipo de metáfora comparando você a uma jaula. Ela parecia bem triste.
-\ff[introBenitex]\bNathan: Ela não estava feliz com você. Ela fez um tipo de metáfora comparando você a uma jaula. Ela parecia bem triste.
+Oh no, besides messing around with dangerous stuff, now she's abusing others...
+\ff[introBenitex]\bNathan: Por favor, acalme-se. Ainda preciso falar com você.
+\ff[introBenitex]\bNathan: Please, calm down. I still I still need to talk to you about something.
+\ff[introBenitex]\bEla não estava feliz com você. Ela fez um tipo de metáfora comparando você a uma jaula. Ela parecia bem triste.
+\ff[introBenitex]\bShe wasn't happy with you. She made some kind of metaphor comparing you to a cage. She looked very sad.
 \ff[introBenitex]\bNathan: Ela me contou um pouco sobre o que sentia no relacionamento de vocês duas.
-\ff[introBenitex]\bNathan: Ela me contou um pouco sobre o que sentia no relacionamento de vocês duas.
+\ff[introBenitex]\bNathan: She told me a little about how she felt about your relationship.
 \l[3]\ff[introBenitex]\bRealmente, as notícias não são tão boas, ela disse que se sentia presa com você, ela queria ser mais livre, fazer o que ama.
-\l[3]\ff[introBenitex]\bRealmente, as notícias não são tão boas, ela disse que se sentia presa com você, ela queria ser mais livre, fazer o que ama.
+\l[3]\ff[introBenitex]\bShe told me she felt trapped when she was with you. She wanted to be free, and to do what she loves.
 \ff[introBenitex]\bNathan: Ela me contou toda a história de como chegou até o torneio.
-\ff[introBenitex]\bNathan: Ela me contou toda a história de como chegou até o torneio.
+\ff[introBenitex]\bNathan: She told me the whole story of how she got to the tournament.
 \l[3]\ff[introBenitex]\bParece que ela conheceu uma menina que apresentou a ela o mundo dos treinadores pokemon.
-\l[3]\ff[introBenitex]\bParece que ela conheceu uma menina que apresentou a ela o mundo dos treinadores pokemon.
+\l[3]\ff[introBenitex]\bIt looks like she met a girl who introduced her to the world of Pokémon training.
 \ff[introBenitex]\bDepois de um tempo conheceu um outro homem que apresentou a ela o torneio.
-\ff[introBenitex]\bDepois de um tempo conheceu um outro homem que apresentou a ela o torneio.
+\ff[introBenitex]\bAfter a while, she met another man who introduced her to the tournament.
 \l[3]\ff[introBenitex]\bÉ por isso que estava saindo de casa, para treinar para o torneio. Infelizmente, ela não venceu, mas decidiu continuar sendo treinadora.
-\l[3]\ff[introBenitex]\bÉ por isso que estava saindo de casa, para treinar para o torneio. Infelizmente, ela não venceu, mas decidiu continuar sendo treinadora.
+\l[3]\ff[introBenitex]\bAnd that's why she was leaving home, she was training to the tournament. And, even though she didn't win, she decided to continue being a trainer.
 Tudo faz sentido...
-Tudo faz sentido...
+Now it all makes sense...
 Mas... ela vai voltar?
-Mas... ela vai voltar?
-\ff[introBenitex]\bNathan: É quase certo que não.
-\ff[introBenitex]\bNathan: É quase certo que não.
+But... is she coming back?
+\ff[introBenitex]\bNathan: Desculpe, mas é quase certo que não.
+\ff[introBenitex]\bNathan: I'm sorry. It's very unlikely now.
 Bom, não tem mais volta...
-Bom, não tem mais volta...
+There's no coming back now...
 Obrigada por me ajudar como pôde. Nem sempre as coisas funcionam como imaginamos...
-Obrigada por me ajudar como pôde. Nem sempre as coisas funcionam como imaginamos...
+Thank you for helping as you could. Things don't always work out the way we imagine...
 \ff[introBenitex]\bNathan: Me desculpe.
-\ff[introBenitex]\bNathan: Me desculpe.
+\ff[introBenitex]\bNathan: I'm sorry.
 Está tudo bem. Obrigada.
-Está tudo bem. Obrigada.
+It's alright. Thank you.
 Pegue essas moedas e esses doces. Deve ter dado bastante trabalho encontrar ela, espero que isso compense.
-Pegue essas moedas e esses doces. Deve ter dado bastante trabalho encontrar ela, espero que isso compense.
+Take some coins and candies. It must have been a lot of work to find her, I hope this is enough.
 Acho que vou dar uma volta. Preciso de um pouco de ar.
-Acho que vou dar uma volta. Preciso de um pouco de ar.
+I think I'll go for a walk. I need some fresh air.
 \ff[introBenitex]\bNathan: As más notícias são que ela deve demorar um pouco pra voltar.
-\ff[introBenitex]\bNathan: As más notícias são que ela deve demorar um pouco pra voltar.
+\ff[introBenitex]\bNathan: I'm sorry, but it's going to take a while for her to come back.
 Quanto tempo? O que aconteceu?
-Quanto tempo? O que aconteceu?
+How long? What happened?
 \ff[introBenitex]\bNathan: Eu encontrei ela no torneio, consegui negociar com ela pra ela voltar pra casa.
-\ff[introBenitex]\bNathan: Eu encontrei ela no torneio, consegui negociar com ela pra ela voltar pra casa.
+\ff[introBenitex]\bNathan: I found met her during the tournament and managed to negotiate with her to get her back home.
 Ótimo!
-Ótimo!
+Great!
 \l[3]\ff[introBenitex]\bNathan: Mas ela deve demorar um pouco, segundo ela, ela vai se despedir de algumas pessoas que gostou de conhecer.
-\l[3]\ff[introBenitex]\bNathan: Mas ela deve demorar um pouco, segundo ela, ela vai se despedir de algumas pessoas que gostou de conhecer.
+\l[3]\ff[introBenitex]\bNathan: But, according to her, she'll take a while because she's going to say goodbye to some of the people she enjoyed meeting.
 Tudo bem, posso esperar um pouco. Obrigada pela sua ajuda.
-Tudo bem, posso esperar um pouco. Obrigada pela sua ajuda.
+It's alright, I'll be patient. Thank you for your help.
 \rNathan recebeu 10000$.
-\rNathan recebeu 10000$.
+\rNathan received 10000$.
 Vou para minha casa, pode me encontrar lá se precisar.
-Vou para minha casa, pode me encontrar lá se precisar.
+I'm going home. You can meet me there if you need me.
 \w[signskin]Estádio da Comilança
-\w[signskin]Estádio da Comilança
-\w[signskin]Cardápio de hoje:\nOvos de Blyssey Frutas de Tropius Magikarp Assado
-\w[signskin]Cardápio de hoje:\nOvos de Blyssey Frutas de Tropius Magikarp Assado
-\w[signskin]Bebidas:\nLimonada Leite de Miltank Suco de flores
-\w[signskin]Bebidas:\nLimonada Leite de Miltank Suco de flores
-\ff[introBenitex]\bNathan: A rota ainda não está aberta? O deslizamento já aconteceu a um tempão!
-\ff[introBenitex]\bNathan: A rota ainda não está aberta? O deslizamento já aconteceu a um tempão!
+\w[signskin]Comiling Stadium
+\w[signskin]Cardápio de hoje:\nOvos de Blyssey \nFrutas de Tropius \nMagikarp Assado
+\w[signskin]Today's menu:\nBlyssey Eggs \nTropius Fruits \nRoast Magikarp
+\w[signskin]Bebidas:\nLimonada \nLeite de Miltank \nSuco de flores
+\w[signskin]Bebidas:\nLemonade \nMiltank milk \nFlower juice
 \ff[introBenitex]\bNathan: Então, tem uma mãe procurando sua filha pela cidade, vocês policiais não estão cientes disso?
-\ff[introBenitex]\bNathan: Então, tem uma mãe procurando sua filha pela cidade, vocês policiais não estão cientes disso?
+\ff[introBenitex]\bNathan: So there's a mother looking for her daughter in the city, aren't you police aware of that?
 Ah, nós estamos ocupados com o torneio no momento, não podemos desviar a atenção ainda, talvez depois.
-Ah, nós estamos ocupados com o torneio no momento, não podemos desviar a atenção ainda, talvez depois.
+Ah, we're busy with the tournament at the moment, we can't divert attention just yet, maybe later.
 \ff[introBenitex]\bNathan: Você viu a menina em algum momento?
-\ff[introBenitex]\bNathan: Você viu a menina em algum momento?
+\ff[introBenitex]\bNathan: Did you see a girl around here?
 Não.
-Não.
+No.
 \ff[introBenitex]\bNathan: Ah... ok.
-\ff[introBenitex]\bNathan: Ah... ok.
+\ff[introBenitex]\bNathan: Oh... ok.
 \w[signskin]Teatro Musical - Atualmente, usado para o Torneio
-\w[signskin]Teatro Musical - Atualmente, usado para o Torneio
+\w[signskin]Musical Theater - Currently being used for the tournament
 \ff[introBenitex]\bNathan: Mas por que você fica andando em círculos aí? De um lado para o outro?
-\ff[introBenitex]\bNathan: Mas por que você fica andando em círculos aí? De um lado para o outro?
+\ff[introBenitex]\bNathan: Why are you walking around in circles?
 \l[3]Eu costumava dar a volta na cidade, mas quando as pessoas começaram a me xingar, tive que me restringir a esse pequeno espaço...
-\l[3]Eu costumava dar a volta na cidade, mas quando as pessoas começaram a me xingar, tive que me restringir a esse pequeno espaço...
+\l[3]I used to go around the city, but when people started swearing at me, I had to restrict myself to this small space...
 \ff[introBenitex]\bNathan: Você viu uma menina correndo por aqui?
-\ff[introBenitex]\bNathan: Você viu uma menina correndo por aqui?
+\ff[introBenitex]\bNathan: Did you see any girl passing by?
 Acho que não mas eu não estava prestando muita atenção e cheguei a pouco tempo.
-Acho que não mas eu não estava prestando muita atenção e cheguei a pouco tempo.
+I don't think so, but I just arrived and I wasn't paying much attention.
 Sério? Espero que ela esteja bem, pelo menos.
-Sério? Espero que ela esteja bem, pelo menos.
+Seriously? I hope she's fine.
 \ff[introBenitex]\bNathan: Acho que deve ficar, não se preocupe.
-\ff[introBenitex]\bNathan: Acho que deve ficar, não se preocupe.
+\ff[introBenitex]\bNathan: I think she will, don't worry.
 Eu não sou como os motoqueiros da Rota 4, eu vim de Anville, e honro minha cidade.
-Eu não sou como os motoqueiros da Rota 4, eu vim de Anville, e honro minha cidade.
+I'm not like those bikers from Route 4. I'm from Anville, and I honor my city.
 \ff[introBenitex]\bNathan: Os motoqueiros da Rota 4 estão arranjando confusões, né?
-\ff[introBenitex]\bNathan: Os motoqueiros da Rota 4 estão arranjando confusões, né?
+\ff[introBenitex]\bNathan: The Route 4 bikers are getting into trouble, aren't they?
 \l[3]Com certeza, eu não conheço eles, mas as pessoas sempre me olham estranho quando eu passo, tudo culpa daqueles malditos!
-\l[3]Com certeza, eu não conheço eles, mas as pessoas sempre me olham estranho quando eu passo, tudo culpa daqueles malditos!
+\l[3]They surely are, but I don't know them, and people keep looking at me as if I was one of them. I hate them!
 \ff[introBenitex]\bNathan: Pois é, as pessoas são assim mesmo, preconceituosas.
-\ff[introBenitex]\bNathan: Pois é, as pessoas são assim mesmo, preconceituosas.
+\ff[introBenitex]\bNathan: I'm sorry, many people are like this, prejudiced.
 Só queria que as pessoas pudessem me ver de outra forma.
-Só queria que as pessoas pudessem me ver de outra forma.
+I just wish people could see me differently.
 \l[3]\ff[introBenitex]\bNathan: Sabe o que faz as pessoas confiarem em mim? Minha tática de batalha. É diferente dos outros treinadores.
-\l[3]\ff[introBenitex]\bNathan: Sabe o que faz as pessoas confiarem em mim? Minha tática de batalha. É diferente dos outros treinadores.
+\l[3]\ff[introBenitex]\bNathan: You know what makes people trust me? My battle tactics. It's different from other trainers.
 A gente pode batalhar? Quero ver essa tática.
-A gente pode batalhar? Quero ver essa tática.
+How about a battle? I want to see those tactics.
 \ff[introBenitex]\bNathan: Vamos batalhar, depois disso, você vai poder mostrar a todos que é diferente.
-\ff[introBenitex]\bNathan: Vamos batalhar, depois disso, você vai poder mostrar a todos que é diferente.
+\ff[introBenitex]\bNathan: How about a battle? After that, the whole city will see you're different.
 Foi uma ótima batalha, agora me sinto determinado.
-Foi uma ótima batalha, agora me sinto determinado.
+That was a nice battle, now I feel determined.
 \ff[introBenitex]\bNathan: Infelizmente, não posso batalhar agora, estou com um pouquinho de pressa.
-\ff[introBenitex]\bNathan: Infelizmente, não posso batalhar agora, estou com um pouquinho de pressa.
+\ff[introBenitex]\bNathan: Unfortunately, I can't battle right now, I'm in a hurry.
 Tudo bem, se a gente se encontrar de novo, a gente vai poder mostrar nossas habilidades um para o outro.
-Tudo bem, se a gente se encontrar de novo, a gente vai poder mostrar nossas habilidades um para o outro.
+Alright, if we meet again, we'll be able to show each other our skills.
 \w[signskin]Faculdade de Nimbasa de Filosofia
-\w[signskin]Faculdade de Nimbasa de Filosofia
+\w[signskin]Nimbasa College of Philosophy
 Moça: Ei! Se quiser saber sobre das últimas, dá uma passada aqui!
-Moça: Ei! Se quiser saber sobre das últimas, dá uma passada aqui!
+Lady: Hey! If you want to know about the latest news, just drop by for a sec!
 Eles estão certos.
-Eles estão certos.
+They are right.
 É, a idade é assim mesmo.
-É, a idade é assim mesmo.
+Yes, that's how age is.
 Ansiosa para o torneio?
-Ansiosa para o torneio?
+Are you looking forward to the tournament?
 Onde leva o caminho ao sul?
-Onde leva o caminho ao sul?
+Where does the road lead south?
 O que tem ao leste?
-O que tem ao leste?
+What's to the east?
 Tenha um bom dia.
-Tenha um bom dia.
+Have a nice day.
 Certo.
-Certo.
+Right.
 Agora não.
-Agora não.
+Not now.
 Obrigado.
-Obrigado.
+Thank you.
 Não vou participar.
-Não vou participar.
+I won't participate.
 Pode ser.
-Pode ser.
+Yes.
 Desculpe, mas não
-Desculpe, mas não
+I'm sorry, but no
 É claro!
-É claro!
+Of course!
 Estou ocupado.
-Estou ocupado.
+I'm busy now.
 Eu tenho que ajudar ele.
-Eu tenho que ajudar ele.
+I have to help him.
 Tenho outras preocupações
-Tenho outras preocupações
+I have other concerns
 Eu também!
-Eu também!
+Me too!
 Aproveite.
-Aproveite.
+Enjoy yourself.
 Onde está sua mãe?
-Onde está sua mãe?
+Where's your mother?
 Eu estava procurando...
-Eu estava procurando...
+I was looking for you...
 Venha comigo, agora.
-Venha comigo, agora.
+Come with me. Now.
 Eu ajudo.
-Eu ajudo.
+I can help.
 (Negociar)
-(Negociar)
+(Negotiate)
 Por favor.
-Por favor.
+Please.
 Não precisa.
-Não precisa.
+There's no need.
 (Contar a verdade)
-(Contar a verdade)
+(Tell the truth)
 (Mentir)
-(Mentir)
+(Lie)
 Claro.
-Claro.
+Of course.
 [Map3]
 Eei! Nathan? Não esqueça seu Charmander!
-Eei! Nathan? Não esqueça seu Charmander!
+Hey! Nathan? Don't forget your Charmander!
 O mundo nunca esteve tão movimentado.
-O mundo nunca esteve tão movimentado.
+The world has never been busier.
 Parece que o mundo não para, toda hora tem algo novo acontecendo.
-Parece que o mundo não para, toda hora tem algo novo acontecendo.
+It seems like the world never stops, there's something new happening all the time.
 As vezes eu só queria estar em um lugar mais tranquilo.
-As vezes eu só queria estar em um lugar mais tranquilo.
+Sometimes, I just wanted to stay somewhere quiter.
 Olá Nathan, veio dar uma olhada nos produtos?
-Olá Nathan, veio dar uma olhada nos produtos?
+Hello Nathan, came to take a look at the products?
 \ff[introBenitex]\bNathan: Sim.
-\ff[introBenitex]\bNathan: Sim.
+\ff[introBenitex]\bNathan: Yes.
 Se você puder ver se minha mãe está bem para mim, ficaria grata.
-Se você puder ver se minha mãe está bem para mim, ficaria grata.
+If you could see if my mother is all right, I'd be grateful.
 Ela fica sempre na entrada sul da cidade, o pessoal não gosta muito dela.
-Ela fica sempre na entrada sul da cidade, o pessoal não gosta muito dela.
+She's always at the southern entrance to the city, people don't really like her.
 \ff[introBenitex]\bNathan: Se eu passar lá, eu falo com ela.
-\ff[introBenitex]\bNathan: Se eu passar lá, eu falo com ela.
+\ff[introBenitex]\bNathan: If I stop by, I'll talk to her.
 Não esqueça de fazer uma visita ao meu filho.
-Não esqueça de fazer uma visita ao meu filho.
+Don't forget to visit my son.
 Olá menino, como vai sua jornada?
-Olá menino, como vai sua jornada?
+Hello boy, how is your journey going?
 \ff[introBenitex]\bNathan: Tudo correndo bem, senhor.
-\ff[introBenitex]\bNathan: Tudo correndo bem, senhor.
+\ff[introBenitex]\bNathan: All going well, sir.
 Muito bom, muito bom! Posso te pedir uma coisa?
-Muito bom, muito bom! Posso te pedir uma coisa?
+Very well, very well! May I ask you something?
 \ff[introBenitex]\bNathan: Acredito que sim.
-\ff[introBenitex]\bNathan: Acredito que sim.
+\ff[introBenitex]\bNathan: Yes, please go ahead.
 \l[3]Se você tiver tempo, passe na faculdade do meu filho, ele adora filosofia e passaria um bom tempo conversando com você.
-\l[3]Se você tiver tempo, passe na faculdade do meu filho, ele adora filosofia e passaria um bom tempo conversando com você.
-\ff[introBenitex]\bNathan: Ah, obrigado pelo conselho.
-\ff[introBenitex]\bNathan: Ah, obrigado pelo conselho.
+\l[3]If you have the time, stop by my son's college. He loves philosophy and would love to speak with you.
+\ff[introBenitex]\bNathan: Certo, pode deixar.
+\ff[introBenitex]\bNathan: All right.
 Esse centro pokemon anda bem mais cheio que o normal, deve ser por causa do torneio.
-Esse centro pokemon anda bem mais cheio que o normal, deve ser por causa do torneio.
+This pokemon center is much more crowded than usual, it must be because of the tournament.
 \ff[introBenitex]\bNathan: Realmente, acho que talvez eu devesse dar uma passada lá também.
-\ff[introBenitex]\bNathan: Realmente, acho que talvez eu devesse dar uma passada lá também.
+\ff[introBenitex]\bNathan: Yeah, I think I might stop by there too.
 Sim, será uma boa chance para treinar.
-Sim, será uma boa chance para treinar.
+Yes, it can be a good chance for some training.
 Quer dar uma olhada nos itens a venda?
-Quer dar uma olhada nos itens a venda?
+Do you want to take a look at the items on sale?
 \ff[introBenitex]\bNathan: Sim, acho que agora é uma boa chance para me reestocar.
-\ff[introBenitex]\bNathan: Sim, acho que agora é uma boa chance para me reestocar.
+\ff[introBenitex]\bNathan: Yes, I think it's a good moment to restock.
 Nathan pegou seus tênis de caminhada, sua Pokédex e seu PokéRadar.
-Nathan pegou seus tênis de caminhada, sua Pokédex e seu PokéRadar.
+Nathan received his Running Shoes, PokéDex, and PokéRadar.
 \ff[introBenitex]\bNathan: Opa, cheguei.
-\ff[introBenitex]\bNathan: Opa, cheguei.
+\ff[introBenitex]\bNathan: Here I am.
 Esse charmander realmente é bem diferente, ainda bem que consigo curar ele normalmente.
-Esse charmander realmente é bem diferente, ainda bem que consigo curar ele normalmente.
+This charmander is really special, I'm glad I can heal him as usual.
 Tome mais cuidado nos seus próximos treinos, dessa vez me deu mais trabalho que o normal!
-Tome mais cuidado nos seus próximos treinos, dessa vez me deu mais trabalho que o normal!
+Be careful in your next trainings, this time I had more trouble than usual!
 \ff[introBenitex]\bNathan: Tá bom, tá bom, vou fazer o que puder.
-\ff[introBenitex]\bNathan: Tá bom, tá bom, vou fazer o que puder.
+\ff[introBenitex]\bNathan: All right, all right, I'll do what I can.
 Obrigada!
-Obrigada!
+Trank you!
 \ff[introBenitex]\bNathan: Você não entende, eu não posso, preciso correr!
-\ff[introBenitex]\bNathan: Você não entende, eu não posso, preciso correr!
+\ff[introBenitex]\bNathan: I can't, I have to be fast!
 Ah, esse torneio só me dá trabalho...
-Ah, esse torneio só me dá trabalho...
+Ah, this tournament just gives me a hard time...
 Obrigada por usar o nosso serviço. Volte sempre que precisar!
-Obrigada por usar o nosso serviço. Volte sempre que precisar!
+Thank you for using our service. Come back whenever you need to!
 Olá Nathan, bem vindo de volta! Seus pokemon precisam de cuidados?
-Olá Nathan, bem vindo de volta! Seus pokemon precisam de cuidados?
+Hello Natham, welcome back! Do your pokemon need looking after?
 \ff[introBenitex]\bNathan: Sim, aqui, pegue eles.
-\ff[introBenitex]\bNathan: Sim, aqui, pegue eles.
+\ff[introBenitex]\bNathan: Yes, please.
 Caramba, parece que um de seus pokemon passou por uma espécie de mutação!
-Caramba, parece que um de seus pokemon passou por uma espécie de mutação!
+Wow, it looks like your Pokémon has undergone some kind of mutation!
 \ff[introBenitex]\bNathan: O quê? Mas e agora? Será que eu devo procurar um professor para ter ajuda?
-\ff[introBenitex]\bNathan: O quê? Mas e agora? Será que eu devo procurar um professor para ter ajuda?
+\ff[introBenitex]\bNathan: What? What do I do? Should I go to a Professor for help?
 Não se preoculpe, isso é benigno para ele e você não precisa remover isso.
-Não se preoculpe, isso é benigno para ele e você não precisa remover isso.
+Don't worry, it's benign for him and you don't need to remove it.
 Ele poderá crescer mais fácilmente, e também vai compartilhar essa mutação com todos próximos a ele.
-Ele poderá crescer mais fácilmente, e também vai compartilhar essa mutação com todos próximos a ele.
+He'll be able to grow stronger, and will share his mutation to those next to it.
 \ff[introBenitex]\bNathan: Caramba, que interessante... Acho melhor deixar ele com outros para eles se ajudarem.
-\ff[introBenitex]\bNathan: Caramba, que interessante... Acho melhor deixar ele com outros para eles se ajudarem.
+\ff[introBenitex]\bNathan: Wow, that's interesting... I think I'll leave him with others so that they can each other.
 Obrigada por esperar, aqui estão eles.
-Obrigada por esperar, aqui estão eles.
+Thanks for waiting, here they are.
 \ff[introBenitex]\bNathan: Na verdade, meus pokemon estão bem, obrigado pela preocupação.
-\ff[introBenitex]\bNathan: Na verdade, meus pokemon estão bem, obrigado pela preocupação.
+\ff[introBenitex]\bNathan: Actually, they are fine, thank you.
 Tudo bem, sinta-se livre para voltar se estiver precisando.
-Tudo bem, sinta-se livre para voltar se estiver precisando.
+Alright, feel free to come back whenever you need.
 Eu avisei para tomar cuidado Nathan, me dê eles, rápido.
-Eu avisei para tomar cuidado Nathan, me dê eles, rápido. 
+I told you to be careful Nathan, give them to me, quickly.
 \ff[introBenitex]\bNathan: Desculpe enfermeira, mas eu tive que enfrentar um desafio maior do que eu esperava.
-\ff[introBenitex]\bNathan: Desculpe enfermeira, mas eu tive que enfrentar um desafio maior do que eu esperava.
+\ff[introBenitex]\bNathan: I'm sorry nurse, but I had to face a bigger challenge then I expected.
 Eu imagino, mas tome mais cuidado da próxima vez, ok? Estou contando com sua palavra.
-Eu imagino, mas tome mais cuidado da próxima vez, ok? Estou contando com sua palavra.
+I can imagine, but be more careful next time, okay? I'm counting on your word.
 \ff[introBenitex]\bNathan: Tudo bem, vou me esforçar. Desculpe pelo inconveniente.
-\ff[introBenitex]\bNathan: Tudo bem, vou me esforçar.  Desculpe pelo inconveniente.
+\ff[introBenitex]\bNathan: All right, I'll make an effort. Sorry for the inconvenience.
 Meu minccino é mancinho, pode fazer carinho!
-Meu minccino é mancinho, pode fazer carinho!
+My minccino is is limp, you can cuddle it!
 Nathan, seu charmander já está curado, você já pode pegar aqui!
-Nathan, seu charmander já está curado, você já pode pegar aqui!
+Nathan, your charmander is healed, you can get it here.
 \ff[introBenitex]\bNathan: Ah, obrigado. Já estou indo.
-\ff[introBenitex]\bNathan: Ah, obrigado. Já estou indo.
+\ff[introBenitex]\bNathan: Thank you. I'll be right there.
 \ff[introBenitex]\bNathan: (Caramba, acho que o treinamento de ontem foi intenso demais.)
-\ff[introBenitex]\bNathan: (Caramba, acho que o treinamento de ontem foi intenso demais.)
+\ff[introBenitex]\bNathan: (Wow, I think yesterday training was too intense.)
 \ff[introBenitex]\b(Talvez seja uma boa ideia dar uma volta por aqui enquanto espero a enfermeira.)
-\ff[introBenitex]\b(Talvez seja uma boa ideia dar uma volta por aqui enquanto espero a enfermeira.)
+\ff[introBenitex]\b(I think taking a walk around here while I wait for the nurse might be a good idea.)
 \ff[introBenitex]\bNathan: Quase esqueci de pegar minhas coisas, vou lá rapidinho.
-\ff[introBenitex]\bNathan: Quase esqueci de pegar minhas coisas, vou lá rapidinho.
+\ff[introBenitex]\bNathan: I almost forgot to pick up my things, I'll go there quickly.
 Vou tentar.
-Vou tentar.
+I will try.
 Não posso!
-Não posso!
+I can't!
 Sim, por favor.
-Sim, por favor.
+Yes, please.
 Eles estão bem.
-Eles estão bem.
+They are fine.
 [Map4]
 Eu sou a namorada dele, fico aqui o dia todo. É bom que eu posso aproveitar muito os produtos.
 Eu sou a namorada dele, fico aqui o dia todo. É bom que eu posso aproveitar muito os produtos.
@@ -3730,7 +3712,7 @@ Não.
 \ff[introBenitex]\bNathan: Vários livros sobre política e economia. Desde Marx a Hoppa, muito interessante a diversidade que eles desponibilizam aqui.
 \ff[introBenitex]\bNathan: Vários livros sobre política e economia. Desde Marx a Hoppa, muito interessante a diversidade que eles desponibilizam aqui.
 Seja bem vindo a FNF, a Faculdade de Nimbasa de Filosofia.
-Seja bem vindo a FNF, a Faculdade de Nimbasa de Filosofia.
+Welcome to NCP, Nimbasa College of Philosophy.
 Nossos cursos são pagos, mas nós permitimos que você faça uma visita pela universidade sem custo.
 Nossos cursos são pagos, mas nós permitimos que você faça uma visita pela universidade sem custo.
 \ff[introBenitex]\bNathan: Muito obrigado! Só vim visitar mesmo.
