@@ -88,11 +88,6 @@ def pbStartOver(gameover=false)
   end
   $Trainer.heal_party
   if $PokemonGlobal.pokecenterMapId && $PokemonGlobal.pokecenterMapId>=0
-    if gameover
-      pbMessage(_INTL("\\w[]\\wm\\c[8]\\l[3]After the unfortunate defeat, you scurry back to a Pokémon Center."))
-    else
-      pbMessage(_INTL("\\w[]\\wm\\c[8]\\l[3]You scurry back to a Pokémon Center, protecting your exhausted Pokémon from any further harm..."))
-    end
     pbCancelVehicles
     pbRemoveDependencies
     $game_switches[Settings::STARTING_OVER_SWITCH] = true
@@ -110,11 +105,6 @@ def pbStartOver(gameover=false)
       end
       $Trainer.heal_party
       return
-    end
-    if gameover
-      pbMessage(_INTL("\\w[]\\wm\\c[8]\\l[3]After the unfortunate defeat, you scurry back home."))
-    else
-      pbMessage(_INTL("\\w[]\\wm\\c[8]\\l[3]You scurry back home, protecting your exhausted Pokémon from any further harm..."))
     end
     if homedata
       pbCancelVehicles

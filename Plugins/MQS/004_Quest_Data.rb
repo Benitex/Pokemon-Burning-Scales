@@ -70,7 +70,7 @@ module QuestModule
     :Location1 => "Teatro Musical",
     :Location2 => "Teatro Musical",
     :Location3 => "Teatro Musical",
-    :QuestDescription => "Nimbasa está em período de festa graças ao torneio anual, muitas pessoas se reunem por no Teatro Musical e acontecem várias batalhas. Participar das batalhas pode ser interessante.",
+    :QuestDescription => "Nimbasa está em período de festas graças ao torneio anual, muitas pessoas se reunem no Teatro Musical, onde acontecem várias batalhas.",
   }
 
   Quest8 = {

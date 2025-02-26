@@ -7,6 +7,14 @@ class Trainer
   def key
     return [@trainer_type, self.name, @version]
   end
+
+  def party_avarage_level
+    avarage_level = 0
+    self.party.each { |pokemon| avarage_level += pokemon.level }
+    avarage_level /= self.party.length
+
+    return avarage_level
+  end
 end
 
 class Pokemon
