@@ -1209,7 +1209,11 @@ class Pokemon
     @ivMaxed          = {}
     @ev               = {}
     GameData::Stat.each_main do |s|
-      @iv[s.id]       = rand(IV_STAT_LIMIT + 1)
+      if $game_switches[97]
+        @iv[s.id]     = 31
+      else
+        @iv[s.id]     = rand(IV_STAT_LIMIT + 1)
+      end
       @ev[s.id]       = 0
     end
     if owner.is_a?(Owner)

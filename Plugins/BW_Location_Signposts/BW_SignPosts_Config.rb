@@ -8,7 +8,7 @@
 
 TOWN = ["town"]
 
-CITY = ["Nimbasa", "Castelia", "Street"]
+CITY = ["Nimbasa", "Castelia", "Street", "Plaza"]
 
 ROUTE = ["Rota"]
 
@@ -18,7 +18,7 @@ BRIDGE = ["bridge"]
 #Custom Locations for Signpost
 #===============================================================================
 
-FOREST = ["forest" , "grove"]
+FOREST = ["Estufas"]
 
 CAVE = ["Caverna", "Relic"]
 
