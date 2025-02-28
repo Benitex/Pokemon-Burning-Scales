@@ -8831,80 +8831,87 @@ BattlerPlayerY          = 54
 BattlerEnemyX           = -12
 #-------------------------------
 [CHARMANDERP]
-BattlerEnemyY           = 60
+BattlerEnemyY           = 115
 BattlerAltitude         = 0
-BattlerPlayerX          = 15
+BattlerPlayerX          = 70
 BattlerPlayerY          = 63
 BattlerEnemyX           = 8
 #-------------------------------
 [CHARMELEONP]
-BattlerEnemyY           = 54
+BattlerEnemyY           = 109
 BattlerAltitude         = 0
 BattlerPlayerX          = 8
-BattlerPlayerY          = 57
+BattlerPlayerY          = 112
 BattlerEnemyX           = 4
 #-------------------------------
 [CHARIZARDP]
-BattlerEnemyY           = 32
+BattlerEnemyY           = 87
 BattlerAltitude         = 0
 BattlerPlayerX          = 6
-BattlerPlayerY          = 44
+BattlerPlayerY          = 99
 BattlerEnemyX           = -1
 #-------------------------------
+[ABSOLP]
+BattlerEnemyY           = 105
+BattlerAltitude         = 0
+BattlerPlayerX          = 20
+BattlerPlayerY          = 106
+BattlerEnemyX           = -6
+#-------------------------------
 [DIGLETTP]
-BattlerEnemyY           = 78
+BattlerEnemyY           = 133
 BattlerAltitude         = 0
 BattlerPlayerX          = 21
-BattlerPlayerY          = 83
+BattlerPlayerY          = 138
 IsGrounded              = true
 BattlerEnemyX           = -2
 #-------------------------------
 [DUGTRIOP]
-BattlerEnemyY           = 72
+BattlerEnemyY           = 127
 BattlerAltitude         = 0
 BattlerPlayerX          = 8
-BattlerPlayerY          = 76
+BattlerPlayerY          = 131
 IsGrounded              = true
 BattlerEnemyX           = -4
 #-------------------------------
-[ABSOLP]
-BattlerEnemyY           = 50
-BattlerAltitude         = 0
-BattlerPlayerX          = 20
-BattlerPlayerY          = 51
-BattlerEnemyX           = -6
-#-------------------------------
 [PHANTUMPP]
-BattlerEnemyY           = 47
+BattlerEnemyY           = 102
 BattlerAltitude         = 9
 BattlerPlayerX          = 7
-BattlerPlayerY          = 53
+BattlerPlayerY          = 108
 BattlerEnemyX           = -5
 #-------------------------------
+[YAMASKP]
+BattlerEnemyY           = 99
+BattlerAltitude         = 0
+BattlerPlayerX          = -3
+BattlerPlayerY          = 91
+BattlerEnemyX           = 4
+#-------------------------------
 [PUPLIN]
-BattlerEnemyY           = 73
+BattlerEnemyY           = 128
 BattlerAltitude         = 0
 BattlerPlayerX          = 5
-BattlerPlayerY          = 76
+BattlerPlayerY          = 131
 BattlerEnemyX           = 3
 #-------------------------------
 [PRINPLIN]
-BattlerEnemyY           = 50
+BattlerEnemyY           = 105
 BattlerAltitude         = 0
 BattlerPlayerX          = 10
-BattlerPlayerY          = 59
+BattlerPlayerY          = 114
 BattlerEnemyX           = 8
 #-------------------------------
 [PULINPUPLIN]
-BattlerEnemyY           = 30
+BattlerEnemyY           = 85
 BattlerAltitude         = 0
 BattlerPlayerX          = 7
-BattlerPlayerY          = 41
+BattlerPlayerY          = 96
 BattlerEnemyX           = 0
 #-------------------------------
 [VOLCARONAP]
-BattlerEnemyY           = 21
+BattlerEnemyY           = 76
 BattlerAltitude         = 15
 BattlerPlayerX          = 11
-BattlerPlayerY          = 24
+BattlerPlayerY          = 79
 BattlerEnemyX           = 7

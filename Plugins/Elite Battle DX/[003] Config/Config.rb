@@ -7,7 +7,7 @@
 module EliteBattle
 
   # Waiting period (in seconds) before battle "camera" starts moving
-  BATTLE_MOTION_TIMER = 90
+  BATTLE_MOTION_TIMER = 10
 
   # used to scale the trainer bitmaps (front sprites) to 200%
   TRAINER_SPRITE_SCALE = 1
