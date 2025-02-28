@@ -489,7 +489,10 @@ Pokemon = SANDILE,14
 [BIKER,Motoqueiro segurança]
 LoseText = "Batalha justa."
 Pokemon = SKUNTANK,15
+Pokemon = SANDILE,15
 Pokemon = MUK,15
+Pokemon = ZUBAT,15
+Pokemon = RIOLU,15
 #-------------------------------
 [CUEBALL,Motoqueiro recepcionista]
 LoseText = "Acho que você vai gostar daqui."
