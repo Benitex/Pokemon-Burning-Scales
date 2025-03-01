@@ -12,6 +12,8 @@ Em Pokemon Burning Scales você joga como Nathan, um treinador experiente que j�
 
 A história do jogo acontece em um ritmo bastante diferente do padrão da série, o mapa do jogo é composto pelas cidades de Nimbasa, Castelia e seus arredores. Em vez de viajar pela região, você vai explorar um pequeno mapa recheados de interações e side quests. Então você pode explorar cada parte minuciosamente e interagir com todos os personagens, partir diretamente para a quest principal, ou fazer um pouco de cada vez, no seu próprio ritmo.
 
+A história principal tem cerca de 4 horas de duração, mas o jogo pode durar 10+ horas dependendo da quantidade de sidequests que você quiser jogar.
+
 ## Screenshots
 
 <details>

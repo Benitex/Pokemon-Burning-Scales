@@ -614,7 +614,7 @@ def pbGetBossLevel
     levelIncrease = 20
   end
 
-  return AutomaticLevelScaling.getScaledLevel + levelIncrease
+  return (AutomaticLevelScaling.getScaledLevel + levelIncrease).clamp(1, GameData::GrowthRate.max_level)
 end
 
 # Toca o cry de um pokemon selvagem e inicia uma batalha no modo boss do EBDX.
@@ -649,7 +649,7 @@ def pbVolcaronaBattle
 
   EliteBattle.bossBattle(
     :VOLCARONAP,
-    pbGetBossLevel(),
+    (pbGetBossLevel() + 5).clamp(1, GameData::GrowthRate.max_level),
     6,
     true,
     {
@@ -753,7 +753,7 @@ def caughtAllPandemoniumPokemon?
     [:CHARMANDERP, :CHARMELEONP, :CHARIZARDP],
     [:ABSOLP],
     [:DIGLETTP, :DUGTRIOP],
-    [:YAMASKP],
+    [:YAMASKP, :YAMASKP_1, :YAMASKP_2],
     [:PUPLIN, :PRINPLIN, :PULINPUPLIN],
     [:VOLCARONAP],
   ]

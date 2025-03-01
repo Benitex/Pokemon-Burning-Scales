@@ -3827,7 +3827,7 @@ BattlerPlayerY          = 59
 BattlerEnemyX           = 0
 #-------------------------------
 [SCOLIPEDE]
-BattlerEnemyY           = 25
+BattlerEnemyY           = 45
 BattlerAltitude         = 0
 BattlerPlayerX          = 9
 BattlerPlayerY          = 34
@@ -5198,11 +5198,11 @@ BattlerPlayerY          = 25
 BattlerEnemyX           = 3
 #-------------------------------
 [RATTATA,1]
-BattlerEnemyY           = 54
+BattlerEnemyY           = 75
 BattlerAltitude         = 0
-BattlerPlayerX          = 0
-BattlerPlayerY          = 71
-BattlerEnemyX           = 5
+BattlerPlayerX          = 8
+BattlerPlayerY          = 85
+BattlerEnemyX           = 0
 #-------------------------------
 [RATICATE,1]
 BattlerEnemyY           = 57
@@ -5684,7 +5684,7 @@ BattlerEnemyX           = 0
 BattlerEnemyY           = 35
 BattlerAltitude         = 0
 BattlerPlayerX          = 55
-BattlerPlayerY          = 35
+BattlerPlayerY          = 45
 BattlerEnemyX           = -9
 #-------------------------------
 [AGGRON,1]
@@ -5737,7 +5737,7 @@ BattlerPlayerY          = 42
 BattlerEnemyX           = -2
 #-------------------------------
 [ABSOL,1]
-BattlerEnemyY           = 43
+BattlerEnemyY           = 73
 BattlerAltitude         = 0
 BattlerPlayerX          = 20
 BattlerPlayerY          = 51
@@ -6577,7 +6577,7 @@ BattlerPlayerY          = 74
 BattlerEnemyX           = -3
 #-------------------------------
 [DEDENNE]
-BattlerEnemyY           = 69
+BattlerEnemyY           = 89
 BattlerAltitude         = 0
 BattlerPlayerX          = 0
 BattlerPlayerY          = 85
