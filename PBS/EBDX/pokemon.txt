@@ -6976,14 +6976,14 @@ BattlerPlayerY          = 42
 BattlerEnemyX           = 12
 #-------------------------------
 [ROCKRUFF]
-BattlerEnemyY           = 63
+BattlerEnemyY           = 83
 BattlerAltitude         = 0
 BattlerPlayerX          = 7
 BattlerPlayerY          = 74
 BattlerEnemyX           = 1
 #-------------------------------
 [ROCKRUFF,2]
-BattlerEnemyY           = 63
+BattlerEnemyY           = 83
 BattlerAltitude         = 0
 BattlerPlayerX          = 7
 BattlerPlayerY          = 74
@@ -8834,7 +8834,7 @@ BattlerEnemyX           = -12
 BattlerEnemyY           = 95
 BattlerAltitude         = 0
 BattlerPlayerX          = 70
-BattlerPlayerY          = 43
+BattlerPlayerY          = 73
 BattlerEnemyX           = 8
 #-------------------------------
 [CHARMELEONP]

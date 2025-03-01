@@ -180,16 +180,16 @@ module SaveData
     validate save_data => Hash
     conversions_to_run = self.get_conversions(save_data)
     return false if conversions_to_run.none?
-    File.open(SaveData.get_backup_file_path, 'wb') { |f| Marshal.dump(save_data, f) }
-    echoln "Backed up save to #{SaveData.get_backup_file_path}"
-    echoln "Running #{conversions_to_run.length} conversions..."
+    # File.open(SaveData.get_backup_file_path, 'wb') { |f| Marshal.dump(save_data, f) }
+    # echoln "Backed up save to #{SaveData.get_backup_file_path}"
+    # echoln "Running #{conversions_to_run.length} conversions..."
     conversions_to_run.each do |conversion|
-      echo "#{conversion.title}..."
+      # echo "#{conversion.title}..."
       conversion.run(save_data)
-      echoln ' done.'
+      # echoln ' done.'
     end
-    echoln '' if conversions_to_run.length > 0
-    echoln "All save file conversions applied successfully"
+    # echoln '' if conversions_to_run.length > 0
+    # echoln "All save file conversions applied successfully"
     save_data[:essentials_version] = Essentials::VERSION
     save_data[:game_version] = Settings::GAME_VERSION
     return true
