@@ -232,7 +232,6 @@ module Settings
     return [
       [_INTL("South Unova"), 0],
 	    [_INTL("???"), 1],
-	    [_INTL("Ultra Space"), 2],
       _INTL("National Pokédex")
     ]
   end

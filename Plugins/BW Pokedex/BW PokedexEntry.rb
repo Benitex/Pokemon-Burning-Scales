@@ -5,7 +5,7 @@ class PokemonPokedexInfo_Scene
     @viewport.z = 99999
     @dexlist = dexlist
     @index   = index
-    @region  = region
+    @region  = 0
     @page = 1
     @typebitmap = AnimatedBitmap.new(_INTL("Graphics/Pictures/Pokedex/icon_types"))
     @sprites = {}
