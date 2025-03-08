@@ -2,12 +2,6 @@
 #-------------------------------
 # Nimbasa
 #-------------------------------
-[LEADER_Elesa,Elesa]
-LoseText = "Muito bem."
-Pokemon = EMOLGA,9
-Pokemon = MAREEP,9
-Pokemon = BLITZLE,9
-#-------------------------------
 [LINEBACKER,Atleta de Nimbasa]
 LoseText = "Uou, você é forte, irmão!"
 Pokemon = DARUMAKA,7
@@ -293,6 +287,13 @@ Pokemon = BLITZLE,11
 LoseText = "Padrão de beleza é uma coisa, tudo igual já é demais!"
 Pokemon = BLITZLE,11
 Pokemon = EMOLGA,11
+#-------------------------------
+[LEADER_Elesa,Elesa]
+LoseText = "Muito bem."
+Pokemon = EMOLGA,10
+Pokemon = STUNFISK,10
+Pokemon = JOLTIK,10
+Pokemon = BLITZLE,10
 #-------------------------------
 # Teatro Musical
 #-------------------------------
