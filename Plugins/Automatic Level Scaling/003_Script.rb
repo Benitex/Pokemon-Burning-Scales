@@ -188,6 +188,6 @@ class AutomaticLevelScaling
   end
 
   def self.getEvolutionLevel(pokemon, possible_evolutions, evolution_stage)
-    return pokemon.getEvolutionLevel(evolution_stage == 0)
+    return pokemon.getEvolutionLevel(evolution_stage > 0)
   end
 end

@@ -1,5 +1,5 @@
 Name         = Automatic Level Scaling
-Version      = 1.6.1
+Version      = 1.6.2
 Website      = https://github.com/Benitex/Automatic-Level-Scaling
 Credits      = Benitex, Joltik, Umbreon
 #===============================================================================

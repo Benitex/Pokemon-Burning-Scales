@@ -51,9 +51,10 @@ class Pokemon
 
     (2 - evolution_stage).times do |_|
       possible_evolutions = self.getPossibleEvolutions
-      return if possible_evolutions.length == 0 || (!AutomaticLevelScaling.settings[:include_next_stages] && self.species == original_species)
+      return if possible_evolutions.length == 0
+      return if !AutomaticLevelScaling.settings[:include_next_stages] && self.species == original_species
 
-      evolution_level = getEvolutionLevel(evolution_stage == 0)
+      evolution_level = getEvolutionLevel(evolution_stage > 0)
 
       # Evolution
       if self.level >= evolution_level
@@ -80,7 +81,7 @@ class Pokemon
   # @param has_evolved [Boolean] is necessary to determine the default evolution level for pokemon with non natural evolution methods
   def getEvolutionLevel(has_evolved)
     # Default evolution levels according to the pokemon evolution stage
-    evolution_level = AutomaticLevelScaling.settings[!has_evolved ? :first_evolution_level : :second_evolution_level]
+    evolution_level = AutomaticLevelScaling.settings[has_evolved ? :second_evolution_level : :first_evolution_level]
     possible_evolutions = self.getPossibleEvolutions
 
     if possible_evolutions.length == 1
