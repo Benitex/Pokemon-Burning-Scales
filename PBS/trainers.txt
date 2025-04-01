@@ -435,8 +435,10 @@ Pokemon = DWEBBLE,20
 #-------------------------------
 [SUPERNERD,Pervertido]
 LoseText = "Heh, poderoso."
+Pokemon = VAPOREON,20
 Pokemon = GOTHITA,20
 Pokemon = LILLIGANT,20
+Pokemon = GARDEVOIR,20
 #-------------------------------
 [TUBER_F,Menina da praia]
 LoseText = "Aaaaaaah."
