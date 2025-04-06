@@ -394,13 +394,13 @@ Oh, that's a real shame...
 \ff[introBenitex]\bNathan: Me pergunto o que deveríamos fazer agora...
 \ff[introBenitex]\bNathan: I wonder what we should do now...
 \ff[introBenitex]\bTreinar mais um pouco? Ou será que estamos prontos para ir ao torneio?
-\ff[introBenitex]\bTreinar mais um pouco? Ou será que estamos prontos para ir ao torneio?
+\ff[introBenitex]\bShould I train a bit more? Or are we ready to go to the tournament?
 \ff[introBenitex]\bBom, tenho que tomar minha decisão agora.
-\ff[introBenitex]\bBom, tenho que tomar minha decisão agora.
+\ff[introBenitex]\bI should make my decision now.
 \w[signskin]Estádio Grande -\nBaseball, Futebol Americano e Basquete
-\w[signskin]Estádio Grande -\nBaseball, Futebol Americano e Basquete
+\w[signskin]Estádio Grande -\nBaseball, Football and Backetball
 \ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
-\ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
+\ff[introBenitex]\bNathan: It's a really hectic panpour.
 Já estou cansada disso...
 I'm sick of this...
 \w[signskin]Cidade de Nimbasa\nCampeonatos eletrizantes sobre as águas
@@ -2708,7 +2708,7 @@ Open up your senses.
 A Oceanfront Road é tão linda... Ver os barcos saindo é emocionante.
 Oceanfront Road is so beautiful... Watching the boats leave is exciting.
 Isso é o que minha irmã diria. Ela mora em Nimbasa e fica o dia todo olhando o mar.
-That's what my sister alwasy says. She lives in Nimbasa and stares at the sea all day.
+That's what my sister always says. She lives in Nimbasa and stares at the sea all day.
 \ff[introBenitex]\bNathan: E você é farinha do mesmo saco?
 \ff[introBenitex]\bNathan: And you're the same?
 Mais ou menos, eu acho.
@@ -2949,259 +2949,259 @@ Where? Where? Where???
 \ff[introBenitex]\bNathan: The window overlooks the city's river.
 [Map10]
 \ff[introBenitex]\bNathan: A passagem abriu! Eu realmente só precisava derrotar os Guardiões.
-\ff[introBenitex]\bNathan: A passagem abriu! Eu realmente só precisava derrotar os Guardiões.
+\ff[introBenitex]\bNathan: The passage opened! I really just needed to defeat the Guardians.
 \ff[introBenitex]\bAgora, vamos ver como esse lugar mudou por dentro...
-\ff[introBenitex]\bAgora, vamos ver como esse lugar mudou por dentro...
+\ff[introBenitex]\bNow, let's see what's going on in this place...
 \ff[introBenitex]\bNathan: Estranho, não me lembro dessa placa quando passei aqui há alguns anos.
-\ff[introBenitex]\bNathan: Estranho, não me lembro dessa placa quando passei aqui há alguns anos.
+\ff[introBenitex]\bNathan: Strange, I don't remember that sign when I passed here a few years ago.
 \ff[introBenitex]\bTem algo escrito em alfabeto Unown, interessante.
-\ff[introBenitex]\bTem algo escrito em alfabeto Unown, interessante.
+\ff[introBenitex]\bThere's something written in the Unown alphabet, interesting.
 Eu vi, eu vi!
-Eu vi, eu vi!
+I saw it, I saw it!
 Eu vi a volcarona! Cuidado!
-Eu vi a volcarona! Cuidado!
+I saw the volcarona! Look out!
 \ff[introBenitex]\bNathan: Calma, me explique o que aconteceu.
-\ff[introBenitex]\bNathan: Calma, me explique o que aconteceu.
+\ff[introBenitex]\bNathan: Calm donw, please explain to me what happened.
 Eu estava explorando uma caverna aqui ao sul do Desert Resort. Ela era bem pequena e parecia vazia, como se não fosse nada demais.
-Eu estava explorando uma caverna aqui ao sul do Desert Resort. Ela era bem pequena e parecia vazia, como se não fosse nada demais.
+I was exploring a cave here to the south of the Desert Resort. It is quite small and seemed empty, as if it was no big deal.
 Mas, aí, do nada, tudo começou a ficar muito frio, mais frio do que o normal dessas cavernas.
-Mas, aí, do nada, tudo começou a ficar muito frio, mais frio do que o normal dessas cavernas.
+But then, out of nowhere, everything started to get very cold, colder than normal for these caves.
 Depois, do nada, vi labaredas e escamas voando de trás de mim.
-Depois, do nada, vi labaredas e escamas voando de trás de mim.
+And then, I saw flames and scales flying behind me.
 E, quando olhei para trás, vi o bicho. Era grande, brilhava vermelho e azul e, do nada, comecei a sentir algo que nunca tinha sentido.
-E, quando olhei para trás, vi o bicho. Era grande, brilhava vermelho e azul e, do nada, comecei a sentir algo que nunca tinha sentido.
+And, when I looked back, I saw that creature. Big, shining red and blue. I started to feel something I never felt.
 \l[3]Meu corpo estava frio por fora, mas quente por dentro. A caverna ficou coberta de neve super rápido e as escamas eram como flocos de fogo vivo.
-\l[3]Meu corpo estava frio por fora, mas quente por dentro. A caverna ficou coberta de neve super rápido e as escamas eram como flocos de fogo vivo.
+\l[3]My body was cold on the outside, but warm on the inside. The cave was covered in snow very quickly and the scales were like flakes of live fire.
 \ff[introBenitex]\bNathan: O que você fez?
-\ff[introBenitex]\bNathan: O que você fez?
+\ff[introBenitex]\bNathan: What did you do?
 Fiquei travado por alguns instantes, contemplando aquilo, depois tive que fugir, percebi que ficaria louco se continuasse lá por muito tempo.
-Fiquei travado por alguns instantes, contemplando aquilo, depois tive que fugir, percebi que ficaria louco se continuasse lá por muito tempo.
+I stood there for some time, contemplating it. Then I had to run away, realizing that I would go mad if I stayed there for too long.
 \ff[introBenitex]\bNathan: Entendi. Obrigado por avisar.
-\ff[introBenitex]\bNathan: Entendi. Obrigado por avisar.
+\ff[introBenitex]\bNathan: Got it. Thanks for letting me know.
 \ff[introBenitex]\bAcho melhor você voltar para o clube, você já passou por bastante coisa hoje. Esse lugar não está seguro.
-\ff[introBenitex]\bAcho melhor você voltar para o clube, você já passou por bastante coisa hoje. Esse lugar não está seguro.
+\ff[introBenitex]\bYou should go back to the Club, you've been through enough today. This place isn't safe.
 Sim, você está certo, estou indo.
-Sim, você está certo, estou indo.
+Yest, you're right, I'm off.
 \ff[introBenitex]\bNathan: Um punhado de ossos. Como um esqueleto de um pokemon.
-\ff[introBenitex]\bNathan: Um punhado de ossos.  Como um esqueleto de um pokemon.
+\ff[introBenitex]\bNathan: A handful of bones, like a Pokémon skeleton.
 \ff[introBenitex]\bNathan: Pilares enfileirados. São dez deles, cinco de cada lado.
-\ff[introBenitex]\bNathan: Pilares enfileirados. São dez deles, cinco de cada lado.
+\ff[introBenitex]\bNathan: Pillars in a row. There are ten of them, five on each side.
 [Map11]
 Senhor, se você sair agora vai perder o metrô! Quer sair mesmo assim?
-Senhor, se você sair agora vai perder o metrô! Quer sair mesmo assim?
+Sir, if you leave now you'll miss the subway! Do you still want to leave?
 \ff[introBenitex]\bNathan: Sim, preciso ir.
-\ff[introBenitex]\bNathan: Sim, preciso ir.
+\ff[introBenitex]\bNathan: Yes, I need to go.
 É uma pena, mas saiba que o Battle Subway estará sempre aberto para novas visitas.
-É uma pena, mas saiba que o Battle Subway estará sempre aberto para novas visitas.
+It's a shame. The Battle Subways is always open to visit, so come back any time.
 \ff[introBenitex]\bNathan: Ah, não, não mesmo!
-\ff[introBenitex]\bNathan: Ah, não, não mesmo!
+\ff[introBenitex]\bNathan: No, no way!
 Você pode deixar eu ver por favor?
-Você pode deixar eu ver por favor?
+Can you let me watch the TV please?
 \ff[introBenitex]\bNathan: Ah, me desculpe.
-\ff[introBenitex]\bNathan: Ah, me desculpe.
+\ff[introBenitex]\bNathan: Oh, I'm sorry.
 Você pode comprar sua passagem aqui ao lado.
-Você pode comprar sua passagem aqui ao lado.
+You can buy your ticket by my side.
 Continuar a viagem?
-Continuar a viagem?
+Continue the ride?
 Esperamos que tenha gostado do passeio.
-Esperamos que tenha gostado do passeio.
+We hope you enjoyed the tour.
 Desculpe, mas o metrô está fechado no momento.
-Desculpe, mas o metrô está fechado no momento.
+Sorry, the subway is closed now.
 \ff[introBenitex]\bNathan: Certo, obrigado.
-\ff[introBenitex]\bNathan: Certo, obrigado.
+\ff[introBenitex]\bNathan: Okay, thank you.
 Seja bem vindo ao Battle Subway. Nesse momento, estamos fazendo tours pelas cidades de Unova.
-Seja bem vindo ao Battle Subway. Nesse momento, estamos fazendo tours pelas cidades de Unova.
+Welcome to the Battle Subway. At the moment, we're giving tours of Unova's cities.
 Você pode enfrentar cada um dos líderes de ginásio enquanto viaja nos vagões. Tudo por $10000.
-Você pode enfrentar cada um dos líderes de ginásio enquanto viaja nos vagões. Tudo por $10000.
+You can take on each of the gym leaders while traveling. All for $10000.
 \gQuer participar?
-\gQuer participar?
+\gWould you like to take part?
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: Não tenho esse dinheiro todo.
-\ff[introBenitex]\bNathan: Não tenho esse dinheiro todo.
+\ff[introBenitex]\bNathan: I don't have that kind of money.
 Que pena, estaremos felizes em receber você quando estiver com mais recursos.
-Que pena, estaremos felizes em receber você quando estiver com mais recursos.
+What a shame, we'll be happy to welcome you when you have more resources.
 \ff[introBenitex]\bNathan: Claro, aqui está o dinheiro.
-\ff[introBenitex]\bNathan: Claro, aqui está o dinheiro.
+\ff[introBenitex]\bNathan: Of course, here's the money.
 Obrigado senhor, pegue sua passagem e siga pela porta à minha direita.
-Obrigado senhor, pegue sua passagem e siga pela porta à minha direita.
+Thank you sir, take your ticket and go through the door on my right.
 \ff[introBenitex]\bNathan: Obrigado, mas estou ocupado agora.
-\ff[introBenitex]\bNathan: Obrigado, mas estou ocupado agora.
+\ff[introBenitex]\bNathan: Thanks, but not now.
 Sem problemas, volte sempre.
-Sem problemas, volte sempre.
+No problem, come again.
 Sua passagem por favor.
-Sua passagem por favor.
+Your ticket please.
 \ff[introBenitex]\bNathan: Aqui está.
-\ff[introBenitex]\bNathan: Aqui está.
+\ff[introBenitex]\bNathan: Here it is.
 Tenha uma boa viagem.
-Tenha uma boa viagem.
+Have a good trip.
 \ff[introBenitex]\bNathan: Ah, me desculpe, onde eu compro?
-\ff[introBenitex]\bNathan: Ah, me desculpe, onde eu compro?
+\ff[introBenitex]\bNathan: Oh, sorry, where can I buy it?
 Você pode comprar com aquele homem ali.
-Você pode comprar com aquele homem ali.
+You can buy from that man over there.
 \ff[introBenitex]\bNathan: Ok, obrigado.
-\ff[introBenitex]\bNathan: Ok, obrigado.
+\ff[introBenitex]\bNathan: Okay, thanks.
 Você se importa em dar licença? Eu estava assistindo a televisão...
-Você se importa em dar licença? Eu estava assistindo a televisão...
+Can you let me watch the TV?
 \ff[introBenitex]\bNathan: Ah, ok, me desculpe!
-\ff[introBenitex]\bNathan: Ah, ok, me desculpe!
+\ff[introBenitex]\bNathan: Oh, sorry!
 \ff[introBenitex]\bNathan: Oi menino, tudo bem?
-\ff[introBenitex]\bNathan: Oi menino, tudo bem?
+\ff[introBenitex]\bNathan: Hi boy, how are you doing?
 Nada bem, não aguento mais esperar esse metrô!
-Nada bem, não aguento mais esperar esse metrô!
+Not good, I'm not waiting for this subway anymore!
 \ff[introBenitex]\bNathan: Ah, você não faz ideia do quanto isso demora as vezes...
-\ff[introBenitex]\bNathan: Ah, você não faz ideia do quanto isso demora as vezes...
+\ff[introBenitex]\bNathan: Ah, you have no idea how long it takes sometimes...
 Sim.
-Sim.
+Yes.
 De jeito nenhum!
-De jeito nenhum!
+No way!
 Não.
-Não.
+No.
 Claro!
-Claro!
+Of course!
 Não nesse momento.
-Não nesse momento.
+Not at this moment.
 [Map12]
 Se quiser, posso te falar sobre Castelia.
-Se quiser, posso te falar sobre Castelia.
+If you want, I can tell you about Castelia.
 Eu vim de Castelia até aqui pra assistir o torneio, aproveitei para assistir umas partidas também.
-Eu vim de Castelia até aqui pra assistir o torneio, aproveitei para assistir umas partidas também.
+I came all the way from Castelia to watch the tournament, but I'll also spend some time watching some matches.
 \ff[introBenitex]\bNathan: Você veio veio de Castelia, então? Como as coisas andam por lá?
-\ff[introBenitex]\bNathan: Você veio veio de Castelia, então? Como as coisas andam por lá?
+\ff[introBenitex]\bNathan: You came from Castelia, then? How's it going over there?
 Ah, sabe como é, vamos indo.
-Ah, sabe como é, vamos indo.
+Yeah, you know, things are happening.
 \ff[introBenitex]\bNathan: Me diga...
-\ff[introBenitex]\bNathan: Me diga...
+\ff[introBenitex]\bNathan: Tell me...
 \ff[introBenitex]\bNathan: Alguma novidade, evento ou algo assim?
-\ff[introBenitex]\bNathan: Alguma novidade, evento ou algo assim?
+\ff[introBenitex]\bNathan: Any news, events or anything?
 \l[3]Ah sim, estamos passando por eleições no momento. Vários grupos estão disputando o poder, criaram vários clubes, inclusive.
-\l[3]Ah sim, estamos passando por eleições no momento. Vários grupos estão disputando o poder, criaram vários clubes, inclusive.
+\l[3]Oh yes, we're going through elections at the moment. Several groups are vying for power, they've even created several Clubs.
 A cidade está bem movimentada.
-A cidade está bem movimentada.
+The city is very busy.
 \ff[introBenitex]\bNathan: Interessante...
-\ff[introBenitex]\bNathan: Interessante...
+\ff[introBenitex]\bNathan: Interesting...
 \ff[introBenitex]\bNathan: Me diga, como anda o porto? Movimentado?
-\ff[introBenitex]\bNathan: Me diga, como anda o porto? Movimentado?
+\ff[introBenitex]\bNathan: Tell me, how's the port? Busy?
 Sim, não aconteceram muitas mudanças, pra falar a verdade.
-Sim, não aconteceram muitas mudanças, pra falar a verdade.
+Yes, but it didn't change much, to be honest.
 Ainda existem vários navios comerciais o tempo todo, mas também tem vários de turismo.
-Ainda existem vários navios comerciais o tempo todo, mas também tem vários de turismo.
+There are still several commercial ships at all time, and a few tourist ships from time to time.
 Ah é, tem um que leva para o Parque de Nimbasa também, e vice-versa!
-Ah é, tem um que leva para o Parque de Nimbasa também, e vice-versa!
+Oh, there's one that leads to Nimbasa Park too, and vice versa!
 \ff[introBenitex]\bNathan: Aconteceu um deslizamento na Rota 16 a alguns dias, você deve se lembrar.
-\ff[introBenitex]\bNathan: Aconteceu um deslizamento na Rota 16 a alguns dias, você deve se lembrar.
+\ff[introBenitex]\bNathan: There was a landslide on Route 16 a few days ago, you may remember.
 Claro.
-Claro.
+Of course.
 \ff[introBenitex]\bNathan: Ele causou algum tipo de modificação na cidade?
-\ff[introBenitex]\bNathan: Ele causou algum tipo de modificação na cidade?
+\ff[introBenitex]\bNathan: Has it caused any kind of change in the city?
 Ah, não aconteceram muitas mudanças por causa do deslizamento em si.
-Ah, não aconteceram muitas mudanças por causa do deslizamento em si.
+I think not much has changed because of the landslide itself.
 Pelo que lembro, a cidade só teve que doar um pouco de dinheiro para ajudar com as obras.
-Pelo que lembro, a cidade só teve que doar um pouco de dinheiro para ajudar com as obras.
+As far as I remember, the city only had to donate some funds to help with the work.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Alright.
 \ff[introBenitex]\bNathan: Muito obrigado por me atualizar um pouco.
-\ff[introBenitex]\bNathan: Muito obrigado por me atualizar um pouco.
+\ff[introBenitex]\bNathan: Thank you for bringing me up to date.
 Não há de quê, me avise caso quiser saber algo a mais.
-Não há de quê, me avise caso quiser saber algo a mais.
+No worries, let me know if you want to know more.
 E tem gente que diz que os Pikachus Preto e Brancos são melhores, que vergonha.
-E tem gente que diz que os Pikachus Preto e Brancos são melhores, que vergonha.
+Some say the Black and White Pikachus are the best, shame on them.
 \ff[introBenitex]\bNathan: Certamente os Mandibuzz Vermelhos são superiores.
-\ff[introBenitex]\bNathan: Certamente os Mandibuzz Vermelhos são superiores.
+\ff[introBenitex]\bNathan: Certainly the Red Mandibuzzes are superior.
 Não tem discussão!
-Não tem discussão!
+I coouldn't agree more!
 Vou assistir um jogo dos Mandibuzz Vermelhos!
-Vou assistir um jogo dos Mandibuzz Vermelhos!
+I'm going to watch a Red Mandibuzzes match!
 \ff[introBenitex]\bNathan: Mandibuzz Vermelhos?
-\ff[introBenitex]\bNathan: Mandibuzz Vermelhos?
+\ff[introBenitex]\bNathan: Red Mandibuzzes?
 Você não conheçe os Mandibuzz Vermelhos??? Como assim???
-Você não conheçe os Mandibuzz Vermelhos???  Como assim???
+How can you not know about the Red Mandibuzzes???
 Eles são os melhores jogadores de futebol americano de Nimbasa, não tem discussão, eles destroem qualquer time!
-Eles são os melhores jogadores de futebol americano de Nimbasa, não tem discussão, eles destroem qualquer time!
+They are the best football players in Nimbasa, they destroy any team!
 \ff[introBenitex]\bNathan: Agora me sinto meio mal por não conhecer...
-\ff[introBenitex]\bNathan: Agora me sinto meio mal por não conhecer...
+\ff[introBenitex]\bNathan: Now I feel a bit bad for not knowing...
 E deveria mesmo!
-E deveria mesmo!
+As you should!
 Fechado
-Fechado
+Closed
 Seja bem vindo ao Estádio Grande!
-Seja bem vindo ao Estádio Grande!
+Wellcome to the Big Stadium!
 Aqui você pode assitir jogos de futebol americano, basquete e baseball!
-Aqui você pode assitir jogos de futebol americano, basquete e baseball!
+Here, you can watch football, backetball or baseball matches!
 E de graça, tudo financiado pelo governo de Nimbasa!
-E de graça, tudo financiado pelo governo de Nimbasa!
+And it's free, thanks to the Nimbasa government!
 \ff[introBenitex]\bNathan: Ótimo!
-\ff[introBenitex]\bNathan: Ótimo!
+\ff[introBenitex]\bNathan: Great!
 Ah sim, evite falar com os guardas, por favor.
-Ah sim, evite falar com os guardas, por favor.
+But, please, avoid talking to the policeman.
 Eles ficam muito ocupados, andando de um lado pro outro, certo?
-Eles ficam muito ocupados, andando de um lado pro outro, certo?
+They are very busy, moving around, right?
 \ff[introBenitex]\bNathan: Sem problemas.
-\ff[introBenitex]\bNathan: Sem problemas.
+\ff[introBenitex]\bNathan: No problem.
 \ff[introBenitex]\bNathan: Por que eles ficam "andando de um lado para o outro"?
-\ff[introBenitex]\bNathan: Por que eles ficam "andando de um lado para o outro"?
+\ff[introBenitex]\bNathan: Whay are they "moving around"?
 Ah, é esse tipo de atividade que os guardas fazem, né? Chamam de patrulha ou algo assim.
-Ah, é esse tipo de atividade que os guardas fazem, né? Chamam de patrulha ou algo assim.
+That's what policeman do, don't they? They call it a patrol or something.
 Drogaaaa!
-Drogaaaa!
+Daaaamn!
 \ff[introBenitex]\bNathan: Calma cara, o que aconteceu?
-\ff[introBenitex]\bNathan: Calma cara, o que aconteceu?
+\ff[introBenitex]\bNathan: What's going on?
 Não acredito, me atrasei de novo!
-Não acredito, me atrasei de novo!
+I can't believe it, I'm late again!
 \ff[introBenitex]\bNathan: Então vai, não fique aí parado!
-\ff[introBenitex]\bNathan: Então vai, não fique aí parado!
+\ff[introBenitex]\bNathan: Then go, don't just stand there!
 Não tenho certeza se devo ir mesmo...
-Não tenho certeza se devo ir mesmo...
+I'm not sure if I should...
 \ff[introBenitex]\bNathan: Mas por quê?
-\ff[introBenitex]\bNathan: Mas por quê?
+\ff[introBenitex]\bNathan: Why?
 Acontece que o pessoal já está ficando meio chateado comigo, que sempre acabo me atrasando pras partidas.
-Acontece que o pessoal já está ficando meio chateado comigo, que sempre acabo me atrasando pras partidas.
+My team is getting very mad at me, because I'm always late for matches.
 Acho que talvez fosse melhor eu dar o fora e falar que estava doente ou algo assim.
-Acho que talvez fosse melhor eu dar o fora e falar que estava doente ou algo assim.
+I think I should leave and say I'm sick or something.
 \ff[introBenitex]\bNathan: Não cara, pode ir. Tenho certeza que sua falta é mais preocupante que seu atraso.
-\ff[introBenitex]\bNathan: Não cara, pode ir. Tenho certeza que sua falta é mais preocupante que seu atraso.
+\ff[introBenitex]\bNathan: No, man, you should go. I'm sure your absence is more worrying than your lateness.
 \ff[introBenitex]\bAntes tarde que nunca, não é o que dizem?
-\ff[introBenitex]\bAntes tarde que nunca, não é o que dizem?
+\ff[introBenitex]\bBetter late than never, isn't that what they say?
 Você está certo, vou seguir o que você diz!
-Você está certo, vou seguir o que você diz!
+You're right, I'll follow what you say!
 \ff[introBenitex]\bNathan: Vai lá, arrasa!
-\ff[introBenitex]\bNathan: Vai lá, arrasa!
+\ff[introBenitex]\bNathan: Go on, knock it out of the park!
 \ff[introBenitex]\bNathan: É, acho que se você for, muito provavelmente vai levar uma bronca daquelas...
-\ff[introBenitex]\bNathan: É, acho que se você for, muito provavelmente vai levar uma bronca daquelas...
+\ff[introBenitex]\bNathan: Yeah, if you go, you'll probably get a real scolding...
 E pior, acho que talvez até me expulsem do time!
-E pior, acho que talvez até me expulsem do time!
+Or even worse, they might even kick me off the team!
 É isso, vou dizer que fiquei doente mesmo, comi um magikarp podre, tanto faz, eu não posso continuar!
-É isso, vou dizer que fiquei doente mesmo, comi um magikarp podre, tanto faz, eu não posso continuar!
+Yeah, that's it. I'm going to say I got really sick, I ate a rotten magikarp, or whatever, I can't go on!
 \ff[introBenitex]\bNathan: Lá vai ele...
-\ff[introBenitex]\bNathan: Lá vai ele...
+\ff[introBenitex]\bNathan: There he goes...
 \ff[introBenitex]\bNathan: Bom dia! Como vai o trabalho?
-\ff[introBenitex]\bNathan: Bom dia! Como vai o trabalho?
+\ff[introBenitex]\bNathan: Hello! How's work going?
 Dia. Estou exausto, é assim que vai.
-Dia. Estou exausto, é assim que vai.
+Hi. I'm exausted, that's how it's going.
 Patrulhar esse lugar não é pra qualquer um, então me deixe seguir meu trabalho.
-Patrulhar esse lugar não é pra qualquer um, então me deixe seguir meu trabalho.
+Patrolling this place isn't for everyone, so let me get on with my job.
 Opa, sou o narrador das partidas. Tudo bem?
-Opa, sou o narrador das partidas. Tudo bem?
+Hi! I'm the narrator. How are you?
 \ff[introBenitex]\bNathan: Olá!
-\ff[introBenitex]\bNathan: Olá!
-Infelizmente, não estamos organizando jogos nesse momento. Espero que entenda.
-Infelizmente, não estamos organizando jogos nesse momento. Espero que entenda.
+\ff[introBenitex]\bNathan: Hello!
+Infelizmente, não estamos permitindo a entrada de mais pessoas. Espero que entenda.
+Unfortunately, we are not allowing more people in. I hope you understand.
 Alguma novidade?
-Alguma novidade?
+Any news?
 Como vai o porto?
-Como vai o porto?
+How's traffic at the port?
 Sobre o deslizamento...
-Sobre o deslizamento...
+About the landslide...
 Obrigado pelas informações!
-Obrigado pelas informações!
+Thank you for the info!
 Certo.
-Certo.
+Alright.
 Por quê?
-Por quê?
+Why?
 Você devia ir!
-Você devia ir!
+You should go!
 Realmente, melhor não...
-Realmente, melhor não...
+Yeah, you should go back home...
 [Map13]
 E aí, alguma novidade?
 E aí, alguma novidade?
