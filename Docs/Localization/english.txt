@@ -3437,293 +3437,275 @@ Ignorar o sofrimento dele.
 Ignore his suffering.
 [Map14]
 \l[3]Seja bem vindo e espero que tenha uma ótima refeição, aqui está o primeiro prato e uma poção para seus pokémon.
-\l[3]Seja bem vindo e espero que tenha uma ótima refeição, aqui está o primeiro prato e uma poção para seus pokémon.
+\l[3]Welcome, here's a potion for your Pokémon and your first course, enjoy your meal.
 \ff[introBenitex]\bNathan: Obrigado!
-\ff[introBenitex]\bNathan: Obrigado!
+\ff[introBenitex]\bNathan: Thanks!
 O primeiro treinador já deve estar chegando! Pode comer enquanto espera.
-O primeiro treinador já deve estar chegando! Pode comer enquanto espera.
+The first trainer should be here any minute! You can eat while you wait.
 Hahahaha! Ah, olá, o que foi?
-Hahahaha! Ah, olá, o que foi?
+Oh, hello, what's up?
 \ff[introBenitex]\bNathan: Só vim ver os dois pombinhos.
-\ff[introBenitex]\bNathan: Só vim ver os dois pombinhos.
+\ff[introBenitex]\bNathan: I'm just watching two lovebirds.
 Ih cara, me deixa em paz por favor. (Esse tipo de coisa não é muito comum para mim.)
-Ih cara, me deixa em paz por favor. (Esse tipo de coisa não é muito comum para mim.)
+Oh man, please leave me alone. (I have to concentrate here, you see.)
 \ff[introBenitex]\bNathan: E o Giovanni ali? A gente não vai fazer nada?
-\ff[introBenitex]\bNathan: E o Giovanni ali? A gente não vai fazer nada?
+\ff[introBenitex]\bNathan: What about Giovanni? Aren't we going to do anything about him?
 \l[3]Infelizmente, não podemos. Ele diz que não é mais um criminoso e nós só podemos tratar dele caso nós pegassemos ele em flagrante.
-\l[3]Infelizmente, não podemos. Ele diz que não é mais um criminoso e nós só podemos tratar dele caso nós pegassemos ele em flagrante.
+\l[3]Unfortunately, we can't. He says he's no longer a criminal and we can only deal with him if we catch him in the act.
 Olá meu amigo Nathan! Ah quanto tempo não nos vemos!
-Olá meu amigo Nathan! Ah quanto tempo não nos vemos!
+Hello Nathan, my old friend! Long time no see!
 \ff[introBenitex]\bNathan:Realmente, depois que te enfrentei em Sinnoh, acabei viajando por outros continentes e não tive muito tempo para revisitar os antigos amigos.
-\ff[introBenitex]\bNathan:Realmente, depois que te enfrentei em Sinnoh, acabei viajando por outros continentes e não tive muito tempo para revisitar os antigos amigos.
+\l[3]\ff[introBenitex]\bNathan: Yes, since our fight in Sinnoh, I haven't had the time to come back to see my old friends.
 Pois é, eu também estou viajando pelo mundo com a minha filha ultimamente, como vai?
-Pois é, eu também estou viajando pelo mundo com a minha filha ultimamente, como vai?
+I've been traveling a lot lately too. What are doing in Unova?
 \ff[introBenitex]\bNathan: Estou muito bem, treinando um pokemon que ganhei da professora Juniper.
-\ff[introBenitex]\bNathan: Estou muito bem, treinando um pokemon que ganhei da professora Juniper.
+\ff[introBenitex]\bNathan: Oh, I'm raising a special Pokémon Professor Juniper gave me.
 Ah, você ganhou outro pokemon, e aquele hitmonchan? Como ele vai?
-Ah, você ganhou outro pokemon, e aquele hitmonchan? Como ele vai?
+You received another gift Pokémon, nice! How's the hitmonchan I gave you?
 \l[3]\ff[introBenitex]\bNathan: Sinceramente, eu nunca fui muito do tipo que usa pokemon do tipo lutador. Então eu nem lembro se guardei ele na box ou troquei ele por alguma coisa.
-\l[3]\ff[introBenitex]\bNathan: Sinceramente, eu nunca fui muito do tipo que usa pokemon do tipo lutador. Então eu nem lembro se guardei ele na box ou troquei ele por alguma coisa.
-\l[3]Caramba, mas vocês treinadores não tem medo do que falam! Hahahaha. Tudo bem, eu já passei por essa fase também, um dia vocês mudam.
-\l[3]Caramba, mas vocês treinadores não tem medo do que falam! Hahahaha. Tudo bem, eu já passei por essa fase também, um dia vocês mudam.
+\l[3]\ff[introBenitex]\bNathan: To be honest, I was never a big fan of fighting type Pokemon. Maybe he's in a box, wait, did I trade him for something?
+\l[3]Caramba, mas você não tem medo do que fala! Sem problemas, eu já passei por essa fase também, um dia você vai entender o poder dos lutadores.
+\l[3]Damn, you have no filters I see! No problem, I've been through this phase too, one day you'll understand the power of fighting type Pokémon.
 \l[3]\ff[introBenitex]\bNathan: Eu treinei ele por muito tempo, mas, um dia acabei tendo que guardar ele, para treinar outros pokemon.
-\l[3]\ff[introBenitex]\bNathan: Eu treinei ele por muito tempo, mas, um dia acabei tendo que guardar ele, para treinar outros pokemon.
+\l[3]\ff[introBenitex]\bNathan: I raised him for some time and he became very strong. But now I'm devoting myself to other Pokémon.
 \l[3]Ah, muito bom. Eu ando meio sem tempo para treinar ultimamente, tome aqui esse pokemon. Acho que vai gostar de treinar ele. Você é bem dedicado.
-\l[3]Ah, muito bom. Eu ando meio sem tempo para treinar ultimamente, tome aqui esse pokemon. Acho que vai gostar de treinar ele. Você é bem dedicado.
+\l[3]That's great. I myself don't have as much time to raise Pokémon as before. Here, take this one. I think you'll enjoy raising him.
 \ff[introBenitex]\bNathan: Ah, obrigado! Não precisava.
-\ff[introBenitex]\bNathan: Ah, obrigado! Não precisava.
+\ff[introBenitex]\bNathan: Oh, thank you very much!
 Não a de que, eu não ia conseguir treinar ele por muito tempo, estou gastando muito tempo cuidando da minha filha.
-Não a de que, eu não ia conseguir treinar ele por muito tempo, estou gastando muito tempo cuidando da minha filha.
+You're welcome. I know you'll do a great job. Now I'll also be able to dedicate more time to my daughter.
 Hihihi, você parece forte, carregando essa mochila pesada...
-Hihihi, você parece forte, carregando essa mochila pesada...
+You must be pretty strong, this bag looks so heavy...
 Moço: Ei, dá o fora!
-Moço: Ei, dá o fora!
+Guy: Hey man, move!
 Seja bem vindo ao melhor restaurante de Nimbasa, o Estádio da Comilança!
-Seja bem vindo ao melhor restaurante de Nimbasa, o Estádio da Comilança!
+Welcome to the best restaurant in Nimbasa, the Comiling Stadium!
 Quanto mais batalhas você ganha, mais você pode comer. Então se prepare!
-Quanto mais batalhas você ganha, mais você pode comer. Então se prepare!
+The more battles you win, the more you can eat. So get ready!
 \l[3]Além disso, você vai ganhar um prêmio no final da sua refeição, que depende do quanto você comeu e de quantos treinadores derrotou.
-\l[3]Além disso, você vai ganhar um prêmio no final da sua refeição, que depende do quanto você comeu e de quantos treinadores derrotou.
-\l[3]Se não quiser batalhar, você também pode conversar com os outrostreinadores. Aqui sempre tem gente de todo tipo.
-\l[3]Se não quiser batalhar, você também pode conversar com os outrostreinadores. Aqui sempre tem gente de todo tipo.
+\l[3]You'll get more prizes as you defeat more trainers and eat more meals. You can even get a special one if you defeat all of them!
+\l[3]Se não quiser batalhar, você também pode conversar com os outros treinadores. Aqui sempre tem gente de todo tipo.
+\l[3]If you're not interested in battling, you can still have a nice conversation with other trainers. There are all kinds of people here.
 \gVocê quer entrar? Custa $500, mas você deve sair daqui, no mínimo, com essa poção aqui.
-\gVocê quer entrar? Custa $500, mas você deve sair daqui, no mínimo, com essa poção aqui.
+\gAre you interested to join? It costs $500.
 Muito obrigado! Você já pode se sentar na mesa no canto superior direito da sala, por favor.
-Muito obrigado! Você já pode se sentar na mesa no canto superior direito da sala, por favor.
+Thank you! You can now sit at the table in the top right-hand corner of the room, please.
 \ff[introBenitex]\bNathan: Putz grila, agora que eu vi que to pobre, não tem promoção não?
-\ff[introBenitex]\bNathan: Putz grila, agora que eu vi que to pobre, não tem promoção não?
+\ff[introBenitex]\bNathan: Damn, I have no money on me. Can you make a promotion for me?
 Eu faço por 200, mas só para você e não conte a ninguém.
-Eu faço por 200, mas só para você e não conte a ninguém.
+I'll do it for $200, but only for you and don't tell anyone.
 \ff[introBenitex]\bNathan: Ah, muito obrigado! Você é um ótimo rapaz!
-\ff[introBenitex]\bNathan: Ah, muito obrigado! Você é um ótimo rapaz!
+\ff[introBenitex]\bNathan: Oh, thank you! You're a very altruistic.
 \ff[introBenitex]\bNathan: Então...
-\ff[introBenitex]\bNathan: Então...
+\ff[introBenitex]\bNathan: So...
 Desculpe, mas não dá para baixar mais que isso de jeito nenhum.
-Desculpe, mas não dá para baixar mais que isso de jeito nenhum.
+Sorry, but I can't make it any lower than that.
 \ff[introBenitex]\bNathan: Não, obrigado. Talvez outra hora.
-\ff[introBenitex]\bNathan: Não, obrigado. Talvez outra hora.
+\ff[introBenitex]\bNathan: No, thanks. I'll come back latter.
 Pesquisador: Estamos reunidos aqui a negócios, por favor, se retire.
-Pesquisador: Estamos reunidos aqui a negócios, por favor, se retire.
+We're discussing business here. Please, leave.
 \ff[introBenitex]\bNathan: Ah, desculpe o incomodo.
-\ff[introBenitex]\bNathan: Ah, desculpe o incomodo.
+\ff[introBenitex]\bNathan: Sorry.
 Oi Nathan! Meu pai me falou muito de você!
-Oi Nathan! Meu pai me falou muito de você!
-\ff[introBenitex]\bNathan: Ah é? Eu já viajei por muitos lugares, seu pai foi um grande adversário para mim, mesmo com a minha experiência.
-\ff[introBenitex]\bNathan: Ah é? Eu já viajei por muitos lugares, seu pai foi um grande adversário para mim, mesmo com a minha experiência.
+Hello Nathan! My dad told me stories about you!
+\l[3]\ff[introBenitex]\bNathan: Ah é? De todos os lugares por onde viajei, seu pai foi um dos meus maiores desafios que encontrei. Ele é muito forte.
+\l[3]\ff[introBenitex]\bNathan: Did him? Of all the places I've traveled, your father was one of my greatest challenges. He's very strong.
 Uau, que incrível! Deve ter sido emocionante! Um dia, quero ser como vocês.
-Uau, que incrível! Deve ter sido emocionante! Um dia, quero ser como vocês.
+That's amazing! One day I'm going to be like you.
 Que foi? Até as enfermeiras precisam de uma pausa de vez em quando.
-Que foi? Até as enfermeiras precisam de uma pausa de vez em quando.
-\ff[introBenitex]\bNathan: Não é nada, só vim cumprimentar mesmo obrigado pelos seus serviços.
-\ff[introBenitex]\bNathan: Não é nada, só vim cumprimentar mesmo obrigado pelos seus serviços.
-Ah, desculpe então. Obrigado por sempre visitar nossos Centros Pokemon.
-Ah, desculpe então. Obrigado por sempre visitar nossos Centros Pokemon.
+What's wrong? Even nurses need a break now and then.
 Eu sou o dono desse estabelecimento, como vai?
-Eu sou o dono desse estabelecimento, como vai?
+I'm the owner of this establishment, how are you?
 \ff[introBenitex]\bNathan: Vou muito bem, queria saber se posso dar uma olhada na cozinha.
-\ff[introBenitex]\bNathan: Vou muito bem, queria saber se posso dar uma olhada na cozinha.
+\ff[introBenitex]\bNathan: I'm doing very well, I was wondering if I could have a look in the kitchen.
 Infelizmente, a cozinha é fechada para funcionários, cof cof muito ruins por sinal cof cof.
-Infelizmente, a cozinha é fechada para funcionários, cof cof muito ruins por sinal cof cof.
+Unfortunately, the kitchen is closed to staff.
 \ff[introBenitex]\bNathan: Senhor? Você não gosta dos seus cozinheiros?
-\ff[introBenitex]\bNathan: Senhor? Você não gosta dos seus cozinheiros?
+\ff[introBenitex]\bNathan: Can I talk with the chef?
 Não! Esses caras só me enrolam, a comida é boa, mas acho que eles demoram muito, quero mais eficiência, estou cansado disso.
-Não! Esses caras só me enrolam, a comida é boa, mas acho que eles demoram muito, quero mais eficiência, estou cansado disso.
+No! They need to focus on cooking! Their food is great, but they take a long time to cook.
 As vezes eu perco a paciência com eles. Ainda mais depois que aquele gordo metido veio aqui e tentou me ensinar como eu devo lidar com eles.
-As vezes eu perco a paciência com eles. Ainda mais depois que aquele gordo metido veio aqui e tentou me ensinar como eu devo lidar com eles.
+Sometimes I lose patience with them. Especially after that fat bastard came here and tried to teach me how to deal with them.
 Cof cof só porque eu desligo os freezers a noite cof.
-Cof cof só porque eu desligo os freezers a noite cof.
+How could he know better than me how to deal with my own team?
 \ff[introBenitex]\bNathan: Essa sua gripe está tensa em, melhor eu sair.
-\ff[introBenitex]\bNathan: Essa sua gripe está tensa em, melhor eu sair.
-Tenha uma boa refeição.
-Tenha uma boa refeição.
+\ff[introBenitex]\bNathan: Yes, of course.
 \ff[introBenitex]\bNathan: Peraí!
-\ff[introBenitex]\bNathan: Peraí!
+\ff[introBenitex]\bNathan: Wait a second!
 \ff[introBenitex]\bNathan: Esse aí não é o Giovanni? Eu derrotei você em Kanto!
-\ff[introBenitex]\bNathan: Esse aí não é o Giovanni?  Eu derrotei você em Kanto!
+\ff[introBenitex]\bNathan: Isn't that Giovanni? I defeated you in Kanto!
 \rGiovanni: Sim, sou eu, mas eu já paguei por meus crimes, você deve me deixar em paz.
-\rGiovanni: Sim, sou eu, mas eu já paguei por meus crimes, você deve me deixar em paz.
+\rGiovanni: Yes, it's me, but I've already paid for my crimes, please leave me alone.
 \ff[introBenitex]\bNathan: O quê? Mas...
-\ff[introBenitex]\bNathan: O quê? Mas...
+\ff[introBenitex]\bNathan: What? But-
 \rGiovanni: Eu estou arrependido, ok? Agora, por favor, pare essa confusão no restaurante.
-\rGiovanni: Eu estou arrependido, ok? Agora, por favor, pare essa confusão no restaurante.
+\rGiovanni: I'm sorry, okay? Now, please stop this mess in the restaurant.
 \ff[introBenitex]\bNathan: (Não tenho muito o que fazer, não tenho provas de nenhum crime.)
-\ff[introBenitex]\bNathan: (Não tenho muito o que fazer, não tenho provas de nenhum crime.)
+\ff[introBenitex]\bNathan: (I can't do anything about him, I have no proofs of crimes from him here.)
 \l[3]Ah, já sou cliente desse restaurante a tanto tempo! As vezes eu passo mal com a comida, mas os chefes são tão simpáticos que eu sempre volto.
-\l[3]Ah, já sou cliente desse restaurante a tanto tempo! As vezes eu passo mal com a comida, mas os chefes são tão simpáticos que eu sempre volto.
+\l[3]I've been a customer of this restaurant for so long! Sometimes I get sick of the food, but the chefs are so nice that I always come back.
 \ff[introBenitex]\bNathan: Senhor, não faz isso, você já está idoso, essas coisas podem fazer mal para sua saúde!
-\ff[introBenitex]\bNathan: Senhor, não faz isso, você já está idoso, essas coisas podem fazer mal para sua saúde!
+\ff[introBenitex]\bNathan: Sir, are you sure? This food might be bad for your health!
 Ah meu jovem, teve uma época que eu me preocupava, mas hoje em dia já não ligo mais para nada!
-Ah meu jovem, teve uma época que eu me preocupava, mas hoje em dia já não ligo mais para nada!
-\ff[introBenitex]\bNathan: (Melhor eu sair, esse velho parece meio louco.)
-\ff[introBenitex]\bNathan: (Melhor eu sair, esse velho parece meio louco.)
+Young man, there was a time when I used to worry, but nowadays I don't care anymore!
 \ff[introBenitex]\bNathan: É isso aí meu senhor! Aproveite o resto da vida que você ainda tem! Já pensou em pular de paraquedas?
-\ff[introBenitex]\bNathan: É isso aí meu senhor!  Aproveite o resto da vida que você ainda tem! Já pensou em pular de paraquedas?
-Velho: Caramba, eu ainda não fiz isso, jovem.
-Velho: Caramba, eu ainda não fiz isso, jovem.
+\ff[introBenitex]\bNathan: Yes, that's it! Enjoy the rest of your life! Have you ever thought about parachuting?
+Caramba, eu ainda não fiz isso, jovem.
+Oh, I have never parachuted...
 Madalene. Depois que a gente sair daqui, vamos pra montanha mais alta que você possa pensar.
-Madalene. Depois que a gente sair daqui, vamos pra montanha mais alta que você possa pensar.
-\ff[introBenitex]\bNathan: (Melhor eu sair, antes que as coisas acabem piorando.)
-\ff[introBenitex]\bNathan: (Melhor eu sair, antes que as coisas acabem piorando.)
+Madalene. After we leave here, we're going to the highest mountain you can think of.
 Estou esperando meu namorado chegar, vamos fazer batalhas em dupla!
-Estou esperando meu namorado chegar, vamos fazer batalhas em dupla!
+I'm waiting for my boyfriend. We'll do double battles!
 Você não tem chance!
-Você não tem chance!
+You don't stand a chance!
 ...
 ...
 Adoro a comida desse restaurante!
-Adoro a comida desse restaurante!
+I love the food at this restaurant!
 Sinceramente, tenho medo da forma como o patrão desses caras trata os funcionários.
-Sinceramente, tenho medo da forma como o patrão desses caras trata os funcionários.
+Frankly, I'm afraid of the way the restaurant owner treats his staff.
 Bom, vamos lutar!
-Bom, vamos lutar!
+Well, to the fight!
 Lutar, lutar!
-Lutar, lutar!
+Fight, fight!
 Eu sou seu último oponente!
-Eu sou seu último oponente!
+You're my last opponent!
 Parabéns pela vitória! Aqui está seu prato e seu prêmio.
-Parabéns pela vitória! Aqui está seu prato e seu prêmio.
+congratulations on your victory! Here's your prize.
 Uau! Você ganhou de todos os treinadores e aguentou toda essa comida! Isso significa que você vai ganhar o prêmio final...
-Uau! Você ganhou de todos os treinadores e aguentou toda essa comida! Isso significa que você vai ganhar o prêmio final...
+Wow! You defeated all those trainers and ate all that food! This means you'll recieve the final prize...
 A sobremesa!
-A sobremesa!
+The dessert!
 Obrigado por escolher nosso restaurante, espero que tenha gostado da comida e que volte sempre!
-Obrigado por escolher nosso restaurante, espero que tenha gostado da comida e que volte sempre!
+Thank you for chosing to eat at our restaurant, I hope you liked the food and please come back often!
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: Thanks.
 Você gostaria de sair?
-Você gostaria de sair?
+Would you like to leave?
 Senhor!
-Senhor!
+Sir!
 Você só pode entrar se for comer, por favor. São as regras do estabelecimento.
-Você só pode entrar se for comer, por favor. São as regras do estabelecimento.
+You can only enter after you pay for the food. That's the rules of this establishment.
 \ff[introBenitex]\bNathan: Ah, tudo bem. Me desculpe.
-\ff[introBenitex]\bNathan: Ah, tudo bem. Me desculpe.
+\ff[introBenitex]\bNathan: Sorry.
 Eu amo meu pai, mas ele é meio estranho de vez em quando.
-Eu amo meu pai, mas ele é meio estranho de vez em quando.
-\ff[introBenitex]\bNathan: Ah é? O que, por exemplo?
-\ff[introBenitex]\bNathan: Ah é? O que, por exemplo?
-Se está tão curioso, você pode conversar com ele você mesmo.
-Se está tão curioso, você pode conversar com ele você mesmo.
-\ff[introBenitex]\bNathan: (Hum, por que não?)
-\ff[introBenitex]\bNathan: (Hum, por que não?)
+I love my father, but he acts kind of weird sometimes.
 Guardei na box.
-Guardei na box.
+It's in a random box.
 Treinei ele por muito tempo.
-Treinei ele por muito tempo.
+I raised him very passionatly.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 Por Arceus, não faça isso.
-Por Arceus, não faça isso.
+Don't do this, please.
 O que vale é a intenção!
-O que vale é a intenção!
+It's all about the intention!
 [Map15]
 \ff[introBenitex]\bNathan: Plantas normais. Não tem nenhum sinal de ataques ou algo diferente. O tamanho também é o comum.
-\ff[introBenitex]\bNathan: Plantas normais. Não tem nenhum sinal de ataques ou algo diferente. O tamanho também é o comum.
+\ff[introBenitex]\bNathan: Mundane plants. There are no signs of attacks or anything similar. The size is also normal.
 \ff[introBenitex]\bNathan: Hum, talvez seja uma boa ideia ver qual era o canal que ela estava assistindo por último na tv.
-\ff[introBenitex]\bNathan: Hum, talvez seja uma boa ideia ver qual era o canal que ela estava assistindo por último na tv.
+\ff[introBenitex]\bNathan: Hum, maybe it would be a good idea to see which channel she was watching last on TV.
 \ff[introBenitex]\bUm canal de competições e torneios pokemon. Parece normal...
-\ff[introBenitex]\bUm canal de competições e torneios pokemon. Parece normal...
+\ff[introBenitex]\bA channel for Pokémon competitions and tournaments. Sounds normal...
 \l[3]\ff[introBenitex]\bEspera! Esse canal fala de assuntos mais densos que eu imaginava. É um canal de batalha profissionais.
-\l[3]\ff[introBenitex]\bEspera! Esse canal fala de assuntos mais densos que eu imaginava. É um canal de batalha profissionais.
+\l[3]\ff[introBenitex]\bWait! This channel talks about denser subjects than I imagined. It's a professional battle channel.
 \ff[introBenitex]\bAs crianças interessadas na parte técnica são poucas.
-\ff[introBenitex]\bAs crianças interessadas na parte técnica são poucas.
-\ff[introBenitex]\bNathan: Cadeira jogada no meio do quarto. Ou ela saiu com pressa, ou deixou jogada porque não tinha vontade de voltar.
-\ff[introBenitex]\bNathan: Cadeira jogada no meio do quarto.  Ou ela saiu com pressa, ou deixou jogada porque não tinha vontade de voltar.
+\ff[introBenitex]\bFew children are interested in the technical side of battling.
+\ff[introBenitex]\bNathan: Cadeira jogada no meio do quarto. Ela deve ter saído com pressa.
+\ff[introBenitex]\bNathan: A chair in the middle of the room. She may have left in a hurry.
 \ff[introBenitex]\bNathan: A vista dessa janela dá direto em um dos estádios.
-\ff[introBenitex]\bNathan: A vista dessa janela dá direto em um dos estádios.
+\ff[introBenitex]\bNathan: The view from this window leads straight into the stadiums.
 \ff[introBenitex]\bNathan: Copo, com café. Não conheço muitas crianças que tomem café.
-\ff[introBenitex]\bNathan: Copo, com café. Não conheço muitas crianças que tomem café.
+\ff[introBenitex]\bNathan: A cup, with coffee. I don't know many children who drink coffee.
 \ff[introBenitex]\bNathan: Hum, parece ser o diário da garota. Isso pode ser muito útil. Mas as últimas páginas foram rasgadas.
-\ff[introBenitex]\bNathan: Hum, parece ser o diário da garota.  Isso pode ser muito útil. Mas as últimas páginas foram rasgadas.
+\ff[introBenitex]\bNathan: It seems to be the girl's diary. That could be very useful. The last few pages have been torn out.
 \l[3]"Hoje conheci uma menina muito legal, ela tem dois pokemon, um Deerling e um Lillipup. Ela gosta muito de pokemon e eu me diverti muito com ela. Ela disse para a gente se encontrar mais vezes."
-\l[3]"Hoje conheci uma menina muito legal, ela tem dois pokemon, um Deerling e um Lillipup. Ela gosta muito de pokemon e eu me diverti muito com ela. Ela disse para a gente se encontrar mais vezes."
+\l[3]"Today, I met a nice girl. She has two Pokémon, a Deerling and a Lillipup. I had a lot of fun with her and her Pokémon, I think we should meet more often."
 \l[3]"A mamãe é muito chata! Ela não me deixa andar com a menina, diz que ela meche com coisas muito perigosas. Só porque ela batalha com os pokemon! Todo mundo faz isso!"
-\l[3]"A mamãe é muito chata! Ela não me deixa andar com a menina, diz que ela meche com coisas muito perigosas. Só porque ela batalha com os pokemon! Todo mundo faz isso!"
+\l[3]"Mom is very annoying! She won't let me hang out with the girl, she says she's into very dangerous things. Just because she's a Pokémon trainer! Pokémon trainers aren't dangerous!"
 \l[3]\ff[introBenitex]\bNathan: Hum, então a menina conheceu outra que gostava de batalhar. Como a mãe considera isso perigoso, a menina ficou com raiva dela.
-\l[3]\ff[introBenitex]\bNathan: Hum, então a menina conheceu outra que gostava de batalhar. Como a mãe considera isso perigoso, a menina ficou com raiva dela.
+\l[3]\ff[introBenitex]\bNathan: So the girl met another who liked to battle. As her mother considered it dangerous, the girl got angry with her.
 \l[3]\ff[introBenitex]\bIsso pode ser o motivo da fuga, mas parece simples demais. A menina poderia ter conversado um pouco mais com a mãe. Não acho que ela fugiria e sairia em uma jornada assim, tão abruptamente.
-\l[3]\ff[introBenitex]\bIsso pode ser o motivo da fuga, mas parece simples demais. A menina poderia ter conversado um pouco mais com a mãe. Não acho que ela fugiria e sairia em uma jornada assim, tão abruptamente.
+\l[3]\ff[introBenitex]\bThis might be the reason for the escape, but it seems too simple. I don't think she would run away and go on a journey like that, so abruptly.
 \ff[introBenitex]\bNathan: Essas plantas tem muito contraste com o resto do quarto, talvez não fosse vontade da menina ter elas aqui.
-\ff[introBenitex]\bNathan: Essas plantas tem muito contraste com o resto do quarto, talvez não fosse vontade da menina ter elas aqui.
+\ff[introBenitex]\bNathan: These plants are such a contrast to the rest of the room...
 \ff[introBenitex]\bNathan: Esse é um mapa da cidade, parece ter sido muito utilizado, mas não tem nenhuma marcação.
-\ff[introBenitex]\bNathan: Esse é um mapa da cidade, parece ter sido muito utilizado, mas não tem nenhuma marcação.
+\ff[introBenitex]\bNathan: This is a map of the city. It seems to have been used a lot, but there are no markings on it.
 \l[3]\ff[introBenitex]\bNathan: Hum, essa estante tem muitos livros, não tenho tempo para ler tudo isso, mas posso dar uma olhada nas condições e nos títulos deles.
-\l[3]\ff[introBenitex]\bNathan: Hum, essa estante tem muitos livros, não tenho tempo para ler tudo isso, mas posso dar uma olhada nas condições e nos títulos deles.
+\l[3]\ff[introBenitex]\bNathan: This bookshelf has a lot of books. I don't have time to read them all, but I can take a look at their condition and titles.
 \l[3]\ff[introBenitex]\bParecem livros pouco usados, alguns parecem bem velhos. Os títulos são sobre todos os tipos de assuntos. Desde "Principais cuidados com suas Berrys" a "Os 100 melhores contos para crianças"
-\l[3]\ff[introBenitex]\bParecem livros pouco usados, alguns parecem bem velhos. Os títulos são sobre todos os tipos de assuntos. Desde "Principais cuidados com suas Berrys" a "Os 100 melhores contos para crianças"
-\ff[introBenitex]\bNathan: Talvez a licheira tenha algo, "o lixo de uns é o tesouro de outros", como dizem por aí. Dessa vez é literal.
-\ff[introBenitex]\bNathan: Talvez a licheira tenha algo, "o lixo de uns é o tesouro de outros", como dizem por aí. Dessa vez é literal.
+\l[3]\ff[introBenitex]\bThey look like little-used books, some look very old. The titles are on all sorts of subjects, from “Top things to do with your Berrys” to “The 100 best short stories for children”.
+\ff[introBenitex]\bNathan: Talvez a lixeira tenha algo, "o lixo de uns é o tesouro de outros", como dizem por aí. Dessa vez é literal.
+\ff[introBenitex]\bNathan: Maybe I can find something useful in the garbage. One Person's Trash Is Another Person's Treasure, as they say. This time it's literal.
 \l[3]\ff[introBenitex]\bPapéis. Parecem parte de um diário. "Hoje saí a noite com ela de novo. A mamãe nem está percebendo. Nosso plano está dando certo. Vou fazer isso mais vezes."
-\l[3]\ff[introBenitex]\bPapéis. Parecem parte de um diário.  "Hoje saí a noite com ela de novo. A mamãe nem está percebendo. Nosso plano está dando certo. Vou fazer isso mais vezes."
+\l[3]\ff[introBenitex]\bPapers... They look like part of a diary. "I went out with her again tonight. Mom's not even noticing. Our plan is working. I'm going to do it more often."
 \l[3]\ff[introBenitex]\bEntão a mãe só tinha visto uma dessas "escapadinhas" da filha. Ela já vinha fazendo isso a muito tempo.
-\l[3]\ff[introBenitex]\bEntão a mãe só tinha visto uma dessas "escapadinhas" da filha. Ela já vinha fazendo isso a muito tempo.
+\l[3]\ff[introBenitex]\bSo her mother had only seen one of her daughter's "escapades". She'd been doing it for a long time.
 \ff[introBenitex]\bNathan: Essa aqui está em uma posição um pouco diferente. Pode ser uma pista, ou simplesmente parte da decoração.
-\ff[introBenitex]\bNathan: Essa aqui está em uma posição um pouco diferente. Pode ser uma pista, ou simplesmente parte da decoração.
+\ff[introBenitex]\bNathan: This one is in a different position. It could be a clue, or simply part of the decoration.
 \ff[introBenitex]\bNathan: Cama bagunçada, ela não se preucupou em arrumar nada.
-\ff[introBenitex]\bNathan: Cama bagunçada, ela não se preucupou em arrumar nada.
+\ff[introBenitex]\bNathan: Messy bed, she didn't bother to tidy up.
 \ff[introBenitex]\bNathan: Um diário? Interessante.
-\ff[introBenitex]\bNathan: Um diário? Interessante.
+\ff[introBenitex]\bNathan: A diary? Interesting.
 \l[3]"Minha filha está seguindo os passos da mãe, eu vi ela começar a escrever o diário dela, mas, hoje em dia, ela não me deixa ler de jeito nenhum. Bom, eu era assim quando era criança também."
-\l[3]"Minha filha está seguindo os passos da mãe, eu vi ela começar a escrever o diário dela, mas, hoje em dia, ela não me deixa ler de jeito nenhum. Bom, eu era assim quando era criança também."
+\l[3]"My daughter is following in her mother's footsteps, I saw her start to write in her diary. But she won't let me read it at all. Well, I was like that when I was a kid too."
 \l[3]"Um dia meus pais pegaram meu diário. Eu fiquei muito brava, parei de confiar neles. Não quero que isso aconteça com a minha filha."
-\l[3]"Um dia meus pais pegaram meu diário. Eu fiquei muito brava, parei de confiar neles. Não quero que isso aconteça com a minha filha."
+\l[3]"One day my parents read my diary in secret. I got very angry, and stopped trusting them. I don't want that to happen to my daughter."
 \l[3]\ff[introBenitex]\bNathan: Grave erro. Esse tipo de livro sempre tem informações muito valiosas e seria perfeito para ajudar ela a encontrar a filha.
-\l[3]\ff[introBenitex]\bNathan: Grave erro. Esse tipo de livro sempre tem informações muito valiosas e seria perfeito para ajudar ela a encontrar a filha.
+\l[3]\ff[introBenitex]\bNathan: In the end, this was a mistake. This kind of book always has very valuable information and would be perfect to help her find her daughter.
 Gostaria de sair e parar as investigações?
-Gostaria de sair e parar as investigações?
-\l[3]\ff[introBenitex]\bNathan: Pena que não encontrei muitas coisas úteis só tenho algumas hipóteses. Vou ter que perguntar para os moradores da cidade.
-\l[3]\ff[introBenitex]\bNathan: Pena que não encontrei muitas coisas úteis só tenho algumas hipóteses. Vou ter que perguntar para os moradores da cidade.
+Would you like to stop investigations and leave?
+\l[3]\ff[introBenitex]\bNathan: Pena que não encontrei muitas coisas úteis, só tenho algumas hipóteses. Vou ter que perguntar para os moradores da cidade.
+\l[3]\ff[introBenitex]\bNathan: Too bad I didn't find much, I only have a few hypotheses. I'll have to ask the locals for more information.
 \ff[introBenitex]\bNathan: Consegui várias informações interessantes. Eu deveria falar com a mãe dela sobre isso.
-\ff[introBenitex]\bNathan: Consegui várias informações interessantes. Eu deveria falar com a mãe dela sobre isso.
+\ff[introBenitex]\bNathan: Great, I have a lot of interesting information. I should talk to her mother about it.
 \ff[introBenitex]\bNathan: Um computador. Talvez seja interessante ver os sites que ela andava acessando.
-\ff[introBenitex]\bNathan: Um computador. Talvez seja interessante ver os sites que ela andava acessando.
+\ff[introBenitex]\bNathan: A computer. Let's give a look at the sites she was visiting.
 \l[3]\ff[introBenitex]\bNathan: Esses sites não são sites para crianças. Talvez seja a mãe dela que use esse computador por mais tempo.
-\l[3]\ff[introBenitex]\bNathan: Esses sites não são sites para crianças. Talvez seja a mãe dela que use esse computador por mais tempo.
+\l[3]\ff[introBenitex]\bNathan: These are not sites for children. Maybe it's her mother who uses that computer the most.
 \ff[introBenitex]\bNão posso ficar mexendo no histórico dela por muito tempo.
-\ff[introBenitex]\bNão posso ficar mexendo no histórico dela por muito tempo.
+\ff[introBenitex]\bI can't go through her history for too long.
 \ff[introBenitex]\bNathan: Esse sofá parece normal. Não tem muitas marcas de uso.
-\ff[introBenitex]\bNathan: Esse sofá parece normal. Não tem muitas marcas de uso.
+\ff[introBenitex]\bNathan: This sofa looks normal. It doesn't have many marks of use.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 [Map16]
 \ff[introBenitex]\bNathan: Epistemologia. Pois é, não podia faltar, né? Essa biblioteca tem livros de áreas bem diversas da filosofia...
-\ff[introBenitex]\bNathan: Epistemologia. Pois é, não podia faltar, né? Essa biblioteca tem livros de áreas bem diversas da filosofia...
+\ff[introBenitex]\bNathan: Of course, epistemology. There are books from very different areas of philosophy in this library...
 \ff[introBenitex]\bNathan: Vários livros sobre política e economia. Desde Marx a Hoppa, muito interessante a diversidade que eles desponibilizam aqui.
-\ff[introBenitex]\bNathan: Vários livros sobre política e economia. Desde Marx a Hoppa, muito interessante a diversidade que eles desponibilizam aqui.
+\ff[introBenitex]\bNathan: Lots of books on politcs and economics. From Marx to Hoppa, the diversity they make available here is very interesting.
 Seja bem vindo a FNF, a Faculdade de Nimbasa de Filosofia.
 Welcome to NCP, Nimbasa College of Philosophy.
 Nossos cursos são pagos, mas nós permitimos que você faça uma visita pela universidade sem custo.
-Nossos cursos são pagos, mas nós permitimos que você faça uma visita pela universidade sem custo.
+Our courses are paid for, but we allow you to visit the university free of charge.
 \ff[introBenitex]\bNathan: Muito obrigado! Só vim visitar mesmo.
-\ff[introBenitex]\bNathan: Muito obrigado! Só vim visitar mesmo.
+\ff[introBenitex]\bNathan: Thanks! I'll have a look around.
 Tenha uma boa visita.
-Tenha uma boa visita.
+Enjoy your visit.
 \ff[introBenitex]\bNathan: Caramba, vários livros sobre filosofia da mente. Não esperava isso por aqui.
-\ff[introBenitex]\bNathan: Caramba, vários livros sobre filosofia da mente. Não esperava isso por aqui.
+\ff[introBenitex]\bNathan: Wow, lot's of books on philosophy of mind. I didn't expect that here.
 Olá! Aluno novo?
-Olá! Aluno novo?
+Hello! New student?
 \ff[introBenitex]\bNathan: Não, estou só de passagem, desculpe por interromper.
-\ff[introBenitex]\bNathan: Não, estou só de passagem, desculpe por interromper.
+\ff[introBenitex]\bNathan: No, I'm just passing by, sorry to interrupt.
 Se quiser, pode entrar e assistir a aula, serve como aula experimental, para caso você queira entrar no curso.
-Se quiser, pode entrar e assistir a aula, serve como aula experimental, para caso você queira entrar no curso.
-Estamos com poucos alunos mesmo...
-Estamos com poucos alunos mesmo...
+If you want, you can come in and watch the class. If you like the class, you can enroll in the course.
 \ff[introBenitex]\bNathan: Desculpe, mas estou meio apressado.
-\ff[introBenitex]\bNathan: Desculpe, mas estou meio apressado.
+\ff[introBenitex]\bNathan: Thank you, but I can't right now.
 \ff[introBenitex]\bNathan: Essa aqui tem assuntos mais atuais. Só não sei o porquê de tão pouco sobre o que é mais discutido nos dias de hoje...
-\ff[introBenitex]\bNathan: Essa aqui tem assuntos mais atuais. Só não sei o porquê de tão pouco sobre o que é mais discutido nos dias de hoje...
+\ff[introBenitex]\bNathan: This one has more current affairs. But there are far fewer books here. I wonder why...
 \ff[introBenitex]\bNathan: Estética, hum, parece interessante.
-\ff[introBenitex]\bNathan: Estética, hum, parece interessante.
+\ff[introBenitex]\bNathan: Aesthetics. Sounds interesting.
 Olá, jovem. Sou o bibliotecário. Alunos matriculados podem pegar os livros, os visitantes só poder ler eles enquanto estiverem nos terrenos da faculdade.
-Olá, jovem. Sou o bibliotecário. Alunos matriculados podem pegar os livros, os visitantes só poder ler eles enquanto estiverem nos terrenos da faculdade.
+Hello, young man. I'm the librarian. Enrolled students can take the books, visitors can only read them while on the college grounds.
 \ff[introBenitex]\bNathan: Ok, pode deixar!
-\ff[introBenitex]\bNathan: Ok, pode deixar!
+\ff[introBenitex]\bNathan: Ok, no problem!
 \l[3]\ff[introBenitex]\bNathan: Caramba, mas são muitos os livros sobre teologia. Vários inclusive tentam propor que não foi Arceus que criou o universo, mas que ele surgiu ao mesmo tempo que ele. Bem interessante mesmo.
-\l[3]\ff[introBenitex]\bNathan: Caramba, mas são muitos os livros sobre teologia. Vários inclusive tentam propor que não foi Arceus que criou o universo, mas que ele surgiu ao mesmo tempo que ele. Bem interessante mesmo.
+\l[3]\ff[introBenitex]\bNathan: Wow, lot's of books on theology. Several even try to propose that it wasn't Arceus who created the universe, but that they came to being at the same time. Very interesting indeed.
 [Map17]
 \\ff[introBenitex]\bNathan: Essa escola tem uma bela vista de Unova, dá pra ver as florestas e até a cidade de Openlucid mais adiante.
 \\ff[introBenitex]\bNathan: Essa escola tem uma bela vista de Unova, dá pra ver as florestas e até a cidade de Openlucid mais adiante.
