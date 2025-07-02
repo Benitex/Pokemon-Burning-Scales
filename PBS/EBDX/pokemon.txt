@@ -8833,7 +8833,7 @@ BattlerEnemyX           = -12
 [CHARMANDERP]
 BattlerEnemyY           = 95
 BattlerAltitude         = 0
-BattlerPlayerX          = 70
+BattlerPlayerX          = 15
 BattlerPlayerY          = 73
 BattlerEnemyX           = 8
 #-------------------------------
