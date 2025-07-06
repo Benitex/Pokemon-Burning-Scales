@@ -812,7 +812,7 @@ He got excited about last year's tournament and started traveling the world. On 
 Ah é? Que legal!
 Oh, was it? How cool!
 \l[3]\ff[introBenitex]\bNathan: Para falar a verdade, eu não me lembro muito bem dos detalhes, mas lembro que tinha uma cachoeira e uma confusão.
-\l[3]\ff[introBenitex]\bNathan: I remember about a waterfall and a real mess, but to be honest, I don't remeber about the details.
+\l[3]\ff[introBenitex]\bNathan: I remember about a waterfall and a real mess, but to be honest, I don't remember about the details.
 \ff[introBenitex]\bNo fim da história ele ficou amigo do Eevee, então eu capturei e dei para ele.
 \ff[introBenitex]\bAt the end of the story he became friends with that eevee, so I captured it and gave it to him.
 Muito legal essa sua história com seu irmão. Queria ter passado mais tempo com o meu...
@@ -3963,7 +3963,7 @@ Ideias.
 Ideas.
 [Map18]
 \ff[introBenitex]\bNathan: Não posso desistir agora. Eu consigo.
-\ff[introBenitex]\bNathan: Não posso desistir agora. Eu consigo.
+\ff[introBenitex]\bNathan: I can't give up now. I know I can do it.
 \ff[introBenitex]\bNathan: Se eu sair agora vou perder o torneio. Será que eu devo mesmo?
 \ff[introBenitex]\bNathan: Se eu sair agora vou perder o torneio. Será que eu devo mesmo?
 \ff[introBenitex]\bNathan: Acho que sim, que perda de tempo.
@@ -4513,252 +4513,252 @@ I did what I could. Bye bye.
 \ff[introBenitex]\bNathan: (There's no way I can leave now. She'll run away and I'll never be able to find her again.)
 [Map20]
 Olá, eu posso dar uma breve apresentação da cidade de Castelia para os novos visitantes, gostaria de ouvir?
-Olá, eu posso dar uma breve apresentação da cidade de Castelia para os novos visitantes, gostaria de ouvir?
+Hello, would you like to hear a brief introduction to the city of Castelia for new visitors?
 \ff[introBenitex]\bNathan: Claro! Me conte um pouco.
-\ff[introBenitex]\bNathan: Claro! Me conte um pouco.
+\ff[introBenitex]\bNathan: Yes, please.
 \l[3]Muito bem. Seguindo adiante, você passará por alguns prédios até chegar na Central Plaza. É o centro da cidade e local de reunião de treinadores e pokémon.
-\l[3]Muito bem. Seguindo adiante, você passará por alguns prédios até chegar na Central Plaza. É o centro da cidade e local de reunião de treinadores e pokémon.
+\l[3]Great. Past this gate, you'll enter the city. You'll pass a few buildings until you reach Central Plaza. That place is the center of the city and a meeting place for trainers and Pokémon.
 \l[3]Depois disso, a cidade se divide em 4 ruas, Castelia, Mode, Narrow e Gym streets, até chegar a Oceanfront Road e os 4 piers.
-\l[3]Depois disso, a cidade se divide em 4 ruas, Castelia, Mode, Narrow e Gym streets, até chegar a Oceanfront Road e os 4 piers.
+\l[3]Then, the city divides into 4 streets, Castelia, Mode, Narrow, and Gym Street. And after that, you'll arrive at Oceanfront Road and the 4 piers.
 Cada rua possui seus prédios com diferentes propósitos, espero que aproveite todos eles!
-Cada rua possui seus prédios com diferentes propósitos, espero que aproveite todos eles!
+Each street has its own buildings with different purposes. I hope you enjoy them all!
 Nos piers você pode pegar um barco e viajar para vários lugares diferentes.
-Nos piers você pode pegar um barco e viajar para vários lugares diferentes.
+At the piers you can take a boat and travel to many different places.
 A cidade também oferece policiais que explicam cada rua. Aproveite seu tempo por aqui!
 The city also offers policeman that explain the streets they are on. Enjoy your time here!
 \ff[introBenitex]\bNathan: Pode me ajudar com uma coisa?
-\ff[introBenitex]\bNathan: Pode me ajudar com uma coisa?
+\ff[introBenitex]\bNathan: Can you help me with something?
 \ff[introBenitex]\bEstou precisando saber onde é o laboratório do professor Carvalho.
-\ff[introBenitex]\bEstou precisando saber onde é o laboratório do professor Carvalho.
+\ff[introBenitex]\bI need to know where Professor Oak's laboratory is.
 Ah, sim..
-Ah, sim..
+Oh, yes..
 Se não me engano, os laboratórios do professor Carvalho e da professora Juniper estão localizados na Castelia Street!
-Se não me engano, os laboratórios do professor Carvalho e da professora Juniper estão localizados na Castelia Street!
+If I'm not mistaken, Professor Oak and Professor Juniper's laboratories are located on Castelia Street!
 \ff[introBenitex]\bNathan: Castelia Street? Certo, muito obrigado.
-\ff[introBenitex]\bNathan: Castelia Street? Certo, muito obrigado.
+\ff[introBenitex]\bNathan: Castelia Street? Right, thank you very much.
 \ff[introBenitex]\bNathan: Não, obrigado. Prefiro descobrir sozinho.
-\ff[introBenitex]\bNathan: Não, obrigado. Prefiro descobrir sozinho.
+\ff[introBenitex]\bNathan: No, thanks. I prefer to explore by myself.
 Tudo bem, só tome cuidado para não se perder!
-Tudo bem, só tome cuidado para não se perder!
+Alright, just be careful not to get lost!
 Aproveite o máximo que Castelia tem a te oferecer!
-Aproveite o máximo que Castelia tem a te oferecer!
+Make the most of what Castelia has to offer!
 Você ouviu sobre os ataques da Team Plasma no Centro Pokemon?
-Você ouviu sobre os ataques da Team Plasma no Centro Pokemon?
+Did you hear about Team Plasma's attacks at the Pokemon Center?
 \ff[introBenitex]\bNathan: Não estou sabendo.
-\ff[introBenitex]\bNathan: Não estou sabendo.
+\ff[introBenitex]\bNathan: No, I didn't.
 Eles estão invadindo os PCs e soltando todos os pokemon dos treinadores. Tome cuidado!
-Eles estão invadindo os PCs e soltando todos os pokemon dos treinadores. Tome cuidado!
-Oibá! Você lembra de mim, né? Eu te dei uma bicicleta a algum tempo atrás!
-Oibá! Você lembra de mim, né? Eu te dei uma bicicleta a algum tempo atrás!
+They are hacking the PCs and releasing all the Pokémon from trainers. Be careful!
+Oiabá! Você lembra de mim, né? Eu te dei uma bicicleta a algum tempo atrás!
+Oiabá! You remember me, don't you? I gave you a bike some time ago!
 \ff[introBenitex]\bNathan: Sim, mas é claro que me lembro!
-\ff[introBenitex]\bNathan: Sim, mas é claro que me lembro!
+\ff[introBenitex]\bNathan: Yes, of course I do!
 Ótimo, ótimo. Era isso mesmo que queria ouvir!
-Ótimo, ótimo. Era isso mesmo que queria ouvir!
+Great, great. That's what I needed to hear!
 \l[3]Porque, como você se lembra bem do favor que prestei a você, agora você deve prestar um favor a mim, certo? Ótimo, que bom que concorda.
-\l[3]Porque, como você se lembra bem do favor que prestei a você, agora você deve prestar um favor a mim, certo?  Ótimo, que bom que concorda.
+\l[3]Because, as you well remember the favor I did you, now you have to do me a favor, right? Good, I'm glad you agree.
 \ff[introBenitex]\bNathan: Desculpe, mas não consigo me lembrar disso.
-\ff[introBenitex]\bNathan: Desculpe, mas não consigo me lembrar disso.
+\ff[introBenitex]\bNathan: I'm sorry, but I can't remember that.
 Como assim você se esqueceu??? A bicicleta custou $1000000 e você simplesmente esqueceu?
-Como assim você se esqueceu??? A bicicleta custou $1000000 e você simplesmente esqueceu?
+What do you mean you don't remember??? That bike cost me $1000000 and you just forgot about it?
 \ff[introBenitex]\bNathan: Infelizmente, eu realmente não me lembro.
-\ff[introBenitex]\bNathan: Infelizmente, eu realmente não me lembro.
+\ff[introBenitex]\bNathan: Unfortunately, I can't really remember.
 Ah, que absurdo!
-Ah, que absurdo!
+Oh, that's absurd!
 Mas eu sei exatamente como você pode retribuir o favor!
-Mas eu sei exatamente como você pode retribuir o favor!
+But I know exactly how you can return the favor!
 \ff[introBenitex]\bNathan: Ah sim, agora me lembrei, foi logo quando saí do pier.
-\ff[introBenitex]\bNathan: Ah sim, agora me lembrei, foi logo quando saí do pier.
+\ff[introBenitex]\bNathan: Oh yeah, now I remember, it was just as I left the pier.
 Você deve saber sobre as eleições que estão acontecendo em Castelia, certo? Ótimo.
-Você deve saber sobre as eleições que estão acontecendo em Castelia, certo? Ótimo.
+You must know about the elections taking place here, right? Good.
 Bom, como deve imaginar, eu faço parte do clube de palhaços. Você só precisa votar na gente, nada demais, né?
-Bom, como deve imaginar, eu faço parte do clube de palhaços. Você só precisa votar na gente, nada demais, né?
+Well, as you can imagine, I'm part of the Clown Club. You just have to vote for us, no big deal, right?
 \ff[introBenitex]\bNathan: Você está tentando me comprar?
-\ff[introBenitex]\bNathan: Você está tentando me comprar?
+\ff[introBenitex]\bNathan: Are you trying to buy my vote?
 Que? Não, não, claro que não. Seria apenas um voto de confiança em seu camarada!
-Que? Não, não, claro que não. Seria apenas um voto de confiança em seu camarada!
+What? No, no, no way. Not me. That's just a vote of confidence in your comrade!
 \ff[introBenitex]\bNathan: Ah, sim. É claro.
-\ff[introBenitex]\bNathan: Ah, sim. É claro.
+\ff[introBenitex]\bNathan: Oh, yes. Of course.
 Novo na cidade? Pode vir falar comigo se estiver procurando algum lugar específico!
 New in town? Feel free to contact me if you're looking for a specific place!
 Conto com você!
-Conto com você!
+I'm counting on you!
 Não se esqueça, Clube dos Palhaços!
-Não se esqueça, Clube dos Palhaços!
+Don't forget, it's the Clown Club!
 Claro!
-Claro!
+Of course!
 Não, obrigado.
-Não, obrigado.
+No, thanks.
 Claro que lembro!
-Claro que lembro!
+Of course I do!
 Não lembro.
-Não lembro.
+I don't.
 Infelizmente sim.
-Infelizmente sim.
+Yes, unfortunately.
 Me lembrei!
-Me lembrei!
+I remember!
 [Map21]
 \ff[introElesa]\rElesa: Gostou da apresentação?
-\ff[introElesa]\rElesa: Gostou da apresentação?
+\ff[introElesa]\rElesa: Did you like the show?
 \ff[introBenitex]\bNathan: Claro, foi incrível!
-\ff[introBenitex]\bNathan: Claro, foi incrível!
+\ff[introBenitex]\bNathan: Yes, that was amazing!
 \ff[introElesa]\rElesa: Que bom!
-\ff[introElesa]\rElesa: Que bom!
+\ff[introElesa]\rElesa: I'm glad you liked it!
 \ff[introBenitex]\bNathan: Achei fraquinha, já vi melhores.
-\ff[introBenitex]\bNathan: Achei fraquinha, já vi melhores.
+\ff[introBenitex]\bNathan: I've seen better ones.
 \ff[introElesa]\rElesa: Ei, não fala isso! Me esforço tanto treinando isso todo dia...
-\ff[introElesa]\rElesa: Ei, não fala isso! Me esforço tanto treinando isso todo dia...
+\ff[introElesa]\rElesa: Ei, don't say that! I work so hard practicing it every day...
 \ff[introBenitex]\bNathan: Calma, foi brincadeira!
-\ff[introBenitex]\bNathan: Calma, foi brincadeira!
+\ff[introBenitex]\bNathan: Calm down, it was just a joke!
 \ff[introElesa]\rElesa: Tudo bem, eu percebi.
-\ff[introElesa]\rElesa: Tudo bem, eu percebi.
+\ff[introElesa]\rElesa: Alright, I get it.
 \ff[introElesa]\rElesa: E então, veio me mostrar seu novo pokémon?
-\ff[introElesa]\rElesa: E então, veio me mostrar seu novo pokémon?
+\ff[introElesa]\rElesa: So, did you come to show me your new Pokémon?
 \l[3]\ff[introBenitex]\bNathan: Também, estou aqui para fazer algumas perguntas, mas posso te falar um pouco sobre ele antes.
-\l[3]\ff[introBenitex]\bNathan: Também, estou aqui para fazer algumas perguntas, mas posso te falar um pouco sobre ele antes.
-\l[3]\ff[introBenitex]\bNathan: A professora Juniper disse que um treinador entregou esse charmander para ela, que é bem diferente dos charmanders de Kanto.
-\l[3]\ff[introBenitex]\bNathan: A professora Juniper disse que um treinador entregou esse charmander para ela, que é bem diferente dos charmanders de Kanto.
+\l[3]\ff[introBenitex]\bNathan: Yes, but I also want to ask some questions. Let's talk about the Pokémon first.
+\l[3]\ff[introBenitex]\bNathan: A professora Juniper disse que encontrou esse pokémon na Rota 4, que é bem diferente dos charmanders de Kanto.
+\l[3]\ff[introBenitex]\bNathan: Professor Juniper said she found this Pokémon on Route 4, which is very different from the Kantonian charmanders.
 \ff[introBenitex]\bNathan: Além disso, nenhum outro charmander como esse foi vistos em Unova.
-\ff[introBenitex]\bNathan: Além disso, nenhum outro charmander como esse foi vistos em Unova.
-\ff[introElesa]\rElesa: E por causa disso ela pensou que seria uma boa ideia ver como você treinaria ele?
-\ff[introElesa]\rElesa: E por causa disso ela pensou que seria uma boa ideia ver como você treinaria ele?
+\ff[introBenitex]\bNathan: What's more, but no other charmander like this has ever been seen in Unova.
+\ff[introElesa]\rElesa: E por causa disso ela te ofereceu para treinar ele?
+\ff[introElesa]\rElesa: And that's why she gave him to you?
 \ff[introBenitex]\bNathan: Isso mesmo. Venho treinado ele a um tempinho já, sinto que está crescendo. Mas é realmente bem diferente dos outros charmanders, até no tipo.
-\ff[introBenitex]\bNathan: Isso mesmo. Venho treinado ele a um tempinho já, sinto que está crescendo. Mas é realmente bem diferente dos outros charmanders, até no tipo.
+\ff[introBenitex]\bNathan: Yes. We've been training for a while now, and I'm starting to see results. It's a really different different from the other charmanders, even in type.
 \ff[introElesa]\rElesa: A origem dele é o que mais me intriga...
-\ff[introElesa]\rElesa: A origem dele é o que mais me intriga...
+\ff[introElesa]\rElesa: Its origin is what intrigues me the most...
 \ff[introBenitex]\bNathan: Acho que é o que mais intriga a todos nós, pra falar a verdade. Mas ele é um bom pokemon, nunca foi desobediente ou algo assim.
-\ff[introBenitex]\bNathan: Acho que é o que mais intriga a todos nós, pra falar a verdade. Mas ele é um bom pokemon, nunca foi desobediente ou algo assim.
+\ff[introBenitex]\bNathan: Yeah, that intrigues us all. Although he's different, he very nice, he's never disobeyed me.
 \ff[introElesa]\rElesa: Que ótimo!
-\ff[introElesa]\rElesa: Que ótimo!
+\ff[introElesa]\rElesa: That's great!
 \ff[introElesa]\rElesa: Você disse que tinha algumas perguntas, certo?
-\ff[introElesa]\rElesa: Você disse que tinha algumas perguntas, certo?
+\ff[introElesa]\rElesa: You said you had some questions, right?
 \ff[introBenitex]\bNathan: O que você anda fazendo nos últimos tempos?
-\ff[introBenitex]\bNathan: O que você anda fazendo nos últimos tempos?
+\ff[introBenitex]\bNathan: What have you been up to recently?
 \ff[introElesa]\rElesa: Nada de muito diferente, para falar a verdade.
-\ff[introElesa]\rElesa: Nada de muito diferente, para falar a verdade.
-\l[3]\ff[introElesa]\rElesa: Desde que você veio me enfrentar pela última vez, continuo praticando minhas performances, as vezes tento fazer o design de uma nova roupa também.
-\l[3]\ff[introElesa]\rElesa: Desde que você veio me enfrentar pela última vez, continuo praticando minhas performances, as vezes tento fazer o design de uma nova roupa também.
+\ff[introElesa]\rElesa: Nothing much different, really.
+\ff[introElesa]\rElesa: Continuo praticando minhas performances, as vezes tento fazer design de roupas também.
+\ff[introElesa]\rElesa: I've been practicing my performances. Sometimes I try to design a new outfit too.
 \l[3]\ff[introElesa]\rElesa: Fora isso, nada de muito especial. Também tenho que lidar com alguns problemas rotineiros na cidade. O pessoal acaba cobrando posicionamentos de vez em quando, porque sou líder de ginásio.
-\l[3]\ff[introElesa]\rElesa: Fora isso, nada de muito especial.  Também tenho que lidar com alguns problemas rotineiros na cidade. O pessoal acaba cobrando posicionamentos de vez em quando, porque sou líder de ginásio.
+\l[3]\ff[introElesa]\rElesa: Apart from that, nothing too special. I also have to deal with some routine problems in the city. People come and ask me to take a stand from time to time, since I'm the gym leader.
 \ff[introElesa]\rElesa: Enfim, tudo vai ótimo e o torneio agitou ainda mais as coisas.
-\ff[introElesa]\rElesa: Enfim, tudo vai ótimo e o torneio agitou ainda mais as coisas.
+\ff[introElesa]\rElesa: Anyway, everything is going great and the tournament has stirred things up even more.
 \ff[introBenitex]\bNathan: Como você conheceu o professor Carvalho?
-\ff[introBenitex]\bNathan: Como você conheceu o professor Carvalho?
+\ff[introBenitex]\bNathan: How did you get to know Professor Oak?
 \ff[introElesa]\rElesa: Ah, sabe como é, né? Sou líder de ginásio, e modelo também.
-\ff[introElesa]\rElesa: Ah, sabe como é, né? Sou líder de ginásio, e modelo também.
+\ff[introElesa]\rElesa: Oh, Professor Oak? You know, nowadays I'm a model and gym leader.
 \ff[introElesa]\rElesa: Mas um dia também fui treinadora, como você.
-\ff[introElesa]\rElesa: Mas um dia também fui treinadora, como você.
+\ff[introElesa]\rElesa: But some time ago, I was a trainer too, just like you.
 \ff[introElesa]\rElesa: Também passiei muito por Unova, conheci muitas pessoas. Uma delas me apresentou o professor um dia desses.
-\ff[introElesa]\rElesa: Também passiei muito por Unova, conheci muitas pessoas. Uma delas me apresentou o professor um dia desses.
+\ff[introElesa]\rElesa: I traveled a lot around Unova, met a lot of different people. One of them introduced me to the professor the other day.
 \ff[introBenitex]\bNathan: Legal! E por que deixou de ser treinadora?
-\ff[introBenitex]\bNathan: Legal! E por que deixou de ser treinadora?
+\ff[introBenitex]\bNathan: Cool! Why did you stop traveling?
 \l[3]\ff[introElesa]\rElesa: Eu ainda amo batalhar, mas prefiro minha vida como modelo. Mas como modelo não tenho muito tempo para viajar pelo mundo.
-\l[3]\ff[introElesa]\rElesa: Eu ainda amo batalhar, mas prefiro minha vida como modelo. Mas como modelo não tenho muito tempo para viajar pelo mundo.
+\l[3]\ff[introElesa]\rElesa: I love battling, but I prefer my life as a model. Even though I don't have much time to travel the world.
 \ff[introBenitex]\bNathan: Aposto que foi uma decisão difícil.
-\ff[introBenitex]\bNathan: Aposto que foi uma decisão difícil.
+\ff[introBenitex]\bNathan: I bet it was a difficult decision.
 \ff[introElesa]\rElesa: Nem tanto, quando entrei no mundo da moda, percebi que deveria ficar. Amo muito meu trabalho.
-\ff[introElesa]\rElesa: Nem tanto, quando entrei no mundo da moda, percebi que deveria ficar. Amo muito meu trabalho.
+\ff[introElesa]\rElesa: Not really, when I entered the world of fashion, I realized I had to stay. I love my job very much.
 \ff[introBenitex]\bNathan: O que você acha de uma batlha? Não posso ter enfrentado todos esses treinadores a toa...
-\ff[introBenitex]\bNathan: O que você acha de uma batlha?  Não posso ter enfrentado todos esses treinadores a toa...
+\ff[introBenitex]\bNathan: What do you think of a battle? I faced all those trainers, I'm in the right to face the gym leader now!
 \ff[introElesa]\rElesa: Ah, mas é claro, hihi!
-\ff[introElesa]\rElesa: Ah, mas é claro, hihi!
+\ff[introElesa]\rElesa: Oh, of course!
 \ff[introElesa]\rElesa: Prepare-se!
-\ff[introElesa]\rElesa: Prepare-se!
+\ff[introElesa]\rElesa: Get ready!
 Muito bem.
-Muito bem.
+Very well.
 \ff[introElesa]\rElesa: Não acredito que você ganhou de novo!
-\ff[introElesa]\rElesa: Não acredito que você ganhou de novo!
+\ff[introElesa]\rElesa: I can't believe you won again!
 \ff[introBenitex]\bNathan: Você estava enfrentando o campeão!
-\ff[introBenitex]\bNathan: Você estava enfrentando o campeão!
+\ff[introBenitex]\bNathan: You were up against the champion!
 \ff[introElesa]\rElesa: Campeão ou não, você vai ver na próxima!
-\ff[introElesa]\rElesa: Campeão ou não, você vai ver na próxima!
+\ff[introElesa]\rElesa: Champion or not, I'll get you next time!
 \ff[introElesa]\rElesa: Rá! Consegui vencer!
-\ff[introElesa]\rElesa: Rá! Consegui vencer!
+\ff[introElesa]\rElesa: Yay! I won!
 \ff[introBenitex]\bNathan: Só dessa vez....
-\ff[introBenitex]\bNathan: Só dessa vez....
+\ff[introBenitex]\bNathan: Just this once....
 \ff[introElesa]\rElesa: Sabia que um dia iria te derrotar!
-\ff[introElesa]\rElesa: Sabia que um dia iria te derrotar!
+\ff[introElesa]\rElesa: I knew one day I would beat you!
 \ff[introElesa]\rElesa: Vou curar seus pokemon pra você.
-\ff[introElesa]\rElesa: Vou curar seus pokemon pra você.
+\ff[introElesa]\rElesa: Let me heal you Pokémon.
 \ff[introElesa]\rElesa: Obrigado por vir conversar comigo um pouco Nathan, sei que seu tempo pode ser apertado. Foi bom rever você.
-\ff[introElesa]\rElesa: Obrigado por vir conversar comigo um pouco Nathan, sei que seu tempo pode ser apertado. Foi bom rever você.
+\ff[introElesa]\rElesa: Thank you for spending some time with me Nathan, I know your time can be tight. It was good to see you again.
 \ff[introBenitex]\bNathan: Não foi nada Elesa, pode contar comigo para qualquer coisa.
-\ff[introBenitex]\bNathan: Não foi nada Elesa, pode contar comigo para qualquer coisa.
+\ff[introBenitex]\bNathan: It was nothing Elesa, you can count on me for anything.
 \ff[introBenitex]\bNathan: Acho que essas são todas as perguntas que queria fazer.
-\ff[introBenitex]\bNathan: Acho que essas são todas as perguntas que queria fazer.
+\ff[introBenitex]\bNathan: I think those are all the questions I wanted to ask.
 \ff[introElesa]\rElesa: Pegue esses docinhos, para seus pokemon.
-\ff[introElesa]\rElesa: Pegue esses docinhos, para seus pokemon.
+\ff[introElesa]\rElesa: Take these candies for your Pokémon.
 \ff[introElesa]\rElesa: Ah é, não posso me esquecer!
-\ff[introElesa]\rElesa: Ah é, não posso me esquecer!
+\ff[introElesa]\rElesa: Oh yes, I mustn't forget!
 \l[3]\ff[introElesa]\rElesa: Eu e a professora Juniper vamos nos encontrar para assistir o torneio no Teatro Musical. Se você não for participar, você pode ficar com a gente!
-\l[3]\ff[introElesa]\rElesa: Eu e a professora Juniper vamos nos encontrar para assistir o torneio no Teatro Musical. Se você não for participar, você pode ficar com a gente!
+\l[3]\ff[introElesa]\rElesa: Professor Juniper and I are meeting up to watch the tournament at the Musical Theater. If you're not going to take part, you can stay with us!
 \ff[introElesa]\rElesa: Mas é claro que vamos torcer por você caso participe!
-\ff[introElesa]\rElesa: Mas é claro que vamos torcer por você caso participe!
+\ff[introElesa]\rElesa: But of course we'll be rooting for you if you take part!
 \ff[introBenitex]\bNathan: Obrigado pelo convite, ainda estou pensando se vou participar.
-\ff[introBenitex]\bNathan: Obrigado pelo convite, ainda estou pensando se vou participar.
+\ff[introBenitex]\bNathan: Thanks for the invitation, I'm not sure if I'm going to take part yet.
 \ff[introElesa]\rElesa: Pense com calma, só cuidado pra não pensar demais!
-\ff[introElesa]\rElesa: Pense com calma, só cuidado pra não pensar demais!
+\ff[introElesa]\rElesa: Think carefully, but don't take too long!
 \ff[introElesa]\rElesa: Ah, não posso me esquecer de te parabenizar pela vitória no torneio!
-\ff[introElesa]\rElesa: Ah, não posso me esquecer de te parabenizar pela vitória no torneio!
+\ff[introElesa]\rElesa: Oh, I can't forget to congratulate you on winning the tournament!
 \ff[introElesa]\rElesa: Você foi incrível Nathan, como sempre!
-\ff[introElesa]\rElesa: Você foi incrível Nathan, como sempre!
+\ff[introElesa]\rElesa: You were amazing Nathan, as always!
 \ff[introBenitex]\bNathan: Ah, não fala assim... Vou ficar envergonhado.
-\ff[introBenitex]\bNathan: Ah, não fala assim... Vou ficar envergonhado.
+\ff[introBenitex]\bNathan: Oh, don't talk like that... I'm embarrassed.
 \ff[introElesa]\rElesa: Hihihi, parabéns.
-\ff[introElesa]\rElesa: Hihihi, parabéns.
+\ff[introElesa]\rElesa: That's funny, congratulations again.
 \l[3]\ff[introElesa]\rElesa: Ah é, não posso esquecer de dizer. Foi muito legal assistir o torneio com você e a professora. Espero que ano que vem você participe e vença!
-\l[3]\ff[introElesa]\rElesa: Ah é, não posso esquecer de dizer.  Foi muito legal assistir o torneio com você e a professora.  Espero que ano que vem você participe e vença!
+\l[3]\ff[introElesa]\rElesa: Oh yes, I mustn't forget to tell you. It was great to watch the tournament with you and the professor. I hope you'll take part and win next year!
 \ff[introElesa]\rElesa: Mas é segredo! Hihihi
-\ff[introElesa]\rElesa: Mas é segredo! Hihihi
+\ff[introElesa]\rElesa: But that's a secret!
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: Thank you, I'll give my best.
 \ff[introElesa]\rElesa: Nathan! Veio conversar mais um pouco?
-\ff[introElesa]\rElesa: Nathan! Veio conversar mais um pouco?
+\ff[introElesa]\rElesa: Nathan! Do you want to talk some more?
 Sério, como pode todo mundo me copiar? Tipo, isso é super errado, elas são identicas!
-Sério, como pode todo mundo me copiar? Tipo, isso é super errado, elas são identicas!
+Seriously, why does everyone copy me? Like, that's super wrong, they're identical to me!
 Esse pessoal vive falando de beleza interior. Eu sei que é a exterior é que conta!
-Esse pessoal vive falando de beleza interior. Eu sei que é a exterior é que conta!
+People are always talking about inner beauty. But I know it's the outside that counts!
 Foi assim que consegui meu sucesso...
-Foi assim que consegui meu sucesso...
+That's how I became successful...
 Eu queria ser dançarina, mas ficar dando rodopiadas como modelo é bom também.
-Eu queria ser dançarina, mas ficar dando rodopiadas como modelo é bom também.
+I wanted to be a dancer, but twirling around as a model is good too.
 Prepare-se para batalha!
-Prepare-se para batalha!
+Prepare yourself for battle!
 Nathan, quanto tempo!
-Nathan, quanto tempo!
+Nathan, long time no see!
 Pra falar a verdade, imaginei que nunca mais veria você aqui.
-Pra falar a verdade, imaginei que nunca mais veria você aqui.
+I thought I'd never see you here again.
 \ff[introBenitex]\bNathan: Estou aqui pra conversar com a Elesa.
-\ff[introBenitex]\bNathan: Estou aqui pra conversar com a Elesa.
+\ff[introBenitex]\bNathan: I'm here to talk to Elesa.
 \ff[introBenitex]\bNathan: Será que eu posso pular essas treinadoras no caminho?
-\ff[introBenitex]\bNathan: Será que eu posso pular essas treinadoras no caminho?
+\ff[introBenitex]\bNathan: Can I skip these trainers on the way?
 Desculpe, mas sabe como são as regras dos ginásios, se você entrou aqui, tem que batalhar!
-Desculpe, mas sabe como são as regras dos ginásios, se você entrou aqui, tem que batalhar!
+I'm sorry, but you know the rules of gyms. Once you get through the door, you have to battle!
 \ff[introBenitex]\bNathan: Entendi.
-\ff[introBenitex]\bNathan: Entendi.
+\ff[introBenitex]\bNathan: I see.
 Boa sorte agora e no resto de sua jornada!
-Boa sorte agora e no resto de sua jornada!
+Good luck now and for the rest of your journey!
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thank you.
 E pensar que um dia vi ele passar aqui pela primeira vez e hoje é campeão...
-E pensar que um dia vi ele passar aqui pela primeira vez e hoje é campeão...
+And to think that one day I saw him pass here for the first time and today he's a champion...
 Você enfrenta...
-Você enfrenta...
+You face...
 A mais bela modelo de Unova!
-A mais bela modelo de Unova!
+Unova's finest model!
 Veja qual é o nosso padrão!
-Veja qual é o nosso padrão!
+Check out our standard!
 Claro!
-Claro!
+Yes, of course!
 Não.
-Não.
+No.
 O que você anda fazendo?
-O que você anda fazendo?
+What have you been up to?
 Como conhece o professor?
-Como conhece o professor?
+Do you know the professor?
 Vamos batalhar?
-Vamos batalhar?
+Shall we battle?
 Adeus!
-Adeus!
+Goodbye!
 [Map22]
 Gostaria de dizer que essa vitória é produto da luta de todos nós.
 I would like to say that this victory is the product of the efforts of all of us.
