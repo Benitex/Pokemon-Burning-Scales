@@ -3965,503 +3965,501 @@ Ideas.
 \ff[introBenitex]\bNathan: Não posso desistir agora. Eu consigo.
 \ff[introBenitex]\bNathan: I can't give up now. I know I can do it.
 \ff[introBenitex]\bNathan: Se eu sair agora vou perder o torneio. Será que eu devo mesmo?
-\ff[introBenitex]\bNathan: Se eu sair agora vou perder o torneio. Será que eu devo mesmo?
+\ff[introBenitex]\bNathan: If I leave now I'll be disqualified. Should I really watch the tournament?
 \ff[introBenitex]\bNathan: Acho que sim, que perda de tempo.
-\ff[introBenitex]\bNathan: Acho que sim, que perda de tempo.
+\ff[introBenitex]\bNathan: I guess so, what a waste of time.
 \ff[introBenitex]\bNathan: Não, já cheguei até aqui, não vou voltar.
-\ff[introBenitex]\bNathan: Não, já cheguei até aqui, não vou voltar.
+\ff[introBenitex]\bNathan: No, I've come this far, I'm not going back.
 \l[3]Agora que todos já viram a entrada triunfante do desafiante Nathan, apresento-lhes o opontente dele, Marcos, o Mestre da Pesca!
-\l[3]Agora que todos já viram a entrada triunfante do desafiante Nathan, apresento-lhes o opontente dele, Marcos, o Mestre da Pesca!
+\l[3]Now that you've all seen Nathan's triumphant entrance, let me introduce you to his opponent. Marcos, the Fishing Master!
 \ff[introBenitex]\bNathan: Ei, eu não sabia que a gente podia fazer esse drama todo!
-\ff[introBenitex]\bNathan: Ei, eu não sabia que a gente podia fazer esse drama todo!
+\ff[introBenitex]\bNathan: Hey, I didn't know we could do all that whole play!
 Talvez no próximo ano você possa fazer melhor!
-Talvez no próximo ano você possa fazer melhor!
+Perhaps next year you can do better!
 \ff[introBenitex]\bNathan: Aff.
-\ff[introBenitex]\bNathan: Aff.
+\ff[introBenitex]\bNathan: Oh, man.
 \ff[introMarcos]\c[1]Mestre da Pesca: Beleza, chega de enrolação. É hora de uma batalha abissal!
-\ff[introMarcos]\c[1]Mestre da Pesca: Beleza, chega de enrolação. É hora de uma batalha abissal!
+\ff[introMarcos]\c[1]Fishing Master: All right, no more small talk. It's time for an abyssal battle!
 \ff[introBenitex]\bNathan: Então tá bom, vamos lá!
-\ff[introBenitex]\bNathan: Então tá bom, vamos lá!
+\ff[introBenitex]\bNathan: All right then, let's go!
 Mas já?
-Mas já?
+The battle is over already?
 \ff[introMarcos]\c[1]Mestre da Pesca: Me senti argolado depois dessa derrota.
-\ff[introMarcos]\c[1]Mestre da Pesca: Me senti argolado depois dessa derrota.
+\ff[introMarcos]\c[1]Fishing Master: I felt caught in the bait after that defeat.
 \ff[introBenitex]\bNathan: Você lutou bem.
-\ff[introBenitex]\bNathan: Você lutou bem.
+\ff[introBenitex]\bNathan: You put up a good fight.
 \ff[introMarcos]\c[1]Mestre da Pesca: Ai ai, perder na primeira rodada, onde já se viu?
-\ff[introMarcos]\c[1]Mestre da Pesca: Ai ai, perder na primeira rodada, onde já se viu?
+\ff[introMarcos]\c[1]Fishing Master: Damn, losing in the first round, that's pretty bad.
 Parabéns pela sua primeira vitória, agora vou restaurar a vida dos seus pokemon.
-Parabéns pela sua primeira vitória, agora vou restaurar a vida dos seus pokemon.
+Congratulations on your first victory, now I'm going to heal your Pokémon.
 Para continuar as batalhas, é só falar comigo ou ir para o centro do estádio.
-Para continuar as batalhas, é só falar comigo ou ir para o centro do estádio.
+To continue the battles, just talk to me or go to the center of the stadium.
 Sinto muito pela sua derrota. Vou curar seus pokémon.
-Sinto muito pela sua derrota. Vou curar seus pokémon.
+I'm sorry for your defeat. I'll heal your Pokémon.
 Mas, se você quiser, ainda pode continuar assistindo o torneio.
-Mas, se você quiser, ainda pode continuar assistindo o torneio.
+But if you want to, you can still watch the tournament.
 \ff[introBenitex]\bNathan: Tudo bem, fiquei curioso para saber o resultado.
-\ff[introBenitex]\bNathan: Tudo bem, fiquei curioso para saber o resultado.
+\ff[introBenitex]\bNathan: Alright, I'm curious to see these battles.
 Ótimo!
-Ótimo!
+Great!
 \ff[introBenitex]\bNathan: Para falar a verdade, tenho um compromisso, preciso seguir minha jornada.
-\ff[introBenitex]\bNathan: Para falar a verdade, tenho um compromisso, preciso seguir minha jornada.
+\ff[introBenitex]\bNathan: I'm kind of busy, I need to go now.
 Eu entendo. Espero te reencontrar no próximo ano!
-Eu entendo. Espero te reencontrar no próximo ano!
+I see. I hope you come back next year!
 \l[3]Agora, apresento a todos o próximo oponente do desafiante Nathan-
-\l[3]Agora, apresento a todos o próximo oponente do desafiante Nathan-
+\l[3]Now, I present to everyone the next opponent of the-
 \ff[introBenitex]\bNathan: Heeey, o que você está fazendo aqui? Vamos lá pessoal, eles estão invadindo!
-\ff[introBenitex]\bNathan: Heeey, o que você está fazendo aqui? Vamos lá pessoal, eles estão invadindo!
+\ff[introBenitex]\bNathan: Heeey, what are you doing in here? Guys, they are invading!
 \ff[introBenitex]\bNathan: Gente?
-\ff[introBenitex]\bNathan: Gente?
+\ff[introBenitex]\bNathan: Guys?
 \ff[introGiovanni]Giovanni: Minha participação no torneio é totalmente lícita. Diferentemente dessas suas acusações sem fundamento.
-\ff[introGiovanni]Giovanni: Minha participação no torneio é totalmente lícita. Diferentemente dessas suas acusações sem fundamento.
+\ff[introGiovanni]Giovanni: My participation in the tournament is completely legal. Unlike these baseless accusations of yours.
 Nós todos sabemos do histórico dele, mas não podemos proibir ele de participar.
-Nós todos sabemos do histórico dele, mas não podemos proibir ele de participar.
+We all know about his record, but we can't ban him from taking part.
 Ele realmente é seu desafiante, ele só entrou um pouco antes de me deixar terminar de falar.
-Ele realmente é seu desafiante, ele só entrou um pouco antes de me deixar terminar de falar.
+Although he interrupted me, he really is your next challenger.
 \ff[introBenitex]\bNathan: Tudo bem, vou mostrar para você de novo o gostinho da derrota.
-\ff[introBenitex]\bNathan: Tudo bem, vou mostrar para você de novo o gostinho da derrota.
+\ff[introBenitex]\bNathan: All right, so let me show you the taste of defeat again.
 \ff[introGiovanni]Giovanni: Ah, menino insolente.
-\ff[introGiovanni]Giovanni: Ah, menino insolente.
+\ff[introGiovanni]Giovanni: Oh, insolent boy.
 Como nos velhos tempos.
-Como nos velhos tempos.
+Like in the old days.
 \ff[introGiovanni]Giovanni: Ah, sempre atrapalhando meus planos. Tem coisas que nunca mudam...
-\ff[introGiovanni]Giovanni: Ah, sempre atrapalhando meus planos. Tem coisas que nunca mudam...
+\ff[introGiovanni]Giovanni: You're always getting in the way of my plans. Some things never change...
 \ff[introBenitex]\bNathan: Pode ter certeza que sempre vou estar no seu caminho, nenhuma desculpa sua vai me parar!
-\ff[introBenitex]\bNathan: Pode ter certeza que sempre vou estar no seu caminho, nenhuma desculpa sua vai me parar!
+\ff[introBenitex]\bNathan: You can be sure that I'll always be in your way, no excuses from you will stop me!
 \ff[introGiovanni]Giovanni: Já chega disso, tenho mais o que fazer.
-\ff[introGiovanni]Giovanni: Já chega disso, tenho mais o que fazer.
+\ff[introGiovanni]Giovanni: That's enough, I have more to do.
 Narrador: Mais uma vitória para Nathan! Agora vou restaurar a vida dos seus pokemon.
-Narrador: Mais uma vitória para Nathan! Agora vou restaurar a vida dos seus pokemon.
+Narrador: Another victory for Nathan! Now let me heal your Pokémon.
 \l[3]Agora, um oponente antigo aqui dos torneios de Nimbasa, será que ele vai destronar Nathan em suas duas partidas em victo?
-\l[3]Agora, um oponente antigo aqui dos torneios de Nimbasa, será que ele vai destronar Nathan em suas duas partidas em victo?
+\l[3]Now a regular at Nimbasa tournaments, will he dethrone Nathan in his two matches in victo?
 Apresento-lhes, Albert, o Ninja das Chamas!
-Apresento-lhes, Albert, o Ninja das Chamas!
+Meet Albert, the Flame Ninja!
 \ff[introBenitex]\bNathan: Cadê ele?
-\ff[introBenitex]\bNathan: Cadê ele?
+\ff[introBenitex]\bNathan: Where is he?
 \ff[introAlbert]\c[6]Albert: Aqui.
-\ff[introAlbert]\c[6]Albert: Aqui.
+\ff[introAlbert]\c[6]Albert: Here.
 \ff[introBenitex]\bNathan: Uau, isso que chamo de entrada!
-\ff[introBenitex]\bNathan: Uau, isso que chamo de entrada!
+\ff[introBenitex]\bNathan: Wow, that's what I call an entrance!
 \ff[introAlbert]\c[6]Albert: Então você vai adorar o vem a seguir!
-\ff[introAlbert]\c[6]Albert: Então você vai adorar o vem a seguir!
+\ff[introAlbert]\c[6]Albert: Then you'll love what comes next!
 \ff[introBenitex]\bNathan: Eu ainda estou esperando...
-\ff[introBenitex]\bNathan: Eu ainda estou esperando...
+\ff[introBenitex]\bNathan: I'm still waiting...
 \ff[introAlbert]\c[6]Albert: Estava falando da batalha, vamos logo!
-\ff[introAlbert]\c[6]Albert: Estava falando da batalha, vamos logo!
+\ff[introAlbert]\c[6]Albert: I'm talking about the battle, come on!
 \ff[introBenitex]\bNathan: Ah. Certo!
-\ff[introBenitex]\bNathan: Ah. Certo!
+\ff[introBenitex]\bNathan: Oh. Right!
 Não esperava encontar alguém tão forte...
-Não esperava encontar alguém tão forte...
+I didn't expect to meet someone so strong...
 \ff[introAlbert]\c[6]Albert: Você se mostrou um oponente digno. Realmente digno...
-\ff[introAlbert]\c[6]Albert: Você se mostrou um oponente digno. Realmente digno...
+\ff[introAlbert]\c[6]Albert: You've shown yourself to be a worthy opponent. Really worthy...
 \ff[introAlbert]\c[6]Torço pela sua vitória.
-\ff[introAlbert]\c[6]Torço pela sua vitória.
+\ff[introAlbert]\c[6]I'm rooting for your victory.
 \ff[introBenitex]\bNathan: Uh... m-muito obrigado!
-\ff[introBenitex]\bNathan: Uh... m-muito obrigado!
+\ff[introBenitex]\bNathan: Uh... th-thanks!
 Acho que já deu pra entender como funciona o torneio, né? Só ir para o meio de novo.
-Acho que já deu pra entender como funciona o torneio, né? Só ir para o meio de novo.
+I think you've understood how the tournament works, right? Just go to the center again.
 \l[3]E agora mais um velho da casa, vamos ver como Nathan lutará contra um dos ex-campeões! Que entre agora...
-\l[3]E agora mais um velho da casa, vamos ver como Nathan lutará contra um dos ex-campeões! Que entre agora...
+\l[3]And now, another popular challenger, let's see how Nathan fights one of the former champions!
 Robert, o favorito do povo!
-Robert, o favorito do povo!
+Robert, the crowd's favorite!
 \ff[introRobert]\c[10]Robert: Favorito do povo, é? Eu não chegaria a esse ponto...
-\ff[introRobert]\c[10]Robert: Favorito do povo, é? Eu não chegaria a esse ponto...
+\ff[introRobert]\c[10]Robert: People's favorite, eh? Don't mention it...
 Mas não é o que o pessoal diz!
-Mas não é o que o pessoal diz!
+Robert! Robert! Robert!
 \ff[introRobert]\c[10]Robert: Aff.
-\ff[introRobert]\c[10]Robert: Aff.
+\ff[introRobert]\c[10]Robert: Thanks, don't make me blush!
 \ff[introRobert]\c[10]Bom, hora da parte divertida!
-\ff[introRobert]\c[10]Bom, hora da parte divertida!
+\ff[introRobert]\c[10]Well, time for the fun part!
 \ff[introBenitex]\bNathan: Eu esperava uma entrada mais triunfante para o campeão.
-\ff[introBenitex]\bNathan: Eu esperava uma entrada mais triunfante para o campeão.
+\ff[introBenitex]\bNathan: I expected a more triumphant entrance for the champion.
 \ff[introRobert]\c[10]Robert: Pra falar a verdade, acho que esse narrador está fazendo muito drama.
-\ff[introRobert]\c[10]Robert: Pra falar a verdade, acho que esse narrador está fazendo muito drama.
+\ff[introRobert]\c[10]Robert: I don't like to make a big deal out of it.
 \ff[introRobert]\c[10]Vamos direto pra batalha Nathan, já estou pronto pra pegar meu novo título!
-\ff[introRobert]\c[10]Vamos direto pra batalha Nathan, já estou pronto pra pegar meu novo título!
+\ff[introRobert]\c[10]Let's go straight into battle Nathan, I'm ready to pick up my new title!
 \ff[introBenitex]\bNathan: É o que vamos ver!
-\ff[introBenitex]\bNathan: É o que vamos ver!
+\ff[introBenitex]\bNathan: Let's see!
 Tão forte quanto eu imaginava.
-Tão forte quanto eu imaginava.
+Just as strong as I imagined.
 \ff[introRobert]\c[10]Robert: Heh, não esperava que iria perder... Tanto treinamento a toa.
-\ff[introRobert]\c[10]Robert: Heh, não esperava que iria perder... Tanto treinamento a toa.
+\ff[introRobert]\c[10]Robert: Oh, I didn't expect I'd lose... After all that training.
 \ff[introRobert]\c[10]Você é realmente bom nisso. Vá em frente, acredito no seu potencial!
-\ff[introRobert]\c[10]Você é realmente bom nisso. Vá em frente, acredito no seu potencial!
+\ff[introRobert]\c[10]You're a great trainer. Go ahead, I believe in your potential!
 \ff[introRobert]\c[10]Robert: Boa sorte enfrentando a Anna.
-\ff[introRobert]\c[10]Robert: Boa sorte enfrentando a Anna.
+\ff[introRobert]\c[10]Robert: Good luck facing Anna.
 \ff[introBenitex]\bNathan: Pode deixar!
-\ff[introBenitex]\bNathan: Pode deixar!
-\l[3]Nathan conseguiu enfrentar todos os treinadores até agora, esperamos ver uma emocionante final contra seu útilmo rival...
-\l[3]Nathan conseguiu enfrentar todos os treinadores até agora, esperamos ver uma emocionante final contra seu útilmo rival...
+\ff[introBenitex]\bNathan: I'll give my best!
+\l[3]Nathan conseguiu enfrentar todos os treinadores até agora, esperamos ver uma emocionante final contra seu último rival...
+\l[3]Nathan has managed to take on all the trainers so far, and we're looking forward to seeing an exciting final against his last challenger...
 Anna, a mais nova participante do torneio!
-Anna, a mais nova participante do torneio!
+Anna, the tournament's newest participant!
 \ff[introBenitex]\bNathan: (É isso, preciso agir agora!)
-\ff[introBenitex]\bNathan: (É isso, preciso agir agora!)
+\ff[introBenitex]\bNathan: (That's it, I need to act now!)
 \ff[introAnna]\c[4]Anna: Vamos lá, quero acabar com isso rápido.
-\ff[introAnna]\c[4]Anna: Vamos lá, quero acabar com isso rápido.
+\ff[introAnna]\c[4]Anna: Come on, I want to end this quickly.
 \ff[introBenitex]\bNathan: Ótimo, finalmente consegui ter um momento pra falar com você.
-\ff[introBenitex]\bNathan: Ótimo, finalmente consegui ter um momento pra falar com você.
+\ff[introBenitex]\bNathan: Great, I finally got a moment to talk to you.
 \ff[introBenitex]\bNathan: Agora me diga, só preciso saber isso.
-\ff[introBenitex]\bNathan: Agora me diga, só preciso saber isso.
+\ff[introBenitex]\bNathan: Tell me, I need to know something.
 \ff[introBenitex]\bO que aconteceu com esse absol? Por que ele é diferente dos outros?
-\ff[introBenitex]\bO que aconteceu com esse absol?  Por que ele é diferente dos outros?
-\l[3]\ff[introBenitex]\bPor que você abandonou sua mãe e fugiu? Te procurei pela cidade por horas, imagine a preucupação da sua mãe!
-\l[3]\ff[introBenitex]\bPor que você abandonou sua mãe e fugiu? Te procurei pela cidade por horas, imagine a preucupação da sua mãe!
+\ff[introBenitex]\bWhat happened to this Absol? Why is it different from the others?
+\l[3]\ff[introBenitex]\bPor que você fugiu? Te procurei pela cidade por horas, imagine a preocupação da sua mãe!
+\l[3]\ff[introBenitex]\bWhy did you run away? I looked for you around town for hours, imagine how worried your mother was!
 Com licença, vejo que estão tendo uma conversa séria, mas acredito que essa não seja a melhor hora...
-Com licença, vejo que estão tendo uma conversa séria, mas acredito que essa não seja a melhor hora...
-\ff[introBenitex]\bNathan: Desculpe, mas essa menina fugiu de casa, estou tentando levar ela de volta para mãe ou pelo menos entender o que aconteceu.
-\ff[introBenitex]\bNathan: Desculpe, mas essa menina fugiu de casa, estou tentando levar ela de volta para mãe ou pelo menos entender o que aconteceu.
+Excuse me, I see you're having a serious conversation, but I ask you to continue this conversation later...
+\l[3]\ff[introBenitex]\bNathan: Desculpe, essa menina fugiu de casa. Estou tentando entender o que aconteceu para levar ela de volta.
+\l[3]\ff[introBenitex]\bNathan: I'm sorry. That girl ran away from home. I'm trying to figure out what happened so I can take her back.
 Vamos fazer assim, primeiro vocês batalham, que é o que o povo quer ver, depois vocês conversam.
-Vamos fazer assim, primeiro vocês batalham, que é o que o povo quer ver, depois vocês conversam.
+I see. But people are here to see a Pokémon fight, so first you battle, then you'll have some time to talk later.
 \ff[introBenitex]\bNathan: Ah, tudo bem, pode ser.
-\ff[introBenitex]\bNathan: Ah, tudo bem, pode ser.
+\ff[introBenitex]\bNathan: Alright, that's fair.
 \ff[introBenitex]\bNathan: Não, não posso perder a oportunidade de falar com ela de novo!
-\ff[introBenitex]\bNathan: Não, não posso perder a oportunidade de falar com ela de novo!
+\ff[introBenitex]\bNathan: No, I can't lose my chance to talk to her right now, this is important!
 Por favor, acalme-se Nathan, estou vendo que é importante, mas devemos prosseguir com o torneio!
-Por favor, acalme-se Nathan, estou vendo que é importante, mas devemos prosseguir com o torneio!
+Please calm down Nathan, I can see that it's important, but we must continue with the tournament!
 Pode ter certeza que ela não vai sair até conversar com você, todos estão aqui para ver.
-Pode ter certeza que ela não vai sair até conversar com você, todos estão aqui para ver.
+You can be sure she won't leave until she's talked to you.
 \ff[introBenitex]\bNathan: Certo...
-\ff[introBenitex]\bNathan: Certo...
+\ff[introBenitex]\bNathan: Right...
 \ff[introAnna]\c[4]Anna: Ai ai, que infantilidade...
-\ff[introAnna]\c[4]Anna: Ai ai, que infantilidade...
+\ff[introAnna]\c[4]Anna: Oh my, how childish...
 Muito bem, vamos a batalha!
-Muito bem, vamos a batalha!
+All right, let's battle!
 \ff[introBenitex]\bNathan: Não pense que vai ser fácil assim!
-\ff[introBenitex]\bNathan: Não pense que vai ser fácil assim!
+\ff[introBenitex]\bNathan: Don't think it's going to be easy!
 \l[3]\ff[introAnna]\c[4]Anna: E você não pense que estou no mesmo nível dos outros, você está diante da mais nova campeã!
-\l[3]\ff[introAnna]\c[4]Anna: E você não pense que estou no mesmo nível dos outros, você está diante da mais nova campeã!
+\l[3]\ff[introAnna]\c[4]Anna: And don't think I'm on the same level as the others, you face the newest champion!
 \ff[introBenitex]\bNathan: Quero ver!
-\ff[introBenitex]\bNathan: Quero ver!
+\ff[introBenitex]\bNathan: Let's see!
 Não acredito nisso!
-Não acredito nisso!
+I can't believe it!
 \ff[introAnna]\c[4]Anna: Argh... Não acredito!
-\ff[introAnna]\c[4]Anna: Argh... Não acredito!
+\ff[introAnna]\c[4]Anna: Argh... I can't believe it!
 \ff[introAnna]\c[4]Não deveria terminar assim!
-\ff[introAnna]\c[4]Não deveria terminar assim!
+\ff[introAnna]\c[4]It shouldn't end like this!
 \ff[introBenitex]\bNathan: Eu ganhei em uma batalha justa.
-\ff[introBenitex]\bNathan: Eu ganhei em uma batalha justa.
+\ff[introBenitex]\bNathan: I won in a fair battle.
 \ff[introBenitex]\bNathan: Agora você vai responder minhas perguntas.
-\ff[introBenitex]\bNathan: Agora você vai responder minhas perguntas.
+\ff[introBenitex]\bNathan: Now you'll answer my questions.
 \ff[introAnna]\c[4]Anna: Não restam muitas alternativas. Diga o que quer saber!
-\ff[introAnna]\c[4]Anna: Não restam muitas alternativas. Diga o que quer saber!
-\ff[introBenitex]\bNathan: (Preciso decidir o que vou perguntar com sabedoria, é minha última chance.
-\ff[introBenitex]\bNathan: (Preciso decidir o que vou perguntar com sabedoria, é minha última chance.
+\ff[introAnna]\c[4]Anna: I have no alterantives. What do you want to know?
+\ff[introBenitex]\bNathan: (Preciso decidir o que vou perguntar com sabedoria, é minha última chance.)
+\ff[introBenitex]\bNathan: (I have to decide what to ask wisely. This could be my last chance.)
 \ff[introBenitex]\bNathan: Me diga, por que você fugiu? Não acha que isso está indo longe demais?
-\ff[introBenitex]\bNathan: Me diga, por que você fugiu? Não acha que isso está indo longe demais?
+\ff[introBenitex]\bNathan: Tell me, why did you run away? Don't you think this is going too far?
 \ff[introAnna]\c[4]Anna: Antes de mais nada, você tem que saber que não vou voltar. Nunca mais.
-\ff[introAnna]\c[4]Anna: Antes de mais nada, você tem que saber que não vou voltar. Nunca mais.
+\ff[introAnna]\c[4]Anna: First of all, you have to know that I'm not coming back. Never.
 \ff[introBenitex]\bNathan: Sua mãe com certeza não vai ficar alegre ao saber disso.
-\ff[introBenitex]\bNathan: Sua mãe com certeza não vai ficar alegre ao saber disso.
+\ff[introBenitex]\bNathan: Your mother certainly won't be happy to hear that.
 \ff[introAnna]\c[4]Anna: E você acha que não sei?
-\ff[introAnna]\c[4]Anna: E você acha que não sei?
+\ff[introAnna]\c[4]Anna: And you think I don't know?
 \l[3]\ff[introAnna]\c[4]Ela não me deixa atingir meu potencial, eu não posso mais seguir o que ela manda. Preciso seguir minha vida.
-\l[3]\ff[introAnna]\c[4]Ela não me deixa atingir meu potencial, eu não posso mais seguir o que ela manda.  Preciso seguir minha vida.
+\l[3]\ff[introAnna]\c[4]She won't allow me to reach my potential. I can't keep following her lead. I need to follow my own path now.
 \l[3]\ff[introBenitex]\bNathan: Volte para ela, ela sabe que a vida de treinador não é tão simples como parece, você precisa entender isso.
-\l[3]\ff[introBenitex]\bNathan: Volte para ela, ela sabe que a vida de treinador não é tão simples como parece, você precisa entender isso.
+\l[3]\ff[introBenitex]\bNathan: Go back to her, she knows that life as a trainer isn't as simple as it seems. You need to understand that.
 \ff[introAnna]\c[4]Anna: Ela não me conhece, não sabe meus verdadeiros desejos.
-\ff[introAnna]\c[4]Anna: Ela não me conhece, não sabe meus verdadeiros desejos.
+\ff[introAnna]\c[4]Anna: She doesn't know me, she doesn't know my true desires.
 \ff[introAnna]\c[4]Eu estou preparada pra isso!
-\ff[introAnna]\c[4]Eu estou preparada pra isso!
+\ff[introAnna]\c[4]I'm ready for it!
 \ff[introAnna]\c[4]Não aguento mais ficar confinada em casa, meu lugar não é lá, preciso ser livre!
-\ff[introAnna]\c[4]Não aguento mais ficar confinada em casa, meu lugar não é lá, preciso ser livre!
+\ff[introAnna]\c[4]I can't stand being confined at home anymore, I don't belong there, I need to be free!
 \ff[introAnna]\c[4]Você consegue me entender?
-\ff[introAnna]\c[4]Você consegue me entender?
+\ff[introAnna]\c[4]Can you understand me?
 \ff[introBenitex]\bNathan: Eu entendo o que você sente, mas essa é sua decisão final?
-\ff[introBenitex]\bNathan: Eu entendo o que você sente, mas essa é sua decisão final?
+\ff[introBenitex]\bNathan: I understand how you feel, but is this your final decision?
 \ff[introBenitex]\bTem certeza que é o que quer e que vale abandonar sua mãe?
-\ff[introBenitex]\bTem certeza que é o que quer e que vale abandonar sua mãe?
+\ff[introBenitex]\bAre you sure that's what you want and that it's worth abandoning your mother?
 \l[3]\ff[introAnna]\c[4]Anna: Pra falar a verdade, agradeço por se preocupar em dizer isso para mim e se preocupar com o que eu penso.
-\l[3]\ff[introAnna]\c[4]Anna: Pra falar a verdade, agradeço por se preocupar em dizer isso para mim e se preocupar com o que eu penso.
+\ff[introAnna]\c[4]Anna: I thank you for bothering to say that to me and for caring about what I think.
 \l[3]\ff[introAnna]\c[4]Anna: Mas já tomei minha decisão. Não vou mais voltar, o mundo me chama e ela sempre vai tentar me prender, infelizmente.
-\l[3]\ff[introAnna]\c[4]Anna: Mas já tomei minha decisão. Não vou mais voltar, o mundo me chama e ela sempre vai tentar me prender, infelizmente.
+\l[3]\ff[introAnna]\c[4]Anna: But I've made up my mind. I'm not going back, the world is calling me and she'll always try to hold me back, unfortunately.
 \ff[introBenitex]\bNathan: Eu entendo, e respeito sua decisão.
-\ff[introBenitex]\bNathan: Eu entendo, e respeito sua decisão.
+\ff[introBenitex]\bNathan: I understand and respect your decision.
 \ff[introAnna]\c[4]Anna: Obrigada. Vou seguir minha jornada, adeus.
-\ff[introAnna]\c[4]Anna: Obrigada. Vou seguir minha jornada, adeus.
+\ff[introAnna]\c[4]Anna: Thank you. I'm ready to continue my journey, goodbye.
 \l[3]\ff[introBenitex]\bNathan: Certo, me diga então, como conseguiu esse absol? Todos sabem que ele não é nativo de nenhuma região conhecida.
-\l[3]\ff[introBenitex]\bNathan: Certo, me diga então, como conseguiu esse absol? Todos sabem que ele não é nativo de nenhuma região conhecida.
+\l[3]\ff[introBenitex]\bNathan: Right, tell me, how did you get that Absol? It clearly is not Unovan, and doens't seem to be any other known regional form.
 \ff[introAnna]\c[4]Anna: Acho melhor eu contar a história completa...
-\ff[introAnna]\c[4]Anna: Acho melhor eu contar a história completa...
+\ff[introAnna]\c[4]Anna: I'll tell you the full story...
 \l[3]\ff[introAnna]\c[4]Bom, eu conheci uma menina aqui de Nimbasa há alguns dias. Foi uma das poucas vezes que minha mãe deixou eu sair sozinha.
-\l[3]\ff[introAnna]\c[4]Bom, eu conheci uma menina aqui de Nimbasa há alguns dias. Foi uma das poucas vezes que minha mãe deixou eu sair sozinha.
+\l[3]\ff[introAnna]\c[4]I met a girl from Nimbasa a few days ago. It was one of the few times my mother let me go out alone.
 \l[3]\ff[introAnna]\c[4]Essa menina me mostrou muito sobre as batalhas pokemon, muito mais do que as pessoas vêem pela tv.
-\l[3]\ff[introAnna]\c[4]Essa menina me mostrou muito sobre as batalhas pokemon, muito mais do que as pessoas vêem pela tv.
+\ff[introAnna]\c[4]She showed me a lot of interesting details about Pokémon battles.
 \l[3]\ff[introAnna]\c[4]Nesse momento eu me apaixonei por isso. Ela me considerou bastante promissora, então me chamou para continuar.
-\l[3]\ff[introAnna]\c[4]Nesse momento eu me apaixonei por isso. Ela me considerou bastante promissora, então me chamou para continuar.
+\l[3]\ff[introAnna]\c[4]At that moment I fell in love with it. She thought I was very promising, so she asked me to meet her again.
 \l[3]\ff[introAnna]\c[4]Mas eu contei a verdade, minha mãe jamais permitiria eu ter uma vida como essa. Desde então, comecei a sair de casa escondida.
-\l[3]\ff[introAnna]\c[4]Mas eu contei a verdade, minha mãe jamais permitiria eu ter uma vida como essa.  Desde então, comecei a sair de casa escondida.
+\l[3]\ff[introAnna]\c[4]I told her the truth, my mother would never allow me to meet her frequently. Since then, I've been sneaking out of my house.
 \l[3]\ff[introAnna]\c[4]Juntas, nós treinamos nossos pokemon para o máximo potencial, ela disse que aprendia muito mais rápido que o maioria.
-\l[3]\ff[introAnna]\c[4]Juntas, nós treinamos nossos pokemon para o máximo potencial, ela disse que aprendia muito mais rápido que o maioria.
+\l[3]\ff[introAnna]\c[4]Together, we started to train our Pokémon to their full potential. She said I learned much faster than most.
 \ff[introAnna]\c[4]E então... ela me apresentou a um homem.
-\ff[introAnna]\c[4]E então... ela me apresentou a um homem.
+\ff[introAnna]\c[4]And then... she introduced me to a man.
 \l[3]\ff[introAnna]\c[4]Esse homem me mostrou esse pokemon, disse que tinha muito mais potencial que a maioria por aí, seria perfeito para mim.
-\l[3]\ff[introAnna]\c[4]Esse homem me mostrou esse pokemon, disse que tinha muito mais potencial que a maioria por aí, seria perfeito para mim.
+\l[3]\ff[introAnna]\c[4]That man showed me this Pokémon, and said it fits my battle style. He let me train it.
 \ff[introAnna]\c[4]Em troca, eu só precisaria começar a ajudar ele, seguir pequenas missões. Foi assim.
-\ff[introAnna]\c[4]Em troca, eu só precisaria começar a ajudar ele, seguir pequenas missões. Foi assim.
+\ff[introAnna]\c[4]In return, all I had to do was start helping him, following some simple missions. That's how it went.
 \ff[introBenitex]\bNathan: Que tipos de missões?
-\ff[introBenitex]\bNathan: Que tipos de missões?
+\ff[introBenitex]\bNathan: What kind of missions?
 \ff[introAnna]\c[4]Anna: Hum, não sei se deveria te contar isso...
-\ff[introAnna]\c[4]Anna: Hum, não sei se deveria te contar isso...
+\ff[introAnna]\c[4]Anna: I don't know if I should tell you that...
 Bom, acho que já se passou conversa o suficiente, não é mesmo? Vocês podem conversar mais depois! Adeus Anna!
-Bom, acho que já se passou conversa o suficiente, não é mesmo? Vocês podem conversar mais depois!  Adeus Anna!
+I think that's enought talk, right? You can continue later. Goodbye Anna!
 \ff[introBenitex]\bNathan: Espera, mais eu ainda tinha mais coisas pra entender...
-\ff[introBenitex]\bNathan: Espera, mais eu ainda tinha mais coisas pra entender...
+\ff[introBenitex]\bNathan: Wait, there was still more to understand...
 \ff[introAnna]\c[4]Anna: O qu- O QUE É ISSO???
-\ff[introAnna]\c[4]Anna: O qu- O QUE É ISSO???
+\ff[introAnna]\c[4]Anna: Wha- WHAT IS THIS???
 \ff[introAnna]\c[4]COMO ASSIM VOCÊ GANHOU?
-\ff[introAnna]\c[4]COMO ASSIM VOCÊ GANHOU?
+\ff[introAnna]\c[4]WHAT DO YOU MEAN YOU WON?
 \ff[introBenitex]\bAgora me responda, o que aconteceu com esse Absol?
-\ff[introBenitex]\bAgora me responda, o que aconteceu com esse Absol?
+\ff[introBenitex]\bNow, answer me, what happened to this Absol?
 \ff[introAnna]\c[4]Anna: ARGH. Não tenho tempo pra isso, nada disso deveria acontecer...
-\ff[introAnna]\c[4]Anna: ARGH. Não tenho tempo pra isso, nada disso deveria acontecer...
+\ff[introAnna]\c[4]Anna: ARGH. I don't have time for this, this is not supposed to happen...
 \ff[introAnna]\c[4]Preciso sair, rápido!
-\ff[introAnna]\c[4]Preciso sair, rápido!
+\ff[introAnna]\c[4]I need to leave, quickly!
 \l[3]\ff[introBenitex]\bNathan: (Essa menina... realmente tinha algo errado com ela... Perdi minha chance de entender o que está acontecendo...)
-\l[3]\ff[introBenitex]\bNathan: (Essa menina...  realmente tinha algo errado com ela... Perdi minha chance de entender o que está acontecendo...)
+\l[3]\ff[introBenitex]\bNathan: (This girl... There's something very wrong here... I've lost my chance to understand what's going on...)
 Ééé... Isso foi um pouco... estranho.
-Ééé... Isso foi um pouco... estranho.
+... That was a little... weird.
 Bom, mas não devemos parar a festa! É isso aí, Nathan é o vencedor do Torneio Anual de Nimbasa!
-Bom, mas não devemos parar a festa! É isso aí, Nathan é o vencedor do Torneio Anual de Nimbasa!
+But we musn't stop the commemorations! That's it, Nathan is the winner of the annual Nimbasa Tournament!
 \ff[introAnna]\c[4]Anna: Aahh, como planejado.
-\ff[introAnna]\c[4]Anna: Aahh, como planejado.
+\ff[introAnna]\c[4]Anna: As intended.
 \l[3]\ff[introAnna]\c[4]Devo confessar que houve um momento que pensei que poderia perder, que inocência!
-\l[3]\ff[introAnna]\c[4]Devo confessar que houve um momento que pensei que poderia perder, que inocência!
+\l[3]\ff[introAnna]\c[4]And you thought I'd lose, how innocent of you.
 \ff[introBenitex]\bNathan: (Como se não bastasse ser derrotado, tenho que ouvir isso...)
-\ff[introBenitex]\bNathan: (Como se não bastasse ser derrotado, tenho que ouvir isso...)
+\ff[introBenitex]\bNathan: (As if being defeated wasn't enough, I have to listen to this...)
 Depois de uma sequência de quatro vitórias, Nathan acaba sendo derrotado por Anna!
-Depois de uma sequência de quatro vitórias, Nathan acaba sendo derrotado por Anna!
+After a four-game winning streak, Nathan ends up being defeated by Anna!
 O quê? Anna? Onde você está indo?
-O quê? Anna? Onde você está indo?
-Que reviravolta, meus companheiros! Pois bem, vamos a premiação da nova campeã.
-Que reviravolta, meus companheiros! Pois bem, vamos a premiação da nova campeã.
+What? Anna? Where are you going?
 Que reviravolta meu amigos! Depois de derrotar Nathan, Anna simplesmente vai embora!
-Que reviravolta meu amigos! Depois de derrotar Nathan, Anna simplesmente vai embora!
+What a twist my friends! After defeating Nathan, Anna simply leaves!
 O que você acha que deveríamos fazer?
-O que você acha que deveríamos fazer?
+What should we do?
 \ff[introBenitex]\bNathan: Ah, se ela foi embora, é porque não quer o prêmio!
-\ff[introBenitex]\bNathan: Ah, se ela foi embora, é porque não quer o prêmio!
+\ff[introBenitex]\bNathan: If she's gone, she doesn't want the prize!
 Humm, faz sentido.
-Humm, faz sentido.
+Humm, that makes sense.
 \ff[introBenitex]\bNathan: Não tem como enviar o prêmio pelo correio ou algo assim?
-\ff[introBenitex]\bNathan: Não tem como enviar o prêmio pelo correio ou algo assim?
+\ff[introBenitex]\bNathan: Can't you send the prize by post or something?
 Humm, essa parece uma ótima ideia!
-Humm, essa parece uma ótima ideia!
+Humm, that seems like a great idea!
 Mas não é assim que funciona o torneio, a cerimônia de premiação é agora!
-Mas não é assim que funciona o torneio, a cerimônia de premiação é agora!
+But that's not how the tournament works, the awards ceremony is now!
 \ff[introBenitex]\bNathan: Então talvez o prêmio poderia ir para o segundo lugar?
-\ff[introBenitex]\bNathan: Então talvez o prêmio poderia ir para o segundo lugar?
+\ff[introBenitex]\bNathan: So maybe the prize could go to second place?
 Vamos fazer isso mesmo, perfeito!
-Vamos fazer isso mesmo, perfeito!
-\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abidicar do prêmio, estaremos premiando o segundo lugar, Nathan!
-\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abidicar do prêmio, estaremos premiando o segundo lugar, Nathan!
+Yes, that's perfect!
+\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abdicar do prêmio, estaremos premiando o segundo lugar, Nathan!
+\l[3]Well, ladies and gentlemen, after Anna wins the tournament and gives up the prize, we'll be awarding second place to Nathan!
 \ff[introBenitex]\bNathan: (Ela é muito forte...)
-\ff[introBenitex]\bNathan: (Ela é muito forte...)
+\ff[introBenitex]\bNathan: (She is really strong...)
 \ff[introAnna]\c[4]Anna: A batalha terminou exatamente como imaginava.
-\ff[introAnna]\c[4]Anna: A batalha terminou exatamente como imaginava.
+\ff[introAnna]\c[4]Anna: The battle ended exactly as I imagined.
 \ff[introAnna]\c[4]E você não teve nenhuma chance de descobrir suas respostas. É uma pena.
-\ff[introAnna]\c[4]E você não teve nenhuma chance de descobrir suas respostas. É uma pena.
+\ff[introAnna]\c[4]And you had no chance to know the answers you seek. What a shame.
 \ff[introBenitex]\bNathan: Você não pode pelo menos me dizer o que é esse Absol, ou por que abandonou sua mãe?
-\ff[introBenitex]\bNathan: Você não pode pelo menos me dizer o que é esse Absol, ou por que abandonou sua mãe?
+\ff[introBenitex]\bNathan: Can't you at least tell me why you abandoned your mother?
 \ff[introAnna]\c[4]Anna: Você não está no direito de saber nada disso.
-\ff[introAnna]\c[4]Anna: Você não está no direito de saber nada disso.
+\ff[introAnna]\c[4]Anna: You have no right to know any of this.
 \ff[introAnna]\c[4]Mas pode dizer a minha mãe que ela estava sendo como uma jaula que prendia meu potencial.
-\ff[introAnna]\c[4]Mas pode dizer a minha mãe que ela estava sendo como uma jaula que prendia meu potencial.
+\ff[introAnna]\c[4]But you can tell my mother that she was like a cage that trapped my potential.
 \ff[introAnna]\c[4]Esse absol foi o que me livrou dessa jaula!
-\ff[introAnna]\c[4]Esse absol foi o que me livrou dessa jaula!
-\ff[introAnna]\c[4] Agora adeus, vou seguir minha vida sem mais grades na minha frente.
-\ff[introAnna]\c[4] Agora adeus, vou seguir minha vida sem mais grades na minha frente.
+\ff[introAnna]\c[4]And this Absol freed me from this cage!
+\ff[introAnna]\c[4]Agora adeus, vou seguir minha vida sem mais grades na minha frente.
+\ff[introAnna]\c[4]Farewell now, I'm going to get on with my life without any more bars in front of me.
 \ff[introBenitex]\bNathan: (Acho que o que me resta realmente é só dizer essas coisas pra mãe dela.)
-\ff[introBenitex]\bNathan: (Acho que o que me resta realmente é só dizer essas coisas pra mãe dela.)
+\ff[introBenitex]\bNathan: (I think all I have left to do is say that to her mother.)
 \ff[introBenitex]\bNathan: (Não era exatamente esse o fim que eu imaginava...)
-\ff[introBenitex]\bNathan: (Não era exatamente esse o fim que eu imaginava...)
+\ff[introBenitex]\bNathan: (That will be rough...)
 Espera! Anna?
-Espera! Anna?
+Wait! Anna?
 É isso mesmo senhoras e senhores, Nathan sairá com o prêmio desta vez, vamos começar a festa!
-É isso mesmo senhoras e senhores, Nathan sairá com o prêmio desta vez, vamos começar a festa!
+That's right ladies and gentlemen, Nathan wins the prize this time! Let's get the party started!
 \l[3]Meus parabéns Nathan, sua recompensa é essa pokebola especial, capaz de capturar qualquer pokemon com absoluta certeza!
-\l[3]Meus parabéns Nathan, sua recompensa é essa pokebola especial, capaz de capturar qualquer pokemon com absoluta certeza!
+\l[3]Congratulations Nathan, your reward is this special Poké Ball, capable of catching any Pokémon with absolute certainty!
 \ff[introBenitex]\bNathan: Mais uma master ball! Legal.
-\ff[introBenitex]\bNathan: Mais uma master ball! Legal.
+\ff[introBenitex]\bNathan: Another Master Ball! Cool.
 Mas não é só isso!
-Mas não é só isso!
+But that's not all!
 Você também vai ganhar uma bicicleta de mais nova geração, para agilizar sua jornada!
-Você também vai ganhar uma bicicleta de mais nova geração, para agilizar sua jornada!
+You'll also receive a new generation bike to speed up your journey!
 \ff[introBenitex]\bNathan: Opa, muito obrigado!
-\ff[introBenitex]\bNathan: Opa, muito obrigado!
+\ff[introBenitex]\bNathan: Thank you very much!
 Agora, pode aproveitar o resto da sua noite de festa!
-Agora, pode aproveitar o resto da sua noite de festa!
+Now you can enjoy the party!
 \l[3]Depois de um tempo se divertindo com a professora Juniper e Elesa, cada um deles se separou e seguiu seu rumo.
-\l[3]Depois de um tempo se divertindo com a professora Juniper e Elesa, cada um deles se separou e seguiu seu rumo.
+\l[3]After a while having fun with Professor Juniper and Elesa, they each split up and went their separate ways.
 Juniper voltou para seu laboratório em Castelia. \nElesa voltou para seu ginásio.
-Juniper voltou para seu laboratório em Castelia. \nElesa voltou para seu ginásio.
+Juniper returned to her laboratory in Castelia. \nElesa came back to her gym.
 \l[3]Nathan recebeu um convite de visita de ambas, mas voltou para o Centro Pokemon, onde descansou até o dia seguinte.
-\l[3]Nathan recebeu um convite de visita de ambas, mas voltou para o Centro Pokemon, onde descansou até o dia seguinte.
+\l[3]Before leaving, both of them inveted him to pay them a visit. He them went to the Pokémon Center and rested until the next day.
 \ff[introBenitex]\bNathan: Beleza, vou procurar um lugar para me sentar.
-\ff[introBenitex]\bNathan: Beleza, vou procurar um lugar para me sentar.
+\ff[introBenitex]\bNathan: All right, I'll find somewhere to sit.
 \ff[introBenitex]\bNathan: Não pensei que encontraria vocês aqui!
-\ff[introBenitex]\bNathan: Não pensei que encontraria vocês aqui!
+\ff[introBenitex]\bNathan: I didn't think I'd find you here!
 \ff[introJuniper]Juniper: Não podiamos perder a chance de assistir o torneio, é um baita evento!
-\ff[introJuniper]Juniper: Não podiamos perder a chance de assistir o torneio, é um baita evento!
+\ff[introJuniper]Juniper: We couldn't miss the chance to watch the tournament, it's a great event!
 \ff[introBenitex]\bNathan: Legal, é muito bom ver vocês de novo.
-\ff[introBenitex]\bNathan: Legal, é muito bom ver vocês de novo.
+\ff[introBenitex]\bNathan: Cool, it's great to see you again.
 \ff[introJuniper]Juniper: Depois aproveite pra passar um tempo com a gente, que tal?
-\ff[introJuniper]Juniper: Depois aproveite pra passar um tempo com a gente, que tal?
+\ff[introJuniper]Juniper: How about spending some time with us after the tournament?
 \ff[introElesa]\rElesa: Isso!
-\ff[introElesa]\rElesa: Isso!
+\ff[introElesa]\rElesa: Yes, that's a great idea!
 \ff[introBenitex]\bNathan: Pode ser.
-\ff[introBenitex]\bNathan: Pode ser.
+\ff[introBenitex]\bNathan: I like it too.
 \ff[introJuniper]Juniper: Olha! A próxima batalha vai começar!
-\ff[introJuniper]Juniper: Olha! A próxima batalha vai começar!
+\ff[introJuniper]Juniper: Look! The next battle is about to start!
 \l[3]Apresento-lhes, como o primeiro desafiante do torneio um pescador lendário, dono do título de honra, Marcos, o Mestre da Pesca!
-\l[3]Apresento-lhes, como o primeiro desafiante do torneio um pescador lendário, dono do título de honra, Marcos, o Mestre da Pesca!
+\l[3]I present to you, as the first challenger of the tournament, a legendary fisherman, Marcos, the Master of Fishing!
 E agora, que entre o primeiro oponente do Mestre da Pesca...
-E agora, que entre o primeiro oponente do Mestre da Pesca...
+And now, let the Fishing Master's first opponent enter...
 \l[3]Agora, apresento a todos o próximo oponente do desafiante Marcos-
-\l[3]Agora, apresento a todos o próximo oponente do desafiante Marcos-
+\l[3]Now, I present to everyone the next opponent of Marcos-
 \ff[introBenitex]\bNathan: Ah.
-\ff[introBenitex]\bNathan: Ah.
+\ff[introBenitex]\bNathan: Oh.
 \ff[introElesa]\rElesa: Além do mais, ele é o dono do Teatro Musical, é um pouco estranho ele participar, mas não é ilegal ou nada do tipo.
-\ff[introElesa]\rElesa: Além do mais, ele é o dono do Teatro Musical, é um pouco estranho ele participar, mas não é ilegal ou nada do tipo.
+\ff[introElesa]\rElesa: Besides, he's the owner of the Theater. It's a bit strange that he's taking part, but it's not illegal or anything.
 Bom, que o torneio continue!
-Bom, que o torneio continue!
+Well, let's continue the tournament!
 Giovanni é o grande vencedor!
-Giovanni é o grande vencedor!
+Giovanni is the winner!
 \ff[introBenitex]\bNathan: (Droga, talvez o resultado fosse diferente se eu estivesse lá.)
-\ff[introBenitex]\bNathan: (Droga, talvez o resultado fosse diferente se eu estivesse lá.)
+\ff[introBenitex]\bNathan: (Damn, maybe the result would have been different if I'd been there.)
 Vamos para a próxima batalha!
-Vamos para a próxima batalha!
+On to the next battle!
 \l[3]Agora, um oponente antigo aqui dos torneios de Nimbasa. Apresento-lhes, Albert, o Ninja das Chamas!
-\l[3]Agora, um oponente antigo aqui dos torneios de Nimbasa. Apresento-lhes, Albert, o Ninja das Chamas!
+\l[3]Now, a popular opponent from the previous tournaments. Albert, the Flame Ninja!
 \ff[introElesa]\rElesa: Incrível!
-\ff[introElesa]\rElesa: Incrível!
+\ff[introElesa]\rElesa: That's amazing!
 \ff[introJuniper]Juniper: Essas apresentações estão ficando cada vez mais interessantes.
-\ff[introJuniper]Juniper: Essas apresentações estão ficando cada vez mais interessantes.
+\ff[introJuniper]Juniper: These presentations are getting more and more interesting.
 \ff[introGiovanni]Giovanni: Se prepare para encrenca!
-\ff[introGiovanni]Giovanni: Se prepare para encrenca!
+\ff[introGiovanni]Giovanni: Prepare for trouble!
 Albert é o vencedor dessa rodada!
-Albert é o vencedor dessa rodada!
+Albert is the winner this round!
 E isso quer dizer que a próxima batalha vai ser ardente...
-E isso quer dizer que a próxima batalha vai ser ardente...
+And that means the next battle is going to be fiery...
 \l[3]E agora mais um velho da casa, vamos ver como Albert lutará contra um dos ex-campeões! Que entre agora...
-\l[3]E agora mais um velho da casa, vamos ver como Albert lutará contra um dos ex-campeões! Que entre agora...
+\l[3]And now, another popular challenger, let's see how Albert fights one of the former champions!
 \ff[introAlbert]\c[6]Albert: Me preparei o ano todo para esse momento.
-\ff[introAlbert]\c[6]Albert: Me preparei o ano todo para esse momento.
+\ff[introAlbert]\c[6]Albert: I've been preparing for this moment all year.
 \ff[introRobert]\c[10]Sabe, já estava com saudades de te enfrentar, Albert.
-\ff[introRobert]\c[10]Sabe, já estava com saudades de te enfrentar, Albert.
+\ff[introRobert]\c[10]You know, I've missed facing you, Albert.
 \ff[introRobert]\c[10]Sei que não vai me decepcinar.\nHora da parte divertida!
-\ff[introRobert]\c[10]Sei que não vai me decepcinar.\nHora da parte divertida!
-\ff[introBenitex]\bNathan: (Vai lá Robert, confio no seu potêncial!)
-\ff[introBenitex]\bNathan: (Vai lá Robert, confio no seu potêncial!)
+\ff[introRobert]\c[10]I know you won't let me down. Time for the fun part!
+\ff[introBenitex]\bNathan: (Vai lá Robert, confio no seu potencial!)
+\ff[introBenitex]\bNathan: (Let's go Robert, I believe in your potential!)
 A batalha trás grandes espectativas, depois de tantos anos com batalhas emocionantes!
-A batalha trás grandes espectativas, depois de tantos anos com batalhas emocionantes!
+Let's see if the battle from this year is as exciting as the last ones!
 Que a batalha... COMECE!!!
-Que a batalha... COMECE!!!
+Let the battle... BEGIN!!!
 Robert sai vitorioso!\n Que batalha emocionante, meus companheiros!
-Robert sai vitorioso!\n Que batalha emocionante, meus companheiros!
+Robert is victorious!\n What an exciting battle, my friends!
 \ff[introBenitex]\bNathan: Boa!!!
-\ff[introBenitex]\bNathan: Boa!!!
+\ff[introBenitex]\bNathan: Nice!!!
 E agora... O último desafiante do torneio.
-E agora... O último desafiante do torneio.
+And now... The last challenger of the tournament.
 Esperamos ver uma emocionante final contra o oponente do favorito!
-Esperamos ver uma emocionante final contra o oponente do favorito!
+We hope to see an exciting final against that opponent!
 \ff[introBenitex]\bNathan: É a Anna! Droga, essa seria a minha oportunidade pra falar com ela...
-\ff[introBenitex]\bNathan: É a Anna! Droga, essa seria a minha oportunidade pra falar com ela...
+\ff[introBenitex]\bNathan: It's Anna! Damn, this would be my chance to talk to her...
 \ff[introRobert]\c[10]Robert: Assim como eu.
-\ff[introRobert]\c[10]Robert: Assim como eu.
+\ff[introRobert]\c[10]Robert: So do I.
 \ff[introRobert]\c[10]Que o melhor vença!
-\ff[introRobert]\c[10]Que o melhor vença!
+\ff[introRobert]\c[10]May the best win!
 \ff[introRobert]\c[10]Robert: O-o que?
-\ff[introRobert]\c[10]Robert: O-o que?
+\ff[introRobert]\c[10]Robert: W-what?
 \ff[introRobert]\c[10]Robert: Isso não é justo, esse pokémon dela...
-\ff[introRobert]\c[10]Robert: Isso não é justo, esse pokémon dela...
+\ff[introRobert]\c[10]Robert: That's not fair, look at that Pokémon of hers...
 \ff[introAnna]\c[4]Anna: Meu absol não faz parte de nenhuma restrição do torneio, é legítimo.
-\ff[introAnna]\c[4]Anna: Meu absol não faz parte de nenhuma restrição do torneio, é legítimo.
+\ff[introAnna]\c[4]Anna: My Absol is not restricted in the tournament rules, it's legitimate.
 \ff[introRobert]\c[10]Robert: Mas... Mas...
-\ff[introRobert]\c[10]Robert: Mas... Mas...
+\ff[introRobert]\c[10]Robert: But... But...
 Por favor, aceite sua derrota Robert.
-Por favor, aceite sua derrota Robert.
+Please accept your defeat Robert.
 \ff[introRobert]\c[10]Robert: Eu...
-\ff[introRobert]\c[10]Robert: Eu...
+\ff[introRobert]\c[10]Robert: I...
 Anna é a nova campeã do Torneio Anual de Nimbasa!!!
-Anna é a nova campeã do Torneio Anual de Nimbasa!!!
+Anna is the new champion of the Annual Nimbasa Tournament!!!
 Vamos, agora, à cerimônia de premiação.
-Vamos, agora, à cerimônia de premiação.
+Now, let's move on to the awards ceremony.
 \ff[introAnna]\c[4]Anna: Não.
-\ff[introAnna]\c[4]Anna: Não.
+\ff[introAnna]\c[4]Anna: No.
 Não?
-Não?
+No?
 \ff[introAnna]\c[4]Anna: Não quero o prêmio.
-\ff[introAnna]\c[4]Anna: Não quero o prêmio.
+\ff[introAnna]\c[4]Anna: I don't want the prize.
 Você não quer?
-Você não quer?
+You don't want the prize?
 Não. Eu renuncio o prêmio. Preciso sair.
-Não. Eu renuncio o prêmio. Preciso sair.
+No. I renounce the award. I have to leave.
 Ah, o final do torneio fica muito anti-climático sem um prêmio...
-Ah, o final do torneio fica muito anti-climático sem um prêmio...
+Oh, the end of a tournament is very anticlimactic without a prize celebration...
 \ff[introBenitex]\bNathan: Eu tenho uma ideia!
-\ff[introBenitex]\bNathan: Eu tenho uma ideia!
+\ff[introBenitex]\bNathan: I have an idea!
 \ff[introBenitex]\bNathan: Se ela abdicou do prêmio, a melhor coisa que podemos fazer é premiar o segundo lugar!
-\ff[introBenitex]\bNathan: Se ela abdicou do prêmio, a melhor coisa que podemos fazer é premiar o segundo lugar!
-\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abidicar do prêmio, estaremos premiando o segundo lugar, Robert!
-\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abidicar do prêmio, estaremos premiando o segundo lugar, Robert!
+\ff[introBenitex]\bNathan: If she gave up the prize, the best thing we can do is give it to second place!
+\l[3]Bom, senhoras e senhores, depois de Anna vencer o torneio e abdicar do prêmio, estaremos premiando o segundo lugar, Robert!
+\l[3]Well, ladies and gentlemen, after Anna wins the tournament and gives up the prize, we'll be awarding second place to Robert!
 É isso mesmo senhoras e senhores, Robert sairá com o prêmio mais uma vez, vamos começar a festa!
-É isso mesmo senhoras e senhores, Robert sairá com o prêmio mais uma vez, vamos começar a festa!
+That's right ladies and gentlemen, Robert will walk away with the prize once again. Let's get the party started!
 \l[3]Meus parabéns Robert, sua recompensa é essa pokebola especial, capaz de capturar qualquer pokemon com absoluta certeza!
-\l[3]Meus parabéns Robert, sua recompensa é essa pokebola especial, capaz de capturar qualquer pokemon com absoluta certeza!
+\l[3]Congratulations Robert, your reward is this special Poké Ball, capable of catching any pokemon with absolute certainty!
 Seja bem vindo, Nathan, pode fazer sua entrada e depois esperar o primeiro desafiante.
-Seja bem vindo, Nathan, pode fazer sua entrada e depois esperar o primeiro desafiante.
+Welcome, Nathan, you can make your entrance and then wait for the first challenger.
 \l[3]O primeiro desafiante já chegou, quando estiver pronto você pode vir falar comigo ou ir para o centro do estádio.
-\l[3]O primeiro desafiante já chegou, quando estiver pronto você pode vir falar comigo ou ir para o centro do estádio.
+\l[3]The first challenger is already here, you come and talk to me or go to the center of the stadium when you're ready for the next battle.
 Eu vou restaurar a vida dos seus pokemon no fim de cada batalha.
-Eu vou restaurar a vida dos seus pokemon no fim de cada batalha.
+I'll heal your Pokémon after each battle.
 \ff[introBenitex]\bNathan: Ok, muito obrigado!
-\ff[introBenitex]\bNathan: Ok, muito obrigado!
+\ff[introBenitex]\bNathan: Ok, thank you!
 Pronto para o próximo desafiante?
-Pronto para o próximo desafiante?
+Are you ready for the next challenger?
 \ff[introBenitex]\bNathan: Estou pronto, já pode chamar.
-\ff[introBenitex]\bNathan: Estou pronto, já pode chamar.
+\ff[introBenitex]\bNathan: I'm ready!
 Perfeito!
-Perfeito!
+Perfect!
 \ff[introBenitex]\bNathan: Só um momento, por favor.
-\ff[introBenitex]\bNathan: Só um momento, por favor.
+\ff[introBenitex]\bNathan: Just a moment, please.
 Pode levar o tempo que precisar.
-Pode levar o tempo que precisar.
+You can take as long as you need.
 É melhor.
-É melhor.
+I'm leaving.
 Já to aqui mesmo.
-Já to aqui mesmo.
+I'm already here, so might as well.
 Tudo bem.
-Tudo bem.
+Alright.
 Tenho um compromisso.
-Tenho um compromisso.
+I have to go.
 O que é esse absol?
-O que é esse absol?
+What is this Absol?
 Por que você fugiu?
-Por que você fugiu?
+Why did you run away?
 Pode ser.
-Pode ser.
+Alright.
 Não!
-Não!
+No!
 Por que fugiu?
-Por que fugiu?
+Why did you run away?
 Como conseguiu o absol?
-Como conseguiu o absol?
+How did you get that Absol?
 Volte para ela...
-Volte para ela...
+Go back to her...
 Essa é sua decisão final?
-Essa é sua decisão final?
+Is this your final decision?
 Ela não quer o prêmio!
-Ela não quer o prêmio!
+She doesn't want the prize!
 Envie o prêmio pelo correio
-Envie o prêmio pelo correio
+Send the prize by post!
 Premie o segundo lugar!
-Premie o segundo lugar!
+Reward the second place!
 Envie o prêmio pelo correio!
-Envie o prêmio pelo correio!
+Send the prize by post!
 Pode mandar.
-Pode mandar.
+Bring them on!
 Só um instante.
-Só um instante.
+Just a second.
 [Map19]
 Vamos ver se vai ser assim daqui a pouco.
 The real battle starts soon.
