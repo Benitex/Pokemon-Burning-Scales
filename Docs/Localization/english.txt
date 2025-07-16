@@ -5590,162 +5590,162 @@ Melhor eu sair...
 Não restam alternativas.
 Não restam alternativas.
 (Lutar!)
-(Lutar!)
+(Fight!)
 (Cair fora)
-(Cair fora)
+(Leave)
 [Map26]
 \ff[introBenitex]\bNathan: Um cafézinho, já parece frio.
-\ff[introBenitex]\bNathan: Um cafézinho, já parece frio.
+\ff[introBenitex]\bNathan: A cup of coffee, it looks cold though.
 É, eu fiz para o café da manhã mas acabei esquecendo de beber.
-É, eu fiz para o café da manhã mas acabei esquecendo de beber.
+Yeah, I completely forgot to drink it.
 \ff[introBenitex]\bNathan: Hum, livros de ciência, talvez arqueologia?
-\ff[introBenitex]\bNathan: Hum, livros de ciência, talvez arqueologia?
+\ff[introBenitex]\bNathan: Some science books, archeology maybe?
 Na mosca! Esses livros são de um amigo meu, ele fica lá embaixo, mas os livros dele estão aqui.
-Na mosca! Esses livros são de um amigo meu, ele fica lá embaixo, mas os livros dele estão aqui.
+Exactly! Those books are from a friend of mine, he's lives downstairs, but he keeps his books here.
 \ff[introBenitex]\bNathan: Você é um pesquisador, certo? Será que você pode me falar quais são os Pokémon mais comuns nessa rota?
-\ff[introBenitex]\bNathan: Você é um pesquisador, certo?  Será que você pode me falar quais são os Pokémon mais comuns nessa rota?
+\ff[introBenitex]\bNathan: You're a researcher, right? Can you tell me about the Pokémon in this route?
 \l[3]Claro que sim, os Pokémon mais comuns nessa rota são sandile, darumaka, rufflet, e vullaby. Mas, além deles também aparecem 2 tipos de Pokémon diferentes dependendo da hora do dia.
-\l[3]Claro que sim, os Pokémon mais comuns nessa rota são sandile, darumaka, rufflet, e vullaby. Mas, além deles também aparecem 2 tipos de Pokémon diferentes dependendo da hora do dia.
+\l[3]Yes, of course. The most common Pokémon here are Sandile, Darumaka, Rufflet, and Vullaby. They're all the time, but depending on the time of day, some different ones show up.
 \l[3]De dia aparecem roggenrola e drilbur enquanto a noite aparecem mais timburr e growlithe. Isso acontece porque a noite os growlithes e timburrs saem para caçar e isso causa medo nos roggenrolas e drilburs.
-\l[3]De dia aparecem roggenrola e drilbur enquanto a noite aparecem mais timburr e growlithe. Isso acontece porque a noite os growlithes e timburrs saem para caçar e isso causa medo nos roggenrolas e drilburs.
+\l[3]During the day, Roggenrola and Drilbur walk around, and during the night, Timburr and Growlithe hunt around. Roggenrolas and Drilburs are afraid of them, that's the reason they hide during the night.
 Além diso, de dia você pode encontrar mais darumakas e de noite mais sandiles, mas eles podem ser encontrados a qualquer hora do dia.
-Além diso, de dia você pode encontrar mais darumakas e de noite mais sandiles, mas eles podem ser encontrados a qualquer hora do dia.
-\ff[introBenitex]\bNathan: Outra coisa, eu estou com um fóssil aqui, será que você conhece alguém que pode me ajudar?
-\ff[introBenitex]\bNathan: Outra coisa, eu estou com um fóssil aqui, será que você conhece alguém que pode me ajudar?
+Also, you can find more Darumakas during the day and more Sandiles during the night.
+\ff[introBenitex]\bNathan: Eu estou com um fóssil aqui, será que você conhece alguém que pode me ajudar?
+\ff[introBenitex]\bNathan: I have a fossil here, do you happen to know anyone who can help me?
 Ah, você veio para o lugar certo! Você pode usar o elevador para descer e conversar com um amigo meu que pode te ajudar, não se deixe intimidar por ele, ele é meio estranho mesmo.
-Ah, você veio para o lugar certo! Você pode usar o elevador para descer e conversar com um amigo meu que pode te ajudar, não se deixe intimidar por ele, ele é meio estranho mesmo.
+Oh, you've come to the right place! You can use that elevator. Go to the underground floor and talk to my friend. Don't be intimidated by him, he's a bit weird.
 \ff[introBenitex]\bNathan: Ah, tudo bem, obrigado!
-\ff[introBenitex]\bNathan: Ah, tudo bem, obrigado!
+\ff[introBenitex]\bNathan: Alright, thanks!
 \ff[introBenitex]\bNathan: Onde eu estou mesmo?
-\ff[introBenitex]\bNathan: Onde eu estou mesmo?
+\ff[introBenitex]\bNathan: Where am I...
 Ei, você não pode entrar aí!
-Ei, você não pode entrar aí!
+Hey, you can't go in there!
 \ff[introBenitex]\bNathan: Ah, tudo bem, me desculpe.
-\ff[introBenitex]\bNathan: Ah, tudo bem, me desculpe.
+\ff[introBenitex]\bNathan: Oh, okay, sorry.
 [Map27]
 Você deseja reviver um fóssil?
-Você deseja reviver um fóssil?
+Would you like to revive a fossil?
 Qual fóssil deseja reviver?
-Qual fóssil deseja reviver?
+Which fossil would you like to revive?
 Volte sempre!
-Volte sempre!
+Come again!
 Iniciando processo de transformação das células...
-Iniciando processo de transformação das células...
+Starting cell transformation prcess...
 Progresso do processo: 1%...
-Progresso do processo: 1%...
+Process progress: 1%...
 Progresso no processo: 100%. Processo concluído.
-Progresso no processo: 100%. Processo concluído.
+Process progress: 100%. Process complete.
 Um \v[3] foi revivido.
-Um \v[3] foi revivido.
+A \v[3] is back to life.
 \ff[introBenitex]\bNathan: Droga, esqueci de guardar um Pokémon, preciso liberar um espaço na equipe!
-\ff[introBenitex]\bNathan: Droga, esqueci de guardar um Pokémon, preciso liberar um espaço na equipe!
+\ff[introBenitex]\bNathan: Oh no, I forgot to deposit one of my Pokémon in a box, I need to free up some space in the team!
 O fóssil foi analizado com sucesso.
-O fóssil foi analizado com sucesso.
+Fossil was successfully analyzed.
 Porém, não foi possível reviver nenhum Pokémon.
-Porém, não foi possível reviver nenhum Pokémon.
+However, it was not possible to revive a Pokémon.
 Progresso do processo: 25%...
-Progresso do processo: 25%...
+Process progress: 25%...
 Bom, se o Carlos deixou você descer, você deve ter um motivo importante. Quem é você?
-Bom, se o Carlos deixou você descer, você deve ter um motivo importante. Quem é você?
+Well, if James let you come down here, you must have an important reason. Who are you?
 \ff[introBenitex]\bNathan: Eu sou Nathan, venho aqui com uma missão importante, reviver um fóssil.
-\ff[introBenitex]\bNathan: Eu sou Nathan, venho aqui com uma missão importante, reviver um fóssil.
+\ff[introBenitex]\bNathan: I'm Nathan, I have an important mission. I need to revive a fossil.
 Claro, e em troca, você vai permitir que eu colete informações sobre seu fóssil, certo?
-Claro, e em troca, você vai permitir que eu colete informações sobre seu fóssil, certo?
+Of course. In exchange, you'll allow me to collect information about your fossil, right?
 \ff[introBenitex]\bNathan: Acho que sim.
-\ff[introBenitex]\bNathan: Acho que sim.
+\ff[introBenitex]\bNathan: I guess.
 Ótimo, uma última coisa, preciso de uma prova que você vale a pena e que não está simplesmente desperdiçando meu tempo.
-Ótimo, uma última coisa, preciso de uma prova que você vale a pena e que não está simplesmente desperdiçando meu tempo.
+Great, one last thing. I need to know if you're worthy of my time.
 Vamos batalhar.
-Vamos batalhar.
+Let's battle.
 \ff[introBenitex]\bNathan: Tudo bem, vamos lá.
-\ff[introBenitex]\bNathan: Tudo bem, vamos lá.
+\ff[introBenitex]\bNathan: A battle? Alright, no problem by me.
 \l[3]Tudo bem, como você me derrotou, já pode usar a máquina. Em troca, só vou coletar dados sobre o seu fóssil. Vai ser de graça, você pode voltar daqui a cerca de 12 horas que tudo já deve estar pronto.
-\l[3]Tudo bem, como você me derrotou, já pode usar a máquina. Em troca, só vou coletar dados sobre o seu fóssil.  Vai ser de graça, você pode voltar daqui a cerca de 12 horas que tudo já deve estar pronto.
+\l[3]Yeah, that was a clean victory. You're allowed to use the machine. It's free, you can come back in around 12 hours and it should be ready.
 \ff[introBenitex]\bNathan: Para falar a verdade, eu não quero esse fóssil tanto assim...
-\ff[introBenitex]\bNathan: Para falar a verdade, eu não quero esse fóssil tanto assim...
+\ff[introBenitex]\bNathan: That's too much, I just want to revive my fossil, why do I need to battle?
 Ah, fala sério, está mesmo com medo de me enfrentar?
-Ah, fala sério, está mesmo com medo de me enfrentar?
+Come on, are you afraid to face me?
 \ff[introBenitex]\bNathan: Ah, chega de papo furado, só vamos logo.
-\ff[introBenitex]\bNathan: Ah, chega de papo furado, só vamos logo.
+\ff[introBenitex]\bNathan: Whatever, let's just get it over with.
 \ff[introBenitex]\bNathan: Ah, não fui muito com a sua cara, prefiro não reviver meu fóssil do que reviver com você.
-\ff[introBenitex]\bNathan: Ah, não fui muito com a sua cara, prefiro não reviver meu fóssil do que reviver com você.
+\ff[introBenitex]\bNathan: Yeah, I prefer not to revive this fossil if my only option is you.
 Aaah, o esquentadinho voltou! Mudou de ideia é?
-Aaah, o esquentadinho voltou! Mudou de ideia é?
+Hey, the warm-up boy is back! Did you change your mind?
 \ff[introBenitex]\bNathan: Sim, vamos logo batalhar e acabar com isso.
-\ff[introBenitex]\bNathan: Sim, vamos logo batalhar e acabar com isso.
+\ff[introBenitex]\bNathan: Yes, let's just battle already.
 Então vamos lá!
-Então vamos lá!
+That's what I'm talking about!
 \ff[introBenitex]\bNathan: Sem chance.
-\ff[introBenitex]\bNathan: Sem chance.
+\ff[introBenitex]\bNathan: No chance.
 Seu fóssil já está pronto, você já pode resgatar seu Pokémon pelo computador!
-Seu fóssil já está pronto, você já pode resgatar seu Pokémon pelo computador!
+Your fossil is ready, you can get the resulting Pokémon in that PC over there!
 \ff[introBenitex]\bNathan: Muito obrigado por me deixar usar sua máquina!
-\ff[introBenitex]\bNathan: Muito obrigado por me deixar usar sua máquina!
+\ff[introBenitex]\bNathan: Thank you for letting me use your machine.
 Infelizmente o fóssil ainda não está pronto, volte aqui daqui a algumas horas, quando estiver de dia, até lá a máquina já deve ter terminado.
-Infelizmente o fóssil ainda não está pronto, volte aqui daqui a algumas horas, quando estiver de dia, até lá a máquina já deve ter terminado.
+Unfortunately, the fossil is not ready yet. Come back in a few hours, when it's daylight should be enough.
 \ff[introBenitex]\bNathan: Tudo bem, te vejo depois, passar bem.
-\ff[introBenitex]\bNathan: Tudo bem, te vejo depois, passar bem.
+\ff[introBenitex]\bNathan: Alright, see you later.
 Infelizmente o fóssil ainda não está pronto, volte aqui daqui a algumas horas, quando estiver de noite, até lá a máquina já deve ter terminado.
-Infelizmente o fóssil ainda não está pronto, volte aqui daqui a algumas horas, quando estiver de noite, até lá a máquina já deve ter terminado.
+Unfortunately, the fossil isn't ready yet. Come back in a few hours, when it's dark it should be enough.
 Oi, tudo bem? Trouxe algum fóssil novo? Pode colocar na máquina!
-Oi, tudo bem? Trouxe algum fóssil novo? Pode colocar na máquina!
+Hi, did you bring any new fossil? Put it in the machine!
 \ff[introBenitex]\bNathan: Tudo bem.
-\ff[introBenitex]\bNathan: Tudo bem.
+\ff[introBenitex]\bNathan: Right.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 Tudo bem.
-Tudo bem.
+Alright.
 Para falar a verdade...
-Para falar a verdade...
+Actually, nevermind.
 Vamos logo.
-Vamos logo.
+Let's get it over with.
 Estou saindo.
-Estou saindo.
+I'm leaving.
 [Map31]
 \rQUEM ENTRA??? Quem entraria? QUEM IRIA QUERER VER BEETHOVEN?
-\rQUEM ENTRA??? Quem entraria? QUEM IRIA QUERER VER BEETHOVEN?
+\rWHO'S IN?? Who would get in? WHO WOULD WANT TO SEE BEETHOVEN?
 \ff[introBenitex]\bNathan: Eu... Eu sou Nathan!
-\ff[introBenitex]\bNathan: Eu... Eu sou Nathan!
+\ff[introBenitex]\bNathan: I... I'm Nathan!
 \rVol.. Vol... Vol...
 \rVol.. Vol... Vol...
 \ff[introBenitex]\bNathan: Vai para onde? O que você está falando?
-\ff[introBenitex]\bNathan: Vai para onde? O que você está falando?
+\ff[introBenitex]\bNathan: Voltage? Volcano? Voltion!
 \rVOLCARONA. VOLCARONA. VOLCARONAAAAAAAAA!
 \rVOLCARONA. VOLCARONA. VOLCARONAAAAAAAAA!
 \ff[introBenitex]\bNathan: Calma senhor, calma!
-\ff[introBenitex]\bNathan: Calma senhor, calma!
+\ff[introBenitex]\bNathan: Calm down, sir, calm down!
 \ff[introBenitex]\bNathan: Agora que você se acalmou, tente me explicar o que aconteceu.
-\ff[introBenitex]\bNathan: Agora que você se acalmou, tente me explicar o que aconteceu.
-\rUm volcarona!...\n Muito diferente...\n Forte...\n Na expedição...
-\rUm volcarona!...\n Muito diferente...\n Forte...\n Na expedição...
+\ff[introBenitex]\bNathan: 
+\rUm volcarona!...\n Forte...\n Casa...
+\rA volcarona!...\n Strong...\n Home...
 \rTORTURA!\n SOFRIMENTO!\n O SEGREDO!\n O PANDEMÔNIO CORRE PERIGO!
-\rTORTURA!\n SOFRIMENTO!\n O SEGREDO!\n O PANDEMÔNIO CORRE PERIGO!
+\rTORTURE!\n SUFFERNING!\n THE SECRET!\n PANDEMONIUM IS IN DANGER!
 \ff[introBenitex]\bNathan: Lá vai ele de novo...
-\ff[introBenitex]\bNathan: Lá vai ele de novo...
+\ff[introBenitex]\bNathan: Here we go again...
 \rMeus Pokémon, preciso pegar meus Pokémon!
-\rMeus Pokémon, preciso pegar meus Pokémon!
+\rMy Pokémon, I need to get my Pokémon!
 LUTAR, LUTAR!
-LUTAR, LUTAR!
+BATTLE, BATTLE!
 \rAAAAAAAAAAAA!
 \rAAAAAAAAAAAA!
 \ff[introBenitex]\bNathan: Ele saiu. Que cara louco.
-\ff[introBenitex]\bNathan: Ele saiu. Que cara louco. 
+\ff[introBenitex]\bNathan: He left. He was completely insane.
 \ff[introBenitex]\bAcho que talvez eu devesse dar uma olhada pela sala, pra entender melhor quem é ele.
-\ff[introBenitex]\bAcho que talvez eu devesse dar uma olhada pela sala, pra entender melhor quem é ele.
+\ff[introBenitex]\bI should look around the room. Maybe I can get some information about him here.
 \ff[introBenitex]\bNathan: A planta foi derrubada. Não dá para saber se foi um Pokémon ou ele mesmo, mas com certeza foi antes da batalha.
-\ff[introBenitex]\bNathan: A planta foi derrubada. Não dá para saber se foi um Pokémon ou ele mesmo, mas com certeza foi antes da batalha.
+\ff[introBenitex]\bNathan: The plant was knocked over. I can't tell if it was a Pokémon or himself, but it was certainly before the battle.
 \ff[introBenitex]\bNathan: O que é isso?
-\ff[introBenitex]\bNathan: O que é isso?
+\ff[introBenitex]\bNathan: What is this?
 \ff[introBenitex]\bNathan: Essa planta parece normal, nada demais por aqui.
-\ff[introBenitex]\bNathan: Essa planta parece normal, nada demais por aqui.
+\ff[introBenitex]\bNathan: It looks like a normal plant. Nothing special.
 \ff[introBenitex]\bNathan: Cerveja. Talvez ele só estivesse muito bêbado. Talvez tenha algo a mais nessa cerveja também. Melhor nem chegar perto.
-\ff[introBenitex]\bNathan: Cerveja. Talvez ele só estivesse muito bêbado. Talvez tenha algo a mais nessa cerveja também. Melhor nem chegar perto.
+\ff[introBenitex]\bNathan: Beer. Maybe he was really drunk. Maybe there's something else in that beer too. Better not even go near it.
 \ff[introBenitex]\bNathan: As pokébolas estavam aqui, agora não tem mais nada.
-\ff[introBenitex]\bNathan: As pokébolas estavam aqui, agora não tem mais nada.
+\ff[introBenitex]\bNathan: His Poké Balls where here, but there's nothing else left.
 \ff[introBenitex]\bNathan: Esse parece o computador que controla essa máquina enorme. Não sei o que posso fazer nele, melhor não mexer.
-\ff[introBenitex]\bNathan: Esse parece o computador que controla essa máquina enorme. Não sei o que posso fazer nele, melhor não mexer.
+\ff[introBenitex]\bNathan: This computer must control this machine. But I don't know how it works, better not touch it.
 [Map32]
 \ff[introBenitex]\bNathan: (Livros sobre a anatomia dos pokemon.)
 \ff[introBenitex]\bNathan: (Livros sobre a anatomia dos pokemon.)
