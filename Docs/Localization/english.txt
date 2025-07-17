@@ -5454,145 +5454,145 @@ Melhor não.
 Melhor não.
 [Map25]
 Não mexe no meu bicho!
-Não mexe no meu bicho!
+Don't touch my thing!
 \ff[introBenitex]\bNathan: Esse scraggy parece bem mal tratado. Cheio de cicatrizes e arranhões.
-\ff[introBenitex]\bNathan: Esse scraggy parece bem mal tratado. Cheio de cicatrizes e arranhões.
+\ff[introBenitex]\bNathan: This Scraggy looks very badly treated. It's full of scars and scratches.
 Ei, quem sabe o quão bem está meu scraggy sou eu e ninguém mais. Eu digo que ele está ótimo!
-Ei, quem sabe o quão bem está meu scraggy sou eu e ninguém mais. Eu digo que ele está ótimo!
+Hey, I'm the one who says wheter my Scraggy is fine or not, understand? And I say it's great!
 \ff[introBenitex]\bNathan: Um estoque de pokebolas. Provavelmente dos motoqueiros. Melhor eu pegar do que deixar com eles.
-\ff[introBenitex]\bNathan: Um estoque de pokebolas.  Provavelmente dos motoqueiros. Melhor eu pegar do que deixar com eles.
+\ff[introBenitex]\bNathan: A Poké Ball stock. They're probably used by the bikers... Better I take it than leave it with them!
 Ei, o que tá fazendo aqui?
-Ei, o que tá fazendo aqui?
+Hey, what are you doing here?
 \ff[introBenitex]\bNathan: Eu só quero dar uma passada no Desert Resort, se você puder me dar lincença...
-\ff[introBenitex]\bNathan: Eu só quero dar uma passada no Desert Resort, se você puder me dar lincença...
+\ff[introBenitex]\bNathan: I just want to stop by the Desert Resort, if you'll excuse me...
 Isso não é brincadeira, volta pro seu canto!
-Isso não é brincadeira, volta pro seu canto!
+I'm not joking, back off!
 \ff[introBenitex]\bNathan: Parece que você não vai me deixar passar.
-\ff[introBenitex]\bNathan: Parece que você não vai me deixar passar.
+\ff[introBenitex]\bNathan: He really won't let me pass.
 De jeito nenhum!
-De jeito nenhum!
+I won't!
 \ff[introBenitex]\bNathan: Eu estou aqui para derrotar vocês, então prepare-se!
-\ff[introBenitex]\bNathan: Eu estou aqui para derrotar vocês, então prepare-se!
+\ff[introBenitex]\bNathan: I'm here to defeat you, so get ready!
 Menino insolente!
-Menino insolente!
+Insolent boy!
 \ff[introBenitex]\bNathan: Não teve chance nenhuma.
-\ff[introBenitex]\bNathan: Não teve chance nenhuma.
+\ff[introBenitex]\bNathan: You had no chance.
 Só segue seu caminho, me deixe em paz!
-Só segue seu caminho, me deixe em paz!
+Just get on with it, leave me alone!
 \ff[introBenitex]\bNathan: Seu scraggy não está bem. Você deveria cuidar melhor dele.
-\ff[introBenitex]\bNathan: Seu scraggy não está bem.  Você deveria cuidar melhor dele.
+\ff[introBenitex]\bNathan: Your Scraggy is not fine. You should take better care of it.
 Não pense que pode sair falando o que devo ou não fazer!
-Não pense que pode sair falando o que devo ou não fazer!
+Don't you dare tell me what I should or shouldn't do!
 \ff[introBenitex]\bNathan: Isso é para seu próprio bem, seu pokemon não vai poder lutar muito bem nesse estado.
-\ff[introBenitex]\bNathan: Isso é para seu próprio bem, seu pokemon não vai poder lutar muito bem nesse estado.
+\ff[introBenitex]\bNathan: Your Pokémon won't be able to fight very well in this state.
 Ah, agora tá insinuando que não sei lutar? Vamos lá então. Vou te mostrar.
-Ah, agora tá insinuando que não sei lutar? Vamos lá então. Vou te mostrar.
+Now you're implying I don't know how to fight? Come on, then. I'll show you.
 Quer saber? Esse bicho é fraco mesmo, nunca gostei dele.
-Quer saber? Esse bicho é fraco mesmo, nunca gostei dele.
+You know what? This thing is really weak, I never liked it.
 Scraggy, vaza. Não quero mais saber de você, vai seguir sua vida miserável, pelo menos enquanto você durar.
-Scraggy, vaza. Não quero mais saber de você, vai seguir sua vida miserável, pelo menos enquanto você durar.
+Scraggy, get out. I don't care about you anymore, go on with your miserable life, at least for as long as you last.
 HAHAHAHA!
 HAHAHAHA!
 \ff[introBenitex]\bNathan: Meu Arceus, que cara sádico.
-\ff[introBenitex]\bNathan: Meu Arceus, que cara sádico.
+\ff[introBenitex]\bNathan: Arceus, what a sadic guy.
 \ff[introBenitex]\bNathan: E você scraggy? O que faço com você?
-\ff[introBenitex]\bNathan: E você scraggy? O que faço com você?
+\ff[introBenitex]\bNathan: And you Scraggy? What should I do about you?
 \l[3]\ff[introBenitex]\bNathan: Que tal... Que tal você vir comigo? O que acha? Nós vamos viajar pelo mundo juntos.
-\l[3]\ff[introBenitex]\bNathan: Que tal... Que tal você vir comigo? O que acha? Nós vamos viajar pelo mundo juntos.
+\l[3]\ff[introBenitex]\bNathan: How about... How about you come with me? What do you say? We can travel the world together.
 \ff[introBenitex]\bNathan: Humm, acho que isso foi um sim.
-\ff[introBenitex]\bNathan: Humm, acho que isso foi um sim.
+\ff[introBenitex]\bNathan: I guess that was a yes!
 \rOlha, minha paciência está acabando. Peço que saia imediatamente.
-\rOlha, minha paciência está acabando. Peço que saia imediatamente.
+\rLook, my patience is running out. Leave immediately.
 \ff[introBenitex]\bNathan: Ah, desculpe, não vai acontecer de novo.
-\ff[introBenitex]\bNathan: Ah, desculpe, não vai acontecer de novo.
+\ff[introBenitex]\bNathan: Sorry, that won't happen again.
 É o que espero!
-É o que espero!
+I hope so!
 \ff[introBenitex]\bNathan: Não, preciso saber exatamente o que está acontecendo aí.
-\ff[introBenitex]\bNathan: Não, preciso saber exatamente o que está acontecendo aí.
+\ff[introBenitex]\bNathan: No. I need to know what's happening over there.
 Aff, não restam opções então.
-Aff, não restam opções então.
+I have no other options then.
 \rCom licença, meu jovem, acredito que talvez não tenha conhecimento da situação do caminho para o Desert Resort.
-\rCom licença, meu jovem, acredito que talvez não tenha conhecimento da situação do caminho para o Desert Resort.
+\rExcuse me, young man, I believe you may not be aware of the situation at the Desert Resort.
 \ff[introBenitex]\bNathan: O que aconteceu?
-\ff[introBenitex]\bNathan: O que aconteceu?
+\ff[introBenitex]\bNathan: What happened?
 \rO Desert Resort...
-\rO Desert Resort...
+\rThe Desert Resort...
 \rO Desert Resort tem novos donos agora. E eles não permitem a entrada assim. Você precisa da permissão para entrar.
-\rO Desert Resort tem novos donos agora. E eles não permitem a entrada assim. Você precisa da permissão para entrar.
+\rThe Desert Resort has new owners now. And they don't allow entry like that. You need permission to enter.
 \ff[introBenitex]\bNathan: Como isso foi acontecer? Os treinadores ainda querem passar por aqui.
-\ff[introBenitex]\bNathan: Como isso foi acontecer? Os treinadores ainda querem passar por aqui.
+\ff[introBenitex]\bNathan: Oh, seriously? How can trainers get through?
 \rBom, para passar, precisam da permissão. Sem permissão, sem passagem.
-\rBom, para passar, precisam da permissão. Sem permissão, sem passagem.
+\rIf they need to get through, they get permission. Without permission, no passage.
 \ff[introBenitex]\bNathan: E como eu posso conseguir essa tal permissão?
-\ff[introBenitex]\bNathan: E como eu posso conseguir essa tal permissão?
+\ff[introBenitex]\bNathan: And how can I get that permission?
 \rAh muleque, você NÃO CONSEGUE a permissão.
-\rAh muleque, você NÃO CONSEGUE a permissão. 
+\rOh boy, you DON'T get permission.
 \r\l[3]Ela não existe e ninguém mais vai entrar no Desert Resort, é simples assim. Agora, é melhor você dar meia volta e me deixar em paz.
-\r\l[3]Ela não existe e ninguém mais vai entrar no Desert Resort, é simples assim. Agora, é melhor você dar meia volta e me deixar em paz.
+\r\l[3]It does not exist, and no one will ever enter the Desert Resort again. It's as simple as that. Now, you'd better turn around and leave.
 \ff[introBenitex]\bNathan: A-ah, tudo bem então, vou saindo...
-\ff[introBenitex]\bNathan: A-ah, tudo bem então, vou saindo...
+\ff[introBenitex]\bNathan: O-Oh, alright, I'm leaving...
 \rSaia, não volte mais. Melhor ficar em Castelia ou Nimbasa. É o melhor tanto pra mim quanto pra você.
-\rSaia, não volte mais. Melhor ficar em Castelia ou Nimbasa. É o melhor tanto pra mim quanto pra você.
+\rLeave, and don't come back. Stay in Castelia or Nimbasa. It's best for both you and me.
 \ff[introBenitex]\bNathan: Não queria ter que resolver assim, mas você me deixa sem opções.
-\ff[introBenitex]\bNathan: Não queria ter que resolver assim, mas você me deixa sem opções.
+\ff[introBenitex]\bNathan: I didn't want to have to sort it out like this, but you leave me with no options.
 \rE eu já estava cansado de ser bonzinho. Vamos acabar com isso de uma vez.
-\rE eu já estava cansado de ser bonzinho. Vamos acabar com isso de uma vez.
+\rAnd I'm tired of being nice. Let's end this already.
 \ff[introBenitex]\bNathan: Bom, então vou ter que sair mesmo, não tenho o que fazer.
-\ff[introBenitex]\bNathan: Bom, então vou ter que sair mesmo, não tenho o que fazer.
+\ff[introBenitex]\bNathan: Well, then I'm leaving. There's not much I can do.
 \rExatamente, pode sair e ficar em Castelia ou Nimbasa. Ficar por lá vai ser melhor para você.
-\rExatamente, pode sair e ficar em Castelia ou Nimbasa.  Ficar por lá vai ser melhor para você.
+\rYes, leave and go to Castelia or Nimbasa. Staying there will be better for you.
 Argh. Muito mais forte do que eu imaginava...
-Argh. Muito mais forte do que eu imaginava...
+Argh. He's much stronger than I imagined...
 \ff[introBenitex]\bNathan: Humpf, fugiu.
-\ff[introBenitex]\bNathan: Humpf, fugiu.
+\ff[introBenitex]\bNathan: He ran away.
 \w[signskin]Norte: Desert Resort.\n Leste: Nimbasa.
-\w[signskin]Norte: Desert Resort.\n Leste: Nimbasa.
+\w[signskin]Norht: Desert Resort.\n East: Nimbasa.
 \l[3]Ei, você pode até ter passado pelos outros fracotes ali atrás, mas não pense que a batalha contra mim vai ser nesse nível!
-\l[3]Ei, você pode até ter passado pelos outros fracotes ali atrás, mas não pense que a batalha contra mim vai ser nesse nível!
+\l[3]You may have defeated those loosers back there, but the battle against me won't be that easy!
 \l[3]\ff[introBenitex]\bNathan: Relaxa, a gente não precisa chegar a esse ponto, só me deixe passar e não temos mais que falar disso.
-\l[3]\ff[introBenitex]\bNathan: Relaxa, a gente não precisa chegar a esse ponto, só me deixe passar e não temos mais que falar disso.
+\l[3]\ff[introBenitex]\bNathan: Calm down, we don't have to fight, just let me pass and nobody needs to know.
 E dispensar uma bela batalha? Nem pensar, cai fora ou vamos a luta!
-E dispensar uma bela batalha? Nem pensar, cai fora ou vamos a luta!
+And dismiss a good battle? No way. Get out or let's fight!
 \ff[introBenitex]\bNathan: Bom, eu tentei evitar a briga...
-\ff[introBenitex]\bNathan: Bom, eu tentei evitar a briga...
+\ff[introBenitex]\bNathan: Well, at least I tried...
 Como um covarde!
-Como um covarde!
+Like a coward!
 \ff[introBenitex]\bNathan: Vamos logo com isso.
-\ff[introBenitex]\bNathan: Vamos logo com isso.
+\ff[introBenitex]\bNathan: Come on!
 Droga, não esperava ser realmente derrotado...
-Droga, não esperava ser realmente derrotado...
+Damn, I didn't expect to be defeated...
 \ff[introBenitex]\bNathan: Um pouco menos de arrogância te faria bem.
-\ff[introBenitex]\bNathan: Um pouco menos de arrogância te faria bem.
+\ff[introBenitex]\bNathan: A little less arrogance would do you good.
 Humph.
 Humph.
 \ff[introBenitex]\bNathan: Ah, só quero passar cara. Eu volto depois.
-\ff[introBenitex]\bNathan: Ah, só quero passar cara.  Eu volto depois.
+\ff[introBenitex]\bNathan: Come on, I just want to get to the Desert Resort. I'll come back later.
 Rá.
-Rá.
+Ha!
 Fracote!
-Fracote!
+Weak!
 Só de passagem...
-Só de passagem...
+I'm just passing through...
 Vou derrotar todos vocês!
-Vou derrotar todos vocês!
+I'm going to defeat all of you!
 Tu-tudo bem.
-Tu-tudo bem.
+Alright.
 Não.
-Não.
+No.
 Como consigo a permissão?
-Como consigo a permissão?
+How can I get permission?
 Então vou sair mesmo.
-Então vou sair mesmo.
+I'm leaving then.
 Você não me dá alternativas.
-Você não me dá alternativas.
+You give me no choice.
 Melhor eu sair...
-Melhor eu sair...
+I'd better leave...
 Não restam alternativas.
-Não restam alternativas.
+You give me no choice.
 (Lutar!)
 (Fight!)
 (Cair fora)
-(Leave)
+(Leave.)
 [Map26]
 \ff[introBenitex]\bNathan: Um cafézinho, já parece frio.
 \ff[introBenitex]\bNathan: A cup of coffee, it looks cold though.
@@ -13082,8 +13082,8 @@ Ah, se você quiser, pode usar esse notebook para acessar suas boxes do Centro P
 \ff[introBenitex]\bNathan: Ótimo!
 Essa parceria veio muito a calhar.
 Essa parceria veio muito a calhar.
-\ff[introBenitex]\bNathan: Com lincença...
-\ff[introBenitex]\bNathan: Com lincença...
+\ff[introBenitex]\bNathan: Com licença...
+\ff[introBenitex]\bNathan: Excuse me...
 Ah, desculpe, não vi que você tinha entrado.
 Ah, desculpe, não vi que você tinha entrado.
 Veio conhecer meus serviços de evolução?
