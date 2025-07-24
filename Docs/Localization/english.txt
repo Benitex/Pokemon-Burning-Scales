@@ -6073,75 +6073,69 @@ Não acredito, de novo?
 É, só podiam ser eles.
 [Map33]
 Ei cara, eu vi o que você fez com meu chapa ali. Que tal a gente evitar isso?
-Ei cara, eu vi o que você fez com meu chapa ali. Que tal a gente evitar isso?
+Hey man, I saw what you did to my buddy over there. How about we avoid that?
 Eu abro as jaulas e liberto os pokemon, você deixa eu passar sem precisar te enfrentar, que tal? Eu acho um ótimo acordo.
-Eu abro as jaulas e liberto os pokemon, você deixa eu passar sem precisar te enfrentar, que tal? Eu acho um ótimo acordo.
+\l[3]I will open those bars and release those Pokémon, and you let me pass without a fight. How about it? I think it's a great deal.
 \ff[introBenitex]\bNathan: Argh, vocês me tiram dos nervos. Vai logo, abre e cai fora!
-\ff[introBenitex]\bNathan: Argh, vocês me tiram dos nervos.  Vai logo, abre e cai fora!
+\ff[introBenitex]\bNathan: You guys are getting on my nerves. Open those cages and get out!
 Certo, você não vai se arrepender dessa decisão!
-Certo, você não vai se arrepender dessa decisão!
+You won't regret this decision!
 Só chegue um pouquinho pra trás, para eu poder passar.
-Só chegue um pouquinho pra trás, para eu poder passar.
+Just move back a little so I can pass.
 Essa já foi...
-Essa já foi...
+One done...
 Pronto, estão todas abertas, posso ir?
-Pronto, estão todas abertas, posso ir?
+Okay, they're all open, can I go?
 \ff[introBenitex]\bNathan: Vai logo.
-\ff[introBenitex]\bNathan: Vai logo.
+\ff[introBenitex]\bNathan: Move!
 \ff[introBenitex]\bNathan: Bom, parece que esses eram alguns dos pokemon que as pessoas de Castelia perderam.
-\ff[introBenitex]\bNathan: Bom, parece que esses eram alguns dos pokemon que as pessoas de Castelia perderam.
+\ff[introBenitex]\bNathan: Those must be the lost Pokémon of the people of Castelia. 
 \ff[introBenitex]\bDeveria conferir se todos voltaram sãos e salvos depois.
-\ff[introBenitex]\bDeveria conferir se todos voltaram sãos e salvos depois.
+\ff[introBenitex]\bI should check if they returned safely later.
 \ff[introBenitex]\bNathan: Nem pensar. Você não vai sair daqui.
-\ff[introBenitex]\bNathan: Nem pensar. Você não vai sair daqui.
+\ff[introBenitex]\bNathan: No way. You're not leaving.
 Droga...
-Droga...
+Dammit...
 \ff[introBenitex]\bNathan: Você já foi derrotado, vamos libere os pokemon!
-\ff[introBenitex]\bNathan: Você já foi derrotado, vamos libere os pokemon!
+\ff[introBenitex]\bNathan: You've already been defeated, release the Pokémon!
 Argh, droga.
-Argh, droga.
+Oh, Arceus.
 \ff[introBenitex]\bNathan: Vamos, rápido com isso!
-\ff[introBenitex]\bNathan: Vamos, rápido com isso!
+\ff[introBenitex]\bNathan: Come on, quickly!
 \ff[introBenitex]\bNathan: Claro que não. Você vai ficar aqui, até a Jasmine chegar.
-\ff[introBenitex]\bNathan: Claro que não. Você vai ficar aqui, até a Jasmine chegar.
-\ff[introBenitex]\bNathan: (Bom,
-\ff[introBenitex]\bNathan: (Bom,
-parece que esses eram alguns dos pokemon que as pessoas de Castelia perderam.) \ff[introBenitex]\b(Deveria conferir se todos voltaram sãos e
-parece que esses eram alguns dos pokemon que as pessoas de Castelia perderam.) \ff[introBenitex]\b(Deveria conferir se todos voltaram sãos e 
-salvos depois.)
-salvos depois.)
+\ff[introBenitex]\bNathan: No, of course you can't. You're going to stay here until Jasmine arrives.
 Quem é Jasmine? O que vão fazer comigo?
-Quem é Jasmine? O que vão fazer comigo?
+Who is Jasmine? What's she going to do to me?
 Você vai ver.
-Você vai ver.
+You'll see.
 Motoqueiro 1: Ei cara.
-Motoqueiro 1: Ei cara.
+Biker 1: Hey.
 Motoqueiro 2: O que foi agora?
-Motoqueiro 2: O que foi agora?
+Biker 2: What do you want now?
 Motoqueiro 1: A gente tem mesmo que continuar aqui? Não aguento mais esperar, achava que a gente já tinha cumprido nossa missão!
-Motoqueiro 1: A gente tem mesmo que continuar aqui? Não aguento mais esperar, achava que a gente já tinha cumprido nossa missão!
+\l[3]Biker 1: Do we really have to stay here? I can't wait any longer, I thought we had already completed our mission!
 Motoqueiro 2: Relaxa aí cara. Eles mandaram a gente ficar aqui, então a gente fica aqui, entendeu?
-Motoqueiro 2: Relaxa aí cara. Eles mandaram a gente ficar aqui, então a gente fica aqui, entendeu?
+Biker 2: Relax, man. They told us to stay here, so we're staying here, alright?
 \l[3]Motoqueiro 1: Eu só acho que estamos perdendo nosso tempo. Além do mais, pra que a gente continua pegando os pokemon do pessoal de Castelia, se eles estão pegando novinhos pelo portal?
-\l[3]Motoqueiro 1: Eu só acho que estamos perdendo nosso tempo. Além do mais, pra que a gente continua pegando os pokemon do pessoal de Castelia, se eles estão pegando novinhos pelo portal?
+\l[3]Biker 1: I just think we're wasting our time. Besides, why do we keep stealing Pokémon from the people of Castelia if they're getting new ones through the portal?
 Motoqueiro 2: Se eu fosse você, parava com essas perguntas inúteis e só pegava o dinheiro, você n-
-Motoqueiro 2: Se eu fosse você, parava com essas perguntas inúteis e só pegava o dinheiro, você n-
+Biker 2: If I were you, I would stop asking useless questions and just take the money, you don-
 Motoqueiro 2: Espera aí! Olha, bem ali!
-Motoqueiro 2: Espera aí! Olha, bem ali!
+Biker 2: Wait a second! Look!
 Motoqueiro 1: Quem é você? O que pensa que está fazendo aqui?
-Motoqueiro 1: Quem é você? O que pensa que está fazendo aqui?
+Biker 1: Who are you? What are you doing here?
 \ff[introBenitex]\bNathan: Vou derrotar todos vocês e liberar todos esses pokemon!
-\ff[introBenitex]\bNathan: Vou derrotar todos vocês e liberar todos esses pokemon!
+\ff[introBenitex]\bNathan: I will defeat you and free all these Pokémon!
 Motoqueiro 1: Argh, tinha que aparecer um cara metido a herói. Você vai ver!
-Motoqueiro 1: Argh, tinha que aparecer um cara metido a herói. Você vai ver!
+Biker 1: Argh, there had to be a guy acting like a hero. You'll see!
 \ff[introBenitex]\bNathan: Ótimo, menos um. Agora você!
-\ff[introBenitex]\bNathan: Ótimo, menos um. Agora você!
+\ff[introBenitex]\bNathan: Great, one down. Now you!
 \ff[introBenitex]\bNathan: É uma revista pornográfica.
-\ff[introBenitex]\bNathan: É uma revista pornográfica.
+\ff[introBenitex]\bNathan: It's a pornographic magazine.
 Vá rápido com isso.
-Vá rápido com isso.
+Do it. And be fast.
 Nada disso.
-Nada disso.
+No deal.
 [Map34]
 \ff[introBenitex]\bNathan: (Preciso derrotar o chefe dos motoqueiros.)
 \ff[introBenitex]\bNathan: (Preciso derrotar o chefe dos motoqueiros.)
