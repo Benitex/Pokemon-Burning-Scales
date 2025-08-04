@@ -5546,7 +5546,7 @@ Argh. He's much stronger than I imagined...
 \ff[introBenitex]\bNathan: Humpf, fugiu.
 \ff[introBenitex]\bNathan: He ran away.
 \w[signskin]Norte: Desert Resort.\n Leste: Nimbasa.
-\w[signskin]Norht: Desert Resort.\n East: Nimbasa.
+\w[signskin]North: Desert Resort.\n East: Nimbasa.
 \l[3]Ei, você pode até ter passado pelos outros fracotes ali atrás, mas não pense que a batalha contra mim vai ser nesse nível!
 \l[3]You may have defeated those loosers back there, but the battle against me won't be that easy!
 \l[3]\ff[introBenitex]\bNathan: Relaxa, a gente não precisa chegar a esse ponto, só me deixe passar e não temos mais que falar disso.
@@ -5717,7 +5717,7 @@ I'm leaving.
 \ff[introBenitex]\bNathan: Calma senhor, calma!
 \ff[introBenitex]\bNathan: Calm down, sir, calm down!
 \ff[introBenitex]\bNathan: Agora que você se acalmou, tente me explicar o que aconteceu.
-\ff[introBenitex]\bNathan: 
+\ff[introBenitex]\bNathan: Now that you've calmed down, try to explain what happened.
 \rUm volcarona!...\n Forte...\n Casa...
 \rA volcarona!...\n Strong...\n Home...
 \rTORTURA!\n SOFRIMENTO!\n O SEGREDO!\n O PANDEMÔNIO CORRE PERIGO!
@@ -5748,165 +5748,163 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: This computer must control this machine. But I don't know how it works, better not touch it.
 [Map32]
 \ff[introBenitex]\bNathan: (Livros sobre a anatomia dos pokemon.)
-\ff[introBenitex]\bNathan: (Livros sobre a anatomia dos pokemon.)
+\ff[introBenitex]\bNathan: (Pokémon anatomy books.)
 \ff[introOak]\rCarvalho: Pronto?
-\ff[introOak]\rCarvalho: Pronto?
+\ff[introOak]\rOak: Are you ready?
 \ff[introBenitex]\bNathan: Sim.
-\ff[introBenitex]\bNathan: Sim.
+\ff[introBenitex]\bNathan: Yes.
 \ff[introOak]\rCarvalho: Muito bem, vamos discutir sobre o problema.
-\ff[introOak]\rCarvalho: Muito bem, vamos discutir sobre o problema.
+\ff[introOak]\rOak: Very well, shall we discuss the problem?
 \l[3]\ff[introOak]\rHá cerca de duas semanas, começaram a surgir boatos de um pokemon atacando treinadores no Relic Castle. Um volcarona.
-\l[3]\ff[introOak]\rHá cerca de duas semanas, começaram a surgir boatos de um pokemon atacando treinadores no Relic Castle. Um volcarona.
+\l[3]\ff[introOak]\rAround two weeks ago, rumors about a Pokémon attacking trainers at Relic Castle started to spread. They say it's a Volcarona.
 \ff[introBenitex]\bNathan: Um volcarona? Não é comum, mas também não chega a ser tão surpreendente.
-\ff[introBenitex]\bNathan: Um volcarona? Não é comum, mas também não chega a ser tão surpreendente.
+\ff[introBenitex]\bNathan: A Volcarona in the Relic Castle? That's not common, but it's not that unusual either.
 \ff[introOak]\rCarvalho: Correto, entretanto, esse volcarona é como seu charmander.
-\ff[introOak]\rCarvalho: Correto, entretanto, esse volcarona é como seu charmander.
+\ff[introOak]\rOak: Yes, that's correct, however, this Volcarona seems to share some similarities to the Charmander you received.
 \ff[introOak]\rNós não sabemos de onde esses pokemon estão vindo, mas sabemos que são uma clara ameaça ao nosso mundo.
-\ff[introOak]\rNós não sabemos de onde esses pokemon estão vindo, mas sabemos que são uma clara ameaça ao nosso mundo.
+\ff[introOak]\rI am not sure where those Pokémon are coming from, but we do know that they are a threat to the region.
 \ff[introBenitex]\bNathan: Tem certeza? Meu charmander nunca fez nada demais...
-\ff[introBenitex]\bNathan: Tem certeza? Meu charmander nunca fez nada demais...
+\ff[introBenitex]\bNathan: Oh, really? My Charmander doesn't cause me any trouble.
 \ff[introOak]\rCarvalho: Sim, imagino que a senhorita Juniper não entregaria um pokemon perigoso em suas mãos.
-\ff[introOak]\rCarvalho: Sim, imagino que a senhorita Juniper não entregaria um pokemon perigoso em suas mãos.
+\ff[introOak]\rOak: Yes, Juniper told me your Pokémon is very docile, despite his agressive appearance.
 \ff[introOak]\rCarvalho: Falando nela, eu estou aqui justamente para manter contato mais próximo. E esse mistério com o volcarona veio no mesmo momento, bem surpreendente.
-\ff[introOak]\rCarvalho: Falando nela, eu estou aqui justamente para manter contato mais próximo. E esse mistério com o volcarona veio no mesmo momento, bem surpreendente.
+\l[3]\ff[introOak]\rOak: Speaking of her, I'm here exactly to keep in closer touch. This mystery with the Volcarona came at the same time, surprisingly.
 \ff[introOak]\r\l[3]Mas nós ainda não temos muitas informações sobre a origem desses pokemon, precisamos pesquisar mais, entender o que está acontecendo.
-\ff[introOak]\r\l[3]Mas nós ainda não temos muitas informações sobre a origem desses pokemon, precisamos pesquisar mais, entender o que está acontecendo.
+\ff[introOak]\r\l[3]I need to gather more information about the origin of these Pokémon. We need to research about this so that we can better understand the situation.
 \ff[introBenitex]\bNathan: Entendo, é aqui que eu entro?
-\ff[introBenitex]\bNathan: Entendo, é aqui que eu entro?
+\ff[introBenitex]\bNathan: I see, is this where I come in?
 \l[3]\ff[introOak]\rCarvalho: Não exatamente. Muitas coisas estão acontecendo em Unova ao mesmo tempo, o torneio de Nimbasa, os ataques dos motoqueiros, eleições em Castelia.
-\l[3]\ff[introOak]\rCarvalho: Não exatamente. Muitas coisas estão acontecendo em Unova ao mesmo tempo, o torneio de Nimbasa, os ataques dos motoqueiros, eleições em Castelia.
+\l[3]\ff[introOak]\rOak: Not exactly. A lot of things are happening in Unova at the same time: the Nimbasa Tournament, the Biker invasion on Route 4, the elections in Castelia...
 \l[3]\ff[introOak]\rNão sabemos o que começou a levar a esses ataques do volcarona, mas existe a hipótese de alguém estar tentando alguma coisa.
-\l[3]\ff[introOak]\rNão sabemos o que começou a levar a esses ataques do volcarona, mas existe a hipótese de alguém estar tentando alguma coisa.
+\l[3]\ff[introOak]\rWe don't know what started these Volcarona attacks, but I suspect there's someone planning something.
 \l[3]\ff[introOak]\rTodos esses eventos ao mesmo tempo são a condição ideal para começar um tumulto sem ser percebido.
-\l[3]\ff[introOak]\rTodos esses eventos ao mesmo tempo são a condição ideal para começar um tumulto sem ser percebido.
+\l[3]\ff[introOak]\rAll these events happenings at the same time are the ideal conditions to do something big without being noticed.
 \ff[introOak]\r\l[3]O que eu te peço é uma tarefa simples, mas perigosa. Os motoqueiros que invadiram a Rota 4 são possíveis suspeitos desses ataques.
-\ff[introOak]\r\l[3]O que eu te peço é uma tarefa simples, mas perigosa. Os motoqueiros que invadiram a Rota 4 são possíveis suspeitos desses ataques.
+\ff[introOak]\r\l[3]I ask you to do a dangerous task. The bikers who invaded Route 4 are possible suspects in these attacks.
 \ff[introOak]\rPreciso que você derrote eles.
-\ff[introOak]\rPreciso que você derrote eles.
+\ff[introOak]\rI need you to defeat them.
 \ff[introBenitex]\bNathan: Nunca estive mais pronto, acabar com eles já estava nos meus planos!
-\ff[introBenitex]\bNathan: Nunca estive mais pronto, acabar com eles já estava nos meus planos!
+\ff[introBenitex]\bNathan: I'm ready. Finishing them off was already in my plans!
 \ff[introOak]\rCarvalho: Ótimo, ótimo! Mas tome cuidado, eles não são fracos, e vão mostrar o máximo de resistência que puderem.
-\ff[introOak]\rCarvalho: Ótimo, ótimo! Mas tome cuidado, eles não são fracos, e vão mostrar o máximo de resistência que puderem.
+\ff[introOak]\rOak: Great! But be careful, they are not weak, and they'll show as much resistance as they can.
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: I understand.
 \ff[introBenitex]\bNathan: Não sei se realmente deveria fazer isso. Eles realmente estão fazendo algo de errado?
-\ff[introBenitex]\bNathan: Não sei se realmente deveria fazer isso. Eles realmente estão fazendo algo de errado?
+\ff[introBenitex]\bNathan: I'm not sure about that. Are they doing anything wrong?
 \l[3]\ff[introOak]\rCarvalho: Preocupado com a moral, como sempre. Não se preoculpe rapaz, esses motoqueiros já estão causando caos há tempo, você só está lutando para devolver a nós a Rota 4.
-\l[3]\ff[introOak]\rCarvalho: Preocupado com a moral, como sempre. Não se preoculpe rapaz, esses motoqueiros já estão causando caos há tempo, você só está lutando para devolver a nós a Rota 4.
+\l[3]\ff[introOak]\rOak: Worried about morals as always. Do not worry Nathan, those Bikers have been causing trouble in the city for a long time. Your job is to bring Route 4 back to the citizens. 
 \ff[introBenitex]\bNathan: Nesse caso, eu concordo com seus meios.
-\ff[introBenitex]\bNathan: Nesse caso, eu concordo com seus meios.
+\ff[introBenitex]\bNathan: In that case, I agree with your means.
 \ff[introOak]\rMas o mais importante é: você precisa conversar com a polícia antes de ir.
-\ff[introOak]\rMas o mais importante é: você precisa conversar com a polícia antes de ir.
+\ff[introOak]\rBut listen to me before you leave: you need to talk to the police before any fighting.
 \ff[introOak]\rVocê pode simplesmente ir até a delegacia e avisar a eles que está tentando tirar os motoqueiros da Rota 4.
-\ff[introOak]\rVocê pode simplesmente ir até a delegacia e avisar a eles que está tentando tirar os motoqueiros da Rota 4.
+\ff[introOak]\rYou can simply go to the police station and tell them you'll try to get the Bikers off Route 4.
 \ff[introBenitex]\bNathan: Para falar a verdade, já conversei com os políciais.
-\ff[introBenitex]\bNathan: Para falar a verdade, já conversei com os políciais.
+\ff[introBenitex]\bNathan: Oh, I have talked with them about this already.
 \ff[introOak]\rÓtimo, assim é ainda melhor! Agora preciso que você derrote os motoqueiros, Nathan.
-\ff[introOak]\rÓtimo, assim é ainda melhor! Agora preciso que você derrote os motoqueiros, Nathan.
+\ff[introOak]\rGreat, that's even better! Now I need you to defeat those Bikers, Nathan.
 \ff[introOak]\rTalvez eles também dêem alguma informação importante pra você.
-\ff[introOak]\rTalvez eles também dêem alguma informação importante pra você.
+\ff[introOak]\rThey'll probably tell you about what they already know too, which could help a lot.
 \ff[introBenitex]\bNathan: Ah, sobre isso, professor, eu já derrotei eles!
-\ff[introBenitex]\bNathan: Ah, sobre isso, professor, eu já derrotei eles!
+\ff[introBenitex]\bNathan: Oh, about that, I actually already defeated them!
 \ff[introOak]\rCarvalho: Ha, por essa eu não esperava! Ótimo, ótimo, menos um obstáculo no nosso caminho!
-\ff[introOak]\rCarvalho: Ha, por essa eu não esperava! Ótimo, ótimo, menos um obstáculo no nosso caminho!
+\ff[introOak]\rOak: Ha, I wasn't expecting that! Great, one less obstacle in our way!
 \ff[introBenitex]\bNathan: Descobri muitas coisas por lá. Inclusive, combinei com os policiais que iria contar os detalhes na delegacia, todos juntos.
-\ff[introBenitex]\bNathan: Descobri muitas coisas por lá. Inclusive, combinei com os policiais que iria contar os detalhes na delegacia, todos juntos.
+\ff[introBenitex]\bNathan: I discovered a lot there. I also agreed with the policemen I would tell them the details at the police station after you arrive.
 \ff[introOak]\rCarvalho: Ah, certo, certo. Então, o que esperamos? Vamos!
-\ff[introOak]\rCarvalho: Ah, certo, certo. Então, o que esperamos? Vamos!
+\ff[introOak]\rOak: Oh, right, right. What are waiting for? Let's go!
 \ff[introBenitex]\bNathan: Vamos.
-\ff[introBenitex]\bNathan: Vamos.
+\ff[introBenitex]\bNathan: Yes.
 \l[3]\ff[introOak]\rCarvalho: Muito bem. Imagino que você deve saber que a senhorita Juniper está no laboratório aqui ao lado, você deve querer coversar com ela antes de ir.
-\l[3]\ff[introOak]\rCarvalho: Muito bem. Imagino que você deve saber que a senhorita Juniper está no laboratório aqui ao lado, você deve querer coversar com ela antes de ir.
+\l[3]\ff[introOak]\rOak: Good. Also, you may be interested in also talking with Ms. Juniper before you go. She's next door, in case you've forgotten.
 \ff[introOak]\rAh sim, quase me esqueci. Pegue isso, vai te ajudar daqui em diante.
-\ff[introOak]\rAh sim, quase me esqueci. Pegue isso, vai te ajudar daqui em diante.
+\ff[introOak]\rOh yes, before I forget it, take this, it will certainly help you a lot from now on.
 \ff[introBenitex]\bNathan: Perfeito! Muito obrigado professor.
-\ff[introBenitex]\bNathan: Perfeito! Muito obrigado professor.
+\ff[introBenitex]\bNathan: That's perfect! Thank you professor.
 \ff[introOak]\rCarvalho: Existe uma loja de joias aqui na Castelia Street, você pode comprar algumas mega stones por lá.
-\ff[introOak]\rCarvalho: Existe uma loja de joias aqui na Castelia Street, você pode comprar algumas mega stones por lá.
+\ff[introOak]\rOak: There's a jewelry store here in Castelia Street, you can find some Mega Stones there.
 \ff[introBenitex]\bNathan: Entendido. Foi ótimo rever o senhor, professor.
-\ff[introBenitex]\bNathan: Entendido. Foi ótimo rever o senhor, professor.
+\ff[introBenitex]\bNathan: Understood. It was great to see you again, professor.
 \ff[introOak]\rCarvalho: Eu digo o mesmo, boa sorte, Nathan!
-\ff[introOak]\rCarvalho: Eu digo o mesmo, boa sorte, Nathan!
+\ff[introOak]\rOak: Eu digo o mesmo, boa sorte, Nathan!
 \ff[introOak]\rCarvalho: Ah, Nathan. É bom te ver de novo.
-\ff[introOak]\rCarvalho: Ah, Nathan. É bom te ver de novo.
+\ff[introOak]\rOak: Ah, Nathan. É bom te ver de novo.
 \ff[introOak]\rEu descobri algumas coisas. Não entendi seu comportamento no Teatro Musical de Nimbasa.
-\ff[introOak]\rEu descobri algumas coisas. Não entendi seu comportamento no Teatro Musical de Nimbasa.
+\ff[introOak]\rI heard some hearsay about you. Would you mind explaining your behavior at the Nimbasa Musical Theater?
 \l[3]\ff[introBenitex]\bNathan: Ah, professor. Muitas coisas aconteceram, estava tentando ajudar uma menina, mas tudo saiu do controle.
-\l[3]\ff[introBenitex]\bNathan: Ah, professor. Muitas coisas aconteceram, estava tentando ajudar uma menina, mas tudo saiu do controle.
+\l[3]\ff[introBenitex]\bNathan: Oh, professor. A lot happened, I was trying to find help a girl, but everything got out of control.
 \ff[introBenitex]\bAdimito que não tomei os métodos mais corretos pra tentar resolver o problema...
-\ff[introBenitex]\bAdimito que não tomei os métodos mais corretos pra tentar resolver o problema...
+\ff[introBenitex]\bI have to admit those methods were not most appropriate to solve the problem...
 \ff[introOak]\rCarvalho: Por favor Nathan, evite esse tipo de coisa. Não posso perder alguém tão importante como você.
-\ff[introOak]\rCarvalho: Por favor Nathan, evite esse tipo de coisa. Não posso perder alguém tão importante como você.
+\ff[introOak]\rOak: Please Nathan, avoid that kind of danger to yourself. I cannot lose someone as important as you.
 \ff[introBenitex]\bNathan: Certo...
-\ff[introBenitex]\bNathan: Certo...
+\ff[introBenitex]\bNathan: Right...
 \l[3]\ff[introOak]\rCarvalho: Não se esqueça Nathan. Você deve conversar com a polícia, enfrentar os motoqueiros e me contar o que descobrir.
-\l[3]\ff[introOak]\rCarvalho: Não se esqueça Nathan. Você deve conversar com a polícia, enfrentar os motoqueiros e me contar o que descobrir.
+\l[3]\ff[introOak]\rCarvalho: Do not forget Nathan. You must talk to the police, confront the bikers, and tell me everything you discover.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Right.
 \ff[introOak]\rCarvalho: Nathan, você voltou, que ótimo!
-\ff[introOak]\rCarvalho: Nathan, você voltou, que ótimo!
+\ff[introOak]\rCarvalho: Nathan, you're back, great!
 \ff[introOak]\rDiga, conseguiu derrotar eles? O que descobriu?
-\ff[introOak]\rDiga, conseguiu derrotar eles? O que descobriu?
+\ff[introOak]\rTell me, did you defeat them? What did you find out?
 \ff[introBenitex]\bNathan: Professor, combinei com os policiais que iria contar os detalhes na delegacia, todos juntos.
-\ff[introBenitex]\bNathan: Professor, combinei com os policiais que iria contar os detalhes na delegacia, todos juntos.
+\ff[introBenitex]\bNathan: Professor, I agreed with the police officers that I would tell them the details at the police station after you arrive.
 \ff[introOak]\rCarvalho: Parabéns pelo ótimo trabalho na Rota 4, agora podemos continuar avançando nosso trabalho.
-\ff[introOak]\rCarvalho: Parabéns pelo ótimo trabalho na Rota 4, agora podemos continuar avançando nosso trabalho.
+\ff[introOak]\rOak: Congratulations on the great work on Route 4. Now we can continue advancing our investigations.
 \l[3]\ff[introOak]\rSem os motoqueiros bloqueando a passagem para o Desert Resort, podemos começar a investigar o local.
-\l[3]\ff[introOak]\rSem os motoqueiros bloqueando a passagem para o Desert Resort, podemos começar a investigar o local.
-\ff[introOak]\rCarvalho: Dê uma olhada pelo deserto, procure pistas e tente encontrar a Volcarona no Relic Castle.
-\ff[introOak]\rCarvalho: Dê uma olhada pelo deserto, procure pistas e tente encontrar a Volcarona no Relic Castle.
+\l[3]\ff[introOak]\rNow that the bikers are not blocking the passage to the Desert Resort anymore, we can start to investigate the place.
+\ff[introOak]\rCarvalho: Dê uma olhada pelo deserto e procure pistas para que nos ajudem a encontrar Volcarona.
+\ff[introOak]\rOak: Take a look around the desert and search for clues that can help us find Volcarona.
 \l[3]\ff[introBenitex]\bNathan: Entendi. Acho que também vou aproveitar e conversar um pouco com a Jasmine antes de ir, já que ela cuida da área.
-\l[3]\ff[introBenitex]\bNathan: Entendi. Acho que também vou aproveitar e conversar um pouco com a Jasmine antes de ir, já que ela cuida da área.
+\l[3]\ff[introBenitex]\bNathan: Understood. I think I'll also talk a little with Jasmine before going, since she's in charge of the area.
 \ff[introOak]\rCarvalho: Ótima ideia, ela pode te oferecer informações interessantes sobre o lugar!
-\ff[introOak]\rCarvalho: Ótima ideia, ela pode te oferecer informações interessantes sobre o lugar!
+\ff[introOak]\rOak: That's a great idea, she surely knows a lot about the place.
 \ff[introOak]\rCarvalho: Nathan, se você conseguir encontrar a Volcarona, isso vai ser um grande passo para nossas investigações.
-\ff[introOak]\rCarvalho: Nathan, se você conseguir encontrar a Volcarona, isso vai ser um grande passo para nossas investigações.
+\ff[introOak]\rOak: Nathan, finding Volcarona would be a big step forward for our investigations.
 \ff[introOak]\rNós resolveríamos os ataques ao Desert Resort e poderíamos colocar todo o foco no grupo que está causando esse problema.
-\ff[introOak]\rNós resolveríamos os ataques ao Desert Resort e poderíamos colocar todo o foco no grupo que está causando esse problema.
+\ff[introOak]\rWe would resolve the attacks on Desert Resort and be able to focus all our attention on the group causing this problem.
 \ff[introBenitex]\bNathan: Certo, pode deixar comigo!
-\ff[introBenitex]\bNathan: Certo, pode deixar comigo!
-\ff[introOak]\rCarvalho: Certo, muito bom.
-\ff[introOak]\rCarvalho: Certo, muito bom.
+\ff[introBenitex]\bNathan: Sure, leave it to me!
 \ff[introBenitex]\bNathan: Antes de ir, tenho uma coisa para te entregar, professor.
-\ff[introBenitex]\bNathan: Antes de ir, tenho uma coisa para te entregar, professor.
+\ff[introBenitex]\bNathan: Before I go, I have something to give you, professor.
 \ff[introBenitex]\bEncontrei esses livros na sala da Meloetta, onde os cientistas faziam suas pesquisas.
-\ff[introBenitex]\bEncontrei esses livros na sala da Meloetta, onde os cientistas faziam suas pesquisas.
+\ff[introBenitex]\bI found these books in the research room where I found Meloetta and the scientists conducted their research.
 \ff[introOak]\rCarvalho: Ótimo, isso deve ser muito precioso para entender o que aconteceu por lá.
-\ff[introOak]\rCarvalho: Ótimo, isso deve ser muito precioso para entender o que aconteceu por lá.
+\ff[introOak]\rOak: Great, that will surely be very valuable for understanding what happened there.
 \ff[introOak]\rCarvalho: Antes de ir, preciso te pedir um favor.
-\ff[introOak]\rCarvalho: Antes de ir, preciso te pedir um favor.
+\ff[introOak]\rOak: Before you go, I have a favor to ask.
 \ff[introOak]\rSeria essencial para minhas pesquisas poder manter contato com a Meloetta.
-\ff[introOak]\rSeria essencial para minhas pesquisas poder manter contato com a Meloetta.
+\ff[introOak]\rIt would be essential for my research to be able to maintain contact with Meloetta.
 \l[3]\ff[introOak]\rAssim posso tentar extrair mais informações sobre o que os Motoqueiros estavam tentando fazer e com quem se aliaram.
-\l[3]\ff[introOak]\rAssim posso tentar extrair mais informações sobre o que os Motoqueiros estavam tentando fazer e com quem se aliaram.
+\l[3]\ff[introOak]\rThat way, I can try to extract more information about what the Bikers were trying to do and who they allied themselves with.
 \ff[introBenitex]\bNathan: Entendo. Eu preciso deixar ela com você?
-\ff[introBenitex]\bNathan: Entendo. Eu preciso deixar ela com você?
+\ff[introBenitex]\bNathan: I see. Do I need to leave her with you?
 \l[3]\ff[introOak]\rNão, isso não vai ser necessário. Estou pedindo sua autorização para conversar com ela enquanto você não estiver usando em batalha.
-\l[3]\ff[introOak]\rNão, isso não vai ser necessário.  Estou pedindo sua autorização para conversar com ela enquanto você não estiver usando em batalha.
+\l[3]\ff[introOak]\rNo, that's not necessary. I just need your permission to talk to her while you are not using her in battle.
 \ff[introBenitex]\bNathan: Então não preciso fazer nada?
-\ff[introBenitex]\bNathan: Então não preciso fazer nada?
+\ff[introBenitex]\bNathan: So I don't need to do anything else?
 \ff[introOak]\rSim, eu vou usar o PC para conversar com ela enquanto está na sua pokebola.
-\ff[introOak]\rSim, eu vou usar o PC para conversar com ela enquanto está na sua pokebola.
+\ff[introOak]\rI'll use the PC to talk with her while she is in your Poké Ball.
 \ff[introBenitex]\bNathan: Uau, a tecnologia é incrível.
-\ff[introBenitex]\bNathan: Uau, a tecnologia é incrível.
+\ff[introBenitex]\bNathan: Wow, technology is incredible.
 \l[3]\ff[introOak]\rEnquanto você explora o Desert Resort, vou continuar tentando entender a relação entre a Meloetta, esses pokemon e os Motoqueiros.
-\l[3]\ff[introOak]\rEnquanto você explora o Desert Resort, vou continuar tentando entender a relação entre a Meloetta, esses pokemon e os Motoqueiros.
+\l[3]\ff[introOak]\rWhile you explore the Desert Resort, I'll continue trying to understand the relationship between Meloetta, these Pokémon, and the Bikers.
 \ff[introOak]\rEspero ter novas informações até você voltar.
-\ff[introOak]\rEspero ter novas informações até você voltar.
+\ff[introOak]\rI hope to have new information by the time you return.
 \ff[introBenitex]\bNathan: Te vejo em breve.
-\ff[introBenitex]\bNathan: Te vejo em breve.
+\ff[introBenitex]\bNathan: See you soon.
 \ff[introOak]\rCarvalho: Boa sorte e tenha cuidado.
-\ff[introOak]\rCarvalho: Boa sorte e tenha cuidado.
+\ff[introOak]\rOak: Good luck and be careful.
 \ff[introBenitex]\bNathan: Professor, estou de volta e trago novidades.
 \ff[introBenitex]\bNathan: Professor, I'm back and I bring good news.
 \ff[introOak]\rCarvalho: Ótimo, Nathan, vamos, diga!
-\ff[introOak]\rCarvalho: Great, Nathan, please tell me!
+\ff[introOak]\rOak: Great, Nathan, please tell me!
 \ff[introBenitex]\bNathan: Pra entrar no Desert Resort, precisei desvendar um código feito com alfabeto Unown.
 \ff[introBenitex]\bNathan: In order to enter the Desert Resort, I had to unravel a code made with the Unown alphabet.
 \ff[introOak]\rCarvalho: Alfabeto Unown? Então esse lugar pode ter relação com a origem do mundo, muito além do que imaginávamos.
-\ff[introOak]\rCarvalho: The Unown alphabet? So that place must have some kind of connection to the origin of this world...
+\ff[introOak]\rOak: The Unown alphabet? So that place must have some kind of connection to the origin of this world...
 \ff[introBenitex]\bNathan: Não tenho certeza disso. Na verdade, tenho uma outra hipótese.
-\ff[introBenitex]\bNathan: I'm not sure about that. In fact, I have another hypothesis.
+\ff[introBenitex]\bNathan: That's one possibility. But I have another hypothesis.
 \ff[introBenitex]\bAcredito que alguém entrou no Desert Resort e fez um tipo de selo para não permitir a entrada de mais ninguém.
 \ff[introBenitex]\bI believe someone made some kind of seal at the entrance of the Relic Castle to prevent everyone from entering it.
 \ff[introBenitex]\bEssas pessoas teriam conhecimento suficiente para desvendar o alfabeto Unown e escrever usando ele.
@@ -5923,154 +5921,154 @@ BATTLE, BATTLE!
 \l[3]\ff[introBenitex]\bAnd finally, I also met a hiker as I was leaving Relic Castle. He said he'd been attacked by the volcarona.
 \ff[introBenitex]\bEle descreveu tudo o que sentiu. Parece que ela consegue controlar a temperatura do ambiente.
 \ff[introBenitex]\bHe described everything he felt. It seems this Pokémon can strongly affect the temperature of the room.
-\ff[introOak]\rCarvalho: Nathan, isso complementa totalmente a teoria que formulei a partir das informações que consegui adiquirir.
-\ff[introOak]\rCarvalho: Nathan, isso complementa totalmente a teoria que formulei a partir das informações que consegui adiquirir.
+\ff[introOak]\rCarvalho: Nathan, isso complementa totalmente a teoria que formulei a partir das informações que consegui adquirir.
+\ff[introOak]\rOak: Nathan, this complements the theory I formulated based on the information I was able to acquire.
 \ff[introBenitex]\bNathan: Você conseguiu mais informações com os livros?
-\ff[introBenitex]\bNathan: Você conseguiu mais informações com os livros?
+\ff[introBenitex]\bNathan: Did you get more information from the books?
 \ff[introOak]\rCarvalho: Sim, eles foram essenciais para tudo que vou te contar agora.
-\ff[introOak]\rCarvalho: Sim, eles foram essenciais para tudo que vou te contar agora.
+\ff[introOak]\rOak: Yes, they were essential to everything I'm going to tell you right now.
 \ff[introBenitex]\bNathan: Você conseguiu mais informações com a meloetta?
-\ff[introBenitex]\bNathan: Você conseguiu mais informações com a meloetta?
+\ff[introBenitex]\bNathan: Did you get more information from Meloetta?
 \ff[introOak]\rCarvalho: Sim, ela foi essencial para tudo que vou te contar agora.
-\ff[introOak]\rCarvalho: Sim, ela foi essencial para tudo que vou te contar agora.
+\ff[introOak]\rOak: Yes, she was essential to everything I'm going to tell you right now.
 \l[3]\ff[introOak]\rDescobri que meloetta estava sendo manipulada para abrir uma espécie de portal que dava acesso à uma espécie de dimensão diferente.
-\l[3]\ff[introOak]\rDescobri que meloetta estava sendo manipulada para abrir uma espécie de portal que dava acesso à uma espécie de dimensão diferente.
+\l[3]\ff[introOak]\rI discovered that Meloetta was being manipulated to open a portal that gives access to a different dimension.
 \l[3]\ff[introOak]\rEles tentaram trazer alguns pokemon pelo portal, mas não conseguiram deixar ele aberto por muito tempo.
-\l[3]\ff[introOak]\rEles tentaram trazer alguns pokemon pelo portal, mas não conseguiram deixar ele aberto por muito tempo.
+\l[3]\ff[introOak]\rThey tried to bring some Pokémon through the portal, but they couldn't keep it open for very long.
 \l[3]\ff[introOak]\rAlém disso, também trouxeram uma pessoa. A aparência física dela era normal, diferentemente dos pokemon.
-\l[3]\ff[introOak]\rAlém disso, também trouxeram uma pessoa. A aparência física dela era normal, diferentemente dos pokemon.
+\l[3]\ff[introOak]\rIn addition, they also brought a person. His physical appearance was normal, unlike the Pokémon.
 \ff[introOak]\rApesar disso, ela teve sérios problemas mentais depois de passar pelo portal.
-\ff[introOak]\rApesar disso, ela teve sérios problemas mentais depois de passar pelo portal.
+\ff[introOak]\rDespite this, he had serious mental problems after crossing the portal.
 \ff[introBenitex]\bNathan: Você conseguiu descobrir quem foram os responsáveis por isso?
-\ff[introBenitex]\bNathan: Você conseguiu descobrir quem foram os responsáveis por isso?
-\ff[introOak]\rCarvalho: Com certeza não foram os Motoqueiros. Eles realmente só estavam trabalhando pelo dinheiro.
-\ff[introOak]\rCarvalho: Com certeza não foram os Motoqueiros. Eles realmente só estavam trabalhando pelo dinheiro.
+\ff[introBenitex]\bNathan: Were you able to find out who was responsible for this?
+\l[3]\ff[introOak]\rCarvalho: Pelo que descobri, não acho que sejam os Motoqueiros. Eles realmente só estavam trabalhando pelo dinheiro.
+\ff[introOak]\rOak: From what I've found out, I don't think it was the Bikers. They were just working for the money.
 \l[3]\ff[introOak]\rOu pelo menos era o que eles acreditavam. Na verdade, eles fora usados como cobaias do portal e ponto de distração para nós.
-\l[3]\ff[introOak]\rOu pelo menos era o que eles acreditavam. Na verdade, eles fora usados como cobaias do portal e ponto de distração para nós.
+\l[3]\ff[introOak]\rThat's what they believed. In fact, they had been used as guinea pigs for the portal. And as a distraction for us.
 \l[3]\ff[introOak]\rNa realidade, um velho grupo influente na região era o real culpado de tudo isso. A equipe Plasma.
-\l[3]\ff[introOak]\rNa realidade, um velho grupo influente na região era o real culpado de tudo isso. A equipe Plasma.
+\l[3]\ff[introOak]\rIn reality, an old influential group in the region was the real culprit behind all this. Team Plasma.
 \ff[introBenitex]\bNathan: Não é possível, eles de novo? Já derrotamos eles duas vezes, como eles tem força pra voltar?
-\ff[introBenitex]\bNathan: Não é possível, eles de novo? Já derrotamos eles duas vezes, como eles tem força pra voltar?
+\ff[introBenitex]\bNathan: No way, them again? We've already defeated them twice, how do they have the strength to come back?
 \ff[introOak]\rCarvalho: Acredito que a causa que eles defendem ainda tem muitos apoiadores.
-\ff[introOak]\rCarvalho: Acredito que a causa que eles defendem ainda tem muitos apoiadores.
+\ff[introOak]\rOak: I believe that the cause they defend still has many supporters.
 \ff[introBenitex]\bNathan: É. Realmente, só podiam ter sido eles. Nós perdemos nosso tempo enfrentando aqueles motoqueiros.
-\ff[introBenitex]\bNathan: É. Realmente, só podiam ter sido eles. Nós perdemos nosso tempo enfrentando aqueles motoqueiros.
+\ff[introBenitex]\bNathan: Yeah, it could only have been them. We wasted our time fighting those bikers.
 \l[3]\ff[introOak]\rCarvalho: Não, Nathan, os Motoqueiros também eram uma ameaça a Unova e, graças ao erro deles, conseguimos essa informação.
-\l[3]\ff[introOak]\rCarvalho: Não, Nathan, os Motoqueiros também eram uma ameaça a Unova e, graças ao erro deles, conseguimos essa informação.
+\l[3]\ff[introOak]\rOak: No, Nathan, the Bikers were also a threat to Unova, and thanks to their mistake, we were able to obtain this information.
 \ff[introOak]\rCarvalho: Por favor, não pense que o que você fez foi em vão.
-\ff[introOak]\rCarvalho: Por favor, não pense que o que você fez foi em vão.
+\ff[introOak]\rOak: Please don't think that what you did was in vain.
 \ff[introBenitex]\bNathan: É, você está certo.
-\ff[introBenitex]\bNathan: É, você está certo.
+\ff[introBenitex]\bNathan: Yes, I think you're right.
 \ff[introBenitex]\bNathan: Você sabe por que eles precisam acessar essa outra dimensão?
-\ff[introBenitex]\bNathan: Você sabe por que eles precisam acessar essa outra dimensão?
+\ff[introBenitex]\bNathan: Do you know why they need to access this other dimension?
 \l[3]\ff[introOak]\rCarvalho: Infelizmente, toda a informação que eu tenho veio dos Motoqueiros. Eles não tinham acesso à informações tão importantes.
-\l[3]\ff[introOak]\rCarvalho: Infelizmente, toda a informação que eu tenho veio dos Motoqueiros. Eles não tinham acesso à informações tão importantes.
+\l[3]\ff[introOak]\rOak: Unfortunately, all the information I have came from those Bikers, and they did not have access to such important information.
 \ff[introOak]\rCarvalho: Mas, de qualquer forma, tenho uma ideia de como podemos continuar nossos planos.
-\ff[introOak]\rCarvalho: Mas, de qualquer forma, tenho uma ideia de como podemos continuar nossos planos.
+\ff[introOak]\rOak: But anyway, I have an idea of how we can continue with our plans.
 \l[3]\ff[introOak]\rA partir das informações que você conseguiu no Desert Resort, podemos supor que o Relic Castle está sendo utilizado pela equipe Plasma.
-\l[3]\ff[introOak]\rA partir das informações que você conseguiu no Desert Resort, podemos supor que o Relic Castle está sendo utilizado pela equipe Plasma.
+\l[3]\ff[introOak]\rBased on the information you obtained at Desert Resort, we can assume that Relic Castle is being used by Team Plasma in some way.
 \ff[introOak]\rNosso objetivo vai ser chegar lá para enfrentar eles. Eu tenho uma ideia.
-\ff[introOak]\rNosso objetivo vai ser chegar lá para enfrentar eles. Eu tenho uma ideia.
+\ff[introOak]\rOur goal will be to get there and face them. I have an idea.
 \ff[introOak]\rVocê vai se infiltrar no Relic Castle usando a passagem pelos Esgotos de Castelia.
-\ff[introOak]\rVocê vai se infiltrar no Relic Castle usando a passagem pelos Esgotos de Castelia.
+\ff[introOak]\rYou will infiltrate Relic Castle using the passage through the Castelia Sewers.
 \ff[introBenitex]\bNathan: Tem uma passagem para o Relic Castle por lá?
-\ff[introBenitex]\bNathan: Tem uma passagem para o Relic Castle por lá?
+\ff[introBenitex]\bNathan: Is there a passage to Relic Castle there?
 \l[3]\ff[introOak]\rCarvalho: Sim, ela foi criada alguns anos atrás. É possível que eles já saibam sobre ela, mas vale o risco.
-\l[3]\ff[introOak]\rCarvalho: Sim, ela foi criada alguns anos atrás. É possível que eles já saibam sobre ela, mas vale o risco.
+\l[3]\ff[introOak]\rOak: Yes, it was created a few years ago. They may already know about it, but it's worth the risk.
 \ff[introBenitex]\bNathan: Certo, então é bom que eu esteja preparado.
-\ff[introBenitex]\bNathan: Certo, então é bom que eu esteja preparado.
+\ff[introBenitex]\bNathan: Okay, so I better get ready.
 \ff[introOak]\rExatamente, essa é sua nova tarefa. Por favor Nathan, tome cuidado.
-\ff[introOak]\rExatamente, essa é sua nova tarefa.  Por favor Nathan, tome cuidado.
+\ff[introOak]\rThis is your next task. Pleas be careful, Nathan.
 \ff[introOak]\rCarvalho: Nathan, você precisa passar pelos esgotos e encontrar a passagem para o Relic Castle.
-\ff[introOak]\rCarvalho: Nathan, você precisa passar pelos esgotos e encontrar a passagem para o Relic Castle.
+\ff[introOak]\rOak: Nathan, you need to go deep into the sewers and find the passage to Relic Castle.
 \ff[introOak]\rExiste uma entrada perto dos Piers e da saída sudoeste da cidade.
-\ff[introOak]\rExiste uma entrada perto dos Piers e da saída sudoeste da cidade.
+\ff[introOak]\rThere is an entrance to the sewers near the Piers and the southwest exit of the city.
 \l[3]\ff[introOak]\rCarvalho: Por favor, esteja preparado. Os membros da equipe Plasma podem estar esperando que alguém passe por lá.
-\l[3]\ff[introOak]\rCarvalho: Por favor, esteja preparado. Os membros da equipe Plasma podem estar esperando que alguém passe por lá.
+\l[3]\ff[introOak]\rOak: Please be prepared. Plasma team members may be lurking around.
 \ff[introBenitex]\bNathan: Professor, encontrei a Shadow Triad nos Esgotos.
-\ff[introBenitex]\bNathan: Professor, encontrei a Shadow Triad nos Esgotos.
+\ff[introBenitex]\bNathan: Professor, I found the Shadow Triad in the Sewers.
 \ff[introOak]\rCarvalho: O que eles estavam fazendo?
-\ff[introOak]\rCarvalho: O que eles estavam fazendo?
+\ff[introOak]\rOak: What were they doing?
 \ff[introBenitex]\bNathan: Não sei exatamente, eles não deram muitas informações, mas estavam com pressa.
-\ff[introBenitex]\bNathan: Não sei exatamente, eles não deram muitas informações, mas estavam com pressa.
+\ff[introBenitex]\bNathan: I don't know exactly, they didn't give me much information. But they seemed to be in a hurry.
 \ff[introBenitex]\bEles falaram o nome de um dos sábios e parece que estão no Relic Castle.
-\ff[introBenitex]\bEles falaram o nome de um dos sábios e parece que estão no Relic Castle.
-\ff[introOak]\rCarvalho: Ótimo, isso confima parte das minhas teorias.
-\ff[introOak]\rCarvalho: Ótimo, isso confima parte das minhas teorias.
+\ff[introBenitex]\bThey mentioned the name of one of the Sages, and it seems they are Currently in Relic Castle.
+\ff[introOak]\rCarvalho: Ótimo, isso confirma parte das minhas teorias.
+\ff[introOak]\rOak: Great, that confirms part of my theories.
 \ff[introOak]\rMuito bem, Nathan, siga explorando a Relic Passage, em direção ao Relic Castle.
-\ff[introOak]\rMuito bem, Nathan, siga explorando a Relic Passage, em direção ao Relic Castle.
+\ff[introOak]\rAll right, Nathan, keep exploring the Relic Passage, heading toward Relic Castle.
 \ff[introOak]\rCarvalho: Estamos mais próximos do cerne do problema que nunca.
-\ff[introOak]\rCarvalho: Estamos mais próximos do cerne do problema que nunca.
+\ff[introOak]\rOak: We are closer to the heart of the problem than ever before.
 \ff[introOak]\rCarvalho: Nathan! Conseguiu achar a Volcarona?
-\ff[introOak]\rCarvalho: Nathan! Conseguiu achar a Volcarona?
+\ff[introOak]\rOak: Nathan! Did you find Volcarona?
 \ff[introBenitex]\bNathan: Ainda não, estou quase lá.
-\ff[introBenitex]\bNathan: Ainda não, estou quase lá.
+\ff[introBenitex]\bNathan: Not yet, but I'm almost there.
 \ff[introOak]\rCarvalho: Conseguiu chegar ao fundo do Relic Castle?
-\ff[introOak]\rCarvalho: Conseguiu chegar ao fundo do Relic Castle?
+\ff[introOak]\rOak: Did you manage to reach the bottom of Relic Castle?
 \ff[introBenitex]\bNathan: Precisei fazer uma breve pausa.
-\ff[introBenitex]\bNathan: Precisei fazer uma breve pausa.
+\ff[introBenitex]\bNathan: I had to take a short break.
 \ff[introOak]\rCarvalho: Certo, imagino que você tenha visto a enfermeira que mandei como reforços.
-\ff[introOak]\rCarvalho: Certo, imagino que você tenha visto a enfermeira que mandei como reforços.
+\ff[introOak]\rOak: Okay, I guess you saw the nurse I sent as backup.
 \ff[introOak]\rVocê pode se curar com ela no Relic Castle o quanto precisar.
-\ff[introOak]\rVocê pode se curar com ela no Relic Castle o quanto precisar.
+\ff[introOak]\rShe can heal your Pokémon it in Relic Castle if you need.
 \ff[introOak]\rEla também abriu a passagem para chegar nos andares inferiores sem precisar passar pelos esgotos.
-\ff[introOak]\rEla também abriu a passagem para chegar nos andares inferiores sem precisar passar pelos esgotos.
+\ff[introOak]\rShe also opened up a passageway to reach the lower floors without having to go through the sewers.
 \ff[introOak]\rA volcarona só pode estar lá, tudo leva a isso. Esteja preparado.
-\ff[introOak]\rA volcarona só pode estar lá, tudo leva a isso. Esteja preparado.
+\ff[introOak]\rVolcarona is there. I know it, everything leads to that. Be prepared.
 \ff[introBenitex]\bNathan: Ele deixou uma carta...
-\ff[introBenitex]\bNathan: Ele deixou uma carta...
+\ff[introBenitex]\bNathan: He left a letter...
 \ff[introOak]\rCarvalho: (Desculpe Nathan. Nunca fui bom com despedidas.)
-\ff[introOak]\rCarvalho: (Desculpe Nathan. Nunca fui bom com despedidas.)
+\ff[introOak]\rCarvalho: (Sorry Nathan. I've never been good at goodbyes.)
 \ff[introOak]\r(Mas sabia que você viria até aqui, então te deixo essa carta.)
-\ff[introOak]\r(Mas sabia que você viria até aqui, então te deixo essa carta.)
-\ff[introOak]\r(Você fez muito por Unova nesses últimos dias.
-\ff[introOak]\r(Você fez muito por Unova nesses últimos dias.
-Nunca imaginei que aquilo que parecia um simples problema, se tornaria todo esse caso.) \ff[introOak]\r(Mas depois de tudo que aconteceu,
-Nunca imaginei que aquilo que parecia um simples problema, se tornaria todo esse caso.) \ff[introOak]\r(Mas depois de tudo que aconteceu,
-posso dizer que tenho muito orgulho por ter chegado \ff[introOak]\r(Obrigado por tudo.)
-posso dizer que tenho muito orgulho por ter chegado \ff[introOak]\r(Obrigado por tudo.)
+\ff[introOak]\r(But I knew you'd come here, so I leave you this letter.)
+\l[3]\ff[introOak]\r(Você fez muito por Unova nesses últimos dias. Nunca imaginei que aquele simples problema se tornaria todo esse caso.)
+\ff[introOak]\r(You've done a lot for Unova these past few days. I never imagined that what seemed like a simple problem would turn into such a big deal.)
+\ff[introOak]\r(Mas depois de tudo que aconteceu, posso dizer que tenho muito orgulho por ter chegado até aqui.)
+\ff[introOak]\r(But after everything that has happened, I can say that I am very proud to have made it this far.)
+\ff[introOak]\r(Obrigado por tudo.)
+\ff[introOak]\r(Thank you for everything.)
 \ff[introOak]\r(PS: Deixei um presentinho em cima da mesa.)
-\ff[introOak]\r(PS: Deixei um presentinho em cima da mesa.)
+\ff[introOak]\r(PS: I left a little gift on the table.)
 \ff[introOak]\r(Nathan, fiquei muito surpreso com sua decisão no Relic Castle.)
-\ff[introOak]\r(Nathan, fiquei muito surpreso com sua decisão no Relic Castle.)
+\ff[introOak]\r(Nathan, I was very surprised by your decision at Relic Castle.)
 \ff[introOak]\r(Mas, depois de refletir um pouco, acho que consigo entender o que você fez.)
-\ff[introOak]\r(Mas, depois de refletir um pouco, acho que consigo entender o que você fez.)
-\ff[introOak]\r(Nunca vou saber quem você conheceu,
-\ff[introOak]\r(Nunca vou saber quem você conheceu,
-ou o que aconteceu com você para tomar essa decisão...) \ff[introOak]\r(Mas tenho certeza, te conhecendo,
-ou o que aconteceu com você para tomar essa decisão...) \ff[introOak]\r(Mas tenho certeza, te conhecendo,
-que foi a melhor decisão que poderia ser feita.) \ff[introOak]\r(Espero que o sonho com o novo Pandemônio se concretize, por você.)
-que foi a melhor decisão que poderia ser feita.) \ff[introOak]\r(Espero que o sonho com o novo Pandemônio se concretize, por você.)
+\ff[introOak]\r(But after reflecting about it for a while, I think I understand what you did.)
+\ff[introOak]\r(Nunca vou saber quem você conheceu, ou o que aconteceu com você para tomar essa decisão...)
+\ff[introOak]\r(I will never know who you met, or what happened to you to make you decide that...)
+\ff[introOak]\r(Mas tenho certeza, te conhecendo, que foi a melhor decisão que poderia ser feita.)
+\ff[introOak]\r(But, because I know and trust you, I know that was the best decision that could have been made.)
+\ff[introOak]\r(Espero que o sonho com o novo Pandemônio se concretize, por você.)
+\ff[introOak]\r(I hope that the dream of the new Pandemonium comes true, for you.)
 \ff[introBenitex]\bNathan: (Livros sobre os hábitos dos pokemon.)
-\ff[introBenitex]\bNathan: (Livros sobre os hábitos dos pokemon.)
+\ff[introBenitex]\bNathan: (Books about Pokémon habits.)
 \ff[introBenitex]\bNathan: (Livros de culinária para pokemon.)
-\ff[introBenitex]\bNathan: (Livros de culinária para pokemon.)
+\ff[introBenitex]\bNathan: (Cookbooks for Pokémon.)
 \ff[introBenitex]\bNathan: Professor...
 \ff[introBenitex]\bNathan: Professor...
 \ff[introOak]\rCarvalho: Já faz um bom tempo, não é?
-\ff[introOak]\rCarvalho: Já faz um bom tempo, não é?
+\ff[introOak]\rCarvalho: It's been a long time, hasn't it?
 \ff[introBenitex]\bNathan: Fiz você esperar mais do que deveria.
-\ff[introBenitex]\bNathan: Fiz você esperar mais do que deveria.
+\ff[introBenitex]\bNathan: I made you wait longer than I should have.
 \ff[introOak]\rCarvalho: Não tem problema, eu entendo. É poder te ver novamente.
-\ff[introOak]\rCarvalho: Não tem problema, eu entendo. É poder te ver novamente.
-\ff[introOak]\rParece que foi ontém, quando você resolveu se aventurar sem nenhum pokemon para te acompanhar.
-\ff[introOak]\rParece que foi ontém, quando você resolveu se aventurar sem nenhum pokemon para te acompanhar.
+\ff[introOak]\rOak: Don't worry. It's great to see you again.
+\ff[introOak]\rParece que foi ontem, quando você resolveu se aventurar sem nenhum pokemon para te acompanhar.
+\ff[introOak]\rI remember it like it was yesterday. You decided to venture out in the tall grass without any Pokémon to protect you.
 \ff[introOak]\rPronto para trabalharmos juntos de novo? Precisamos acabar com essa ameaça!
-\ff[introOak]\rPronto para trabalharmos juntos de novo? Precisamos acabar com essa ameaça!
+\ff[introOak]\rReady to work together again? We need to end this threat!
 \ff[introBenitex]\bNathan: Certo!
-\ff[introBenitex]\bNathan: Certo!
-\ff[introBenitex]\bNathan: (O professor... )
-\ff[introBenitex]\bNathan: (O professor... )
+\ff[introBenitex]\bNathan: Right!
+\ff[introBenitex]\bNathan: (O professor...)
+\ff[introBenitex]\bNathan: (Professor...)
 \ff[introBenitex]\bNathan: (Livros sobre evolução.)
-\ff[introBenitex]\bNathan: (Livros sobre evolução.)
+\ff[introBenitex]\bNathan: (Books about evolution.)
 Nunca estive mais pronto!
-Nunca estive mais pronto!
+I'm ready!
 Eles são pessoas ruins?
-Eles são pessoas ruins?
+Are they really bad people?
 Não acredito, de novo?
-Não acredito, de novo?
+I can't believe it. Them again?
 É, só podiam ser eles.
-É, só podiam ser eles.
+Yeah, of course they were involved in this.
 [Map33]
 Ei cara, eu vi o que você fez com meu chapa ali. Que tal a gente evitar isso?
 Hey man, I saw what you did to my buddy over there. How about we avoid that?
@@ -6798,7 +6796,7 @@ Ah, só mais um dos cassinos virtuais de celular.
 \ff[introBenitex]\bNathan: (Estranho, não parece ser uma coleção de jogos de cassino...)
 \ff[introBenitex]\bNathan: (Estranho, não parece ser uma coleção de jogos de cassino...)
 Espero que o próximo líder de ginásio não resolva proibir esse lugar.
-Espero que o próximo líder de ginásio não resolva proibir esse lugar.
+I hope the next gym leader doesn't ban this place.
 \ff[introBenitex]\bNathan: Realmente, é tão novo e já atrai tanta atenção.
 \ff[introBenitex]\bNathan: Realmente, é tão novo e já atrai tanta atenção.
 25 fichas - $500
