@@ -6136,201 +6136,201 @@ Nada disso.
 No deal.
 [Map34]
 \ff[introBenitex]\bNathan: (Preciso derrotar o chefe dos motoqueiros.)
-\ff[introBenitex]\bNathan: (Preciso derrotar o chefe dos motoqueiros.)
+\ff[introBenitex]\bNathan: (I need to defeat the boss of the bikers.)
 \ff[introBenitex]\bNathan: Você ainda tem poções?
-\ff[introBenitex]\bNathan: Você ainda tem poções?
+\ff[introBenitex]\bNathan: Do you still have potions?
 \ff[introJasmine]\rJasmine: Claro, claro. Aqui está.
-\ff[introJasmine]\rJasmine: Claro, claro. Aqui está.
+\ff[introJasmine]\rJasmine: Of course. Here it is.
 \ff[introJasmine]\rJasmine: E aí? Descobriu alguma coisa?
-\ff[introJasmine]\rJasmine: E aí? Descobriu alguma coisa?
+\ff[introJasmine]\rJasmine: So, did you find anything?
 \l[3]\ff[introBenitex]\bNathan: Descobri um monte de coisas. O verdadeiro chefe era outro, achei um pokemon mítico, eles estavam usando para algum tipo de experimento.
-\l[3]\ff[introBenitex]\bNathan: Descobri um monte de coisas.  O verdadeiro chefe era outro, achei um pokemon mítico, eles estavam usando para algum tipo de experimento.
+\l[3]\ff[introBenitex]\bNathan: I discovered many things. The real boss was someone else. I also found a mythical Pokémon which they used for some kind of experiment.
 \ff[introJasmine]\rJasmine: Uou, realmente é bastante coisa pra digerir.
-\ff[introJasmine]\rJasmine: Uou, realmente é bastante coisa pra digerir.
+\ff[introJasmine]\rJasmine: Wow, that really is a lot to take in.
 \ff[introJasmine]\rVamos voltar para a delegacia, lá você pode contar para todos de uma vez.
-\ff[introJasmine]\rVamos voltar para a delegacia, lá você pode contar para todos de uma vez.
+\ff[introJasmine]\rLet's go back to the police office, then you can tell everything to everyone at once.
 \l[3]\ff[introBenitex]\bNathan: Tudo bem, mas eu gostaria que o Professor Carvalho também pudesse ouvir, ele está tentando resolver o problema do Volcarona no Desert Resort.
-\l[3]\ff[introBenitex]\bNathan: Tudo bem, mas eu gostaria que o Professor Carvalho também pudesse ouvir, ele está tentando resolver o problema do Volcarona no Desert Resort.
+\l[3]\ff[introBenitex]\bNathan: Right. Can I call Professor Oak too? He is helping me solve the Volcarona problem at the Desert Resort.
 \ff[introJasmine]\rJasmine: Claro, claro, não tem problema.
-\ff[introJasmine]\rJasmine: Claro, claro, não tem problema.
+\ff[introJasmine]\rJasmine: Sure, sure, no problem.
 \ff[introJasmine]\rSe quiser, eu posso te levar direto para lá com meu staraptor, o que acha?
-\ff[introJasmine]\rSe quiser, eu posso te levar direto para lá com meu staraptor, o que acha?
+\ff[introJasmine]\rIf you wish, I can bring us back there directly with my Staraptor. What do you think?
 \ff[introBenitex]\bNathan: Perfeito, seria ótimo.
-\ff[introBenitex]\bNathan: Perfeito, seria ótimo.
+\ff[introBenitex]\bNathan: Perfect, that would be great.
 \ff[introJasmine]\rJasmine: Então vamos.
-\ff[introJasmine]\rJasmine: Então vamos.
+\ff[introJasmine]\rJasmine: Let's go.
 \ff[introBenitex]\bNathan: Obrigado, mas vou a pé, preciso fazer outras coisas no caminho.
-\ff[introBenitex]\bNathan: Obrigado, mas vou a pé, preciso fazer outras coisas no caminho.
+\ff[introBenitex]\bNathan: Thanks, but I'll walk. I need to do some other things on the way.
 \ff[introJasmine]\rJasmine: Certo, não demore. Vou chamar o professor no caminho.
-\ff[introJasmine]\rJasmine: Certo, não demore. Vou chamar o professor no caminho.
+\ff[introJasmine]\rJasmine: Okay, don't be long. I'll call the professor on the way.
 Não. Não. Nãoooooooo!
-Não. Não. Nãoooooooo!
+No. No. Noooooooo!
 Eu, eu...
-Eu, eu...
+I, I...
 \ff[introJasmine]\rJasmine: Deixa que eu tomo conta por aqui.
-\ff[introJasmine]\rJasmine: Deixa que eu tomo conta por aqui.
+\ff[introJasmine]\rJasmine: Let me take care of things here.
 \ff[introJasmine]\rEstá vendo aquela porta?
-\ff[introJasmine]\rEstá vendo aquela porta?
+\ff[introJasmine]\rDo you see that door?
 \ff[introJasmine]\rJasmine: Siga por ela, você precisa ver o que eles tinham por aqui.
-\ff[introJasmine]\rJasmine: Siga por ela, você precisa ver o que eles tinham por aqui.
+\ff[introJasmine]\rJasmine: Explore the other rooms around, we need to know what happened here.
 \ff[introBenitex]\bNathan: Certo!
-\ff[introBenitex]\bNathan: Certo!
+\ff[introBenitex]\bNathan: Right!
 \ff[introBenitex]\bNathan: Droga...
-\ff[introBenitex]\bNathan: Droga...
+\ff[introBenitex]\bNathan: Damn...
 \ff[introJasmine]\rJasmine: Calma Nathan, vou te ajudar.
-\ff[introJasmine]\rJasmine: Calma Nathan, vou te ajudar.
+\ff[introJasmine]\rJasmine: Calm down Nathan, I'll help you.
 \ff[introJasmine]\rJasmine: Agora vamos derrotá-lo, juntos!
-\ff[introJasmine]\rJasmine: Agora vamos derrotá-lo, juntos!
+\ff[introJasmine]\rJasmine: Now let's defeat him, together!
 Isso é trapaça!
-Isso é trapaça!
+That's cheating!
 \ff[introJasmine]\rJasmine: Você nunca jogou justo.
-\ff[introJasmine]\rJasmine: Você nunca jogou justo.
+\ff[introJasmine]\rJasmine: You never played fair.
 \ff[introBenitex]\bNathan: Vamos lá!
-\ff[introBenitex]\bNathan: Vamos lá!
+\ff[introBenitex]\bNathan: Let's go!
 Motoqueiro: O que você acha que tá fazendo aqui?
-Motoqueiro: O que você acha que tá fazendo aqui?
+Biker: What do you think you're doing here?
 Motoqueiro 2: Quanta coragem em.
-Motoqueiro 2: Quanta coragem em.
+Biker 2: What courage!
 Deixe que entre, deixe que entre.
-Deixe que entre, deixe que entre.
+Let him in, let him in.
 Motoqueiro 1: Tem certeza, chefe?
-Motoqueiro 1: Tem certeza, chefe?
+Biker 1: Are you sure, boss?
 Claro, vamos nos divertir um pouco.
-Claro, vamos nos divertir um pouco.
+Of course, let's have some fun.
 Venha aqui menino, dois passos adiante.
-Venha aqui menino, dois passos adiante.
+Come here, kid, two steps forward.
 Não ouviu direito? Disse DOIS passos, dê mais um!
-Não ouviu direito? Disse DOIS passos, dê mais um!
+Didn't you hear me? I said TWO steps, take another one!
 Rá! Muito bem, permaneça assim.
-Rá! Muito bem, permaneça assim.
+Ha! All right, stay like that.
 \ff[introBenitex]\bNathan: Escute aqui!
-\ff[introBenitex]\bNathan: Escute aqui!
+\ff[introBenitex]\bNathan: Listen up!
 Ei, ei, ei, o que pensa que está fazendo, em?
-Ei, ei, ei, o que pensa que está fazendo, em?
+Ei, ei, ei, what do you think you're doing, eh?
 Acha que consegue enfrentar todos nós ao mesmo tempo? Se acha, deve estar louco!
-Acha que consegue enfrentar todos nós ao mesmo tempo?  Se acha, deve estar louco!
+Do you think you can take on all of us at once? You are crazy!
 É melhor você acalmar esses nervos e começar a seguir o que mandamos você fazer.
-É melhor você acalmar esses nervos e começar a seguir o que mandamos você fazer.
+You better calm those nerves and start doing what we say.
 \ff[introBenitex]\bNathan: Certo, certo, me acalmei.
-\ff[introBenitex]\bNathan: Certo, certo, me acalmei.
+\ff[introBenitex]\bNathan: Okay, okay, I've calmed down.
 Muito bem, permaneça assim!
-Muito bem, permaneça assim!
+Very well, stay that way!
 \ff[introBenitex]\bNathan: Nem pensar!
-\ff[introBenitex]\bNathan: Nem pensar!
+\ff[introBenitex]\bNathan: No way!
 Olha só, a gente só queria se divertir um pouco, mas você quer levar pro lado complicado, né?
-Olha só, a gente só queria se divertir um pouco, mas você quer levar pro lado complicado, né?
+Look, we just wanted to have a little fun, but you want to make it hard for yourself, uh?
 Vamos ver se você consegue resistir à motos!
-Vamos ver se você consegue resistir à motos!
+Let's see if you can resist the bikes!
 Agora, mais um passo!
-Agora, mais um passo!
+Now, move a step!
 Muito bom, muito bom.
-Muito bom, muito bom.
+Very good, very good.
 Está vendo menino? Você não tem a menor chance.
-Está vendo menino? Você não tem a menor chance.
+See, little boy? You stand no chance.
 Vamos menino, você já chegou até aqui, derrotou meus companheiros e agora quer ficar parado, com medo?
-Vamos menino, você já chegou até aqui, derrotou meus companheiros e agora quer ficar parado, com medo?
+Come on, little boy. You've come this far, defeated my companions, and now you want to stand still? Are you afraid?
 Antes de mais nada, obrigado pela ajudinha nas eleições.
-Antes de mais nada, obrigado pela ajudinha nas eleições.
+Before anything else, thank you very much for your help in the elections.
 Se você não tivesse aberto caminho pra gente, seria bem mais difícil de comprar todo aquele pessoal.
-Se você não tivesse aberto caminho pra gente, seria bem mais difícil de comprar todo aquele pessoal.
+If you hadn't paved the way for us, it would have been much more difficult to buy all those people.
 Agora, vamos lá. Vou te fazer uma pergunta.
-Agora, vamos lá. Vou te fazer uma pergunta.
+Now, I'll ask you a question.
 O que você está fazendo aqui? Você acha mesmo que consegue derrotar todos nós?
-O que você está fazendo aqui? Você acha mesmo que consegue derrotar todos nós?
+What are you doing here? Do you really think you can defeat all of us?
 \ff[introBenitex]\bNathan: Tenho a mais absoluta certeza.
-\ff[introBenitex]\bNathan: Tenho a mais absoluta certeza.
+\ff[introBenitex]\bNathan: I am absolutely certain.
 Bom, então te dou duas opções.
-Bom, então te dou duas opções.
+Ha, I give you two options then.
 Uma é ser derrotado de forma vergonhosa por nós. O que vem depois é bem divertido, pelo menos para mim.
-Uma é ser derrotado de forma vergonhosa por nós. O que vem depois é bem divertido, pelo menos para mim.
+The first is to be shamefully defeated by us. What comes next is quite entertaining, at least for me.
 A outra é correr e se esconder, decisão sábia eu diria!
-A outra é correr e se esconder, decisão sábia eu diria!
+The other is to run and hide! A wise decision I would say!
 Mas não se preocupe, vou te dar um tempo pra pensar.
-Mas não se preocupe, vou te dar um tempo pra pensar.
+But don't you worry, I'll give you some time to think.
 Certo! Acabou o tempo, diga, vai ficar ou fugir como o fraco que é?
-Certo! Acabou o tempo, diga, vai ficar ou fugir como o fraco que é?
+Aaand, the time is over! Tell me, are you going to stay or run away like the weakling you are?
 \ff[introBenitex]\bNathan: Pare de brincadeiras de mal gosto. Vou acabar logo com isso.
-\ff[introBenitex]\bNathan: Pare de brincadeiras de mal gosto.  Vou acabar logo com isso.
+\ff[introBenitex]\bNathan: Stop that your tasteless jokes. I'll put an end to this right now.
 Rá, perfeito!
-Rá, perfeito!
+Ha, perfect!
 Nós não somos covardes, não vamos te enfrentar ao mesmo tempo. Pelo menos não todos.
-Nós não somos covardes, não vamos te enfrentar ao mesmo tempo. Pelo menos não todos.
+We're not cowards, we're not fighting against you at the same time. At least not all of us.
 Podem ir, atacar!
-Podem ir, atacar!
+Go ahead, attack!
 \l[3]\ff[introJasmine]\rJasmine: Desculpe o atraso Nathan, pensei que comprar alguns itens de cura poderia ajudar a gente, mas acabei sofrendo com imprevistos no caminho.
-\l[3]\ff[introJasmine]\rJasmine: Desculpe o atraso Nathan, pensei que comprar alguns itens de cura poderia ajudar a gente, mas acabei sofrendo com imprevistos no caminho.
+\l[3]\ff[introJasmine]\rJasmine: Sorry for the delay, Nathan. I thought buying some healing items might help us, but I ended up encountering some unexpected problems along the way.
 \ff[introBenitex]\bNathan: Tudo bem, você chegou no momento climático!
-\ff[introBenitex]\bNathan: Tudo bem, você chegou no momento climático!
+\ff[introBenitex]\bNathan: No problem, you've arrived at the climactic moment!
 \ff[introJasmine]\rJasmine: Perfeito, vamos lá então!
-\ff[introJasmine]\rJasmine: Perfeito, vamos lá então!
+\ff[introJasmine]\rJasmine: Perfect, let's get this started!
 Desculpa chefe!
-Desculpa chefe!
+Sorry boss!
 Lá vem a bronca...
-Lá vem a bronca...
-O que? Seus incompetentes! Vocês já sabem o que espera! Saiam, imediantamente!
-O que? Seus incompetentes! Vocês já sabem o que espera!  Saiam, imediantamente!
+Here comes the scolding...
+O que? Seus incompetentes! Vocês já sabem o que espera! Saiam, imediatamente!
+What? You incompetents! Back to the punishment room! Get out, immediately!
 E vocês...
-E vocês...
+And you...
 Não pense que acabou!
-Não pense que acabou!
+Don't think it's over!
 Não, não acabou mesmo, venham, venham, preciso de mais!
-Não, não acabou mesmo, venham, venham, preciso de mais!
+No, it's not over yet, come, come, I need more!
 Hehe, quero ver passar desses.
-Hehe, quero ver passar desses.
+Hehe, let's see if you can defeat those guys.
 Fala sério!
-Fala sério!
+Come on!
 Não vai ficar assim!
-Não vai ficar assim!
+You'll see!
 O queeeee!
-O queeeee!
+Whaaaat!
 Não, não, não. Minha elite...
-Não, não, não. Minha elite...
+No, no, no. My elite...
 Venham, vocês mesmo, vão ter que servir!
-Venham, vocês mesmo, vão ter que servir!
+Come, you guys, you'll have to be enough!
 Ei... Bob.
-Ei... Bob.
+Hey... Bob.
 Acho quee... O chefe tá falando... Com a gente?
-Acho quee... O chefe tá falando... Com a gente?
+I thinnk... Boss is... Talking... Us?
 Chefe... Chefe... Ah, uhum. Cadê a cerveja?
-Chefe... Chefe... Ah, uhum. Cadê a cerveja?
+Boss... Boss... Ah, yes. Where's the beer?
 Quero mais cerveja!!!
-Quero mais cerveja!!!
+I need more beer!!!
 Seus beberrões inúteis! Saiam daqui, saiam antes que seja tarde para vocês!
-Seus beberrões inúteis! Saiam daqui, saiam antes que seja tarde para vocês!
+You useless drunkards! Get out of here, get out before it's too late for you!
 \ff[introBenitex]\bNathan: Pelo visto não sobraram muitos dos seus colegas, em?
-\ff[introBenitex]\bNathan: Pelo visto não sobraram muitos dos seus colegas, em?
+\ff[introBenitex]\bNathan: Apparently, there are not many of your colleagues left, huh?
 Não, não pense que pode me derrotar! Você não pode, ninguém pode!
-Não, não pense que pode me derrotar! Você não pode, ninguém pode!
+No, you can't defeat me! You can't, nobody can!
 \ff[introBenitex]\bNathan: É o que vamos ver.
-\ff[introBenitex]\bNathan: É o que vamos ver.
+\ff[introBenitex]\bNathan: We'll see.
 \ff[introJasmine]\rJasmine: Você consegue, Nathan!
-\ff[introJasmine]\rJasmine: Você consegue, Nathan!
+\ff[introJasmine]\rJasmine: You can do it, Nathan!
 \ff[introBenitex]\bNathan: (Não estou pronto pra isso ainda)
-\ff[introBenitex]\bNathan: (Não estou pronto pra isso ainda)
+\ff[introBenitex]\bNathan: (I'm not ready yet)
 Olha quem voltou, o fracote!
-Olha quem voltou, o fracote!
+See who's back, the weakling little boy!
 Será que pronto para uma luta de verdade? Vamos ver!
-Será que pronto para uma luta de verdade? Vamos ver!
+Are you ready for a true fight? We'll see!
 Pode ser.
-Pode ser.
+Yes.
 Prefiro ir andando.
-Prefiro ir andando.
+I'd rather walk.
 Andar 1 passo.
-Andar 1 passo.
+Move 1 step.
 Andar 2 passos.
-Andar 2 passos.
+Move 2 steps.
 Andar 3 passos.
-Andar 3 passos.
+Move 3 steps.
 Ficar parado.
-Ficar parado.
+Stand still.
 Certo (não tenho escolha).
-Certo (não tenho escolha).
+(I guess I have no choice.)
 Nem pensar.
-Nem pensar.
+No way.
 (Lutar)
-(Lutar)
+(Fight.)
 (Fugir)
-(Fugir)
+(Run.)
 [Map35]
 Oi, posso ver seus pokemon?
 Oi, posso ver seus pokemon?
@@ -6716,97 +6716,97 @@ Péssima ideia.
 Péssima ideia.
 [Map36]
 \ff[introBenitex]\bNathan: Seu clefairy parece adorar esse lugar.
-\ff[introBenitex]\bNathan: Seu clefairy parece adorar esse lugar.
+\ff[introBenitex]\bNathan: Your Clefairy seems to love this place.
 Eu sou de Celadon, conheci meu clefairy lá, no Game Corner!
-Eu sou de Celadon, conheci meu clefairy lá, no Game Corner!
+I'm from Celadon, I met my Clefairy there, at the Game Corner!
 Acho que ela deve ter lembranças de casa.
-Acho que ela deve ter lembranças de casa.
+I think she must have memories of home here.
 \ff[introBenitex]\bNathan: Ah, eu também sou de Kanto! Que legal.
-\ff[introBenitex]\bNathan: Ah, eu também sou de Kanto! Que legal.
+\ff[introBenitex]\bNathan: Oh, I'm from Kanto too!
 \ff[introBenitex]\b(Acho que já é hora de voltar a visitar minha família, faz tempo que não volto para lá...)
-\ff[introBenitex]\b(Acho que já é hora de voltar a visitar minha família, faz tempo que não volto para lá...)
+\ff[introBenitex]\b(I think it's time to visit my family again, it's been a long time since I was last in Kanto...)
 Seja muito bem vindo ao Game Corner de Castelia!
-Seja muito bem vindo ao Game Corner de Castelia!
+Welcome to the Castelia Game Corner!
 Você já visitou o Game Corner antes?
-Você já visitou o Game Corner antes?
+Have you visited the Game Corner before?
 \ff[introBenitex]\bNathan: Não me lembro de passar por aqui antes.
-\ff[introBenitex]\bNathan: Não me lembro de passar por aqui antes.
+\ff[introBenitex]\bNathan: No, I don't think so.
 Esse Game Corner foi instalado aqui recentemente, mas o movimento já é ótimo!
-Esse Game Corner foi instalado aqui recentemente, mas o movimento já é ótimo!
+This Game Corner was installed here recently, but it's already very popular!
 Aqui, pegue essa maleta, você pode usar para carregar suas fichas.
-Aqui, pegue essa maleta, você pode usar para carregar suas fichas.
+Here, take this case, you can use it to store your coins.
 \ff[introBenitex]\bNathan: Opa, obrigado.
-\ff[introBenitex]\bNathan: Opa, obrigado.
+\ff[introBenitex]\bNathan: Nice, thanks.
 Ela já vem com algumas fichas, você pode usar elas para jogar lá dentro e depois trocar por prêmios.
-Ela já vem com algumas fichas, você pode usar elas para jogar lá dentro e depois trocar por prêmios.
+It comes with some tokens, which you can use to play and win more, or exchange for prizes.
 Quanto mais você joga, mais fichas ganha e mais prêmios também!
-Quanto mais você joga, mais fichas ganha e mais prêmios também!
+The more you play, the more coins you earn and the more prizes you win!
 Das próximas vezes que você quiser entrar, você só precisa pagar um valor mínimo de $500, vou te dar fichas e você pode passar.
-Das próximas vezes que você quiser entrar, você só precisa pagar um valor mínimo de $500, vou te dar fichas e você pode passar.
+The next time you come, you only need to buy a minimum of $500 in coins. After that, you're free to enter.
 \ff[introBenitex]\bNathan: Entendi.
-\ff[introBenitex]\bNathan: Entendi.
+\ff[introBenitex]\bNathan: Got it.
 Divirta-se!
-Divirta-se!
+Have fun!
 \gQuer comprar fichas?
-\gQuer comprar fichas?
+\gDo you want to buy coins?
 \ff[introBenitex]\bNathan: Vou querer 25 fichas.
-\ff[introBenitex]\bNathan: Vou querer 25 fichas.
+\ff[introBenitex]\bNathan: I want 25 coins.
 Certo.
-Certo.
+Right.
 Aqui estão.\nMuito obrigado e divirta-se!
-Aqui estão.\nMuito obrigado e divirta-se!
+Here they are.\nThank you very much and have fun!
 \ff[introBenitex]\bNathan: Vish, estou sem dinheiro comigo. Volto depois.
-\ff[introBenitex]\bNathan: Vish, estou sem dinheiro comigo. Volto depois.
+\ff[introBenitex]\bNathan: Oh, I don't have money now. I'll be back.
 Certo, sem problemas.
-Certo, sem problemas.
+Right, no problem.
 \ff[introBenitex]\bNathan: Vou querer 50 fichas.
-\ff[introBenitex]\bNathan: Vou querer 50 fichas.
+\ff[introBenitex]\bNathan: I want 50 coins.
 \ff[introBenitex]\bNathan: Vou querer 500 fichas.
-\ff[introBenitex]\bNathan: Vou querer 500 fichas.
+\ff[introBenitex]\bNathan: I want 500 coins.
 \ff[introBenitex]\bNathan: Mudei de ideia, venho aqui depois.
-\ff[introBenitex]\bNathan: Mudei de ideia, venho aqui depois.
+\ff[introBenitex]\bNathan: I changed my mind, I'll come back later.
 Posso ver sua Coin Case?
-Posso ver sua Coin Case?
+Can I see your Coin Case?
 \ff[introBenitex]\bNathan: Coin Case? O que é isso?
-\ff[introBenitex]\bNathan: Coin Case? O que é isso?
+\ff[introBenitex]\bNathan: Coin Case? What is that?
 É a maleta que usamos para guardar as fichas do Game Corner, você não tem uma?
-É a maleta que usamos para guardar as fichas do Game Corner, você não tem uma?
+It's the case we use to store Game Corner coins. Don't you have one?
 \ff[introBenitex]\bNathan: Não.
-\ff[introBenitex]\bNathan: Não.
+\ff[introBenitex]\bNathan: No.
 Tudo bem, você pode pegar uma no balcão ao lado, aquele moço pode te ajudar.
-Tudo bem, você pode pegar uma no balcão ao lado, aquele moço pode te ajudar.
+You can get one at the counter. That gentleman can help you.
 \ff[introBenitex]\bNathan: Ah, tudo bem.
-\ff[introBenitex]\bNathan: Ah, tudo bem.
+\ff[introBenitex]\bNathan: Oh, ok.
 \ff[introBenitex]\bNathan: Aqui está.
-\ff[introBenitex]\bNathan: Aqui está.
+\ff[introBenitex]\bNathan: Here it is.
 Certo, pode entrar!
-Certo, pode entrar!
+All right, come on in!
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thanks.
 Desculpe, mas parece que você não pagou sua entrada de hoje.
-Desculpe, mas parece que você não pagou sua entrada de hoje.
+Sorry, but it looks like you did not pay for your entrance yet.
 Você precisa comprar fichas sempre que quiser entrar, por favor.
-Você precisa comprar fichas sempre que quiser entrar, por favor.
+You need to buy coins every time you want to enter, please.
 \ff[introBenitex]\bNathan: Ah, me desculpe.
-\ff[introBenitex]\bNathan: Ah, me desculpe.
+\ff[introBenitex]\bNathan: Oh, sorry.
 \ff[introBenitex]\bNathan: Opa, o que está jogando?
-\ff[introBenitex]\bNathan: Opa, o que está jogando?
+\ff[introBenitex]\bNathan: Hey, what are you playing?
 Ah, só mais um dos cassinos virtuais de celular.
-Ah, só mais um dos cassinos virtuais de celular.
+Just another one of those virtual mobile casinos.
 \ff[introBenitex]\bNathan: (Estranho, não parece ser uma coleção de jogos de cassino...)
-\ff[introBenitex]\bNathan: (Estranho, não parece ser uma coleção de jogos de cassino...)
+\ff[introBenitex]\bNathan: (That is a really weird game...)
 Espero que o próximo líder de ginásio não resolva proibir esse lugar.
 I hope the next gym leader doesn't ban this place.
 \ff[introBenitex]\bNathan: Realmente, é tão novo e já atrai tanta atenção.
-\ff[introBenitex]\bNathan: Realmente, é tão novo e já atrai tanta atenção.
+\ff[introBenitex]\bNathan: It's so new, yet it's already attracting so much attention.
 25 fichas - $500
-25 fichas - $500
+25 coins - $500
 50 fichas - $1000
-50 fichas - $1000
+50 coins - $1000
 500 fichas - $10000
-500 fichas - $10000
+500 coins - $10000
 Mudei de ideia.
-Mudei de ideia.
+I changed my mind.
 [Map37]
 Não conte a ninguém, mas nós ajudamos a financiar o Clube Dediê.
 Não conte a ninguém, mas nós ajudamos a financiar o Clube Dediê.
