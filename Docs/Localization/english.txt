@@ -6809,358 +6809,356 @@ Mudei de ideia.
 I changed my mind.
 [Map37]
 Não conte a ninguém, mas nós ajudamos a financiar o Clube Dediê.
-Não conte a ninguém, mas nós ajudamos a financiar o Clube Dediê.
+Don't tell anyone, but we helped finance Clube Dediê.
 \ff[introBenitex]\bNathan: E por que você está me falando isso?
-\ff[introBenitex]\bNathan: E por que você está me falando isso?
+\ff[introBenitex]\bNathan: Why are you telling me this?
 Não vá me dizer que você não apoia o Clube Dediê? Não vá me dizer que você é um dos Cluchar!?
-Não vá me dizer que você não apoia o Clube Dediê?  Não vá me dizer que você é um dos Cluchar!?
+Oh, you don't support the Dediê Club? Don't tell me you're one of the Cluchar!?
 \l[3]\ff[introBenitex]\bNathan: Calma, calma. Não sou não, só estava preocupado com o fato de você estar disseminando nossos segredos!
-\l[3]\ff[introBenitex]\bNathan: Calma, calma. Não sou não, só estava preocupado com o fato de você estar disseminando nossos segredos!
+\l[3]\ff[introBenitex]\bNathan: Relax, I'm not. I'm just wondering why you're spreading our secrets like that!
 Ah não, você está certo! O que estou fazendo???
-Ah não, você está certo! O que estou fazendo???
+You're absolutely right! What am I doing???
 \ff[introBenitex]\bNathan: Calma, deu tudo certo, só não conte a mais ninguém.
-\ff[introBenitex]\bNathan: Calma, deu tudo certo, só não conte a mais ninguém.
+\ff[introBenitex]\bNathan: Calm down, it's alright, just don't tell anyone else.
 Certíssimo!
-Certíssimo!
+Don't worry!
 \ff[introBenitex]\bNathan: Sou sim, um cluchar completo!
-\ff[introBenitex]\bNathan: Sou sim, um cluchar completo!
+\ff[introBenitex]\bNathan: Yes, I am a complete Cluchar!
 O queeeeee!!!
-O queeeeee!!!
+Whaaaaat!!!
 Então não me restam opções, devo exterminar os cluchar!
-Então não me restam opções, devo exterminar os cluchar!
+I have no options left, I must eliminate the Cluchar!
 \ff[introBenitex]\bNathan: Ah não.
-\ff[introBenitex]\bNathan: Ah não.
+\ff[introBenitex]\bNathan: Oh no.
 En garde!
 En garde!
 Por favor, só não conte a ninguém...
-Por favor, só não conte a ninguém...
+Please, don't tell anyone...
 \ff[introBenitex]\bNathan: Não me envolvo com esse tipo de coisa não...
-\ff[introBenitex]\bNathan: Não me envolvo com esse tipo de coisa não...
+\ff[introBenitex]\bNathan: I don't get involved in politics.
 Então é melhor deixar a informação só entre nós!
-Então é melhor deixar a informação só entre nós!
+So please keep this information between us!
 \ff[introBenitex]\bNathan: Beleza, beleza...
-\ff[introBenitex]\bNathan: Beleza, beleza...
+\ff[introBenitex]\bNathan: Fine, fine...
 Parece que nossos investimentos no Clube Dediê deram frutos!
-Parece que nossos investimentos no Clube Dediê deram frutos!
+It looks like the our investments in Dediê Club have paid off!
 \ff[introBenitex]\bNathan: (Parece que a vergonha do investimento ilegal acabou depois que eles ganharam.)
-\ff[introBenitex]\bNathan: (Parece que a vergonha do investimento ilegal acabou depois que eles ganharam.)
+\ff[introBenitex]\bNathan: (It seems their shame over the ilegal investment disappeared after they won.)
 Gosto daqui, é um ambiente agradável, mesmo que eu não possa falar com os professores.
-Gosto daqui, é um ambiente agradável, mesmo que eu não possa falar com os professores.
+I like it here, it's a nice vibe.
 Esse secretário é muito chato.
-Esse secretário é muito chato.
+But that secretary is very annoying.
 Seja bem vindo aos escritórios de pesquisa de Castelia, como posso ajudar?
-Seja bem vindo aos escritórios de pesquisa de Castelia, como posso ajudar?
+Welcome to the Castelia Research Offices, how can I help you?
 \ff[introBenitex]\bNathan: Eu sou Nathan, acredito que devo ter permissão para falar com os professores.
-\ff[introBenitex]\bNathan: Eu sou Nathan, acredito que devo ter permissão para falar com os professores.
+\ff[introBenitex]\bNathan: I'm Nathan, I'm interested in talking with the professors.
 Nathan? Deixe-me verificar a lista de agendamentos.
-Nathan? Deixe-me verificar a lista de agendamentos.
+Nathan? Let me check the schedule.
 Espera, antes disso, você agendou uma conversa com o professor Carvalho ou com a professor Juniper?
-Espera, antes disso, você agendou uma conversa com o professor Carvalho ou com a professor Juniper?
+Wait, did you schedule a meeting with Professor Oak or Professor Juniper?
 \ff[introBenitex]\bNathan: Eu agendei uma conversa com o professor Carvalho.
-\ff[introBenitex]\bNathan: Eu agendei uma conversa com o professor Carvalho.
+\ff[introBenitex]\bNathan: I scheduled a meeting with Professor Oak.
 Deixe-me ver aqui na lista...
-Deixe-me ver aqui na lista...
+Give me a second while I check the schedule...
 Não, nada aqui, senhor.
-Não, nada aqui, senhor.
+No, no Nathan here, sir.
 \ff[introBenitex]\bNathan: Nada? Como assim nada? Tenho certeza que poderia conversar com eles.
-\ff[introBenitex]\bNathan: Nada? Como assim nada? Tenho certeza que poderia conversar com eles.
+\ff[introBenitex]\bNathan: What? What do you mean? I'm sure I can go up there.
 Certo, vou fazer o seguinte: vou ligar para ele, depois digo se isso realmente está marcado, ok?
-Certo, vou fazer o seguinte: vou ligar para ele, depois digo se isso realmente está marcado, ok?
+Okay, I'll do the following: I'll call him, then I'll let you know if it's really scheduled, okay?
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Okay.
 Professor, por acaso está combinada uma reunião para agora no nome de...
-Professor, por acaso está combinada uma reunião para agora no nome de...
+Professor, are you waiting a guy in the name of...
 Qual é seu nome mesmo?
-Qual é seu nome mesmo?
+What is your name again?
 \ff[introBenitex]\bNathan: Nathan, eu sou o Nathan!
-\ff[introBenitex]\bNathan: Nathan, eu sou o Nathan!
+\ff[introBenitex]\bNathan: Nathan, I'm Nathan!
 Certo, certo.
-Certo, certo.
+Right, right.
 Tem um rapazinho sem paciência aqui querendo conversar com você, professor. O nome dele é Nathan.
-Tem um rapazinho sem paciência aqui querendo conversar com você, professor. O nome dele é Nathan.
+There's an impatient young man here who wants to talk to you, professor. His name is Nathan.
 Certo, entendido.
-Certo, entendido.
+Right, I understand.
 Mil perdões pelo inconveniente Nathan, o professor já explicou a situação. Seu acesso está liberado.
-Mil perdões pelo inconveniente Nathan, o professor já explicou a situação. Seu acesso está liberado.
+I am sorry for the inconvenience, Nathan. Professor explained the situation. Your access has been granted.
 \ff[introBenitex]\bNathan: Finalmente!
-\ff[introBenitex]\bNathan: Finalmente!
+\ff[introBenitex]\bNathan: Finally!
 \ff[introBenitex]\bNathan: Eu agendei uma conversa com a professora Juniper.
-\ff[introBenitex]\bNathan: Eu agendei uma conversa com a professora Juniper.
+\ff[introBenitex]\bNathan: I scheduled a meeting with Professor Juniper.
 Certo, vou fazer o seguinte: vou ligar para ela, depois digo se isso realmente está marcado, ok?
-Certo, vou fazer o seguinte: vou ligar para ela, depois digo se isso realmente está marcado, ok?
+Okay, I'll do the following: I'll call her, then I'll let you know if it's really scheduled, okay?
 Professora, por acaso está combinada uma reunião para agora no nome de...
-Professora, por acaso está combinada uma reunião para agora no nome de...
+Professor, are you waiting a guy in the name of...
 Mil perdões pelo inconveniente Nathan, a professora já explicou a situação. Seu acesso está liberado.
-Mil perdões pelo inconveniente Nathan, a professora já explicou a situação. Seu acesso está liberado.
+I am sorry for the inconvenience, Nathan. Professor explained the situation. Your access has been granted.
 \ff[introBenitex]\bNathan: Para falar a verdade não cheguei a marcar com ninguém.
-\ff[introBenitex]\bNathan: Para falar a verdade não cheguei a marcar com ninguém.
+\ff[introBenitex]\bNathan: I did not schedule any meeting. Was that necessary?
 Você não marcou? Ah, então pode voltar pela porta logo atrás de você, por favor.
-Você não marcou? Ah, então pode voltar pela porta logo atrás de você, por favor.
+You didn't? Oh, then please go back through the door behind you.
 \ff[introBenitex]\bNathan: Espera, espera. Eu preciso falar com eles...
-\ff[introBenitex]\bNathan: Espera, espera. Eu preciso falar com eles...
+\ff[introBenitex]\bNathan: Wait, wait, I need to talk to them...
 Desculpe, mas eles são pessoas ocupadas, precisam de reuniões marcadas, você não pode sair entrando assim.
-Desculpe, mas eles são pessoas ocupadas, precisam de reuniões marcadas, você não pode sair entrando assim.
+Sorry, but they are busy people. You need to schedule a meeting. I won't allow you to just walk in like that.
 \ff[introBenitex]\bNathan: Tudo bem, eu posso agendar então.
-\ff[introBenitex]\bNathan: Tudo bem, eu posso agendar então.
+\ff[introBenitex]\bNathan: Fine, let me schedule a meeting then.
 Certo, você quer agendar uma renião com qual deles?
-Certo, você quer agendar uma renião com qual deles?
+Right, which one would you like to schedule a meeting with?
 Professor, quando o senhor tem disponibilidade para um moço chamado...
-Professor, quando o senhor tem disponibilidade para um moço chamado...
+Professor, when are you available for a young man named...
 Tem um rapazinho sem paciência aqui querendo conversar com você, professor, o nome dele é Nathan.
-Tem um rapazinho sem paciência aqui querendo conversar com você, professor, o nome dele é Nathan.
+There's an impatient young man here who wants to talk to you, professor. His name is Nathan.
 Professora, quando a senhora tem disponibilidade para um moço chamado...
-Professora, quando a senhora tem disponibilidade para um moço chamado...
+Professor, when are you available for a young man named...
 Desculpe pelo inconveniente, mas você já pode ir conversar com qualquer um dos dois professores.
-Desculpe pelo inconveniente, mas você já pode ir conversar com qualquer um dos dois professores.
+Sorry for the inconvenience, but you can now go talk to either of the two professors.
 \l[3]\ff[introBenitex]\bNathan: Como você esqueceu de mim cara? Eu sempre venho aqui pra conversar com a professora Juniper!
-\l[3]\ff[introBenitex]\bNathan: Como você esqueceu de mim cara? Eu sempre venho aqui pra conversar com a professora Juniper!
+\l[3]\ff[introBenitex]\bNathan: How could you forget me, man? I always come here to talk to Professor Juniper!
 De-desculpe, é que é muita gente...
-De-desculpe, é que é muita gente...
+I'm so-sorry, t's just that there are so many people...
 Os professores pediram que você evitasse voltar aqui.
-Os professores pediram que você evitasse voltar aqui.
+Please, avoid coming here. That was asked by the professors.
 Com licença, mas o senhor deve primeiro solicitar a entrada aqui comigo, por favor.
-Com licença, mas o senhor deve primeiro solicitar a entrada aqui comigo, por favor.
+Excuse me, but you must first request entry here, please.
 \ff[introBenitex]\bNathan: Ué...
-\ff[introBenitex]\bNathan: Ué...
+\ff[introBenitex]\bNathan: Huh?
 A cidade de Castelia é tão movimentada, tanta coisa acontece a todo momento...
-A cidade de Castelia é tão movimentada, tanta coisa acontece a todo momento...
+The city of Castelia is so busy, so much is happening all the time...
 É tanta coisa que nem tenho vontade de ir assistir os torneios de Nimbasa, parece que tenho atividades infinitas aqui!
-É tanta coisa que nem tenho vontade de ir assistir os torneios de Nimbasa, parece que tenho atividades infinitas aqui!
+I was not even interested in watching the battles at Nimbasa, I have so much to do here!
 \ff[introBenitex]\bNathan: Realmente, Castelia é uma das cidades mais populosas que já fui.
-\ff[introBenitex]\bNathan: Realmente, Castelia é uma das cidades mais populosas que já fui.
+\ff[introBenitex]\bNathan: Castelia really is one of the most populous cities I've ever been to.
 Não é?
-Não é?
+Right?
 \ff[introBenitex]\bNathan: Várias incrições na estátua. Deve representar algo especial.
-\ff[introBenitex]\bNathan: Várias incrições na estátua. Deve representar algo especial.
+\ff[introBenitex]\bNathan: There are many inscriptions on the statue. It must mean something special.
 Estou pesquisando sobe a Caverna Pedra Carregada, já ouviu falar?
-Estou pesquisando sobe a Caverna Pedra Carregada, já ouviu falar?
+I'm researching Chargestone Cave, have you heard about it?
 \ff[introBenitex]\bNathan: Sim, já passei por lá uma vez, tem uns campos magnéticos, realmente interessante.
-\ff[introBenitex]\bNathan: Sim, já passei por lá uma vez, tem uns campos magnéticos, realmente interessante.
+\ff[introBenitex]\bNathan: Yes, I've been there once. There are many magnetic fields there, really interesting place.
 Sim, estou pensando em fazer uma expedição por lá!
-Sim, estou pensando em fazer uma expedição por lá!
+Yes, I'm planning on going on an expedition there!
 Gostou da minha gothita? Capturei na Rota 5!
-Gostou da minha gothita? Capturei na Rota 5!
-\ff[introBenitex]\bNathan: Bom saber, talvez eu passe lá depois.
-\ff[introBenitex]\bNathan: Bom saber, talvez eu passe lá depois.
+Do you like my Gothita? I captured it on Route 5!
 Calma, calma, não sou.
-Calma, calma, não sou.
+Relax, relax, I'm not.
 Sou!
-Sou!
+Yes, I am!
 Não me envolvo nisso
-Não me envolvo nisso
+I won't get involved in this.
 Professor Carvalho
-Professor Carvalho
+Professor Oak.
 Professora Juniper
-Professora Juniper
+Professor Juniper.
 Nenhum dos dois.
-Nenhum dos dois.
+Neither one.
 Professor Carvalho.
-Professor Carvalho.
+Professor Oak.
 Professora Juniper.
-Professora Juniper.
+Professor Juniper.
 [Map38]
 Qual será que ela prefere...
-Qual será que ela prefere...
+Which one would she prefer...
 \ff[introBenitex]\bNathan: Joias, pérolas, ouro.
-\ff[introBenitex]\bNathan: Joias, pérolas, ouro.
+\ff[introBenitex]\bNathan: Jewelry, pearls, gold.
 Oi! Você também vai querer comprar joias?
-Oi! Você também vai querer comprar joias?
+Hi! Are you going to buy jewelry too?
 \ff[introBenitex]\bNathan: Acho que vou, essa fila está bem grande, deve valer a pena.
-\ff[introBenitex]\bNathan: Acho que vou, essa fila está bem grande, deve valer a pena.
+\ff[introBenitex]\bNathan: Yeah, I think so. That's a huge line, so it must be worth it.
 Você está aqui só pelo tamanho da fila?
-Você está aqui só pelo tamanho da fila?
+Are you here just because of the length of the line?
 \ff[introBenitex]\bNathan: É...
-\ff[introBenitex]\bNathan: É...
+\ff[introBenitex]\bNathan: Yeah...
 Tá bom então.
-Tá bom então.
+All right, then.
 \ff[introBenitex]\bNathan: Será que falta muito?
-\ff[introBenitex]\bNathan: Será que falta muito?
+\ff[introBenitex]\bNathan: Do you think it will take long?
 Oi? Ah, acho que não, a velinha já vai sair.
-Oi? Ah, acho que não, a velinha já vai sair.
+Sorry? Oh, I don't think so. That old lady is about to leave.
 \ff[introBenitex]\bNathan: Não sei, a fila está enorme.
-\ff[introBenitex]\bNathan: Não sei, a fila está enorme.
+\ff[introBenitex]\bNathan: I don't know, that's a very long line.
 É porque o preço deles é imbatível. Eles nem tem concorrentes em Unova.
-É porque o preço deles é imbatível. Eles nem tem concorrentes em Unova.
+Their prices are unbeatable. They don't even have any competitors in Unova.
 O problema são as filas mesmo.
-O problema são as filas mesmo.
+Those lines are their only problem.
 Oi! Você é funcionário da loja?
-Oi! Você é funcionário da loja?
+Hi! Do you work here?
 \ff[introBenitex]\bNathan: Ah, não, só estou de passagem mesmo.
-\ff[introBenitex]\bNathan: Ah, não, só estou de passagem mesmo.
+\ff[introBenitex]\bNathan: Oh, no, I'm a customer too.
 Eu estou procurando uma lopunnite, você viu por aí?
-Eu estou procurando uma lopunnite, você viu por aí?
+I'm looking for a Lopunnite, did you happen to see any around?
 \ff[introBenitex]\bNathan: Eu sei onde encontrar. Parece que eles guardam elas para evitar furtos, fala com o rapaz na bancada e ele deve pegar.
-\ff[introBenitex]\bNathan: Eu sei onde encontrar.  Parece que eles guardam elas para evitar furtos, fala com o rapaz na bancada e ele deve pegar.
+\ff[introBenitex]\bNathan: Yes! They don't leave them on display to prevent theft. But you can talk with the salesman and he'll get one for you.  
 Ah, muito obrigada!
-Ah, muito obrigada!
+Oh, thank you!
 Aqui, fica com essa balinha.
-Aqui, fica com essa balinha.
+Here, take this candy as a thank you.
 \ff[introBenitex]\bNathan: Valeu.
-\ff[introBenitex]\bNathan: Valeu.
+\ff[introBenitex]\bNathan: Thanks.
 \ff[introBenitex]\bNathan: Desculpa, acabei de chegar na loja, não sei onde estão.
-\ff[introBenitex]\bNathan: Desculpa, acabei de chegar na loja, não sei onde estão.
+\ff[introBenitex]\bNathan: Sorry, I just arrived, I don't know either.
 Tudo bem, você pode me avisar se encontrar?
-Tudo bem, você pode me avisar se encontrar?
+Right, can you let me know if you find it?
 \ff[introBenitex]\bNathan: Sem problemas.
-\ff[introBenitex]\bNathan: Sem problemas.
+\ff[introBenitex]\bNathan: Yes, sure.
 \ff[introBenitex]\bNathan: Não, estou com pressa.
-\ff[introBenitex]\bNathan: Não, estou com pressa.
+\ff[introBenitex]\bNathan: No, I'm in a hurry.
 Ah.
-Ah.
+Oh.
 Sabe onde encontrar a lopunnite?
-Sabe onde encontrar a lopunnite?
+Did you find any Lopunnites around?
 \ff[introBenitex]\bNathan: Ainda não.
-\ff[introBenitex]\bNathan: Ainda não.
+\ff[introBenitex]\bNathan: Not yet.
 Vou continuar procurando.
-Vou continuar procurando.
+I'll keep looking.
 Muito obrigada! Tenho certeza que vou ficar mais forte!
-Muito obrigada! Tenho certeza que vou ficar mais forte!
+Thank you! Now my Pokémon will surely be be much stronger!
 Olá, seja muito bem vindo a Loja de Joias de Castelia, a maior loja de joias de Unova!
-Olá, seja muito bem vindo a Loja de Joias de Castelia, a maior loja de joias de Unova!
+Hello, welcome to the Castelia Jewelry Store, the largest jewelry store in Unova!
 Você gostaria de comprar uma mega stone? Eu posso pegar uma lá em cima pra você.
-Você gostaria de comprar uma mega stone? Eu posso pegar uma lá em cima pra você.
+Would you like to buy a Mega Stone? I can get one for you upstairs.
 \ff[introBenitex]\bNathan: Pegar lá em cima? Por que elas não estão a mostra como as outras joias?
-\ff[introBenitex]\bNathan: Pegar lá em cima? Por que elas não estão a mostra como as outras joias?
+\ff[introBenitex]\bNathan: Upstairs? Why aren't they on display like the other jewelry?
 Mega stones são bem mais raras que as outras joias, não podemos deixar elas a disposição assim.
-Mega stones são bem mais raras que as outras joias, não podemos deixar elas a disposição assim.
+Mega Stones are much rarer than other gems, so we can't leave them exposed.
 \ff[introBenitex]\bNathan: Hum, entendi.
-\ff[introBenitex]\bNathan: Hum, entendi.
+\ff[introBenitex]\bNathan: Hum, I see.
 E então, quer dar uma olhada?
-E então, quer dar uma olhada?
+So, would you like to take a look?
 \ff[introBenitex]\bNathan: Sim, por favor.
-\ff[introBenitex]\bNathan: Sim, por favor.
+\ff[introBenitex]\bNathan: Yes, please.
 Qual região você quer?
-Qual região você quer?
+From which region is your Pokémon?
 Só um instante.
-Só um instante.
+Just a second.
 Aqui estão.
-Aqui estão.
+Here they are.
 \ff[introBenitex]\bNathan: Não, não precisa, só estou de passagem.
-\ff[introBenitex]\bNathan: Não, não precisa, só estou de passagem.
+\ff[introBenitex]\bNathan: No, don't worry, I'm just looking around.
 Tudo bem, obrigado por conhecer nossa loja e volte sempre.
-Tudo bem, obrigado por conhecer nossa loja e volte sempre.
+Thank you for visiting our store, please feel free to browse around.
 Você de novo, quer alguma outra coisa?
-Você de novo, quer alguma outra coisa?
+You're back, are you looking for Mega Stones?
 \ff[introBenitex]\bNathan: Sim, posso ver as mega stones?
-\ff[introBenitex]\bNathan: Sim, posso ver as mega stones?
+\ff[introBenitex]\bNathan: Yes.
 Tudo bem, obrigado por visitar nossa loja e volte sempre.
-Tudo bem, obrigado por visitar nossa loja e volte sempre.
+Thank you for visiting our store, and please come back again soon.
 Desculpe pelo inconveniente de ter que esperar na fila, a loja está muito movimentada nos últimos dias.
-Desculpe pelo inconveniente de ter que esperar na fila, a loja está muito movimentada nos últimos dias.
+Sorry about the line, the store has been very busy lately.
 \ff[introBenitex]\bNathan: Não se preocupa, não estou com pressa.
-\ff[introBenitex]\bNathan: Não se preocupa, não estou com pressa.
+\ff[introBenitex]\bNathan: No worries, I'm in no hurry.
 Ótimo, que bom.
-Ótimo, que bom.
+Great, that's good.
 \ff[introBenitex]\bNathan: Não, isso aqui é um absurdo, não posso aceitar!
-\ff[introBenitex]\bNathan: Não, isso aqui é um absurdo, não posso aceitar!
-\ff[introBenitex]\bDeixar um cliente esperando por tanto tempo é inadmisível, não é possível!
-\ff[introBenitex]\bDeixar um cliente esperando por tanto tempo é inadmisível, não é possível!
+\ff[introBenitex]\bNathan: That is completely unacceptable! I can't believe it! 
+\ff[introBenitex]\bDeixar um cliente esperando por tanto tempo é inadmissível, não é possível!
+\ff[introBenitex]\bMaking a client wait for that long? No way!
 Desculpe senhor, desculpe, mil perdões!
-Desculpe senhor, desculpe, mil perdões!
+I'm sorry, sir, I'm sorry, a thousand apologies!
 \l[3]Por favor, acalme-se, não fique assim! Aqui, pegue isso, sei que não vai valer seu tempo, mas espero conpensar um pouco.
-\l[3]Por favor, acalme-se, não fique assim! Aqui, pegue isso, sei que não vai valer seu tempo, mas espero conpensar um pouco.
+\l[3]Please, calm down, don't be like that! Here, take this. I know it won't be worth your time, but I hope it will make up for it a little.
 \ff[introBenitex]\bNathan: Tudo bem, está perdoado.
-\ff[introBenitex]\bNathan: Tudo bem, está perdoado.
+\ff[introBenitex]\bNathan: You are forgiven.
 \l[3]Ufa, me desculpe novamente. Vamos tentar melhorar nossa infraestrutura. Da próxima vez que você voltar, já deve estar mais vazio.
-\l[3]Ufa, me desculpe novamente. Vamos tentar melhorar nossa infraestrutura. Da próxima vez que você voltar, já deve estar mais vazio.
+\l[3]Phew, sorry again. We'll try to improve our infrastructure. Next time you come back, it should be less crowded.
 \ff[introBenitex]\bNathan: Assim espero.
-\ff[introBenitex]\bNathan: Assim espero.
+\ff[introBenitex]\bNathan: I sure hope so.
 É sua primeira vez aqui, né? Vou te explicar como nossa loja funciona, é bem simples.
-É sua primeira vez aqui, né? Vou te explicar como nossa loja funciona, é bem simples.
+It's your first time here, right? Let me explain how the store works.
 \l[3]Nós vendemos objetos e acessórios em ouro, pérolas, mega stones e rochas estelares, alem disso, também compramos o que quiser nos vender.
-\l[3]Nós vendemos objetos e acessórios em ouro, pérolas, mega stones e rochas estelares, alem disso, também compramos o que quiser nos vender.
+We sell items and accessories made of gold, pearls, and star rocks, we also sell Mega Stones.
 \l[3]Mas o nosso maior diferencial é que compramos alguns desses items por um preço especial em cada dia da semana, é o que gera o movimento na loja.
-\l[3]Mas o nosso maior diferencial é que compramos alguns desses items por um preço especial em cada dia da semana, é o que gera o movimento na loja.
+\l[3]Depending on the day of the week, we also buy one of that items on a special price. That's what generates the most traffic in the store.
 \ff[introBenitex]\bNathan: Interessante, posso dar uma olhada?
-\ff[introBenitex]\bNathan: Interessante, posso dar uma olhada?
+\ff[introBenitex]\bNathan: Interesting, can I take a look?
 Claro!
-Claro!
+Of course!
 Hoje estamos comprando nuggets pelo preço que vendemos!
-Hoje estamos comprando nuggets pelo preço que vendemos!
+Today, we're buying Nuggets at full price!
 Hoje estamos comprando big nuggets pelo preço que vendemos!
-Hoje estamos comprando big nuggets pelo preço que vendemos!
+Today, we're buying Big Buggets at full price!
 Hoje estamos comprando pearls pelo preço que vendemos!
-Hoje estamos comprando pearls pelo preço que vendemos!
+Today, we're buying Pearls at full price!
 Hoje estamos comprando big pearls pelo preço que vendemos!
-Hoje estamos comprando big pearls pelo preço que vendemos!
+Today, we're buying Big Pearls at full price!
 Hoje estamos comprando pearl strings pelo preço que vendemos!
-Hoje estamos comprando pearl strings pelo preço que vendemos!
+Today, we're buying Pearl Strings at full price!
 Hoje estamos comprando stardusts pelo preço que vendemos!
-Hoje estamos comprando stardusts pelo preço que vendemos!
+Today, we're buying Stardust at full price!
 Hoje estamos comprando star pieces pelo preço que vendemos!
-Hoje estamos comprando star pieces pelo preço que vendemos!
+Today, we're buying Star Pieces at full price!
 Volte sempre, não esqueça dos nossos descontos especiais!
-Volte sempre, não esqueça dos nossos descontos especiais!
+Come again, and don't forget about our special discounts!
 Que bom, você voltou!
-Que bom, você voltou!
+Good to see you back!
 Hoje estamos comprando nuggets pelo preço que vendemos.
-Hoje estamos comprando nuggets pelo preço que vendemos.
+Today, we're buying Nuggets at full price.
 Hoje estamos comprando big nuggets pelo preço que vendemos.
-Hoje estamos comprando big nuggets pelo preço que vendemos.
+Today, we're buying Big Buggets at full price.
 Hoje estamos comprando pearls pelo preço que vendemos.
-Hoje estamos comprando pearls pelo preço que vendemos.
+Today, we're buying Pearls at full price.
 Hoje estamos comprando big pearls pelo preço que vendemos.
 Hoje estamos comprando big pearls pelo preço que vendemos.
 Hoje estamos comprando pearl strings pelo preço que vendemos.
-Hoje estamos comprando pearl strings pelo preço que vendemos.
+Today, we're buying Pearl Strings at full price.
 Hoje estamos comprando stardusts pelo preço que vendemos.
-Hoje estamos comprando stardusts pelo preço que vendemos.
+Today, we're buying Stardust at full price.
 Hoje estamos comprando star pieces pelo preço que vendemos.
-Hoje estamos comprando star pieces pelo preço que vendemos.
+Today, we're buying Star Pieces at full price.
 \ff[introBenitex]\bNathan: São relíquias encontradas nos oceanos de Hoenn. Interessante.
-\ff[introBenitex]\bNathan: São relíquias encontradas nos oceanos de Hoenn. Interessante.
+\ff[introBenitex]\bNathan: Relics found in the oceans of Hoenn. Interesting.
 Vou revender isso pelo dobro do preço hehe.
-Vou revender isso pelo dobro do preço hehe.
+I'm going to resell this for double the price, hehe.
 Você vai comprar joias?
-Você vai comprar joias?
+Are you going to buy jewelry?
 \ff[introBenitex]\bNathan: Acho que vou, já estou aqui mesmo.
-\ff[introBenitex]\bNathan: Acho que vou, já estou aqui mesmo.
+\ff[introBenitex]\bNathan: I think so.
 Tem certeza? Para que você quer isso?
-Tem certeza? Para que você quer isso?
+Are you sure? Do you really need them?
 \ff[introBenitex]\bNathan: Para ser sincero, não faço ideia.
-\ff[introBenitex]\bNathan: Para ser sincero, não faço ideia.
+\ff[introBenitex]\bNathan: To be honest, I don't know.
 Então não despedice seu dinheiro!
-Então não despedice seu dinheiro!
+So don't waste your money!
 \ff[introBenitex]\bNathan: Acho que não, não sei para que usaria elas.
-\ff[introBenitex]\bNathan: Acho que não, não sei para que usaria elas.
+\ff[introBenitex]\bNathan: I don't think so, I don't know what I would use them for.
 Elas tem que ter algum propósito, essa loja não está vazia a toa, mas não faço ideia de qual é!
-Elas tem que ter algum propósito, essa loja não está vazia a toa, mas não faço ideia de qual é!
+They must have some purpose. This store isn't crowded for no reason, but I have no idea what that purpose is!
 O propósito dessas joias é um grande mistério.
-O propósito dessas joias é um grande mistério.
+The purpose of these jewels is a great mystery.
 \ff[introBenitex]\bNathan: São caixas com mega stones!
-\ff[introBenitex]\bNathan: São caixas com mega stones!
+\ff[introBenitex]\bNathan: Those are Mega Stones on display!
 Olá moço, precisa de ajuda? É sua primeira vez aqui?
-Olá moço, precisa de ajuda? É sua primeira vez aqui?
+Hello, sir, do you need help? Is this your first time here?
 \ff[introBenitex]\bNathan: Sim, gostaria de saber mais sobre a loja.
-\ff[introBenitex]\bNathan: Sim, gostaria de saber mais sobre a loja.
+\ff[introBenitex]\bNathan: Yes, I would like to know more about the store.
 Certo, aqui vendemos joias, ouro, pérolas, esse tipo de coisa.
-Certo, aqui vendemos joias, ouro, pérolas, esse tipo de coisa.
+Right, here we sell jewelry, gold, pearls, that sort of thing.
 Aqui, onde eu estava arrumando, tem algumas a amostra.
-Aqui, onde eu estava arrumando, tem algumas a amostra.
+There are some on display here.
 Nós também vendemos mega stones, é só falar com o moço na parte sul do balcão.
-Nós também vendemos mega stones, é só falar com o moço na parte sul do balcão.
+We also sell mega stones. Just talk to the guy on the south side of the counter.
 \ff[introBenitex]\bNathan: Entendi, obrigado.
-\ff[introBenitex]\bNathan: Entendi, obrigado.
+\ff[introBenitex]\bNathan: Got it, thanks.
 \ff[introBenitex]\bNathan: Não precisa, vou me virar sozinho.
-\ff[introBenitex]\bNathan: Não precisa, vou me virar sozinho.
+\ff[introBenitex]\bNathan: Don't worry, I'll explore on my own.
 Tudo bem.
-Tudo bem.
+Right.
 Se precisar de algo, pode falar comigo.
-Se precisar de algo, pode falar comigo.
+If you need anything, please let me know.
 O fim da fila é ali atrás, menino.
-O fim da fila é ali atrás, menino.
+The end of the line is back there, young man.
 \ff[introBenitex]\bNathan: Ah, certo, desculpe.
-\ff[introBenitex]\bNathan: Ah, certo, desculpe.
+\ff[introBenitex]\bNathan: Oh, right, sorry.
 Vou.
-Vou.
+Yes.
 Acho que não.
-Acho que não.
+I don't think so.
 Claro.
-Claro.
+Yes.
 Não.
-Não.
+No.
 Sim.
-Sim.
+Yes.
 Kanto.
 Kanto.
 Johto.
@@ -7168,15 +7166,15 @@ Johto.
 Hoenn.
 Hoenn.
 Outras.
-Outras.
+Other.
 Sem problemas.
-Sem problemas.
+No problem.
 Isso é um absurdo!
-Isso é um absurdo!
+That's absurd!
 Sim, por favor.
-Sim, por favor.
+Yes, please.
 Não precisa.
-Não precisa.
+No, thanks
 [Map39]
 Eu adorava completar a pokedex quando era um treinador como você.
 Eu adorava completar a pokedex quando era um treinador como você.
