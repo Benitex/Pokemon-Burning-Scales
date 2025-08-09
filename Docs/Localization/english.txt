@@ -5799,7 +5799,7 @@ BATTLE, BATTLE!
 \ff[introOak]\rBut listen to me before you leave: you need to talk to the police before any fighting.
 \ff[introOak]\rVocê pode simplesmente ir até a delegacia e avisar a eles que está tentando tirar os motoqueiros da Rota 4.
 \ff[introOak]\rYou can simply go to the police station and tell them you'll try to get the Bikers off Route 4.
-\ff[introBenitex]\bNathan: Para falar a verdade, já conversei com os políciais.
+\ff[introBenitex]\bNathan: Para falar a verdade, já conversei com os policiais.
 \ff[introBenitex]\bNathan: Oh, I have talked with them about this already.
 \ff[introOak]\rÓtimo, assim é ainda melhor! Agora preciso que você derrote os motoqueiros, Nathan.
 \ff[introOak]\rGreat, that's even better! Now I need you to defeat those Bikers, Nathan.
@@ -7177,245 +7177,245 @@ Não precisa.
 No, thanks
 [Map39]
 Eu adorava completar a pokedex quando era um treinador como você.
-Eu adorava completar a pokedex quando era um treinador como você.
+I used to love filling out my Pokédex when I was a trainer like you.
 Hoje em dia já estou velho, mal consigo correr atrás dos pokemon.
-Hoje em dia já estou velho, mal consigo correr atrás dos pokemon.
+But now I'm too old to run after Pokémon.
 Mas, mesmo assim, consigo ajudar nos registros do Clube, esse tipo de coisa é minha responsabilidade.
-Mas, mesmo assim, consigo ajudar nos registros do Clube, esse tipo de coisa é minha responsabilidade.
+But I can still deal with the records of the Club. This is my responsibility.
 \l[3]\ff[introBenitex]\bNathan: Que bom que você ainda consegue trabalhar com o que ama. Foi um prazer te conhecer.
-\l[3]\ff[introBenitex]\bNathan: Que bom que você ainda consegue trabalhar com o que ama. Foi um prazer te conhecer.
+\l[3]\ff[introBenitex]\bNathan: It's great that you still get to work with what you love. It was a pleasure meeting you.
 O prazer é meu, jovem.
-O prazer é meu, jovem.
+The pleasure is mine, young man.
 \l[3]Registrar os pokemon nas rotas é um trabalho muito importante. Assim podemos sair muito mais preparados para evitar riscos na caminhada.
-\l[3]Registrar os pokemon nas rotas é um trabalho muito importante. Assim podemos sair muito mais preparados para evitar riscos na caminhada.
+\l[3]Recording the species that inhabit the routes is a very important task. This allows us to be better prepared to avoid risks during the hike.
 Ah, você é o novo hiker da equipe, certo?
-Ah, você é o novo hiker da equipe, certo?
+You are the new Hiker in the Club, are you not?
 \ff[introBenitex]\bNathan: Sou sim. Muito prazer, me chamo Nathan.
-\ff[introBenitex]\bNathan: Sou sim. Muito prazer, me chamo Nathan.
-\l[3]Sabe, estamos precisando de alguém para registrar os pokemon da Rota 4. Você se juntou no momento erto!
-\l[3]Sabe, estamos precisando de alguém para registrar os pokemon da Rota 4. Você se juntou no momento erto!
+\ff[introBenitex]\bNathan: Yes, I am. Nice to meet you, my name is Nathan.
+\l[3]Sabe, estamos precisando de alguém para registrar os pokemon da Rota 4. Você se juntou no momento certo!
+\l[3]You know, we need someone to register the Pokémon on Route 4. You joined at just the right time!
 Você poderia capturar os pokemon da Rota 4 e mostrar os registros deles na pokedex para o Chefe?
-Você poderia capturar os pokemon da Rota 4 e mostrar os registros deles na pokedex para o Chefe?
+Could you capture the Pokémon on Route 4 and show their entries in the Pokédex to the boss?
 \ff[introBenitex]\bNathan: Claro que sim, pode deixar comigo!
-\ff[introBenitex]\bNathan: Claro que sim, pode deixar comigo!
+\ff[introBenitex]\bNathan: Sure, you can count on me!
 Ótimo, ótimo. Você tem futuro aqui!
-Ótimo, ótimo. Você tem futuro aqui!
+Good, good. You have a future here!
 \ff[introBenitex]\bNathan: Desculpe, estou um pouco ocupado agora, talvez eu ajude vocês mais tarde.
-\ff[introBenitex]\bNathan: Desculpe, estou um pouco ocupado agora, talvez eu ajude vocês mais tarde.
+\ff[introBenitex]\bNathan: Sorry, I'm a little busy right now, maybe I can help you later.
 Ah. Tudo bem.
-Ah. Tudo bem.
+That's fine.
 Vejo que você já registrou todos os pokemon da Rota 4 na sua pokedex, muito bem!
-Vejo que você já registrou todos os pokemon da Rota 4 na sua pokedex, muito bem!
+I see you've already registered all the Pokémon on Route 4 in your Pokédex, well done!
 Se você conversar com o chefe, ele deve ter uma recompensa preparada para você.
-Se você conversar com o chefe, ele deve ter uma recompensa preparada para você.
+Talk to the boss, he should have a reward ready for you.
 Todos os hikers vão se lembrar dessa tarefa, ela vai ser essencial para nossas futuras espedições. Parabéns Nathan.
-Todos os hikers vão se lembrar dessa tarefa, ela vai ser essencial para nossas futuras espedições.  Parabéns Nathan.
+All hikers will remember this task, it will be essential for our future expeditions. Congratulations Nathan.
 \ff[introBenitex]\bNathan: Muito obrigado!
-\ff[introBenitex]\bNathan: Muito obrigado!
+\ff[introBenitex]\bNathan: Thank you!
 Ah, vejo que você ainda não conseguiu capturar todos os pokemon da Rota 4.
-Ah, vejo que você ainda não conseguiu capturar todos os pokemon da Rota 4.
+Oh, I see you're still trying to catch all Pokémon species on Route 4.
 Lembre-se que alguns pokemon só aparecem em algumas partes do dia.
-Lembre-se que alguns pokemon só aparecem em algumas partes do dia.
+Don't forget that some Pokémon only appear at certain times of the day.
 Não vá procurar um growlithe durante o dia, você não vai encontrar!
-Não vá procurar um growlithe durante o dia, você não vai encontrar!
+Don't go looking for a Growlithe during the day, you won't find any!
 \ff[introBenitex]\bNathan: Ah, é verdade. Obrigado por me lembrar.
-\ff[introBenitex]\bNathan: Ah, é verdade. Obrigado por me lembrar.
+\ff[introBenitex]\bNathan: Yes, that's true. Thanks for reminding me.
 Boa sorte em suas expedições.
-Boa sorte em suas expedições.
+Good luck on your expeditions.
 \ff[introBenitex]\bNathan: Oi!
-\ff[introBenitex]\bNathan: Oi!
+\ff[introBenitex]\bNathan: Hi!
 Hum, que foi?
-Hum, que foi?
+Oh, what do you want?
 \ff[introBenitex]\bNathan: Beleza?
-\ff[introBenitex]\bNathan: Beleza?
+\ff[introBenitex]\bNathan: Are you fine?
 É. Beleza.
-É. Beleza.
+Yeah. I'm fine.
 \ff[introBenitex]\bNathan: Ah.
-\ff[introBenitex]\bNathan: Ah.
+\ff[introBenitex]\bNathan: Oh.
 \ff[introBenitex]\bQue bom então, tenha um bom dia!
-\ff[introBenitex]\bQue bom então, tenha um bom dia!
+\ff[introBenitex]\bGreat, have a good day!
 \ff[introBenitex]\bNathan: E aí?
-\ff[introBenitex]\bNathan: E aí?
+\ff[introBenitex]\bNathan: What's up?
 \ff[introBenitex]\bNathan: Não? Tento de novo mais tarde então.
-\ff[introBenitex]\bNathan: Não? Tento de novo mais tarde então.
+\ff[introBenitex]\bNathan: No? I'll try again later then.
 \l[3]Antes dos Motoqueiros invadirem a Rota 4, eu costumava visitar uma caverna no sudoeste do Desert Resort.
-\l[3]Antes dos Motoqueiros invadirem a Rota 4, eu costumava visitar uma caverna no sudoeste do Desert Resort.
+\l[3]Before the Bikers took over Route 4, I used to love visiting a cave in the southwest of Desert Resort.
 Não sei, aquela caverna parece ter um tom místico, sinto saudades.
-Não sei, aquela caverna parece ter um tom místico, sinto saudades.
+It has some kind of mystical, whimsical vibe. So silent. I miss it.
 \l[3]Sabe, poucos dias atrás, eu fui visitar o Desert Resort e encontrei uma meia dúzia de Vibravas num mesmo lugar!
-\l[3]Sabe, poucos dias atrás, eu fui visitar o Desert Resort e encontrei uma meia dúzia de Vibravas num mesmo lugar!
+\l[3]You know, a few day ago, I visited the Desert Resort and found like a dozen Vibravas in one place!
 Eles começaram a fazer barulhos estranhos, tive que sair correndo.
-Eles começaram a fazer barulhos estranhos, tive que sair correndo.
+They started making strange noises. So I run away as fast as possible.
 \ff[introBenitex]\bNathan: Você invadiu o território deles ou coisa assim?
-\ff[introBenitex]\bNathan: Você invadiu o território deles ou coisa assim?
+\ff[introBenitex]\bNathan: You were invading their territory or something?
 Não tenho certeza, acho que não. Nunca tinha visto tantos vibravas por ali.
-Não tenho certeza, acho que não. Nunca tinha visto tantos vibravas por ali.
+I'm not sure, I don't think so. I'd never seen so many Vibravas there before.
 \ff[introBenitex]\bNathan: Então você frequentava o lugar?
-\ff[introBenitex]\bNathan: Então você frequentava o lugar?
+\ff[introBenitex]\bNathan: So you used to go there often?
 Sim, eu estava indo para uma caverna onde costumava pasar o tempo antes dos motoqueiros invadirem a Rota 4.
-Sim, eu estava indo para uma caverna onde costumava pasar o tempo antes dos motoqueiros invadirem a Rota 4.
+Yeah, on that day, I was going to a cave where I used to spend time before the bikers invaded Route 4.
 \ff[introBenitex]\bNathan: Interessante.
-\ff[introBenitex]\bNathan: Interessante.
+\ff[introBenitex]\bNathan: Interesting.
 Aqueles vibravas, aqueles sons... Aquele momento me dá calafrios até hoje.
-Aqueles vibravas, aqueles sons... Aquele momento me dá calafrios até hoje.
+Those vibrations, those sounds... That moment still gives me chills to this day.
 Você acha que pode me ajudar? Queria poder passar de novo naquela caverna.
-Você acha que pode me ajudar? Queria poder passar de novo naquela caverna.
+Do you think you can help me? I wish I could go back to that cave again.
 \ff[introBenitex]\bNathan: Tudo bem, estou vendo que essa caverna é bem importante pra você.
-\ff[introBenitex]\bNathan: Tudo bem, estou vendo que essa caverna é bem importante pra você.
+\ff[introBenitex]\bNathan: Yes, I can see that this cave is very important to you.
 \ff[introBenitex]\bOnde posso encontrar esses vibravas?
-\ff[introBenitex]\bOnde posso encontrar esses vibravas?
+\ff[introBenitex]\bWhere can I find those Vibravas?
 \l[3]A caverna é na parte sudoeste do Desert Resort. É meio difícil de chegar lá, você tem que passar por perto dos muros de pedra.
-\l[3]A caverna é na parte sudoeste do Desert Resort.  É meio difícil de chegar lá, você tem que passar por perto dos muros de pedra.
+\l[3]The cave is in the southwestern part of the Desert Resort. It's kind of hard to get there, it's hidden, close to some stone walls.
 \ff[introBenitex]\bNathan: Entendi, vou fazer o que puder.
-\ff[introBenitex]\bNathan: Entendi, vou fazer o que puder.
+\ff[introBenitex]\bNathan: I understand, I'll try my best.
 \ff[introBenitex]\bNathan: Desculpe, mas não posso te ajudar agora. Talvez mais tarde.
-\ff[introBenitex]\bNathan: Desculpe, mas não posso te ajudar agora. Talvez mais tarde.
+\ff[introBenitex]\bNathan: Sorry, but I can't help now. Maybe later.
 Ah, sério? Achava que poderia contar com outro hiker...
-Ah, sério? Achava que poderia contar com outro hiker...
+Oh, really? I really hoped the new Hiker could help me...
 Muito obrigado por derrotar os vibravas, agora posso continuar visitando minha caverna!
-Muito obrigado por derrotar os vibravas, agora posso continuar visitando minha caverna!
+Thank you so much for defeating those vibravas, now I can freely visit my little cave!
 \ff[introBenitex]\bNathan: Consegui derrotar os vibravas. Realmente, eram muitos.
-\ff[introBenitex]\bNathan: Consegui derrotar os vibravas. Realmente, eram muitos.
+\ff[introBenitex]\bNathan: I managed to defeat the Vibravas. There were really a lot of them.
 \l[3]\ff[introBenitex]\bParece que tem uma superpopulação lá, algo errado com o ecossistema. Espero que isso resolva de momento.
-\l[3]\ff[introBenitex]\bParece que tem uma superpopulação lá, algo errado com o ecossistema.  Espero que isso resolva de momento.
+\l[3]\ff[introBenitex]\bIt seems like there's something wrong with the ecosystem there, that overpopulation is not common. I hope this solves it for now.
 Muito obrigado! Sabia que poderia contar com você.
-Muito obrigado! Sabia que poderia contar com você.
+Thank you very much! I knew I could count on you.
 Já falei com o chefia, pode pedir sua recompensa pra ele!
-Já falei com o chefia, pode pedir sua recompensa pra ele!
+I've already spoken to the boss, you can ask him for your reward!
 \ff[introBenitex]\bNathan: Opa, obrigado!
-\ff[introBenitex]\bNathan: Opa, obrigado!
+\ff[introBenitex]\bNathan: Wow, thanks!
 Conseguiu derrotar os vibravas?
-Conseguiu derrotar os vibravas?
+Did you manage to defeat the vibravas?
 \ff[introBenitex]\bNathan: Desculpe, ainda não tive tempo.
-\ff[introBenitex]\bNathan: Desculpe, ainda não tive tempo.
+\ff[introBenitex]\bNathan: Sorry, I did not have the time yet.
 Ah, tudo bem. Estou com saudade da minha caverna, mas entendo.
-Ah, tudo bem. Estou com saudade da minha caverna, mas entendo.
+Oh, it's fine. I miss my little cave, but I understand.
 Gosto de caminhar na areia, acho que faz bem pros pés.
-Gosto de caminhar na areia, acho que faz bem pros pés.
+I like walking on sand. It's good for the feet.
 Inclusive, acabei de passar na prainha da Rota 4, está bem movimentada.
-Inclusive, acabei de passar na prainha da Rota 4, está bem movimentada.
+I've just been to the little beach on Route 4, and it's very busy.
 Você deveria dar uma passadinha lá, tem muita gente boa.
-Você deveria dar uma passadinha lá, tem muita gente boa.
+There are a lot of nice people there, you should stop by.
 \ff[introBenitex]\bNathan: Valeu pela dica.
-\ff[introBenitex]\bNathan: Valeu pela dica.
+\ff[introBenitex]\bNathan: Thanks for the tip.
 Agora você é um de nós, né?
-Agora você é um de nós, né?
+You're one of us now, right?
 \ff[introBenitex]\bNathan: Sim, sou o novo membro do Clube.
-\ff[introBenitex]\bNathan: Sim, sou o novo membro do Clube.
+\ff[introBenitex]\bNathan: Yes, I'm the newest member of the Club!
 Então deixa eu te contar uma coisa...
-Então deixa eu te contar uma coisa...
+So, let me tell you something...
 Algumas horas atrás, eu estava na praia da Rota 4, caminhando como de costume.
-Algumas horas atrás, eu estava na praia da Rota 4, caminhando como de costume.
+A few hours ago, I was on Route 4 beach. Walking as usual.
 E, simplesmente, tinha um wailord boiando na borda da praia.
-E, simplesmente, tinha um wailord boiando na borda da praia.
+And I saw a Wailord floating on the shore. A Wailord!
 \ff[introBenitex]\bNathan: Um wailord? Ali? Não é possível...
-\ff[introBenitex]\bNathan: Um wailord? Ali? Não é possível...
+\ff[introBenitex]\bNathan: A wailord? On that tiny beach? No way...
 Pois é! Todo mundo saiu correndo da água e ninguém quer voltar mais.
-Pois é! Todo mundo saiu correndo da água e ninguém quer voltar mais.
+Yeah! Everyone ran out of the water and no one wants to go back in.
 Alguém deveria tirar esse wailord de lá. Se um de nós fizesse isso, com certeza nosso Clube se tornaria mais popular.
-Alguém deveria tirar esse wailord de lá. Se um de nós fizesse isso, com certeza nosso Clube se tornaria mais popular.
+Someone should get that Wailord out of there. If one of us did that, our club would definitely become more popular.
 \ff[introBenitex]\bNathan: Ah, acho que eu posso ajudar com isso.
-\ff[introBenitex]\bNathan: Ah, acho que eu posso ajudar com isso.
+\ff[introBenitex]\bNathan: I think I can help with that.
 Sério? Ótimo! Tenho certeza que o chefe vai gostar dessa notícia.
-Sério? Ótimo! Tenho certeza que o chefe vai gostar dessa notícia.
+Really? Great! I'm sure the boss will like that news.
 Ele está no sul da Rota 4, na praia. Volte aqui e fale com a gente quando conseguir resolver o problema.
-Ele está no sul da Rota 4, na praia. Volte aqui e fale com a gente quando conseguir resolver o problema.
+Come back here and talk to us when you manage to solve the problem.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Okay.
 Aquele wailord que está assustando os banhistas está no sul da Rota 4, na praia.
-Aquele wailord que está assustando os banhistas está no sul da Rota 4, na praia.
+That Wailord that is scaring swimmers is south of Route 4, on the beach.
 Obrigado por se oferecer pra resolver o problema!
-Obrigado por se oferecer pra resolver o problema!
-\ff[introBenitex]\bNathan: Está feito, o wailord já lidei com o wailord.
-\ff[introBenitex]\bNathan: Está feito, o wailord já lidei com o wailord.
+Thank you for offering to solve the problem!
+\ff[introBenitex]\bNathan: Está feito, o wailord foi derrotado.
+\ff[introBenitex]\bNathan: It's done, the Wailord has been defeated.
 Ah, ótimo, aposto que a minha galera já deve ter voltado pro mar!
-Ah, ótimo, aposto que a minha galera já deve ter voltado pro mar!
+Great, I bet my crew must have already gone back to sea!
 Se você conversar com o Chefe, aposto que ele vai te oferecer uma recompensa por isso.
-Se você conversar com o Chefe, aposto que ele vai te oferecer uma recompensa por isso.
+If you talk to the boss, I bet he'll offer you a reward for that.
 \ff[introBenitex]\bNathan: Opa, beleza.
-\ff[introBenitex]\bNathan: Opa, beleza.
+\ff[introBenitex]\bNathan: Nice.
 \l[3]Obrigado de novo por tirar aquele wailord de lá. A praia da Rota 4 é pequena, mas é a mais próxima de Castelia, então é bem popular.
-\l[3]Obrigado de novo por tirar aquele wailord de lá. A praia da Rota 4 é pequena, mas é a mais próxima de Castelia, então é bem popular.
+\l[3]Thanks again for getting that Wailord out of there. Route 4 beach is small, but it's the closest to Castelia, so it's quite popular.
 \ff[introBenitex]\bNathan: Fico feliz em saber que ajudei.
-\ff[introBenitex]\bNathan: Fico feliz em saber que ajudei.
+\ff[introBenitex]\bNathan: I'm glad to hear that I was helpful.
 Ah, mas a caverna Chargestone é aqui do lado! Quero saber de uma caverna mais longe.
-Ah, mas a caverna Chargestone é aqui do lado!  Quero saber de uma caverna mais longe.
+Oh, Chargestone Cave is too close! I want to go further away.
 Que tal a Mistralton?
-Que tal a Mistralton?
+What about Mistralton?
 Mas é do lado!
-Mas é do lado!
+That's right next door!
 O Tunel de Argila?
-O Tunel de Argila?
+Clay Tunnel?
 Não é possível, Unova deve ter alguma caverna que não seja no oeste...
-Não é possível, Unova deve ter alguma caverna que não seja no oeste...
+That's not possible. Unova must have some caves that aren't in the west...
 \ff[introBenitex]\bNathan: (Eles parecem bem engajados na conversa.)
-\ff[introBenitex]\bNathan: (Eles parecem bem engajados na conversa.)
+\ff[introBenitex]\bNathan: (They seem very engaged in the conversation.)
 A gente usa essa mesa pra fazer reuniões importantes.
-A gente usa essa mesa pra fazer reuniões importantes.
+We use this table for important meetings.
 Pra falar a verdade, a gente quase nunca faz reunião nenhuma.
-Pra falar a verdade, a gente quase nunca faz reunião nenhuma.
+We actually hardly ever have any meetings.
 Então essa mesa é a mesa de almoço!
-Então essa mesa é a mesa de almoço!
+So this table is our lunch table!
 Você pode almoçar com a gente também se quiser.
-Você pode almoçar com a gente também se quiser.
+You can have lunch with us too, if you like.
 Se você também virar um Hiker, vai poder comer com a gente aqui!
-Se você também virar um Hiker, vai poder comer com a gente aqui!
+If you become a Hiker too, you can eat with us here!
 Sou eu que faço a comida pra todos os Hikers.
-Sou eu que faço a comida pra todos os Hikers.
+I cook for all the Hikers.
 Espero que você goste!
-Espero que você goste!
+I hope you like it!
 \ff[introBenitex]\bNathan: (São livros de escoteiros.)
-\ff[introBenitex]\bNathan: (São livros de escoteiros.)
+\ff[introBenitex]\bNathan: (Scouting books.)
 \ff[introBenitex]\bNathan: (São livros sobre acampamentos e guias de sobrevivência.)
-\ff[introBenitex]\bNathan: (São livros sobre acampamentos e guias de sobrevivência.)
-Não se esqueça de Arceus jovem.
-Não se esqueça de Arceus jovem.
+\ff[introBenitex]\bNathan: (Books about camping and survival guides.)
+Não se esqueça de Arceus, jovem.
+Do not forget Arceus, young man.
 Sabe, quando eu era mais jovem, caí de um desfiladeiro. Saí rolando por muitos metros, era bastante íngreme.
-Sabe, quando eu era mais jovem, caí de um desfiladeiro. Saí rolando por muitos metros, era bastante íngreme.
+You know, when I was younger, I fell off a cliff. I rolled down for many meters, it was quite steep.
 A dor foi inexplicável.
-A dor foi inexplicável.
+My pain was indescribable.
 \l[3]De todo modo, fui levado para um hospital e, depois de uma semana, fui curado com ajuda de enfermeiras e pokemon.
-\l[3]De todo modo, fui levado para um hospital e, depois de uma semana, fui curado com ajuda de enfermeiras e pokemon.
+\l[3]I was taken to a hospital, and after a week, I was cured with the help of nurses and Pokémon.
 Graças a Arceus e sua criação, continuo minhas jornadas sem sequelas.
-Graças a Arceus e sua criação, continuo minhas jornadas sem sequelas.
+Thanks to Arceus and his creation, I continue my journeys without any lasting effects.
 \ff[introBenitex]\bNathan: Caramba, que história. Isso deve ter sido bem impactante pra você.
-\ff[introBenitex]\bNathan: Caramba, que história. Isso deve ter sido bem impactante pra você.
+\ff[introBenitex]\bNathan: Wow, what a story. That must have been quite an impact on you.
 Realmente foi, desde esse dia, rezo e agradeço em frente dessa estátua todos os dias.
-Realmente foi, desde esse dia, rezo e agradeço em frente dessa estátua todos os dias.
+It really was. Since that day, I have been praying and giving thanks in front of that statue every day.
 Nunca se esqueça de tudo que Arceus proporcionou para você, jovem.
-Nunca se esqueça de tudo que Arceus proporcionou para você, jovem.
+Never forget everything Arceus has done for you, young man.
 Nossa vitória nas eleições? Foi graças a Arceus.
-Nossa vitória nas eleições? Foi graças a Arceus.
-Você viu como os políciais fecharam a Rota 4? Eu acho isso um absurdo!
-Você viu como os políciais fecharam a Rota 4? Eu acho isso um absurdo!
+Our victory in the elections? It was thanks to Arceus.
+Você viu como os policiais fecharam a Rota 4? Eu acho isso um absurdo!
+Did you see how the police closed Route 4? I think that's absurd!
 Nós, Hikers, temos total capacidade de nos defender daqueles Motoqueiros fajutos!
-Nós, Hikers, temos total capacidade de nos defender daqueles Motoqueiros fajutos!
+We, Hikers, are fully capable of defending ourselves against those shameless Bikers!
 Finalmente esses Motoqueiros saíram da Rota 4, já não aguentava mais ficar aqui esperando sem fazer nada.
-Finalmente esses Motoqueiros saíram da Rota 4, já não aguentava mais ficar aqui esperando sem fazer nada.
+Those Bikers finally left Route 4. I couldn't stand waiting here doing nothing any longer.
 \ff[introBenitex]\bNathan: Os policiais não deixavam nem vocês passarem?
-\ff[introBenitex]\bNathan: Os policiais não deixavam nem vocês passarem?
+\ff[introBenitex]\bNathan: Did the police not let even you guys pass?
 Pois é, não deixavam! Não deixavam ninguém passar!
-Pois é, não deixavam! Não deixavam ninguém passar!
+Yeah, they did not! Can you believe it?
 Onde já se viu? Deixar os Hikers sem poder caminhar pela rota...
-Onde já se viu? Deixar os Hikers sem poder caminhar pela rota...
+Not letting the Hikers hike? That's crazy.
 Bom, pelo menos esse problema já foi resolvido.
-Bom, pelo menos esse problema já foi resolvido.
+Well, at least that problem has been solved.
 Não vejo a hora de expulsarem esses Motoqueiros da Rota 4.
-Não vejo a hora de expulsarem esses Motoqueiros da Rota 4.
+I can't wait for them to kick those bikers off Route 4.
 Vou tentar ver com o chefe se ele consegue fazer alguma coisa, pra pelo menos deixarem a gente passar por lá.
-Vou tentar ver com o chefe se ele consegue fazer alguma coisa, pra pelo menos deixarem a gente passar por lá.
+I'll ask the boss to do something, so they'll at least let us pass through.
 Finalmente podemos voltar a caminhar na Rota 4 e no Desert Resort!
-Finalmente podemos voltar a caminhar na Rota 4 e no Desert Resort!
+We can finally hike on Route 4 and in the Desert Resort again!
 O que são os Hikers sem seu longo caminho, né?
-O que são os Hikers sem seu longo caminho, né?
+What are Hikers without their hikes, right?
 Claro!
-Claro!
+Sure!
 Estou ocupado.
-Estou ocupado.
+I'm busy.
 Tudo bem.
-Tudo bem.
+Sure.
 Estou ocupado no momento.
-Estou ocupado no momento.
+I'm a bit busy now.
 [Map40]
 \ff[introBenitex]\bNathan: Opa, tudo bem?
 \ff[introBenitex]\bNathan: Opa, tudo bem?
