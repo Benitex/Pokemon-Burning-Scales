@@ -7418,315 +7418,313 @@ Estou ocupado no momento.
 I'm a bit busy now.
 [Map40]
 \ff[introBenitex]\bNathan: Opa, tudo bem?
-\ff[introBenitex]\bNathan: Opa, tudo bem?
+\ff[introBenitex]\bNathan: Hey, how's it going?
 Quer falar com o chefe?
-Quer falar com o chefe?
+Do you want to speak to the boss?
 \ff[introBenitex]\bNathan: Ah, é, isso aí. Posso passar?
-\ff[introBenitex]\bNathan: Ah, é, isso aí. Posso passar?
+\ff[introBenitex]\bNathan: Yeah. May I enter?
 Não antes de mostrar que é capaz.
-Não antes de mostrar que é capaz.
+Not before you show me what you're capable of.
 \ff[introBenitex]\bNathan: Você... Não vai pegar a pokebola?
-\ff[introBenitex]\bNathan: Você... Não vai pegar a pokebola?
+\ff[introBenitex]\bNathan: Will you... get your Poké Balls?
 Você realmente não conhece o Clube, né? Você não vai batalhar contra mim para entrar, a prova do seu valor é pelo Triple Triad.
-Você realmente não conhece o Clube, né? Você não vai batalhar contra mim para entrar, a prova do seu valor é pelo Triple Triad.
+Oh, you really don't know the club, do you? You won't fight me to get in. You'll prove your worth through Triple Triad.
 \ff[introBenitex]\bNathan: Ah, pelo Triple Triad então...
-\ff[introBenitex]\bNathan: Ah, pelo Triple Triad então...
+\ff[introBenitex]\bNathan: Through Triple Triad, then...
 \ff[introBenitex]\bBom, tudo bem, acho que posso jogar.
-\ff[introBenitex]\bBom, tudo bem, acho que posso jogar.
+\ff[introBenitex]\bOkay, let's play.
 Não, não, não.
-Não, não, não.
+No, no, no.
 \l[3]O esquema é o seguinte, primeiro você enfrenta os dois Mestres do Triple Triad, depois você volta aqui e a gente conversa.
-\l[3]O esquema é o seguinte, primeiro você enfrenta os dois Mestres do Triple Triad, depois você volta aqui e a gente conversa.
+\l[3]Here's the deal: first you face the two Triple Triad Masters, then you come back here and we'll talk.
 \ff[introBenitex]\bNathan: Ah, certo. Onde encontro eles?
-\ff[introBenitex]\bNathan: Ah, certo. Onde encontro eles?
+\ff[introBenitex]\bNathan: Okay. Where do I find them?
 Segundo andar do Game Corner. Boa sorte.
-Segundo andar do Game Corner. Boa sorte.
+Game Corner Second Floor. Good luck.
 \ff[introBenitex]\bNathan: (Hum, carinha rabujento.)
-\ff[introBenitex]\bNathan: (Hum, carinha rabujento.)
+\ff[introBenitex]\bNathan: (Grumpy guy...)
 \ff[introBenitex]\bCerto, obrigado!
-\ff[introBenitex]\bCerto, obrigado!
+\ff[introBenitex]\bThanks!
 \ff[introBenitex]\bNathan: Você me subestima, já derrotei os dois.
-\ff[introBenitex]\bNathan: Você me subestima, já derrotei os dois.
+\ff[introBenitex]\bNathan: Oh, don't underestimate, I already defeated them.
 O que? Não acredito. Mil perdões senhor, não tinha noção.
-O que? Não acredito. Mil perdões senhor, não tinha noção.
+What? You did? Sorry sir, I had no clue.
 Pode passar, peço perdão novamente.
-Pode passar, peço perdão novamente.
+Please proceed, I apologize again.
 Enquanto você não derrotar os dois Mestres do Triple Triad, nem pense em tentar falar com o Chefe.
-Enquanto você não derrotar os dois Mestres do Triple Triad, nem pense em tentar falar com o Chefe.
+Until you defeat both Triple Triad Masters, don't even think about trying to talk to the Boss.
 Já disse uma vez, não vou ficar repetindo.
-Já disse uma vez, não vou ficar repetindo.
+I've said it once, I won't say it again.
 Não me lembro de você, é novo?
-Não me lembro de você, é novo?
+I don't know you, are you new here?
 \ff[introBenitex]\bNathan: Sim, não sou membro do Clube.
-\ff[introBenitex]\bNathan: Sim, não sou membro do Clube.
+\ff[introBenitex]\bNathan: Yes, I'm not a member of the Club.
 Ah, que pena. Queria jogar Triple Triad. Você pode falar com o chefe ali atrás, aí a gente joga depois!
-Ah, que pena. Queria jogar Triple Triad. Você pode falar com o chefe ali atrás, aí a gente joga depois!
+Oh, that's too bad. I wanted to play Triple Triad. You can talk to the Boss back there, and then we can play later!
 E aí? Vamos jogar? Valendo cinquentinha!
-E aí? Vamos jogar? Valendo cinquentinha!
+So, what do you say? Shall we play? Fifty coin on the line!
 \ff[introBenitex]\bNathan: Opa, claro.
-\ff[introBenitex]\bNathan: Opa, claro.
+\ff[introBenitex]\bNathan: Yeah, sure.
 Que vença o melhor!
-Que vença o melhor!
+May the best win!
 Droga, não acredito que perdi.
-Droga, não acredito que perdi.
+Damn, I can't believe I lost.
 Bom, aqui estão suas fichas, como prometido.
-Bom, aqui estão suas fichas, como prometido.
+Well, here are your coins, as promiesed.
 Se quiser jogar de novo, é só falar comigo.
-Se quiser jogar de novo, é só falar comigo.
+If you want to play again, just let me know.
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: Sure.
 Ganhei, uhuuul!
-Ganhei, uhuuul!
+I won, yaaay!
 Vamos, vamos, quero minhas fichas!
-Vamos, vamos, quero minhas fichas!
+Come on, come on, give me those coins!
 \ff[introBenitex]\bNathan: Droga, você vai ver na próxima!
-\ff[introBenitex]\bNathan: Droga, você vai ver na próxima!
+\ff[introBenitex]\bNathan: Damn it, you'll see next time!
 \ff[introBenitex]\bNathan: Ah, eu... Estou sem fichas.
-\ff[introBenitex]\bNathan: Ah, eu... Estou sem fichas.
+\ff[introBenitex]\bNathan: Oh, I... I don't have any more coins.
 Rá, acabei com suas fichas! Incrível!
-Rá, acabei com suas fichas! Incrível!
+Ha, I took all your coins! Amazing!
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 Quer uma revanche? Eu aceito!
-Quer uma revanche? Eu aceito!
+Do you want revenge? I accept it!
 \ff[introBenitex]\bNathan: Não, agora não.
-\ff[introBenitex]\bNathan: Não, agora não.
+\ff[introBenitex]\bNathan: No, not now.
 Ah, você não quer? Que chato!
-Ah, você não quer? Que chato!
+You don't want to play? Boring!
 Você quer jogar Triple Triad?
-Você quer jogar Triple Triad?
+Do you want to play Triple Triad?
 Não posso jogar com você. Fala com o chefe, na porta aqui atrás. Talvez ele te dê permissão.
-Não posso jogar com você. Fala com o chefe, na porta aqui atrás. Talvez ele te dê permissão.
+I can't play with you. Talk to the boss at the door back here. Maybe he'll give you permission.
 \ff[introBenitex]\bNathan: Ah, certo. Obrigado.
-\ff[introBenitex]\bNathan: Ah, certo. Obrigado.
+\ff[introBenitex]\bNathan: Okay. Thanks.
 \ff[introBenitex]\bNathan: Claro.
-\ff[introBenitex]\bNathan: Claro.
+\ff[introBenitex]\bNathan: Of course.
 Valendo 250 fichas, vamos lá!
-Valendo 250 fichas, vamos lá!
+For 250 coins, let's go!
 Ora, ora, ora. Você é bom!
-Ora, ora, ora. Você é bom!
+Well, well, well. You're good!
 \ff[introBenitex]\bNathan: Opa, muito obrigado.
-\ff[introBenitex]\bNathan: Opa, muito obrigado.
+\ff[introBenitex]\bNathan: Thank you.
 Aqui estão suas fichas, parabéns.
-Aqui estão suas fichas, parabéns.
+Here are your chips, congratulations.
 Raaaa! Você é muito ruim!
-Raaaa! Você é muito ruim!
-Agora vamos, quero minhas fichas! São 25!
-Agora vamos, quero minhas fichas! São 25!
+Ha! You're trash!
+Agora vamos, quero minhas fichas! São 250!
+Now come on, give me my coins! 250!
 \ff[introBenitex]\bNathan: Então... Não tenho 250 fichas comigo.
-\ff[introBenitex]\bNathan: Então... Não tenho 250 fichas comigo.
+\ff[introBenitex]\bNathan: So... I don't have 250 coins.
 Você não tem?
-Você não tem?
+You don't?
 Tudo bem, eu acho. Bom, evite fazer isso aqui, talvez alguém não goste.
-Tudo bem, eu acho. Bom, evite fazer isso aqui, talvez alguém não goste.
+Fine, I guess. I'm not asking for you car or anything like that.
 \ff[introBenitex]\bNathan: Foi mal.
-\ff[introBenitex]\bNathan: Foi mal.
+\ff[introBenitex]\bNathan: Sorry.
 \ff[introBenitex]\bNathan: Você é bom... Foi um bom jogo, aqui estão as fichas.
-\ff[introBenitex]\bNathan: Você é bom... Foi um bom jogo, aqui estão as fichas.
+\ff[introBenitex]\bNathan: You're good... That was a good game, here are the coins.
 \ff[introBenitex]\bNathan: Não, valeu, talvez depois.
-\ff[introBenitex]\bNathan: Não, valeu, talvez depois.
+\ff[introBenitex]\bNathan: Thanks, maybe later.
 Certo, vou ficar aqui durante a noite, volte quando quiser.
-Certo, vou ficar aqui durante a noite, volte quando quiser.
+I'll stay here overnight, come back whenever you want.
 Não vou jogar com você!
-Não vou jogar com você!
+I'm not playing with you!
 Você não é um de nós!
-Você não é um de nós!
+You're not one of us!
 Joga comigo! Triple Triad!
-Joga comigo! Triple Triad!
+Play with me! Triple Triad!
 \ff[introBenitex]\bNathan: Só se for agora!
-\ff[introBenitex]\bNathan: Só se for agora!
+\ff[introBenitex]\bNathan: Let's go!
 Quero só ver se você consegue me ganhar!
-Quero só ver se você consegue me ganhar!
+Let's see if you can beat me!
 Você roubou!
-Você roubou!
+You cheated!
 \ff[introBenitex]\bNathan: Que isso menino.
-\ff[introBenitex]\bNathan: Que isso menino.
+\ff[introBenitex]\bNathan: No, I didn't.
 Não, você roubou, tenho certeza!
-Não, você roubou, tenho certeza!
+Yes, you did, I'm sure of it!
 \ff[introBenitex]\bNathan: Ei, ei, ei, não roubei nada.
-\ff[introBenitex]\bNathan: Ei, ei, ei, não roubei nada.
+\ff[introBenitex]\bNathan: Hey, hey, hey, I didn't cheat.
 Drogaaaaaaaaaa!
-Drogaaaaaaaaaa!
+Bloody Giratina!
 Toma suas fichas, mas quero revanche. Sem usar essas cartas roubadas!
-Toma suas fichas, mas quero revanche. Sem usar essas cartas roubadas!
+Take those coins, but I want revenge! And you can't use those broken cards!
 \ff[introBenitex]\bNathan: 25 fichas? Tudo isso? Acho que não tenho aqui...
-\ff[introBenitex]\bNathan: 25 fichas? Tudo isso? Acho que não tenho aqui...
+\ff[introBenitex]\bNathan: 25 coins? All that? I don't have that much...
 Rá, você é bem pior que eu imaginava, aqui pode ficar com as minhas. Estou com pena.
-Rá, você é bem pior que eu imaginava, aqui pode ficar com as minhas. Estou com pena.
+You're much worse then I thought. Here, you can have mine. I feel sorry for you.
 \ff[introBenitex]\bNathan: Droga. Aqui.
-\ff[introBenitex]\bNathan: Droga. Aqui.
+\ff[introBenitex]\bNathan: Damn, here they are.
 Medroso!
-Medroso!
+Coward!
 \ff[introBenitex]\bNathan: Opa, tudo bem? Pode me dizer onde estou?
-\ff[introBenitex]\bNathan: Opa, tudo bem? Pode me dizer onde estou?
+\ff[introBenitex]\bNathan: Hello! Can you tell me what this place is?
 Ah, mil perdões, seja bem vindo ao Clube Cluchar!
-Ah, mil perdões, seja bem vindo ao Clube Cluchar!
+Oh, sorry, welcome to the Cluchar Club!
 \ff[introBenitex]\bNathan: Clube Cluchar?
-\ff[introBenitex]\bNathan: Clube Cluchar?
+\ff[introBenitex]\bNathan: Cluchar Club?
 Sim, você sabe das eleições, né?
-Sim, você sabe das eleições, né?
+Yeah, you know about the elections right?
 \ff[introBenitex]\bNathan: Sim, estou sabendo.
-\ff[introBenitex]\bNathan: Sim, estou sabendo.
+\ff[introBenitex]\bNathan: Yes, I do.
 Estão aconcetendo eleições para um novo líder de ginásio em Castelia nesse exato momento.
-Estão aconcetendo eleições para um novo líder de ginásio em Castelia nesse exato momento.
+Elections for the new Gym Leader of Castelia are happening right now.
 Você pode passar na Gym Street para votar.
-Você pode passar na Gym Street para votar.
+You can stop by Gym Street to vote.
 \ff[introBenitex]\bNathan: Ah, legal. Obrigado pela informação.
-\ff[introBenitex]\bNathan: Ah, legal. Obrigado pela informação.
+\ff[introBenitex]\bNathan: Cool, thanks for the info.
 Você pode votar na gente, se quiser.
-Você pode votar na gente, se quiser.
+You can vote for us if you want.
 Nós somos um clube de trainadores independentes. Nós valorizamos a liberdade e criatividade.
-Nós somos um clube de trainadores independentes. Nós valorizamos a liberdade e criatividade.
+We are a Club of independent trainers. We value freedom and creativity.
 \ff[introBenitex]\bNathan: Parecem bons valores.
-\ff[introBenitex]\bNathan: Parecem bons valores.
-\ff[introBenitex]\b(Só não sei se estão utilizando eles com responsabilidade...)
-\ff[introBenitex]\b(Só não sei se estão utilizando eles com responsabilidade...)
+\ff[introBenitex]\bNathan: Good values.
 \ff[introBenitex]\bPor que vocês escolheram criar o clube na Narrow Street? Não acha que isso pode influenciar negativamente a imagem do clube?
-\ff[introBenitex]\bPor que vocês escolheram criar o clube na Narrow Street? Não acha que isso pode influenciar negativamente a imagem do clube?
+\ff[introBenitex]\bWhy did you choose to establish the Club on Narrow Street? Don't you think this could negatively impact the Club's image?
 Não posso negar, a Narrow Street tem uma baita reputação ultimamente...
-Não posso negar, a Narrow Street tem uma baita reputação ultimamente...
+I can't deny that Narrow Street has had a poor reputation lately...
 Bom, antigamente ela não era muito diferente das outras principais ruas de Castelia.
-Bom, antigamente ela não era muito diferente das outras principais ruas de Castelia.
+Well, in the past, it wasn't much different from the other main streets in Castelia.
 \l[3]É verdade, ela surgiu um pouco depois e acabou sobrando menos espaço por causa das outras ruas, mas ainda assim era a mais aconchegante.
-\l[3]É verdade, ela surgiu um pouco depois e acabou sobrando menos espaço por causa das outras ruas, mas ainda assim era a mais aconchegante.
+\l[3]It's true that it came along a little later, so and ended up with less space because of the other streets. But it was still the coziest.
 \ff[introBenitex]\bNathan: Hum, interessante. O que aconteceu para ficar assim?
-\ff[introBenitex]\bNathan: Hum, interessante. O que aconteceu para ficar assim?
+\ff[introBenitex]\bNathan: What happened to make it that way?
 \l[3]Primeiro apareceu um pessoal barra pesada, depois os Motoqueiros. Hoje em dia, já são poucos os que passam por aqui fora eles.
-\l[3]Primeiro apareceu um pessoal barra pesada, depois os Motoqueiros. Hoje em dia, já são poucos os que passam por aqui fora eles.
-\l[3]Mas nosso Clube nasceu aqui, na era de ouro da Narrow Street, costumávamos passar muito tempo no Café Sonata também.
-\l[3]Mas nosso Clube nasceu aqui, na era de ouro da Narrow Street, costumávamos passar muito tempo no Café Sonata também.
-Eram bons tempos.
-Eram bons tempos.
+\l[3]First, some tough guys showed up, then the bikers. Nowadays, few people pass through here except for them.
+Mas nosso Clube nasceu aqui, na era de ouro da Narrow Street.
+But our club was born here, during the golden age of Narrow Street.
+Costumávamos passar muito tempo no Café Sonata também. Bons tempos.
+We used to spend a lot of time hanging around at Café Sonata too. Good times.
 \ff[introBenitex]\bNathan: Vocês pensam em fazer alguma coisa com a rua se ganharem as eleições?
-\ff[introBenitex]\bNathan: Vocês pensam em fazer alguma coisa com a rua se ganharem as eleições?
+\ff[introBenitex]\bNathan: Are you thinking of doing anything about the street if you win the election?
 Ah, sim, eu penso muito nisso. Mas não sei se o Lider está tão interessado nisso quanto eu.
-Ah, sim, eu penso muito nisso. Mas não sei se o Lider está tão interessado nisso quanto eu.
+I think a lot about that. I'm not sure if the Boss is as interested, though.
 \ff[introBenitex]\bNathan: É uma pena que vocês não tenham ganhado as eleições.
-\ff[introBenitex]\bNathan: É uma pena que vocês não tenham ganhado as eleições.
+\ff[introBenitex]\bNathan: It's a shame you didn't win the election.
 No rítmo que o clube anda, acho que isso foi bom pra Castelia.
-No rítmo que o clube anda, acho que isso foi bom pra Castelia.
+Honestly, at the pace the club is going, I think that was good for Castelia.
 \ff[introBenitex]\bNathan: Conheci o Líder de vocês. Acho que você deveria tomar o cargo dele.
-\ff[introBenitex]\bNathan: Conheci o Líder de vocês.  Acho que você deveria tomar o cargo dele.
+\ff[introBenitex]\bNathan: I met your Boss. I think you should take his place.
 \ff[introBenitex]\bVou falar a verdade, esse Clube não parece muito bem, mas acho que você conseguiria reerguer esse lugar.
-\ff[introBenitex]\bVou falar a verdade, esse Clube não parece muito bem, mas acho que você conseguiria reerguer esse lugar.
+\ff[introBenitex]\bTo be honest, this club doesn't look very good. But I think you could turn it around.
 Ah, muito obrigado. Mas, pra falar a verdade, não acho que conseguiria resolver nossos problemas.
-Ah, muito obrigado. Mas, pra falar a verdade, não acho que conseguiria resolver nossos problemas.
+Oh, thank you very much. But I don't think I could solve our problems.
 Não sei se consigo mudar muita coisa, mesmo se fossemos eleitos.
-Não sei se consigo mudar muita coisa, mesmo se fossemos eleitos.
+I don't know if I could change much, even if we were elected.
 \ff[introBenitex]\bNathan: (Talvez o problema desse lugar esteja na própria cultura do Clube...)
-\ff[introBenitex]\bNathan: (Talvez o problema desse lugar esteja na própria cultura do Clube...)
+\ff[introBenitex]\bNathan: (Maybe the problem with this place lies in the culture of the club itself...)
 \ff[introBenitex]\b(Ou talvez não consigam se adequar bem com o resto da cidade.)
-\ff[introBenitex]\b(Ou talvez não consigam se adequar bem com o resto da cidade.)
+\ff[introBenitex]\b(Or maybe they can't fit in well with the rest of the city.)
 \ff[introBenitex]\bDe toda forma, desejo boa sorte para vocês.
-\ff[introBenitex]\bDe toda forma, desejo boa sorte para vocês.
+\ff[introBenitex]\bAnyway, I wish you good luck.
 Ei, fala garoto, beleza? Como vão suas fichas?
-Ei, fala garoto, beleza? Como vão suas fichas?
+Hey, boy, how are your coins going?
 \ff[introBenitex]\bNathan: Fichas? Que fichas?
-\ff[introBenitex]\bNathan: Fichas? Que fichas?
+\ff[introBenitex]\bNathan: Coins? Sorry?
 As moedinhas do Game Corner rapá, não me diga que você nunca foi lá?
-As moedinhas do Game Corner rapá, não me diga que você nunca foi lá?
+The coins from the Game Corner, kid. Don't tell me you've never been there?
 \ff[introBenitex]\bNathan: Ah, sim, o Game Corner, claro.
-\ff[introBenitex]\bNathan: Ah, sim, o Game Corner, claro.
+\ff[introBenitex]\bNathan: Oh, yes, the Game Corner, of course.
 Então você conhece? Ótimo! E aí, quantas fichas você tem?
-Então você conhece? Ótimo! E aí, quantas fichas você tem?
+So you know it? Great! So, how many coins do you have?
 \ff[introBenitex]\bNathan: Joguei um pouco, mas não tenho muitas comigo não.
-\ff[introBenitex]\bNathan: Joguei um pouco, mas não tenho muitas comigo não.
+\ff[introBenitex]\bNathan: Oh, not many, I did not play much.
 Ah, você é iniciante então?
-Ah, você é iniciante então?
+You're a starter, then?
 \ff[introBenitex]\bNathan: Ah, é que não joguei muito, só comprei algumas e testei algumas máquinas.
-\ff[introBenitex]\bNathan: Ah, é que não joguei muito, só comprei algumas e testei algumas máquinas.
+\ff[introBenitex]\bNathan: Yes, I just bought some coins and tested some machines.
 Ah, você não gostou?
-Ah, você não gostou?
+Did you like it?
 Sabe, elas são bem úteis, os treinadores trocam essas fichas por items que aprimoram seus pokemon na bancada.
-Sabe, elas são bem úteis, os treinadores trocam essas fichas por items que aprimoram seus pokemon na bancada.
+You know, they're really useful. Trainers exchange these coins for items that improve their Pokémon.
 \ff[introBenitex]\bNathan: Hum, interessante.
-\ff[introBenitex]\bNathan: Hum, interessante.
+\ff[introBenitex]\bNathan: Interesting.
 \ff[introBenitex]\bNathan: Nada cara, gastei meu dinheiro todo nesses jogos e agora sobrou só isso.
-\ff[introBenitex]\bNathan: Nada cara, gastei meu dinheiro todo nesses jogos e agora sobrou só isso.
+\ff[introBenitex]\bNathan: Nothing, man. I spent all my money on those games and now this is all I have left.
 Caraca, é complicado, acontece com todo mundo.
-Caraca, é complicado, acontece com todo mundo.
+Damn, it's complicated, it happens to everyone.
 Enfim, daqui a pouco você já vai estar bem melhor.
-Enfim, daqui a pouco você já vai estar bem melhor.
+You'll soon be better. I'm sure.
 \ff[introBenitex]\bNathan: Eu sou ricooo!
-\ff[introBenitex]\bNathan: Eu sou ricooo!
+\ff[introBenitex]\bNathan: I'm riiich!
 Nossa, encontrei o novo mestre do game corner, então?
-Nossa, encontrei o novo mestre do game corner, então?
+Did I just find the new master of the Game Corner?
 Ótimo! Prazer em te conhecer. Como é seu nome?
-Ótimo! Prazer em te conhecer. Como é seu nome?
+Great! Nice to meet you. What's your name?
 \ff[introBenitex]\bNathan: Me chamo Nathan.
-\ff[introBenitex]\bNathan: Me chamo Nathan.
+\ff[introBenitex]\bNathan: My name is Nathan.
 Grande Nathan, preciso te contar uma coisa sobre nosso Clube.
-Grande Nathan, preciso te contar uma coisa sobre nosso Clube.
+Great Nathan, I need to tell you something about our Club.
 \ff[introBenitex]\bNathan: Realmente não sei do que você está falando.
-\ff[introBenitex]\bNathan: Realmente não sei do que você está falando.
+\ff[introBenitex]\bNathan: I really don't know what you're talking about.
 Caramba, você não conhece o Game Corner? Ah, então você não está tendo a experiência completa da cidade de Castelia.
-Caramba, você não conhece o Game Corner? Ah, então você não está tendo a experiência completa da cidade de Castelia.
+Arceus, you don't know about the Game Corner? Oh, then you're not getting the full Castelia City experience.
 \l[3]Sabe, o Game Corner fica ali na parte sul de Castelia, na Oceanfront Street. Você pode jogar nas máquinas, ganhar fichas e trocar por prêmios.
-\l[3]Sabe, o Game Corner fica ali na parte sul de Castelia, na Oceanfront Street. Você pode jogar nas máquinas, ganhar fichas e trocar por prêmios.
-Sabe, elas são bem úteis, normalmente os treinadores trocam essas fichas por items que aprimoram seus pokemon.
-Sabe, elas são bem úteis, normalmente os treinadores trocam essas fichas por items que aprimoram seus pokemon.
+\l[3]You know, the Game Corner is down in the southern part of Castelia, on Oceanfront Street. You can play the machines, win coins, and trade them in for prizes.
+Elas são bem úteis, normalmente os treinadores trocam essas fichas por items que aprimoram seus pokemon.
+They're really useful. Trainers exchange these coins for items that improve their Pokémon.
 \ff[introBenitex]\bNathan: Ah, sim, você tá falando do Game Corner.
-\ff[introBenitex]\bNathan: Ah, sim, você tá falando do Game Corner.
+\ff[introBenitex]\bNathan: Oh, yes, the Game Corner.
 \ff[introBenitex]\bJoguei um pouco, mas não tenho muitas comigo não.
-\ff[introBenitex]\bJoguei um pouco, mas não tenho muitas comigo não.
+\ff[introBenitex]\bI played a little, but I don't have many coins.
 \ff[introBenitex]\bEu sou ricooo!
-\ff[introBenitex]\bEu sou ricooo!
+\ff[introBenitex]\bI'm riiich!
 \l[3]Eu estava te fazendo essa pergunta porque aqui no Clube, a gente costuma jogar Triple Triad e alguns de nós apostam fichas também.
-\l[3]Eu estava te fazendo essa pergunta porque aqui no Clube, a gente costuma jogar Triple Triad e alguns de nós apostam fichas também.
+\l[3]I'm asking you about this because we often play Triple Triad here at the Club. Some of us bet coins from the Game Corner.
 \ff[introBenitex]\bNathan: Ah legal.
-\ff[introBenitex]\bNathan: Ah legal.
+\ff[introBenitex]\bNathan: Cool.
 \ff[introBenitex]\bNathan: Espera, isso é legal?
-\ff[introBenitex]\bNathan: Espera, isso é legal?
+\ff[introBenitex]\bNathan: Wait, is that legal?
 Cla-Claro que é! A gente não faria nada ilegal dentro do clube! Jamais! Somos 100% honestos, entendeu?
-Cla-Claro que é! A gente não faria nada ilegal dentro do clube! Jamais! Somos 100% honestos, entendeu?
+Well, of c-course it is! We wouldn't do anything illegal here! Never! We are 100% honest, understand?
 \ff[introBenitex]\bNathan: Ah, certo, certo, não se preocupe, não vou falar pra ninguém.
-\ff[introBenitex]\bNathan: Ah, certo, certo, não se preocupe, não vou falar pra ninguém.
+\ff[introBenitex]\bNathan: Yeah, sure, sure. Don't worry, I won't tell anyone.
 Não, não, você pode chamar mais pessoas pra cá! Só não chame as que usam azul, por favor.
-Não, não, você pode chamar mais pessoas pra cá!  Só não chame as que usam azul, por favor.
+No, please you can bring more people here! Just don't bring the ones wearing blue, please.
 Só tem mais um detalhe, talvez o pessoal não queira jogar com você enquanto você não for um de nós.
-Só tem mais um detalhe, talvez o pessoal não queira jogar com você enquanto você não for um de nós.
+There's just one more thing: people might not want to play with you until you're one of us.
 Mas fala com o chefe, acho que ele deve transformar você em um verdadeiro Cluchar rapidinho.
-Mas fala com o chefe, acho que ele deve transformar você em um verdadeiro Cluchar rapidinho.
+Talk to the Boss, he'll make you a true Cluchar in the blink of an eye.
 \ff[introBenitex]\bNathan: Ah, ótimo.
-\ff[introBenitex]\bNathan: Ah, ótimo.
+\ff[introBenitex]\bNathan: Great.
 Bem vindo ao Clube.
-Bem vindo ao Clube.
+Welcome to the Club.
 Você pode falar com o chefe ali nessa porta vermelha. Depois disso, qualquer um vai aceitar jogar Triple Triad com você.
-Você pode falar com o chefe ali nessa porta vermelha. Depois disso, qualquer um vai aceitar jogar Triple Triad com você.
+You can talk to the boss over there by the red door. After that, anyone will agree to play Triple Triad with you.
 Heh, sabia que você ia se juntar ao Clube, bem vindo meu chapa. Aproveite bem as partidas de Triple Triad!
-Heh, sabia que você ia se juntar ao Clube, bem vindo meu chapa. Aproveite bem as partidas de Triple Triad!
+Heh, I knew you'd join the Club. Welcome, buddy. Enjoy your Triple Triad matches!
 \ff[introBenitex]\bNathan: Pode deixar!
-\ff[introBenitex]\bNathan: Pode deixar!
-\ff[introBenitex]\bNathan: (É o Livro de Regras dos Dediê, parece rabiscado. O que será que isso está fazendo aqui?
-\ff[introBenitex]\bNathan: (É o Livro de Regras dos Dediê, parece rabiscado. O que será que isso está fazendo aqui?
+\ff[introBenitex]\bNathan: You bet!
+\ff[introBenitex]\bNathan: (É o Livro de Regras dos Dediê, parece rabiscado. O que será que isso está fazendo aqui?)
+\ff[introBenitex]\bNathan: (It's a Dediê Rulebook, scribbled on. What's it doing here?)
 \ff[introBenitex]\bNathan: E aí, tá fazendo o que?
-\ff[introBenitex]\bNathan: E aí, tá fazendo o que?
+\ff[introBenitex]\bNathan: Hey, what are you doing?
 Nada.
-Nada.
+Nothing.
 \ff[introBenitex]\bNathan: Nada?
-\ff[introBenitex]\bNathan: Nada?
+\ff[introBenitex]\bNathan: Nothing?
 Sim, só relaxando, assistindo umas partidas de Triple Triad. Essas coisas.
-Sim, só relaxando, assistindo umas partidas de Triple Triad. Essas coisas.
+Yeah, just chilling, watching some Triple Triad matches. Stuff like that.
 Pessoas diferentes jogam Triple Triad aqui dependendo do horário.
-Pessoas diferentes jogam Triple Triad aqui dependendo do horário.
+Some people play Triple Triad here, depending on the time of day.
 Alguns são melhores que outros, esses apostam mais fichas também. São meus favoritos.
-Alguns são melhores que outros, esses apostam mais fichas também. São meus favoritos.
+Some of them are better, but they also bet more chips. They're my favorites.
 Vamos!
-Vamos!
+Yes!
 Agora não.
-Agora não.
+No.
 Claro.
-Claro.
+Sure.
 Eleições?
-Eleições?
+Elections?
 Ah, claro.
-Ah, claro.
+I've been there.
 Não conheço não.
-Não conheço não.
+Game Corner?
 Sim, comecei a pouco tempo
-Sim, comecei a pouco tempo
+Yes, I just started.
 Nada, joguei e perdi tudo
-Nada, joguei e perdi tudo
+I lost everything.
 [Map41]
 Você viu quem se inscreveu para as eleições? Os Cluchar, acredita nisso?
 Did you see who signed up for the elections? The Cluchar, can you believe it?
