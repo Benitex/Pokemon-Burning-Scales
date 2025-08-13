@@ -1248,7 +1248,7 @@ Soda Pop - $300
 Limonada - $350
 Lemonade - $350
 Deixa para lá.
-Nevermind.
+(Leave.)
 Por favor.
 Please.
 Não, muito obrigado.
@@ -2292,7 +2292,7 @@ Soda Pop - $300
 Lemonade - $350
 Limonada - $350
 Deixa para lá.
-Nevermind.
+(Leave.)
 Exatamente o que eu queria!
 Exactly what I wanted!
 Vou contar com você então.
@@ -5313,7 +5313,7 @@ Ok, it's up to you, but I warned you...
 \ff[introBenitex]\bNathan: Cai fora, você vai me ofender de graça!
 \ff[introBenitex]\bNathan: Come on, don't offend me like that!
 Hehe, menino esperto. Mas vocês sempre voltam...
-Smart boy. But you guys alwasy come back...
+Smart boy. But you guys always come back...
 Seja muito bem vindo a Join Avenue, sou a atendente e cuido da loteria, você pode pegar um bilhete de forma gratuita uma vez por dia!
 Welcome to Joing Avenue, 
 \ff[introBenitex]\bNathan: Legal, como funciona?
@@ -8375,7 +8375,7 @@ Soda Pop - $300
 Limonada - $350
 Lemonade - $350
 Deixa para lá.
-Nevermind.
+(Leave.)
 Sim, é real.
 Yes, it's true.
 Não, só superstição.
@@ -9029,306 +9029,304 @@ Seu valor é imprescindível.
 Seu valor é imprescindível.
 [Map45]
 Esse menino não vai sair daí tão cedo...
-Esse menino não vai sair daí tão cedo...
+This boy isn't leaving anytime soon...
 Isso me faz repensar meu voto.
-Isso me faz repensar meu voto.
+This makes me reconsider my vote.
 Nenhum outro clube tem essa proposta!
-Nenhum outro clube tem essa proposta!
+No other Club seems to be worried about that!
 É verdade que os Hikers vão resolver o problema do Desert Resort?
-É verdade que os Hikers vão resolver o problema do Desert Resort?
+Is it true that the Hikers will solve the Desert Resort problem?
 Com certeza vamos. Talvez ainda não estejamos tão preparados, mas até o fim do mandato vai estar resolvido!
-Com certeza vamos. Talvez ainda não estejamos tão preparados, mas até o fim do mandato vai estar resolvido!
+We sure will. We may not be quite ready yet, but by the end of our term, it will be solved!
 Até o fim do mandato? Isso é muito tempo!
-Até o fim do mandato? Isso é muito tempo!
+By the end of the term? That's a long time!
 As soluções políticas demoram mais mesmo.
-As soluções políticas demoram mais mesmo.
+Political solutions do take longer.
 Eu votei em vocês, então quero ver o Desert Resort de volta!
-Eu votei em vocês, então quero ver o Desert Resort de volta!
+I voted for you, so I want the Desert Resort back!
 Pode deixar, até o fim do mandato vamos poder circular livremente!
-Pode deixar, até o fim do mandato vamos poder circular livremente!
+Don't worry, by the end of our term you'll be able to move around freely!
 Eu esperava que os Hikers ganhassem, mas os Dediê sempre estavam na frente...
-Eu esperava que os Hikers ganhassem, mas os Dediê sempre estavam na frente...
+I thought the Hikers could win, but the Dediê were always ahead. alwasy
 Você acha que eles vão resolver o problema do pokemon no Desert Resort?
-Você acha que eles vão resolver o problema do pokemon no Desert Resort?
+Do you think they'll will solve the Desert Resort problem?
 Não sei... Eles parecem tão preocupados com a ideia da Nova Castelia...
-Não sei... Eles parecem tão preocupados com a ideia da Nova Castelia...
+I don't know... They seem too focused on that New Castelia idea...
 Espero que eles não esqueçam dos problemas que Castelia passa agora.
-Espero que eles não esqueçam dos problemas que Castelia passa agora.
+I hope they don't overlook the problems the city is facing right now.
 Saia, saia! Essa é minha propriedade, não quero sua presença!
-Saia, saia! Essa é minha propriedade, não quero sua presença!
+Get out, get out! This is my property, I don't want you here!
 \ff[introBenitex]\bNathan: C-certo... Desculpe.
-\ff[introBenitex]\bNathan: C-certo... Desculpe.
+\ff[introBenitex]\bNathan: O-okay... Sorry.
 Vamos lá, eu vou pagar!
-Vamos lá, eu vou pagar!
+Come on, I'll pay for it!
 Eu quero 4 dúzias!
-Eu quero 4 dúzias!
+I want 4 dozen!
 Quatro dúzias? Senhor, isso é um exagero!
-Quatro dúzias? Senhor, isso é um exagero!
+Four dozen? Sir, that's excessive!
 E então, quer comprar casteliacones? Quantos?
-E então, quer comprar casteliacones? Quantos?
+\gSo, would you like to buy some Casteliacones? How many?
 \ff[introBenitex]\bNathan: Só um por enquanto.
-\ff[introBenitex]\bNathan: Só um por enquanto.
+\ff[introBenitex]\bNathan: Just one for now.
 Certo, aqui está.
-Certo, aqui está.
+Okay, here you go.
 \ff[introBenitex]\bNathan: Ih, estou sem dinheiro.
-\ff[introBenitex]\bNathan: Ih, estou sem dinheiro.
+\ff[introBenitex]\bNathan: Oh, I'm out of cash.
 Não faz mal, volte depois.
-Não faz mal, volte depois.
+That's okay, come back later.
 \ff[introBenitex]\bNathan: Quero uma dúzia.
-\ff[introBenitex]\bNathan: Quero uma dúzia.
+\ff[introBenitex]\bNathan: I'll take a dozen.
 Ótimo, aqui está.
-Ótimo, aqui está.
+Great, here you go.
 \ff[introBenitex]\bNathan: Não tenho todo esse dinheiro.
-\ff[introBenitex]\bNathan: Não tenho todo esse dinheiro.
+\ff[introBenitex]\bNathan: I don't have that much money.
 Compre menos então, menino.
-Compre menos então, menino.
+You can always buy less.
 \ff[introBenitex]\bNathan: O lugar está bastante movimentado, em?
-\ff[introBenitex]\bNathan: O lugar está bastante movimentado, em?
+\ff[introBenitex]\bNathan: The place is pretty busy, huh?
 Meus casteliacones são vendidos mundialmente, altamente requisitados.
-Meus casteliacones são vendidos mundialmente, altamente requisitados.
+I'm very proud of my Casteliacones, they're sold worldwide.
 Uso o melhor leite, das melhores miltanks de Johto, a água mais pura do mundo e o melhor freezer do mundo.
-Uso o melhor leite, das melhores miltanks de Johto, a água mais pura do mundo e o melhor freezer do mundo.
+I use the milk from the best Milktanks in Johto, the purest water in the world, and the best freezer in the world.
 Só assim posso fazer os melhores.
-Só assim posso fazer os melhores.
+That's the recipe for success.
 Aqui, pegue um para experimentar.
-Aqui, pegue um para experimentar.
+Here, have one to try.
 Se quiser mais é só pedir. Eu vendo um por $100 e uma dúzia por $1000.
-Se quiser mais é só pedir. Eu vendo um por $100 e uma dúzia por $1000.
+If you want more, just ask. I sell one for $100 and a dozen for $1000.
 \ff[introBenitex]\bNathan: Tem um casteliacone aqui, mas me recuso a dar um que foi jogado no lixo pros meus pokemon.
-\ff[introBenitex]\bNathan: Tem um casteliacone aqui, mas me recuso a dar um que foi jogado no lixo pros meus pokemon.
+\ff[introBenitex]\bNathan: There's a casteliacone here, but I can't give that to my Pokémon, that would be cruel.
 \ff[introBenitex]\bNathan: Essa é a placa dos Castelicones. Parece que o lugar foi abandonado.
-\ff[introBenitex]\bNathan: Essa é a placa dos Castelicones. Parece que o lugar foi abandonado.
+\ff[introBenitex]\bNathan: They used to sell Casteliacones in this place, but it seems it's abandoned now.
 \w[signskin]O famoso Casteliacone da cidade de Castelia!
-\w[signskin]O famoso Casteliacone da cidade de Castelia!
+\w[signskin]The famous Casteliacone from the city of Castelia!
 Você também vai comprar casteliacones?
-Você também vai comprar casteliacones?
+Are you going to buy Casteliacones too?
 \ff[introBenitex]\bNathan: Vou sim.
-\ff[introBenitex]\bNathan: Vou sim.
+\ff[introBenitex]\bNathan: Yes, I will.
 Dizem que o antigo campeão de Unova sempre comia isso.
-Dizem que o antigo campeão de Unova sempre comia isso.
+They say that the former champion of Unova loved to eat this.
 Eu comecei a seguir esse hábito também, vai que esse é o motivo pra ele ser forte.
-Eu comecei a seguir esse hábito também, vai que esse é o motivo pra ele ser forte.
+I'm following this habit too, maybe that's the reason why he's so strong.
 \ff[introBenitex]\bNathan: Não custa nada sonhar.
-\ff[introBenitex]\bNathan: Não custa nada sonhar.
+\ff[introBenitex]\bNathan: It doesn't hurt to dream.
 \ff[introBenitex]\bNathan: Não, agora não.
-\ff[introBenitex]\bNathan: Não, agora não.
+\ff[introBenitex]\bNathan: No, not now.
 Então por que está na fila? Não perca seu tempo rapaz!
-Então por que está na fila? Não perca seu tempo rapaz!
+So why are you standing in line? Don't waste your time, young man!
 Nunca chege perto daquela casa, nem da dona! Ela é completamente insana.
-Nunca chege perto daquela casa, nem da dona! Ela é completamente insana.
+Don't ever get close to that house, or its owner! She's completely insane.
 Uns amigos meus já tentaram. Só posso dizer que não valeu a pena.
-Uns amigos meus já tentaram. Só posso dizer que não valeu a pena.
+Some friends of mine tried. All I can say is it wasn't worth it.
 \ff[introBenitex]\bNathan: Hum.
 \ff[introBenitex]\bNathan: Hum.
 \w[signskin]Estúdio Castelia
-\w[signskin]Estúdio Castelia
+\w[signskin]Studio Castelia
 O final da fila é ali atrás.
-O final da fila é ali atrás.
+The end of the line is back there.
 Quer que eu te conte sobre a Mode Street?
-Quer que eu te conte sobre a Mode Street?
+Do you want to know more about Mode Street?
 \ff[introBenitex]\bNathan: Sim, por favor.
-\ff[introBenitex]\bNathan: Sim, por favor.
+\ff[introBenitex]\bNathan: Yes, please.
 A Mode Street é a rua mais movimentada de Castelia, cheia de pessoas passeando e se divertindo.
-A Mode Street é a rua mais movimentada de Castelia, cheia de pessoas passeando e se divertindo.
+Mode Street is Castelia's liveliest street, filled with people having fun.
 Os principais prédios são o Estúdio Castelia, que é aqui atrás, o Clube dos Hikers e as Estufas.
-Os principais prédios são o Estúdio Castelia, que é aqui atrás, o Clube dos Hikers e as Estufas.
+The main buildings are Castelia Studio, which is here behind me, the Hikers Club, and the Greenhouses.
 O Estúdio Castelia é uma galeria de artes com exposições de artistas desde a fundação da cidade.
-O Estúdio Castelia é uma galeria de artes com exposições de artistas desde a fundação da cidade.
+Castelia Studio is an art gallery featuring works from the city's founding to the present day.
 As Estufas são estufas fechadas, mas eles vendem apricorns e tem um belo parque aberto.
-As Estufas são estufas fechadas, mas eles vendem apricorns e tem um belo parque aberto.
+The Greenhouses are closed to visitors, but they sell apricorns and have a beautiful open park.
 O Clube dos Hikers aceita visitas, talvez você queira passar lá.
-O Clube dos Hikers aceita visitas, talvez você queira passar lá.
+The Hikers Club accepts visitors, so you may want to stop by to know more about them.
 Aproveite seu passeio pela Mode Street.
-Aproveite seu passeio pela Mode Street.
+Enjoy your stroll down Mode Street.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thanks.
 \ff[introBenitex]\bNathan: Não, obrigado.
-\ff[introBenitex]\bNathan: Não, obrigado.
+\ff[introBenitex]\bNathan: No, but thanks for offering.
 Se precisar de algo, estou aqui.
-Se precisar de algo, estou aqui.
+If you need something, I'm here.
 Eu gosto de explorar os becos, mas tenho que confessar que não são seguros.
-Eu gosto de explorar os becos, mas tenho que confessar que não são seguros.
+I like exploring the alleys. They are not very safe though.
 Ainda mais com esses Motoqueiros soltos por aí...
-Ainda mais com esses Motoqueiros soltos por aí...
+Especially with those Bikers roaming around...
 \w[signskin]Estufas
-\w[signskin]Estufas
+\w[signskin]Greenhouses
 \w[signskin]Clube de Hikers
-\w[signskin]Clube de Hikers
+\w[signskin]Hikers Club
 Isso não é roupa pra usar na Mode Street menino!
-Isso não é roupa pra usar na Mode Street menino!
+That outfit isn't appropriate for Mode Street, boy!
 \ff[introBenitex]\bNathan: Mas eu sempre uso essa roupa.
-\ff[introBenitex]\bNathan: Mas eu sempre uso essa roupa.
+\ff[introBenitex]\bNathan: But I always wear this outfit.
 Então já passou da hora de mudar seus hábitos!
-Então já passou da hora de mudar seus hábitos!
+Then it's high time you changed your habits!
 Mantenha-se em posição, Escavalier.
-Mantenha-se em posição, Escavalier.
+Stay in position, Escavalier.
 Um.
-Um.
+One.
 Uma dúzia.
-Uma dúzia.
+A dozen.
 Sair.
-Sair.
+(Leave.)
 Vou.
-Vou.
+Yes.
 Não.
-Não.
+No.
 Sim.
-Sim.
+Yes.
 [Map46]
 \ff[introBenitex]\bNathan: (Será que ninguém vai ver?)
-\ff[introBenitex]\bNathan: (Será que ninguém vai ver?)
+\ff[introBenitex]\bNathan: (Is anyone seeing me?)
 \ff[introBenitex]\bNathan: (Não, acho que não.)
-\ff[introBenitex]\bNathan: (Não, acho que não.)
+\ff[introBenitex]\bNathan: (Nah, I'm clear.)
 \ff[introBenitex]\bNathan: Vazia.
-\ff[introBenitex]\bNathan: Vazia.
+\ff[introBenitex]\bNathan: It's empty.
 Opa, você está com pressa? Pode usar a máquina aqui do lado.
-Opa, você está com pressa? Pode usar a máquina aqui do lado.
+Oh, hello. Do you want to use a the machine? There's another one right there.
 \ff[introBenitex]\bNathan: Não, eu só queria saber o que você está fazendo.
-\ff[introBenitex]\bNathan: Não, eu só queria saber o que você está fazendo.
+\ff[introBenitex]\bNathan: I'm just observing what you're doing.
 Eu? Nada, nada de especial. Nada mesmo.
-Eu? Nada, nada de especial. Nada mesmo.
+Me? Oh, I'm not doing anything. Nothing.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: I see.
 \ff[introBenitex]\bNathan: Por arceus, por que você tem tantos refrigerantes?
-\ff[introBenitex]\bNathan: Por arceus, por que você tem tantos refrigerantes?
+\ff[introBenitex]\bNathan: Arceus, why do you have so many soft drinks?
 Ei, ei, ei, fala baixo...
-Ei, ei, ei, fala baixo...
+Hey, hey, hey, keep your voice down...
 Vou te contar meu segredo, ok? Só não fala pra mais ninguém.
-Vou te contar meu segredo, ok? Só não fala pra mais ninguém.
+I'll tell you my secret, okay? Just don't tell anyone else about this.
 \l[3]Essas máquinas são muito vagabundas. Acho que é porque o líder de ginásio teve que comprar muitas, então não sobrou muito dinheiro.
-\l[3]Essas máquinas são muito vagabundas. Acho que é porque o líder de ginásio teve que comprar muitas, então não sobrou muito dinheiro.
+\l[3]These machines are trash. The gym leader had to buy so many that they had no money to spend on high-quality machines.
 Por causa disso, as vezes ela dá um defeitinho e cai uma a mais.
-Por causa disso, as vezes ela dá um defeitinho e cai uma a mais.
+Because of this, sometimes it malfunctions and drops one extra drink.
 Eu prefiro ficar comprando várias uma de cada vez tentando a sorte. Vale mais a pena que comprar várias de uma vez.
-Eu prefiro ficar comprando várias uma de cada vez tentando a sorte. Vale mais a pena que comprar várias de uma vez.
+That's the reason I'm buying a lot of them, I'm trying my luck here.
 \ff[introBenitex]\bNathan: (Nem vou falar nada.)
-\ff[introBenitex]\bNathan: (Nem vou falar nada.)
+\ff[introBenitex]\bNathan: (I'm not even going to say anything.)
 Por favor, não conte pra ninguém!
-Por favor, não conte pra ninguém!
+Please don't tell anyone!
 \ff[introBenitex]\bNathan: Calma, não se preocupe.
-\ff[introBenitex]\bNathan: Calma, não se preocupe.
+\ff[introBenitex]\bNathan: Just relax, don't worry.
 \ff[introBenitex]\bNathan: Bom dia.
-\ff[introBenitex]\bNathan: Bom dia.
+\ff[introBenitex]\bNathan: Hello, sir.
 Bom dia.
-Bom dia.
+Hi.
 Quer que eu conte sobre a Castelia Street?
-Quer que eu conte sobre a Castelia Street?
+Are you interested in knowing more about Castelia Street?
 \ff[introBenitex]\bNathan: Sim, por favor.
-\ff[introBenitex]\bNathan: Sim, por favor.
-Claro, claro.
-Claro, claro.
+\ff[introBenitex]\bNathan: Yes, please.
 \l[3]A Castelia Street é a rua mais ocupada de Castelia, as pessoas passam sempre focadas nos seus objetivos.
-\l[3]A Castelia Street é a rua mais ocupada de Castelia, as pessoas passam sempre focadas nos seus objetivos.
+\l[3]Castelia Street is the busiest street in Castelia, with lots of people rushing by, always focused on their goals.
 Aqui na frente é são os Escritórios de Pesquisa, alguns professores famosos pesquisam sobre pokemon lá.
-Aqui na frente é são os Escritórios de Pesquisa, alguns professores famosos pesquisam sobre pokemon lá.
+Here in front of me are the Research Offices, where some famous professors conduct research on Pokémon.
 \ff[introBenitex]\bNathan: (Deve ser ali onde posso conversar com o professor Carvalho...)
-\ff[introBenitex]\bNathan: (Deve ser ali onde posso conversar com o professor Carvalho...)
+\ff[introBenitex]\bNathan: (That must be the place where I can find Professor Oak...)
 Além disso, mais ao norte, temos a loja de Joias que vende algumas pedras preciosas e Mega Stones.
-Além disso, mais ao norte, temos a loja de Joias que vende algumas pedras preciosas e Mega Stones.
+Further north, there's a Jewelry Store, which sells gems and Mega Stones.
 Mais perto da Oceafront Street, fica o Clube Dediê, você pode fazer uma visita por lá.
-Mais perto da Oceafront Street, fica o Clube Dediê, você pode fazer uma visita por lá.
+Closer to Oceafront Street is the Dediê Club, which is a popular Club you can visit.
 A rua também tem vários prédios empresariais, mas acho difícil que deixem você entrar.
-A rua também tem vários prédios empresariais, mas acho difícil que deixem você entrar.
+The street also has several office buildings, but they are not open for anyone.
 \ff[introBenitex]\bNathan: Não, obrigado.
-\ff[introBenitex]\bNathan: Não, obrigado.
+\ff[introBenitex]\bNathan: No, thanks.
 Estou aqui, para quando precisar.
-Estou aqui, para quando precisar.
+I'm here, whenever you need me.
 Como posso ajudar?
-Como posso ajudar?
+How can I help you?
 \ff[introBenitex]\bNathan: Eu queria saber mais sobre a Castelia Street.
-\ff[introBenitex]\bNathan: Eu queria saber mais sobre a Castelia Street.
+\ff[introBenitex]\bNathan: I'd like to know more about Castelia Street.
 \l[3]A Castelia Street é a rua mais ocupada de Castelia, as pessoas passam ocupadas e focadas nos seus objetivos.
-\l[3]A Castelia Street é a rua mais ocupada de Castelia, as pessoas passam ocupadas e focadas nos seus objetivos.
+\l[3]Castelia Street is the busiest street in Castelia, with lots of people rushing by, always focused on their goals.
 \ff[introBenitex]\bNathan: Estou procurando alguém para batalhar comigo, você quer?
-\ff[introBenitex]\bNathan: Estou procurando alguém para batalhar comigo, você quer?
+\ff[introBenitex]\bNathan: I'm looking for someone to battle. Are you interested?
 Não sei se é uma boa ideia, estou em serviço.
-Não sei se é uma boa ideia, estou em serviço.
+I'm not sure about that, I'm on duty.
 \ff[introBenitex]\bNathan: Vamos lá, não vai ter problema. É bom que você fica mais preparado também.
-\ff[introBenitex]\bNathan: Vamos lá, não vai ter problema. É bom que você fica mais preparado também.
+\ff[introBenitex]\bNathan: Come on, don't worry. Your Pokémon will grow stronger!
 Tudo bem, acho que você está certo. Vamos lá!
-Tudo bem, acho que você está certo. Vamos lá!
+All right, I think you're right. Let's go!
 Uau, você é forte.
-Uau, você é forte.
+Wow, you're strong.
 Realmente, talvez seja melhor eu treinar um pouco mais.
-Realmente, talvez seja melhor eu treinar um pouco mais.
+I really should to train a little more.
 \ff[introBenitex]\bNathan: Obrigado pela batalha.
-\ff[introBenitex]\bNathan: Obrigado pela batalha.
+\ff[introBenitex]\bNathan: Thanks foar the battle.
 Não foi nada.
-Não foi nada.
+Don't worry.
 \ff[introBenitex]\bNathan: É, talvez realmente seja melhor não.
-\ff[introBenitex]\bNathan: É, talvez realmente seja melhor não.
+\ff[introBenitex]\bNathan: Yeah, maybe it's better not to.
 \ff[introBenitex]\bNathan: Obrigado, já vou indo.
-\ff[introBenitex]\bNathan: Obrigado, já vou indo.
+\ff[introBenitex]\bNathan: Thanks, I'm leaving now.
 \w[signskin]Clube Dediê
-\w[signskin]Clube Dediê
+\w[signskin]Dediê Club
 Não importa o quanto eu procure, não consigo encontrar uma loja de varas de pesca em lugar nenhum...
-Não importa o quanto eu procure, não consigo encontrar uma loja de varas de pesca em lugar nenhum...
+No matter how hard I look, I can't find a fishing rod shop anywhere...
 Opa, tudo bem?
-Opa, tudo bem?
+Hey, how's it going?
 \ff[introBenitex]\bNathan: Sim, tudo certo.
-\ff[introBenitex]\bNathan: Sim, tudo certo.
+\ff[introBenitex]\bNathan: I'm fine, what's up?
 Você por acaso sabe onde eu posso encontrar uma loja de varas de pesca por aqui?
-Você por acaso sabe onde eu posso encontrar uma loja de varas de pesca por aqui?
+Do you happen to know where I can find a fishing rod shop around here?
 \ff[introBenitex]\bNathan: Deixa eu pensar um pouco, acho que me lembro de uma...
-\ff[introBenitex]\bNathan: Deixa eu pensar um pouco, acho que me lembro de uma...
+\ff[introBenitex]\bNathan: A fishing rod shop? Let me think...
 \ff[introBenitex]\bSim, tem uma aqui mesmo, na Castelia Street!
-\ff[introBenitex]\bSim, tem uma aqui mesmo, na Castelia Street!
+\ff[introBenitex]\bYes, I think there's one here on Castelia Street!
 Sério? Onde?
-Sério? Onde?
+Really? Where is it?
 \ff[introBenitex]\bNathan: Humm, segue mais adiante, acho que está ali em frente.
-\ff[introBenitex]\bNathan: Humm, segue mais adiante, acho que está ali em frente.
+\ff[introBenitex]\bNathan: Keep going straight, I think it's right across the street.
 \ff[introBenitex]\bNathan: Se não me engano, na Mode Street tem uma.
-\ff[introBenitex]\bNathan: Se não me engano, na Mode Street tem uma.
+\ff[introBenitex]\bNathan: If I'm not mistaken, there's one on Mode Street.
 Ah, perfeito! Vou passar lá então.
-Ah, perfeito! Vou passar lá então.
+Perfect! I'll stop by then.
 \ff[introBenitex]\bNathan: Se não me engano, na Narrow Street tem uma.
-\ff[introBenitex]\bNathan: Se não me engano, na Narrow Street tem uma.
+\ff[introBenitex]\bNathan: If I'm not mistaken, there's one on Narrow Street.
 Argh, justo a Narrow Street? Não prefiro procurar em outra cidade do que ir pra lá. Vou ficar sem mesmo.
-Argh, justo a Narrow Street? Não prefiro procurar em outra cidade do que ir pra lá. Vou ficar sem mesmo.
+Damn, on Narrow Street? I'd rather look in another city than go there. I'll just do without one.
 \ff[introBenitex]\bNathan: Se não me engano, na Gym Street tem uma.
-\ff[introBenitex]\bNathan: Se não me engano, na Gym Street tem uma.
+\ff[introBenitex]\bNathan: If I'm not mistaken, there's one on Gym Street.
 \ff[introBenitex]\bNathan: Agora que você mencionou, não me lembro de encontrar nenhuma loja de varas de pesca.
-\ff[introBenitex]\bNathan: Agora que você mencionou, não me lembro de encontrar nenhuma loja de varas de pesca.
+\ff[introBenitex]\bNathan: I honestly don't remember seeing any fishing rod shop in the city.
 Não tem nenhuma?
-Não tem nenhuma?
+There aren't any?
 \ff[introBenitex]\bNathan: Talvez até tenha, mas não me lembro de passar por ela.
-\ff[introBenitex]\bNathan: Talvez até tenha, mas não me lembro de passar por ela.
+\ff[introBenitex]\bNathan: Maybe there are, but I don't remember passing by one.
 \ff[introBenitex]\bSe eu encontrar, te aviso.
-\ff[introBenitex]\bSe eu encontrar, te aviso.
+\ff[introBenitex]\bIf I find one, I'll let you know.
 Obrigado.
-Obrigado.
+Thanks.
 \l[3]\ff[introBenitex]\bNathan: Se me lembro bem, não tem nenhuma loja de varas de pesca em Castelia não.
-\l[3]\ff[introBenitex]\bNathan: Se me lembro bem, não tem nenhuma loja de varas de pesca em Castelia não.
+\l[3]\ff[introBenitex]\bNathan: If I remember correctly, there aren't any fishing rod shops in Castelia.
 Não acredito, estou aqui a toa então. Que pena.
-Não acredito, estou aqui a toa então. Que pena.
+I can't believe it, I traveled here for nothing. What a shame.
 Bom, obrigado pela informação, vou me retirar.
-Bom, obrigado pela informação, vou me retirar.
+Well, thanks for the information, I'll be on my way.
 \ff[introBenitex]\bNathan: Ouvi dizer que os escritórios de pesquisa são por aqui, é isso mesmo?
-\ff[introBenitex]\bNathan: Ouvi dizer que os escritórios de pesquisa são por aqui, é isso mesmo?
+\ff[introBenitex]\bNathan: I heard that the Research Offices are around here, is that right?
 \l[3]Sim, sim, você está no lugar certo! Aqui ao sul da Castelia Street, você pode conversar com os professores Carvalho e Juniper.
-\l[3]Sim, sim, você está no lugar certo! Aqui ao sul da Castelia Street, você pode conversar com os professores Carvalho e Juniper.
+\l[3]Yes, you're in the right place! Here south of Castelia Street, you can talk to Professors Oak and Juniper.
 \l[3]Eles ficam em um prédio perto de duas máquinas de bebidas, saindo um pouco da pista principal. Não tem erro!
-\l[3]Eles ficam em um prédio perto de duas máquinas de bebidas, saindo um pouco da pista principal. Não tem erro!
+\l[3]They are in a building near two vending machines, a little off the main road. You can't miss it!
 \ff[introBenitex]\bNathan: Beleza, obrigado!
-\ff[introBenitex]\bNathan: Beleza, obrigado!
+\ff[introBenitex]\bNathan: Great, thanks!
 \w[signskin]Loja de Joias
-\w[signskin]Loja de Joias
+\w[signskin]Jewelry Store
 Muito prazer, estou aqui para chamar pessoas para conhecer nosso clube.
-Muito prazer, estou aqui para chamar pessoas para conhecer nosso clube.
+Nice to meet you, would you like to visit our Club?
 \l[3]O Clube Dediê reúne as pessoas com maior esforço e vontade de construir um mundo melhor.
-\l[3]O Clube Dediê reúne as pessoas com maior esforço e vontade de construir um mundo melhor.
+\l[3]The Dediê Club brings together people who are committed to building a better world.
 \l[3]Por isso, estamos na rua mais importante de Castelia, queremos demonstrar nossa capacidade de atingir a todos.
-\l[3]Por isso, estamos na rua mais importante de Castelia, queremos demonstrar nossa capacidade de atingir a todos.
+\l[3]That's why we're located on Castelia's most important street, so we can reach out to anyone.
 E então, ficou interessado? Você pode conversar com a atendente no nosso prédio para conhecer melhor.
-E então, ficou interessado? Você pode conversar com a atendente no nosso prédio para conhecer melhor.
+So, are you interested? You can talk to the receptionist in our building to find out more.
 \ff[introBenitex]\bNathan: Legal, talvez eu passe lá depois.
-\ff[introBenitex]\bNathan: Legal, talvez eu passe lá depois.
+\ff[introBenitex]\bNathan: Cool, maybe I'll stop by later.
 Ótimo, sinta-se livre para visitar quando quiser.
-Ótimo, sinta-se livre para visitar quando quiser.
+Great, feel free to visit whenever you want.
 \l[3]O Clube dos Dediê reúne as pessoas com maior esforço e vontade de construir um mundo melhor.
-\l[3]O Clube dos Dediê reúne as pessoas com maior esforço e vontade de construir um mundo melhor.
+\l[3]The Dediê Club brings together people who are most committed and willing to build a better world.
 Você pode conversar com a atendente no nosso prédio para mais informações.
-Você pode conversar com a atendente no nosso prédio para mais informações.
+You can talk to the receptionist in our building for more information.
 \ff[introBenitex]\bNathan: Essa máquina é meio estranha, será que vai funcionar?
 \g\ff[introBenitex]\bNathan: This machine is kind of weird, is it going to work?
 \ff[introBenitex]\bNathan: Nossa, a garrafa saiu de cima da máquina!
@@ -9342,65 +9340,65 @@ Você pode conversar com a atendente no nosso prédio para mais informações.
 \ff[introBenitex]\bNathan: Bom, apesar de ser estranha, parece funcionar.
 \ff[introBenitex]\bNathan: Well, as weird as it might look, it's working.
 Foi você quem encontrou os pokemon, né? Você é incrível, de verdade.
-Foi você quem encontrou os pokemon, né? Você é incrível, de verdade.
+You are the one who found the stolen Pokémon, right? You're amazing, really.
 Você acredita? Dizem que vários pokemon estão desaparecendo do Centro Pokemon.
-Você acredita? Dizem que vários pokemon estão desaparecendo do Centro Pokemon.
+Can you believe it? They say that several Pokémon are disappearing from the Pokémon Center.
 \ff[introBenitex]\bNathan: Sim, estou sabendo, dizem que foram os motoqueiros.
-\ff[introBenitex]\bNathan: Sim, estou sabendo, dizem que foram os motoqueiros.
+\ff[introBenitex]\bNathan: Yeah, I know, they say it was the bikers.
 É o que as pessoas acreditam.
-É o que as pessoas acreditam.
+That's what people believe.
 \ff[introBenitex]\bNathan: Sério?
-\ff[introBenitex]\bNathan: Sério?
+\ff[introBenitex]\bNathan: Really?
 Sim, as pessoas dizem que são os motoqueiros. Mas eu não acredito.
-Sim, as pessoas dizem que são os motoqueiros. Mas eu não acredito.
+Yes, people say it's the Bikers. But I don't believe it.
 Que tipo de tecnologia é capaz de invadir um pc e roubar dados nesse nível?
-Que tipo de tecnologia é capaz de invadir um pc e roubar dados nesse nível?
+What kind of technology is capable of hacking into the PC and stealing data at this level?
 Para mim, um motoqueiro jamais seria capaz de fazer algo nesse nível.
-Para mim, um motoqueiro jamais seria capaz de fazer algo nesse nível.
+In my opinion, those Bikers would never be capable of doing something at that level.
 Enfim, já vou indo.
-Enfim, já vou indo.
+Anyways, I have to go now.
 \ff[introBenitex]\bNathan: Tchau tchau.
-\ff[introBenitex]\bNathan: Tchau tchau.
+\ff[introBenitex]\bNathan: Bye bye.
 (Sair.)
-(Sair.)
+(Leave.)
 (Pressionar ele.)
-(Pressionar ele.)
+(Pressure him to tell more.)
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 Me conte sobre a rua.
-Me conte sobre a rua.
+Tell me more about this street.
 Quer batalhar?
-Quer batalhar?
+What about a battle?
 Adeus.
-Adeus.
+(Leave.)
 Ah, vamos lá.
-Ah, vamos lá.
+Come on.
 Realmente, melhor não.
-Realmente, melhor não.
+Yeah, nevermind.
 Claro, vou te contar.
-Claro, vou te contar.
+Sure.
 Infelizmente, não sei.
-Infelizmente, não sei.
+Unfortunately, I don't know.
 Não tem nenhuma por aqui.
-Não tem nenhuma por aqui.
+There aren't any around here.
 Na Castelia Street.
-Na Castelia Street.
+On Castelia Street.
 Na Mode Street.
-Na Mode Street.
+On Mode Street.
 Na Narrow Street
-Na Narrow Street
+On Narrow Street
 Na Gym Street.
-Na Gym Street.
+On Gym Street.
 Fresh Water - $200
 Fresh Water - $200
 Soda Pop - $300
 Soda Pop - $300
 Limonada - $350
-Limonada - $350
+Lemonade - $350
 Deixa para lá.
-Deixa para lá.
+(Leave.)
 [Map47]
 Nosso acordo era simples, docinho. Eu te dou um beijo, você me dá seus pokemon. É hora de fazer sua parte.
 Nosso acordo era simples, docinho. Eu te dou um beijo, você me dá seus pokemon. É hora de fazer sua parte.
@@ -11709,9 +11707,9 @@ Fresh Water - $200
 Soda Pop - $300
 Soda Pop - $300
 Limonada - $350
-Limonada - $350
+Lemonade - $350
 Deixa para lá.
-Deixa para lá.
+(Leave.)
 Não posso.
 Não posso.
 Tudo bem.
@@ -12527,7 +12525,7 @@ A máquina tá quebrada.
 A máquina tá quebrada.
 [Map72]
 Escolha o andar.
-Escolha o andar.
+Select a floor.
 3F
 3F
 2F
@@ -13212,7 +13210,7 @@ Não.
 Não.
 [Map83]
 \ff[introBenitex]\bNathan: É a porta para uma das estufas, está trancada.
-\ff[introBenitex]\bNathan: É a porta para uma das estufas, está trancada.
+\ff[introBenitex]\bNathan: This door is the entrance to one of the greenhouses. It's locked.
 [Map84]
 \ff[introBenitex]\bNathan: A temperatura mudou... Estou começando a sentir calor. No meio do gelo.
 \ff[introBenitex]\bNathan: A temperatura mudou...  Estou começando a sentir calor. No meio do gelo.
