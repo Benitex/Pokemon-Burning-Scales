@@ -10243,7 +10243,7 @@ Nem.
 Nem.
 [Map54]
 Escolha o andar.
-Escolha o andar.
+Select a floor.
 1F
 1F
 B1F
@@ -12672,224 +12672,224 @@ Nature Mints.
 É tudo, obrigado.
 [Map75]
 Heh. Bem vindo À Taverna.
-Heh. Bem vindo À Taverna.
+Heh. Welcome to The Tavern.
 Heh. Deve ser novo aqui.
-Heh. Deve ser novo aqui.
+Heh. You must be new here.
 \ff[introBenitex]\bNathan: Não vai dizer que você já se esqueceu de mim?
-\ff[introBenitex]\bNathan: Não vai dizer que você já se esqueceu de mim?
+\ff[introBenitex]\bNathan: Don't tell me you've already forgotten me?
 Cadê seu traje?
-Cadê seu traje?
+Where's your uniform?
 \ff[introBenitex]\bNathan: Eu... ainda não comprei minha roupa nova, então estou usando essa.
-\ff[introBenitex]\bNathan: Eu... ainda não comprei minha roupa nova, então estou usando essa.
+\ff[introBenitex]\bNathan: I... haven't bought my new clothes yet.
 \ff[introBenitex]\bNathan: Ah... Está lavando.
-\ff[introBenitex]\bNathan: Ah... Está lavando.
+\ff[introBenitex]\bNathan: Oh... It's being washed.
 \ff[introBenitex]\bNathan: Ela... virou comida. Sabe, meu muk já estava sem comer há dias, então ele resolveu se vingar na minha roupa.
-\ff[introBenitex]\bNathan: Ela... virou comida. Sabe, meu muk já estava sem comer há dias, então ele resolveu se vingar na minha roupa.
+\ff[introBenitex]\bNathan: It... bacame food. You know, my muk hadn't eaten in days, so he decided to take revenge on my clothes.
 Ah, Jimmy, é difícil te identificar as vezes. Eu já te disse pra comprar a roupa há séculos. O chefe vai te matar.
-Ah, Jimmy, é difícil te identificar as vezes. Eu já te disse pra comprar a roupa há séculos. O chefe vai te matar.
+Oh, Jimmy! It's hard to identify you sometimes. I told you to buy the clothes ages ago. Boss is gonna kill you.
 Ficar com uma roupa só é complicado mesmo. Mas nossa situação vai melhorar muito, né não?
-Ficar com uma roupa só é complicado mesmo. Mas nossa situação vai melhorar muito, né não?
+Having only one outfit is really bad. But our situation will improve a lot, won't it?
 Quem diria que a gente conseguiria colocaria aquele pokemon pra cantar? Que loucura!
-Quem diria que a gente conseguiria colocaria aquele pokemon pra cantar? Que loucura!
+Who would have thought that Pokémon would actually sing? How crazy!
 \ff[introBenitex]\bNathan: (E agora? Que pokemon é esse?)
-\ff[introBenitex]\bNathan: (E agora? Que pokemon é esse?)
+\ff[introBenitex]\bNathan: (Now what? What Pokémon is that?)
 \ff[introBenitex]\bJimmy: Claro... Foi uma... linda... música.
-\ff[introBenitex]\bJimmy: Claro... Foi uma... linda...  música.
+\ff[introBenitex]\bJimmy: Yeah... It was... a beautiful song.
 Você tava lá na hora? Achava que só tinham deixado os cientistas entrarem.
-Você tava lá na hora? Achava que só tinham deixado os cientistas entrarem.
+Were you there at the time? I thought only scientists were allowed in.
 Ou você só tava muito bêbado na hora?
-Ou você só tava muito bêbado na hora?
+Or were you just really drunk at the time?
 \ff[introBenitex]\bNathan: (Ufa...)
-\ff[introBenitex]\bNathan: (Ufa...)
+\ff[introBenitex]\bNathan: (Phew...)
 Eu queria ter visto também.
-Eu queria ter visto também.
+I wish I could have seen it too.
 Mentira, vou ser sincero, só queria receber nosso pagamento logo!
-Mentira, vou ser sincero, só queria receber nosso pagamento logo!
+No, to be honest, I wanted to just get paid already!
 Foi bom te rever Jimmy, agora deixa eu terminar aqui.
-Foi bom te rever Jimmy, agora deixa eu terminar aqui.
+It was good to see you again, Jimmy, now let me finish up here.
 \ff[introBenitex]\bNathan: (Melhor deixar ele por enquanto, se não vou ficar muito suspeito.)
-\ff[introBenitex]\bNathan: (Melhor deixar ele por enquanto, se não vou ficar muito suspeito.)
+\ff[introBenitex]\bNathan: (Better leave him alone for now, otherwise I'll look too suspicious.)
 HA, ele era muito otário, não fazia ideia do que estava acontecendo até eu dar o bote!
-HA, ele era muito otário, não fazia ideia do que estava acontecendo até eu dar o bote!
+HA, he was such a sucker, he had no idea what was going on until I pounced!
 Esse tipo de gente merece!
-Esse tipo de gente merece!
+People like that deserve it!
 Ei, vaza daqui muleque! Cai fora!
-Ei, vaza daqui muleque! Cai fora!
+Hey, get out of here, kid! Get lost!
 Você não me ouviu? Vai ter que ser do jeito difícil então!
-Você não me ouviu? Vai ter que ser do jeito difícil então!
+Didn't you hear me? It's going to be the hard way then!
 Ei, ei, ei, você invade o nosso Clube, começa a causar e ainda ousa ganhar de mim?
-Ei, ei, ei, você invade o nosso Clube, começa a causar e ainda ousa ganhar de mim?
+Wait a second, you invade our club, start causing trouble, and then you dare to beat me?
 Vou ter que resolver essa parada de outra forma!
-Vou ter que resolver essa parada de outra forma!
+I'm going to settle this another way!
 Ei, ei, ei, relaxa aí!
-Ei, ei, ei, relaxa aí!
+Hey, relax, or else!
 Você se safou dessa vez.
-Você se safou dessa vez.
+You got away with it this time.
 O que você quer?
-O que você quer?
+What do you want?
 \ff[introBenitex]\bNathan: Só quero conversar um pouco, pode ser?
-\ff[introBenitex]\bNathan: Só quero conversar um pouco, pode ser?
+\ff[introBenitex]\bNathan: I just want to talk a little, is that okay?
 Ah, tanto faz. Fala o que você quer saber.
-Ah, tanto faz. Fala o que você quer saber.
+Whatever. Say what you want to know.
 Nós estamos fechando. Obrigado por visitar À Taverna.
-Nós estamos fechando. Obrigado por visitar À Taverna.
+We're closing. Thank you for visiting The Tavern.
 Nathan, gostaria de pedir que você se retire, por favor.
-Nathan, gostaria de pedir que você se retire, por favor.
+Nathan. I'd like to ask you to leave, please.
 Você ouviu o cara, é hora de sair.
-Você ouviu o cara, é hora de sair.
+You heard the guy, it's time to go.
 Quem é você?
-Quem é você?
+Who are you?
 \ff[introBenitex]\bNathan: Eu sou... O Jimmy.
-\ff[introBenitex]\bNathan: Eu sou... O Jimmy.
+\ff[introBenitex]\bNathan: I'm... Jimmy.
 Ah, Jimmy. Cara, não fica com essa roupa aqui, você sabe que isso não vai dar certo.
-Ah, Jimmy. Cara, não fica com essa roupa aqui, você sabe que isso não vai dar certo.
+Oh, Jimmy. Man, don't wear those clothes here, you know it won't go well.
 \ff[introBenitex]\bJimmy: É cara, eu to ligado.
-\ff[introBenitex]\bJimmy: É cara, eu to ligado.
+\ff[introBenitex]\bJimmy: Yeah, man, I know.
 Bom, o que veio fazer aqui esse hora? Já vai começar a aproveitar?
-Bom, o que veio fazer aqui esse hora? Já vai começar a aproveitar?
+Well, what are you doing here at this hour? Are you going to start enjoying yourself already?
 \ff[introBenitex]\bJimmy: Claro, a festa não tem hora pra começar.
-\ff[introBenitex]\bJimmy: Claro, a festa não tem hora pra começar.
+\ff[introBenitex]\bJimmy: Sure, the sooner the better.
 Concordo camarada, pra que esperar a recompensa chegar? Depois a gente desenrola o pagamento com o chefe.
-Concordo camarada, pra que esperar a recompensa chegar? Depois a gente desenrola o pagamento com o chefe.
+I agree, buddy, why wait for the reward to arrive? We'll sort out the payment with the Boss later.
 Depois que eu consegui achar aquele pokemon esquisito, estou vivendo como um rei nesse lugar.
-Depois que eu consegui achar aquele pokemon esquisito, estou vivendo como um rei nesse lugar.
+After I managed to find that weird Pokémon, I'm living like a king in this place.
 Eu imagino pra que eles queriam tanto esse bicho. Parecia que eles queriam que cantasse? Que loucura.
-Eu imagino pra que eles queriam tanto esse bicho.  Parecia que eles queriam que cantasse? Que loucura.
+I wonder why they wanted that creature so badly. It seemed like they wanted to make it to sing? That's crazy.
 Bom, não importa, vou aproveitar minha recompensa merecida!
-Bom, não importa, vou aproveitar minha recompensa merecida!
+Well, it doesn't matter, I'm going to enjoy my well-deserved reward!
 \ff[introBenitex]\bNathan: (Quem é esse cara? Tenho a impressão que já vi ele antes...)
-\ff[introBenitex]\bNathan: (Quem é esse cara? Tenho a impressão que já vi ele antes...)
+\ff[introBenitex]\bNathan: (Who is this guy? I feel like I've seen him before...)
 Hum, fechando cedo hoje, pelo visto. Te vejo amanhã Jimmy.
-Hum, fechando cedo hoje, pelo visto. Te vejo amanhã Jimmy.
+Closing early today, it seems. See you tomorrow, Jimmy.
 \ff[introBenitex]\bJimmy: Até amanhã.
-\ff[introBenitex]\bJimmy: Até amanhã.
+\ff[introBenitex]\bJimmy: See you tomorrow.
 Nathan. O que faz aqui?
-Nathan. O que faz aqui?
+Nathan. What are you doing here?
 \ff[introBenitex]\bNathan: Só... dando uma volta.
-\ff[introBenitex]\bNathan: Só... dando uma volta.
+\ff[introBenitex]\bNathan: I'm... Just exploring.
 Dando uma volta...
-Dando uma volta...
+Exploring...
 Certo, sinta-se em casa.
-Certo, sinta-se em casa.
+Sure, make yourself at home.
 Se quiser beber algo, fale comigo. Só não vendemos nada para pokemon.
-Se quiser beber algo, fale comigo. Só não vendemos nada para pokemon.
+If you want something to drink, let me know. But we don't sell anything to Pokémon.
 \ff[introBenitex]\bNathan: ... Certo.
-\ff[introBenitex]\bNathan: ... Certo.
+\ff[introBenitex]\bNathan: ... Okay.
 O que foi?
-O que foi?
+What?
 \ff[introBenitex]\bNathan: Posso ver o cardápio?
-\ff[introBenitex]\bNathan: Posso ver o cardápio?
+\ff[introBenitex]\bNathan: May I see the menu?
 Não.
-Não.
+No.
 \ff[introBenitex]\bNathan: Não?
-\ff[introBenitex]\bNathan: Não?
+\ff[introBenitex]\bNathan: No?
 Você não está aqui para beber. Nem seria uma boa ideia, e você sabe disso.
-Você não está aqui para beber. Nem seria uma boa ideia, e você sabe disso.
+You're not here to drink. It wouldn't be a good idea, and you know it.
 Só faça o que você veio fazer, não vou te impedir.
-Só faça o que você veio fazer, não vou te impedir.
+Just do what you came here to do. I won't stop you.
 Esse pessoal é meio esquisito, não acha?
-Esse pessoal é meio esquisito, não acha?
+Those are some weird guys, don't you think?
 \ff[introBenitex]\bNathan: Eles são todos bem... parecidos.
-\ff[introBenitex]\bNathan: Eles são todos bem...  parecidos.
+\ff[introBenitex]\bNathan: They are very... similar.
 Parece que eles estão aqui por um motivo. Algum motivo maior do que só beber.
-Parece que eles estão aqui por um motivo. Algum motivo maior do que só beber.
+It seems like they're here for a reason. Some reason greater than just drinking.
 \ff[introBenitex]\bNathan: Realmente parece que tem alguma coisa acontecendo.
-\ff[introBenitex]\bNathan: Realmente parece que tem alguma coisa acontecendo.
+\ff[introBenitex]\bNathan: It really seems like something is going on.
 \ff[introBenitex]\bNathan: Não sei, acho que eles parecem estar só aproveitando o momento.
-\ff[introBenitex]\bNathan: Não sei, acho que eles parecem estar só aproveitando o momento.
+\ff[introBenitex]\bNathan: I don't know, I think they just seem to be enjoying the moment.
 Mantenha a compostura e cuidado com quem você conversa.
-Mantenha a compostura e cuidado com quem você conversa.
+Keep your composure and be careful who you talk to.
 Me falaram que você também estava vindo pra ajudar.
-Me falaram que você também estava vindo pra ajudar.
+I was told that you were also coming to help.
 \ff[introBenitex]\bNathan: Sim, prazer, meu nome é Nathan.
-\ff[introBenitex]\bNathan: Sim, prazer, meu nome é Nathan.
+\ff[introBenitex]\bNathan: Yes, nice to meet you, my name is Nathan.
 Oh, Nathan, caramba. Eu imaginava você um pouco diferente.
-Oh, Nathan, caramba. Eu imaginava você um pouco diferente.
+Oh, you're Nathan, daman. I imagined you a little differently.
 \ff[introBenitex]\bNathan: Eu também, pra falar a verdade, cadê o seu disfarce?
-\ff[introBenitex]\bNathan: Eu também, pra falar a verdade, cadê o seu disfarce?
+\ff[introBenitex]\bNathan: I thought you would look different too to be honest, where's your disguise?
 Hum, acho que você ainda não deve saber. Eu já estou disfarçado.
-Hum, acho que você ainda não deve saber. Eu já estou disfarçado.
+Oh, you don't know yet. I'm already in disguise.
 \ff[introBenitex]\bNathan: É, sim, desculpe, não tinha percebido. Eu achava que você era um Motoqueiro real!
-\ff[introBenitex]\bNathan: É, sim, desculpe, não tinha percebido. Eu achava que você era um Motoqueiro real!
+\ff[introBenitex]\bNathan: Oh, yeah, sorry, I didn't realize. I thought you were a real biker!
 Obrigado por tentar não me ofender. Vou te explicar por que meu disfarce funciona.
-Obrigado por tentar não me ofender. Vou te explicar por que meu disfarce funciona.
+Thanks for trying not to offend me. Let me explain why my disguise works.
 \ff[introBenitex]\bNathan: Tem certeza disso? Não quero julgar seu disfarce, mas você não parece muito um Motoqueiro...
-\ff[introBenitex]\bNathan: Tem certeza disso? Não quero julgar seu disfarce, mas você não parece muito um Motoqueiro...
+\ff[introBenitex]\bNathan: Are you sure? I don't want to judge your disguise, but you don't look more like a scientist...
 É, você realmente não sabe, vou te explicar.
-É, você realmente não sabe, vou te explicar.
+Yeah, you really don't know, let me explain.
 \ff[introBenitex]\bNathan: Isso é uma missão séria, estamos correndo perigo aqui. Isso não é um disfarce de Motoqueiro.
-\ff[introBenitex]\bNathan: Isso é uma missão séria, estamos correndo perigo aqui. Isso não é um disfarce de Motoqueiro.
+\ff[introBenitex]\bNathan: This is a serious mission, we're in danger here. That is not a biker disguise.
 Ei, ei, ei. Calma, vou te explicar.
-Ei, ei, ei. Calma, vou te explicar.
+Hey, calm down, I'll explain.
 Os Motoqueiros são mais do que só... motoqueiros.
-Os Motoqueiros são mais do que só... motoqueiros.
+The Bikers are more than just... bikers.
 Alguns deles também são cientistas como eu. E meu irmão. Por isso eles não suspeitam de mim.
-Alguns deles também são cientistas como eu. E meu irmão. Por isso eles não suspeitam de mim.
+Some of them are also scientists like me. And my brother. That's why they don't suspect me.
 \l[3]Meu irmão era um cientista renomado de Castelia. O laboratório dele era na sala onde a professora Juniper trabalha atualmente, na Castelia Street.
-\l[3]Meu irmão era um cientista renomado de Castelia.  O laboratório dele era na sala onde a professora Juniper trabalha atualmente, na Castelia Street.
+\l[3]My brother was a renowned scientist. His laboratory was in the room where Professor Juniper currently works, on Castelia Street.
 \l[3]Ele também era um grande apostador. Não pelos prêmios que ganhava, mas pela quantidade absurda de dinheiro que jogava fora no Game Corner.
-\l[3]Ele também era um grande apostador. Não pelos prêmios que ganhava, mas pela quantidade absurda de dinheiro que jogava fora no Game Corner.
+\l[3]But he was also a big gambler. Not for the prizes he won, but for the absurd amount of money he tossed away at the Game Corner.
 \l[3]Em uma dessas apostas, ele conheceu um Motoqueiro com quem jogou algumas rodadas de Triple Triad, e conseguiu uma dívida enorme.
-\l[3]Em uma dessas apostas, ele conheceu um Motoqueiro com quem jogou algumas rodadas de Triple Triad, e conseguiu uma dívida enorme.
-\l[3]Depois disso, o Motoqueiro ameaçou ele e a nossa família. Mas ele também ofereceu para ele a chance de entrar no Clube para quitar sua dívida.
-\l[3]Depois disso, o Motoqueiro ameaçou ele e a nossa família. Mas ele também ofereceu para ele a chance de entrar no Clube para quitar sua dívida.
-No início, ele rejeitou a aposta, mas o Motoqueiro começou a ameaçar a nossa família e ele ficou sem muitas opções.
-No início, ele rejeitou a aposta, mas o Motoqueiro começou a ameaçar a nossa família e ele ficou sem muitas opções.
+\l[3]On one of those bets, he met a Biker with whom he played a few rounds of Triple Triad. He ended up with a huge debt.
+Depois disso, o Motoqueiro ofereceu para ele a chance de entrar no Clube para quitar sua dívida.
+After that, the Biker offered him the chance to join the Club to pay off his debt.
+No início, ele rejeitou a oferta, mas o Motoqueiro começou a ameaçar a nossa família e ele ficou sem muitas opções.
+At first, he rejected the offer, but the Biker began to threaten our family and he was left with few options.
 \ff[introBenitex]\bNathan: Caramba, que história...
-\ff[introBenitex]\bNathan: Caramba, que história...
+\ff[introBenitex]\bNathan: Wow, what a story...
 Pois é, e nós não sabíamos de nada, só descobri quando fui ver por onde ele andava e conversei com os policiais, que me contaram tudo.
-Pois é, e nós não sabíamos de nada, só descobri quando fui ver por onde ele andava e conversei com os policiais, que me contaram tudo.
+Yes, and we didn't know anything about it. I only found out when I talked to the police, who told me everything.
 Bom, acho que já gastamos muito tempo com essas histórias, que tal tentar conversar com alguns Motoqueiros?
-Bom, acho que já gastamos muito tempo com essas histórias, que tal tentar conversar com alguns Motoqueiros?
+Well, I think we've spent enough time on these stories. How about we try talking to some bikers?
 \ff[introBenitex]\bNathan: Sim, acho que é uma boa ideia.
-\ff[introBenitex]\bNathan: Sim, acho que é uma boa ideia.
+\ff[introBenitex]\bNathan: Yeah, I think that's a good idea.
 \ff[introBenitex]\bVocê sabe com quem a gente pode tentar conversar?
-\ff[introBenitex]\bVocê sabe com quem a gente pode tentar conversar?
+\ff[introBenitex]\bDo you know who we can try talking to?
 Eu estava analisando a área um pouco antes de você chegar.
-Eu estava analisando a área um pouco antes de você chegar.
+I was analyzing the area before you arrived.
 Sinceramente, não acho que vai ser fácil conversar com eles. Mas, se eu fosse você, tentaria falar com esse cara sentado sozinho.
-Sinceramente, não acho que vai ser fácil conversar com eles. Mas, se eu fosse você, tentaria falar com esse cara sentado sozinho.
+Honestly, I don't think it will be easy to talk to them. But if I were you, I would try to talk to that guy sitting alone.
 Ah é, cuidado com aquele grupo, eles parecem bem hostis.
-Ah é, cuidado com aquele grupo, eles parecem bem hostis.
+And be careful with that group, they seem pretty drunk.
 \ff[introBenitex]\bNathan: Certo, obrigado.
-\ff[introBenitex]\bNathan: Certo, obrigado.
+\ff[introBenitex]\bNathan: Okay, thanks.
 \ff[introBenitex]\bNathan: Desculpa, com quem você disse pra eu falar mesmo?
-\ff[introBenitex]\bNathan: Desculpa, com quem você disse pra eu falar mesmo?
+\ff[introBenitex]\bNathan: Sorry, who did you say I should talk to?
 Com esse cara comendo sozinho aqui embaixo.
-Com esse cara comendo sozinho aqui embaixo.
-Mas pode tentar conversar com outras pessoas, só toma cuidado com aquele grupo. Eles estão um pouco alterados.
-Mas pode tentar conversar com outras pessoas, só toma cuidado com aquele grupo. Eles estão um pouco alterados.
+That guy eating alone down there.
+Mas pode tentar conversar com outras pessoas, pode ser útil.
+But you can try talking to other people too, it'll be very helpful.
 \ff[introBenitex]\bNathan: Entendi.
-\ff[introBenitex]\bNathan: Entendi.
+\ff[introBenitex]\bNathan: Got it.
 Bom trabalho Nathan, consegui ouvir parte da conversa.
-Bom trabalho Nathan, consegui ouvir parte da conversa.
+Good job Nathan, I managed to hear part of the conversation.
 Se quiser, pode tentar continuar investigando, ou voltar pra delegacia. Vou continuar aqui mais um pouco, pelo meu irmão.
-Se quiser, pode tentar continuar investigando, ou voltar pra delegacia. Vou continuar aqui mais um pouco, pelo meu irmão.
+If you want, you can continue investigating, or go back to the police station. I'm going to stay here a little longer, for my brother.
 \ff[introBenitex]\bNathan: Certo, boa sorte.
-\ff[introBenitex]\bNathan: Certo, boa sorte.
+\ff[introBenitex]\bNathan: Okay, good luck.
 Te vejo por aí, foi um prazer.
-Te vejo por aí, foi um prazer.
+See you around, it was a nice meeting you.
 Ei...
-Ei...
+Hey...
 Ainda não comprei.
-Ainda não comprei.
+I haven't bought it yet.
 Está lavando.
-Está lavando.
+It's being washed.
 Virou comida.
-Virou comida.
+It became food.
 É verdade.
-É verdade.
+Yeah.
 Não tenho certeza.
-Não tenho certeza.
+I'm not sure.
 Realmente, desculpe.
-Realmente, desculpe.
+Oh, yeah, sorry.
 Tem certeza?
-Tem certeza?
+Are you sure?
 Não está não.
-Não está não.
+You are not.
 [Map76]
 \ff[introBenitex]\bNathan: Essas pegadas são como as do andar com a pedra!
-\ff[introBenitex]\bNathan: Essas pegadas são como as do andar com a pedra!
+\ff[introBenitex]\bNathan: These footprints are just like the ones on the other floor!
 [Map77]
 Saí de Nimbasa e dei um jeito de chegar aqui para tentar achar meu namorado.
 Saí de Nimbasa e dei um jeito de chegar aqui para tentar achar meu namorado.
