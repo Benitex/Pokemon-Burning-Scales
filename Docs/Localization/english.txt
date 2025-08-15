@@ -5307,7 +5307,7 @@ From now on, your Pokémon will be known as the legendary \v[5]!
 Haha, esse nome sim é bem melhor que o anterior, bem, bem, bem melhor!
 Oh yes, this nickname is much better than the previous one. Much, much much better!
 \ff[introBenitex]\bNathan: Pensando bem, acho melhor não.
-\ff[introBenitex]\bNathan: On second thoughts, nevermind.
+\ff[introBenitex]\bNathan: On second thoughts, never mind.
 Tudo bem então, só não diga que não avisei...
 Ok, it's up to you, but I warned you...
 \ff[introBenitex]\bNathan: Cai fora, você vai me ofender de graça!
@@ -5698,7 +5698,7 @@ No.
 Tudo bem.
 Alright.
 Para falar a verdade...
-Actually, nevermind.
+Actually, never mind.
 Vamos logo.
 Let's get it over with.
 Estou saindo.
@@ -8406,627 +8406,617 @@ I'll get one for you.
 I'm sorry.
 [Map44]
 \ff[introJasmine]\rJasmine: Desculpe, mas estou um pouco ocupada, não posso falar agora.
-\ff[introJasmine]\rJasmine: Desculpe, mas estou um pouco ocupada, não posso falar agora.
+\ff[introJasmine]\rJasmine: Sorry, but I'm a little busy, I can't talk right now.
 \ff[introBenitex]\bNathan: Sem problemas.
-\ff[introBenitex]\bNathan: Sem problemas.
+\ff[introBenitex]\bNathan: No problem.
 \ff[introJasmine]\rJasmine: Foi um prazer completar essa missão com você, a gente se vê por aí!
-\ff[introJasmine]\rJasmine: Foi um prazer completar essa missão com você, a gente se vê por aí!
+\ff[introJasmine]\rJasmine: It was a pleasure completing this mission with you. See you around!
 \ff[introJasmine]\rJasmine: Fiquei sabendo que você derrotou os Guardiões do Desert Resort, ótimo trabalho!
-\ff[introJasmine]\rJasmine: Fiquei sabendo que você derrotou os Guardiões do Desert Resort, ótimo trabalho!
+\ff[introJasmine]\rJasmine: I heard you defeated the Guardians of Desert Resort, great job!
 \ff[introJasmine]\rAgora posso me dedicar mais a esse caso.
-\ff[introJasmine]\rAgora posso me dedicar mais a esse caso.
+\ff[introJasmine]\rNow I can devote more time to this case.
 \ff[introBenitex]\bNathan: Oi, Jasmine, descobriu alguma coisa?
-\ff[introBenitex]\bNathan: Oi, Jasmine, descobriu alguma coisa?
+\ff[introBenitex]\bNathan: Hi, Jasmine, have you found anything?
 \ff[introJasmine]\rJasmine: Ah, oi Nathan.
-\ff[introJasmine]\rJasmine: Ah, oi Nathan.
-\l[3]\ff[introJasmine]\rAcho que vou ter que resolver vários problemas no Desert Resort antes de começar a realmente descobrir sobre os Motoqueiros.
-\l[3]\ff[introJasmine]\rAcho que vou ter que resolver vários problemas no Desert Resort antes de começar a realmente descobrir sobre os Motoqueiros.
+\ff[introJasmine]\rJasmine: Oh, hi Nathan.
+\l[3]\ff[introJasmine]\rTenho que resolver alguns problemas no Desert Resort antes de começar a pesquisar sobre os Motoqueiros.
+\l[3]\ff[introJasmine]\rI have to sort out a some problems at the Desert Resort before inavestigating the Bikers.
 \ff[introJasmine]\rInfelizmente, preciso colocar as responsabilidades do trabalho acima dessa missão.
-\ff[introJasmine]\rInfelizmente, preciso colocar as responsabilidades do trabalho acima dessa missão.
+\ff[introJasmine]\rUnfortunately, I have to put my work responsibilities above this mission.
 \ff[introBenitex]\bNathan: O que aconteceu?
-\ff[introBenitex]\bNathan: O que aconteceu?
+\ff[introBenitex]\bNathan: What happened?
 \ff[introJasmine]\rJasmine: O Desert Resort tem alguns pokemon atacando treinadores, outros, além dessa Volcarona.
-\ff[introJasmine]\rJasmine: O Desert Resort tem alguns pokemon atacando treinadores, outros, além dessa Volcarona.
+\ff[introJasmine]\rJasmine: Some Pokémon are attacking trainers at the Desert Resort. Others besides Volcarona.
 \ff[introJasmine]\rSão os Guadiões do Desert Resort, eles sempre estiveram por lá, mas não ficavam tão agressivos normalmente.
-\ff[introJasmine]\rSão os Guadiões do Desert Resort, eles sempre estiveram por lá, mas não ficavam tão agressivos normalmente.
+\ff[introJasmine]\rWe call them the Desert Resort Guardians. They have always been there, but they weren't usually so aggressive.
 \ff[introBenitex]\bNathan: Que situação...
-\ff[introBenitex]\bNathan: Que situação...
+\ff[introBenitex]\bNathan: What a situation...
 \ff[introBenitex]\bAh, acho que posso te ajudar com isso, o que eu posso fazer?
-\ff[introBenitex]\bAh, acho que posso te ajudar com isso, o que eu posso fazer?
+\ff[introBenitex]\bI think I can help you with that. What can I do?
 \l[3]\ff[introJasmine]\rJasmine: Obrigada, Nathan! São cinco guardiões, se você conseguir derrotar eles para se acalmarem um pouco, já deve ser suficiente.
-\l[3]\ff[introJasmine]\rJasmine: Obrigada, Nathan! São cinco guardiões, se você conseguir derrotar eles para se acalmarem um pouco, já deve ser suficiente.
+\l[3]\ff[introJasmine]\rJasmine: Thanks, Nathan! There are five of them. Try to defeat them in battle, that will calm them down for a while.
 \l[3]\ff[introJasmine]\rSe você quiser, também pode capturar eles. Logo outro mais calmo da mesma espécie deve substituir o que você capturar.
-\l[3]\ff[introJasmine]\rSe você quiser, também pode capturar eles. Logo outro mais calmo da mesma espécie deve substituir o que você capturar.
+\l[3]\ff[introJasmine]\rIf you want, you can also capture them. Soon, another member of the same species should replace the one you capture.
 \ff[introBenitex]\bNathan: Entendi, pode deixar comigo.
-\ff[introBenitex]\bNathan: Entendi, pode deixar comigo.
+\ff[introBenitex]\bNathan: Got it, leave it to me.
 \ff[introBenitex]\bNathan: É, talvez seja melhor você se preocupar com isso por enquanto.
-\ff[introBenitex]\bNathan: É, talvez seja melhor você se preocupar com isso por enquanto.
+\ff[introBenitex]\bNathan: Yeah, that sounds like a real problem.
 \ff[introJasmine]\rJasmine: De qualquer forma, se precisar de mim para algo importante, estou aqui.
-\ff[introJasmine]\rJasmine: De qualquer forma, se precisar de mim para algo importante, estou aqui.
+\ff[introJasmine]\rJasmine: Anyway, if you need me for anything important, I'm here.
 \ff[introBenitex]\bNathan: É, eu gostaria de saber mais uma coisa, se não for incômodo.
-\ff[introBenitex]\bNathan: É, eu gostaria de saber mais uma coisa, se não for incômodo.
+\ff[introBenitex]\bNathan: I would like to know one more thing, if it's not too much trouble.
 \ff[introJasmine]\rJasmine: Ah, pode falar.
-\ff[introJasmine]\rJasmine: Ah, pode falar.
+\ff[introJasmine]\rJasmine: Oh, go ahead.
 \ff[introBenitex]\bNathan: Como é o Desert Resort? Tem mais alguma coisa com que preciso me preocupar?
-\ff[introBenitex]\bNathan: Como é o Desert Resort?  Tem mais alguma coisa com que preciso me preocupar?
+\ff[introBenitex]\bNathan: What is the Desert Resort like? Is there anything else I need to be concerned about?
 \ff[introJasmine]\rJasmine: Acho que não, como os Motoqueiros invadiram o lugar, ele deve estar bem vazio nesse momento.
-\ff[introJasmine]\rJasmine: Acho que não, como os Motoqueiros invadiram o lugar, ele deve estar bem vazio nesse momento.
+\ff[introJasmine]\rJasmine: I don't think so. Since the bikers just left the place, it must be pretty empty right now.
 \ff[introJasmine]\rApesar disso, o deserto é bem grande e cheio de pokemon, seria bom levar alguns repels.
-\ff[introJasmine]\rApesar disso, o deserto é bem grande e cheio de pokemon, seria bom levar alguns repels.
+\ff[introJasmine]\rDespite that, the desert is quite large and full of Pokémon, so it would be a good idea to bring some repellents.
 \ff[introBenitex]\bNathan: Obrigado pela informações.
-\ff[introBenitex]\bNathan: Obrigado pela informações.
+\ff[introBenitex]\bNathan: Thank you for the information.
 \ff[introJasmine]\rJasmine: Não foi nada, se precisar de mais algo, estou aqui.
-\ff[introJasmine]\rJasmine: Não foi nada, se precisar de mais algo, estou aqui.
+\ff[introJasmine]\rJasmine: No problem. If you need anything else, I'm here.
 Por aqui.
-Por aqui.
+This way.
 Ele está aqui, oficial Jenny.
-Ele está aqui, oficial Jenny.
-Jenny: Ah, certo. Obrigada. Está, dispensado.
-Jenny: Ah, certo. Obrigada. Está, dispensado.
+He's here, Officer Jenny.
+Jenny: Ah, certo. Obrigada. Está dispensado.
+Jenny: Oh, okay. Thank you. You're dismissed.
 Jenny: Agora, venha até aqui, Nathan.
-Jenny: Agora, venha até aqui, Nathan.
+Jenny: Now, come here, Nathan.
 Oiabá!
 Oiabá!
 \ff[introBenitex]\bNathan: Oi...
-\ff[introBenitex]\bNathan: Oi...
+\ff[introBenitex]\bNathan: Hi...
 \l[3]Os policiais de Castelia tem muitas responsabilidades. Além de tomar conta da cidade, também conduzem as pesquisas de opinião e estão organizando a eleição.
-\l[3]Os policiais de Castelia tem muitas responsabilidades.  Além de tomar conta da cidade, também conduzem as pesquisas de opinião e estão organizando a eleição.
+\l[3]Castelia police officers have many responsibilities. In addition to taking care of the city, they also conduct opinion polls and are organizing the election.
 Talvez seja por isso que estejam meio ineficientes...
-Talvez seja por isso que estejam meio ineficientes...
+Perhaps that is why they are somewhat inefficient...
 O trabalho deles é de excelência, merecem todo o respeito!
-O trabalho deles é de excelência, merecem todo o respeito!
+Their work is excellent, and they deserve lots of respect!
 Ei, e não se esqueça de votar nos Palhaços...
-Ei, e não se esqueça de votar nos Palhaços...
+Hey, and don't forget to vote for the Clowns...
 \ff[introBenitex]\bNathan: (Não acho que faça muito sentido anunciar que os palhaços vão votar nos palhaços, mas vou anotar.)
-\ff[introBenitex]\bNathan: (Não acho que faça muito sentido anunciar que os palhaços vão votar nos palhaços, mas vou anotar.)
+\ff[introBenitex]\bNathan: (I don't think it makes much sense to say that a clown is going to vote for the Clowns, but I'll make a note it anyway.)
 Ótimo, você voltou. O que conseguiu descobrir na Taverna?
-Ótimo, você voltou. O que conseguiu descobrir na Taverna?
+Great, you're back. What did you find out at The Tavern?
 \ff[introBenitex]\bNathan: Parece que os Motoqueiros capturaram um pokemon especial e estão usando as canções dele.
-\ff[introBenitex]\bNathan: Parece que os Motoqueiros capturaram um pokemon especial e estão usando as canções dele.
+\ff[introBenitex]\bNathan: It seems that the Bikers have captured a special Pokémon and are making it to sing.
 \l[3]\ff[introBenitex]\bMas não consegui descobrir pra que estão usando, parece que só alguns Motoqueiros seletos tem acesso à esse pokemon.
-\l[3]\ff[introBenitex]\bMas não consegui descobrir pra que estão usando, parece que só alguns Motoqueiros seletos tem acesso à esse pokemon.
-\ff[introBenitex]\bInclusive, os Motoqueiros não pareciam maus na taverna, mas bastante gananciosos.
-\ff[introBenitex]\bInclusive, os Motoqueiros não pareciam maus na taverna, mas bastante gananciosos.
-\ff[introBenitex]\bEu acho que talvez estejam sendo manipulados de alguma forma, como peões do seu chefe.
-\ff[introBenitex]\bEu acho que talvez estejam sendo manipulados de alguma forma, como peões do seu chefe.
+\l[3]\ff[introBenitex]\bBut I don't know what they are gaining from that. It seems only a few selected Bikers have access to this Pokémon.
+\ff[introBenitex]\bInclusive, os Motoqueiros pareciam bastante gananciosos.
+\ff[introBenitex]\bThose Bikers seemed quite greedy too.
+\ff[introBenitex]\bEu acho que talvez a gente consiga manipular eles de alguma forma.
+\ff[introBenitex]\bI think maybe we can use money to manipulate them somehow.
 Muito interessante Nathan, obrigado pelas informações. Elas serão reportadas imediatamente.
-Muito interessante Nathan, obrigado pelas informações. Elas serão reportadas imediatamente.
-Sobre a sua recompensa, aqui está. 5000$ para você e alguns doces para seus pokemon.
-Sobre a sua recompensa, aqui está. 5000$ para você e alguns doces para seus pokemon.
+Very interesting, Nathan. Thank you for the information. It will be reported immediately.
+Sobre a sua recompensa, aqui está. $5000 para você e alguns doces para seus pokemon.
+Regarding your reward, here it is. $5000 for you and some candies for your Pokémon.
 \ff[introBenitex]\bNathan: Obrigado!
-\ff[introBenitex]\bNathan: Obrigado!
+\ff[introBenitex]\bNathan: Thanks!
 Inclusive, acredito que talvez você seja uma boa pessoa para ajudar na missão de Enfrentar os Motoqueiros.
-Inclusive, acredito que talvez você seja uma boa pessoa para ajudar na missão de Enfrentar os Motoqueiros.
+By the way, I think you might be a good person to help with the mission to confront the bikers.
 Com essas informações, vamos estar mais preparados.
-Com essas informações, vamos estar mais preparados.
-Se quiser, você pode pegar escolher mais alguma missão.
-Se quiser, você pode pegar escolher mais alguma missão.
+With this information, we will be better prepared.
+Se quiser, você pode escolher mais uma missão.
+If you want, you can choose another mission.
 Seja bem vindo a delegacia de Castelia, nós aceitamos ajuda em operações.
-Seja bem vindo a delegacia de Castelia, nós aceitamos ajuda em operações.
+Welcome to Castelia Police Station. We accept help with operations.
 \ff[introBenitex]\bNathan: Estou apenas de visita.
-\ff[introBenitex]\bNathan: Estou apenas de visita.
+\ff[introBenitex]\bNathan: I'm just visiting.
 Infelizmente a delegacia é um ambiente restrito e não permite visitas turísticas.
-Infelizmente a delegacia é um ambiente restrito e não permite visitas turísticas.
+Unfortunately, the police station is a restricted environment and does not allow tourist visits.
 \ff[introBenitex]\bNathan: Tudo bem.
-\ff[introBenitex]\bNathan: Tudo bem.
+\ff[introBenitex]\bNathan: That's okay.
 Gostaria de ver as operações disponíveis?
-Gostaria de ver as operações disponíveis?
+Would you like to see the available operations?
 Você pode falar sobre essa missão com o Tenente Williams aqui atrás.
-Você pode falar sobre essa missão com o Tenente Williams aqui atrás.
+You can further discuss this mission with Lieutenant Williams back here.
 \ff[introBenitex]\bNathan: Eu gostaria de me candidatar para ajudar nas eleições.
-\ff[introBenitex]\bNathan: Eu gostaria de me candidatar para ajudar nas eleições.
+\ff[introBenitex]\bNathan: I would like to apply to help with the elections.
 Ah, sim. O tenente Will tem uma posição para você, você pode pedir mais detalhes, ele está aqui atrás.
-Ah, sim. O tenente Will tem uma posição para você, você pode pedir mais detalhes, ele está aqui atrás.
+Oh, yes. Lieutenant Will has a position for you. You can ask him for more details. He's in the back.
 Se quiser aceitar outra operação, fale comigo e te indicarei com quem conversar.
-Se quiser aceitar outra operação, fale comigo e te indicarei com quem conversar.
+If you want to accept another operation, talk to me and I'll tell you who to talk to.
 Você foi adimitido para essa missão. Converse com a policial aqui atrás de mim para mais informações.
-Você foi adimitido para essa missão. Converse com a policial aqui atrás de mim para mais informações.
+You have been accepted for this mission. Talk to the police officer behind me for more information.
 \ff[introBenitex]\bNathan: Gostaria de me candidatar para resolver o problema dos Motoqueiros que invadiram a Rota 4.
-\ff[introBenitex]\bNathan: Gostaria de me candidatar para resolver o problema dos Motoqueiros que invadiram a Rota 4.
-O caso dos Motoqueiros? É uma missão complicada, preciso adimitir.
-O caso dos Motoqueiros? É uma missão complicada, preciso adimitir.
+\ff[introBenitex]\bNathan: I would like to apply to the mission of the Bikers who invaded Route 4.
+O caso dos Motoqueiros? É uma missão complicada, preciso admitir.
+The Bikers' case? It's a complicated mission, I must admit.
 \l[3]Nós já tentamos enfrentar eles algumas vezes, falhamos em todas. Eles são mais fortes do que parecem, não sei como conseguiram... Não, deixa pra lá.
-\l[3]Nós já tentamos enfrentar eles algumas vezes, falhamos em todas. Eles são mais fortes do que parecem, não sei como conseguiram... Não, deixa pra lá.
+\l[3]We've tried to take them on a few times, but we've failed every time. They're stronger than they look, I don't know how they... No, never mind.
 Você tem certeza que quer se envolver nisso?
-Você tem certeza que quer se envolver nisso?
+Are you sure you want to get involved in this?
 \ff[introBenitex]\bNathan: Sim, estou decidido. Atravessei a Rota 4 e percebi como isso é problemático.
-\ff[introBenitex]\bNathan: Sim, estou decidido. Atravessei a Rota 4 e percebi como isso é problemático.
+\ff[introBenitex]\bNathan: Yes, I've made up my mind. I crossed Route 4 and realized how problematic they are.
 Certo, deixa só eu falar com minha chefe. Pode se sentar no sofá para esperar.
-Certo, deixa só eu falar com minha chefe. Pode se sentar no sofá para esperar.
+Okay, let me just talk to my boss. You can sit and wait.
 Jenny.
 Jenny.
 Ah, oi. O que foi?
-Ah, oi. O que foi?
+Oh, hi. What do you need?
 O rapaz ali está querendo se envolver no caso dos Motoqueiros da Rota 4.
-O rapaz ali está querendo se envolver no caso dos Motoqueiros da Rota 4.
+That guy over there wants to get involved in the Route 4 Bikers case.
 Humm, deixe-me verificar a situação da operação.
-Humm, deixe-me verificar a situação da operação.
+Hmm, let me check the status of the operation.
 Bom, nós permitimos novos treinadores no caso, mas apenas se forem experientes. Você acha que esse rapaz conseguiria?
-Bom, nós permitimos novos treinadores no caso, mas apenas se forem experientes. Você acha que esse rapaz conseguiria?
+Well, we allow new trainers in the case, but only if they are experienced. Do you think this young man could do it?
 Bom, ele atravessou a Rota 4. Acredito que seja capaz sim.
-Bom, ele atravessou a Rota 4. Acredito que seja capaz sim.
+Well, he crossed Route 4. I believe he is capable.
+Foi ele que trouxa as informações sobre À Taverna pra gente.
+Well, he's the one who brought us all the information about The Tavern. I believe he is capable.
 Certo, permita que ele entre para conversar comigo então.
-Certo, permita que ele entre para conversar comigo então.
+All right, let him come in to talk to me then.
 Entendido.
-Entendido.
+Understood.
 Rapaz, venha aqui, por favor.
-Rapaz, venha aqui, por favor.
+Young man, come here, please.
 Certo, você foi adimitido para essa missão. Converse com a policial aqui atrás de mim para mais informações.
-Certo, você foi adimitido para essa missão. Converse com a policial aqui atrás de mim para mais informações.
+Alright, you have been admitted to this mission. Talk to the police officer behind me for more information.
 \ff[introBenitex]\bNathan: Pensando bem, prefiro manter a distância por enquanto.
-\ff[introBenitex]\bNathan: Pensando bem, prefiro manter a distância por enquanto.
+\ff[introBenitex]\bNathan: On second thought, I'd rather keep my distance for now.
 Eu também.
-Eu também.
+So would I.
 A Taverna fica na parte sul da Gym Street, ela fica um pouco escondida, mas acho que você consegue encontrar.
-A Taverna fica na parte sul da Gym Street, ela fica um pouco escondida, mas acho que você consegue encontrar.
+The Tavern is located on the south side of Gym Street. It's a little hidden, but I think you'll be able to find it.
 Depois de terminar a operação, você pode relatar os resultados diretamente comigo.
-Depois de terminar a operação, você pode relatar os resultados diretamente comigo.
+After completing the operation, you can report the results directly to me.
 \ff[introBenitex]\bNathan: O que é essa A Taverna? Ela precisa ser inspecionada?
-\ff[introBenitex]\bNathan: O que é essa A Taverna?  Ela precisa ser inspecionada?
+\ff[introBenitex]\bNathan: Where is The Tavern? Does it need to be inspected?
 Ah, A Taverna? É um caso um pouco complicado, posso te contar a história.
-Ah, A Taverna? É um caso um pouco complicado, posso te contar a história.
+Oh, The Tavern? It's a bit of a complicated case. I can tell you the story.
 Você já deve ter ouvido falar dos Motoqueiros, certo?
-Você já deve ter ouvido falar dos Motoqueiros, certo?
+You've probably heard of the Bikers, right?
 \ff[introBenitex]\bNathan: Sim, já estou bem ciente dos crimes deles.
-\ff[introBenitex]\bNathan: Sim, já estou bem ciente dos crimes deles.
-Ótimo, mas não vamos parar por aí. Nós precisamos descobrir mais sobre eles. É sobre isso que se trata essa missão.
-Ótimo, mas não vamos parar por aí. Nós precisamos descobrir mais sobre eles. É sobre isso que se trata essa missão.
+\ff[introBenitex]\bNathan: Yes, I'm well aware of their crimes.
+Nós precisamos descobrir mais sobre eles. É sobre isso que se trata essa missão.
+We need to find out more about them. That's what this mission is all about.
 \ff[introBenitex]\bNathan: Já ouvi falar sobre eles, mas gostaria de saber um pouco mais.
-\ff[introBenitex]\bNathan: Já ouvi falar sobre eles, mas gostaria de saber um pouco mais.
+\ff[introBenitex]\bNathan: I've heard about them, but I'd like to know a little more.
 Hoje em dia, eles são um grupo de criminosos que invadiram e dominaram a Rota 4.
-Hoje em dia, eles são um grupo de criminosos que invadiram e dominaram a Rota 4.
+They're a group of criminals who invaded and took over Route 4.
 As pessoas não podem passar de um lado para o outro, e isso está causando grandes problemas no comércio com Nimbasa também.
-As pessoas não podem passar de um lado para o outro, e isso está causando grandes problemas no comércio com Nimbasa também.
+People can't get from one side to the other, which is causing big problems for trade with Nimbasa.
 Mas nem sempre foi assim.
-Mas nem sempre foi assim.
+But they weren't always like that.
 No início, os Motoqueiros eram só um Clube como os outros de Castelia. A base deles é um bar, se chama A Taverna.
-No início, os Motoqueiros eram só um Clube como os outros de Castelia. A base deles é um bar, se chama A Taverna.
+In the beginning, the Bikers were just a club like any other in Castelia. Their base is a bar, it's called The Tavern.
 É um bar exclusivo para Motoqueiros, todos de Castelia sabem disso e não entram lá para evitar confusão.
-É um bar exclusivo para Motoqueiros, todos de Castelia sabem disso e não entram lá para evitar confusão.
+It's a bar exclusively for bikers, everyone in Castelia knows that and avoids going there to prevent trouble.
 \ff[introBenitex]\bNathan: Entendi, minha missão é ver o que eles estão armando por lá, então?
-\ff[introBenitex]\bNathan: Entendi, minha missão é ver o que eles estão armando por lá, então?
+\ff[introBenitex]\bNathan: I see, so my mission is to see what they're up to there?
 \l[3]Sim, A Taverna já foi a base de operações deles, mas hoje em dia, como estão na Rota 4, não deve ser mais tão perigoso quanto antes.
-\l[3]Sim, A Taverna já foi a base de operações deles, mas hoje em dia, como estão na Rota 4, não deve ser mais tão perigoso quanto antes.
+Since most of the Bikers are on Route 4, it shouldn't be as dangerous now.
 Mas, com certeza, ainda é possível conseguir informações muito valiosas por lá.
-Mas, com certeza, ainda é possível conseguir informações muito valiosas por lá.
+But you can definitely still get some very valuable information there.
 E então, o que me diz?
-E então, o que me diz?
+So, what do you say?
 \ff[introBenitex]\bNathan: Certo, gostaria de participar dessa operação.
-\ff[introBenitex]\bNathan: Certo, gostaria de participar dessa operação.
+\ff[introBenitex]\bNathan: Okay, I would like to participate in this operation.
 Ótimo. Nós já conseguimos ajuda de um cientista, você pode encontrar ele na Taverna e trabalhar em equipe.
-Ótimo. Nós já conseguimos ajuda de um cientista, você pode encontrar ele na Taverna e trabalhar em equipe.
+Great. A scientist is also going to help you. You can find him at The Tavern and work as a team.
 \ff[introBenitex]\bNathan: Ótimo.
-\ff[introBenitex]\bNathan: Ótimo.
+\ff[introBenitex]\bNathan: Great.
 A Taverna fica na Gym Street, ela fica um pouco escondida, mas acho que você consegue encontrar.
-A Taverna fica na Gym Street, ela fica um pouco escondida, mas acho que você consegue encontrar.
+The Tavern is on Gym Street. It's a little hidden, but I think you can find it.
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: Sure thing.
 Ah é, depois de terminar a operação, você pode relatar os resultados diretamente comigo.
-Ah é, depois de terminar a operação, você pode relatar os resultados diretamente comigo.
+After you finish the operation, you can report the results directly to me.
 \ff[introBenitex]\bNathan: Não me sinto pronto para participar dessa missão ainda.
-\ff[introBenitex]\bNathan: Não me sinto pronto para participar dessa missão ainda.
+\ff[introBenitex]\bNathan: I don't feel ready to participate in this mission yet.
 Sem problemas, sinta-se livre para se preparar ou escolher outra operação.
-Sem problemas, sinta-se livre para se preparar ou escolher outra operação.
+No problem, feel free to prepare yourself or choose another operation.
 Opa, senhor, posso ajudá-lo? Venha aqui e converse um pouco comigo.
-Opa, senhor, posso ajudá-lo? Venha aqui e converse um pouco comigo.
+Hey, sir, can I help you? Come over here and talk to me for a minute.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Sure.
 \rVocê deve ser o rapaz que se candidatou para o caso dos Motoqueiros da Rota 4, certo?
-\rVocê deve ser o rapaz que se candidatou para o caso dos Motoqueiros da Rota 4, certo?
+\rYou must be the guy who applied for the Route 4 Bikers case, right?
 \ff[introBenitex]\bNathan: Sim, sou eu mesmo.
-\ff[introBenitex]\bNathan: Sim, sou eu mesmo.
+\ff[introBenitex]\bNathan: Yes, that's me.
 \rÓtimo! Eu sou Jenny, chefe do Departamento Policial de Unova e responsável pela organização da delegacia de Castelia.
-\rÓtimo! Eu sou Jenny, chefe do Departamento Policial de Unova e responsável pela organização da delegacia de Castelia.
+\rGreat! I'm Jenny, head of the Unova Police Department and responsible for organizing the Castelia Police Station.
 \rJenny: Vou te passar uma visão superficial do caso, depois vamos conversar com a principal responsável por ele.
-\rJenny: Vou te passar uma visão superficial do caso, depois vamos conversar com a principal responsável por ele.
+\rJenny: I'll give you a brief overview of the case, then we'll talk to the person in charge of it.
 \l[3]\rJenny: Como você deve saber, uma gangue de motoqueiros dominou a Rota 4, impedindo a passagem de pessoas para Nimbasa e, consequentemente, o resto de Unova.
-\l[3]\rJenny: Como você deve saber, uma gangue de motoqueiros dominou a Rota 4, impedindo a passagem de pessoas para Nimbasa e, consequentemente, o resto de Unova.
+\l[3]\rJenny: As you may know, a gang of bikers has taken over Route 4, preventing people from passing through to Nimbasa and, consequently, the rest of Unova.
 \l[3]\rEsses motoqueiros já são conhecidos por aqui, eles costumavam pregar peças e incomodar as pessoas nas ruas de Castelia. Mas nada além disso.
-\l[3]\rEsses motoqueiros já são conhecidos por aqui, eles costumavam pregar peças e incomodar as pessoas nas ruas de Castelia. Mas nada além disso.
+\l[3]\rThese bikers are already known around here. They used to play pranks and bother people on the streets of Castelia. But nothing more than that.
 \ff[introBenitex]\bNathan: Vocês sabem o motivo dessa mudança de comportamento?
-\ff[introBenitex]\bNathan: Vocês sabem o motivo dessa mudança de comportamento?
+\ff[introBenitex]\bNathan: Do you know the reason for this change in behavior?
 \l[3]\rJenny: Infelizmente, não. Além disso, já tentamos parar eles algumas vezes, mas eles são bem fortes, muito mais do que imaginávamos.
-\l[3]\rJenny: Infelizmente, não. Além disso, já tentamos parar eles algumas vezes, mas eles são bem fortes, muito mais do que imaginávamos.
+\l[3]\rJenny: Unfortunately, we don't. We've also tried to stop them a few times, but they're very strong, much more than we imagined.
 \ff[introBenitex]\bNathan: Então vocês conhecem os pokemon que eles usam, pode me contar?
-\ff[introBenitex]\bNathan: Então vocês conhecem os pokemon que eles usam, pode me contar?
+\ff[introBenitex]\bNathan: So you know a little about the Pokémon they use...
 \rJenny: Claro, isso pode ajudar muito na nossa estratégia.
-\rJenny: Claro, isso pode ajudar muito na nossa estratégia.
+\rJenny: Yes, I can tell you about that, it should surely help.
 \rNormalmente, eles usam pokemon do tipo veneno, a grande maioria deles, alguns também usam pokemon do tipo sombrio.
-\rNormalmente, eles usam pokemon do tipo veneno, a grande maioria deles, alguns também usam pokemon do tipo sombrio.
+\rThey use poison-type Pokémon, the vast majority of them at least. Some also use dark-type Pokémon.
 \rEu não conheço o chefe deles, mas acredito que deva estar preparado com outros tipos também.
-\rEu não conheço o chefe deles, mas acredito que deva estar preparado com outros tipos também.
+\rI don't know about their boss, but I believe he must be prepared with other types as well.
 \rDe qualquer forma, pokemon do tipo psíquico e terrestre vão ser bastante importantes para facilitar nosso ataque.
-\rDe qualquer forma, pokemon do tipo psíquico e terrestre vão ser bastante importantes para facilitar nosso ataque.
+\rIn any case, psychic- and ground-type Pokémon will be very important to our attack.
 \ff[introBenitex]\bNathan: Entendido.
-\ff[introBenitex]\bNathan: Entendido.
+\ff[introBenitex]\bNathan: Understood.
 \rJenny: Certo, vamos falar com a Jasmine então. Siga-me.
-\rJenny: Certo, vamos falar com a Jasmine então. Siga-me.
+\rJenny: Right, let's talk to Jasmine then. Follow me.
 \ff[introJasmine]\rJasmine: Ah, oi. Vocês precisam de algo?
-\ff[introJasmine]\rJasmine: Ah, oi. Vocês precisam de algo?
+\ff[introJasmine]\rJasmine: Oh, hi. Do you need anything?
 \rJenny: Sim, Jasmine. Esse rapaz quer ajudar a enfrentar os Motoqueiros na Rota 4.
-\rJenny: Sim, Jasmine. Esse rapaz quer ajudar a enfrentar os Motoqueiros na Rota 4.
+\rJenny: Yes, Jasmine. This guy wants to help take on the Bikers on Route 4.
 \ff[introJasmine]\rJasmine: Olha... Corajoso.
-\ff[introJasmine]\rJasmine: Olha... Corajoso.
+\ff[introJasmine]\rJasmine: Oh, look... Brave.
 \ff[introJasmine]\rMuito bem, eu sou responsável pela Rota 4 e pelo Desert Resort. Agradeço por oferecer ajuda.
-\ff[introJasmine]\rMuito bem, eu sou responsável pela Rota 4 e pelo Desert Resort. Agradeço por oferecer ajuda.
+\ff[introJasmine]\rVery well, I'm in charge of Route 4 and the Desert Resort. Thank you for offering your help.
 \ff[introJasmine]\rDesde que os motoqueiros começaram a ocupar a rota, não tive um dia de paz.
-\ff[introJasmine]\rDesde que os motoqueiros começaram a ocupar a rota, não tive um dia de paz.
+\ff[introJasmine]\rEver since the Bikers started occupying the route, I haven't had a day of peace.
 \ff[introJasmine]\rVamos preparar esse ataque juntos, não podemos deixar isso continuar do jeito que está.
-\ff[introJasmine]\rVamos preparar esse ataque juntos, não podemos deixar isso continuar do jeito que está.
+\ff[introJasmine]\rLet's prepare this attack together. We can't let this continue as it is.
 \rJenny: Eu vou saindo então, boa sorte.
-\rJenny: Eu vou saindo então, boa sorte.
+\rJenny: I'm leaving now, good luck.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thanks.
 \ff[introBenitex]\bNathan: Certo, qual é o plano?
-\ff[introBenitex]\bNathan: Certo, qual é o plano?
+\ff[introBenitex]\bNathan: Okay, what's the plan?
 \l[3]\ff[introJasmine]\rJasmine: É simples. Nós precisamos invadir a "Cidade dos Motoqueiros" ou seja lá como eles chamem o território deles na Rota 4 e derrotar o líder deles.
-\l[3]\ff[introJasmine]\rJasmine: É simples. Nós precisamos invadir a "Cidade dos Motoqueiros" ou seja lá como eles chamem o território deles na Rota 4 e derrotar o líder deles.
+\l[3]\ff[introJasmine]\rJasmine: We need to invade their "Biker Town" or whatever they call their territory on Route 4, and defeat their leader.
 \l[3]\ff[introJasmine]\rSem a liderança, os outros Motoqueiros vão ficar perdidos, eles não são muito inteligentes. Eles devem fugir, ou devemos conseguir prendê-los facilmente.
-\l[3]\ff[introJasmine]\rSem a liderança, os outros Motoqueiros vão ficar perdidos, eles não são muito inteligentes. Eles devem fugir, ou devemos conseguir prendê-los facilmente.
+\l[3]\ff[introJasmine]\rWithout their leader, the others will be lost. They're not smart. They'll probably try to flee, and then we should be able to arrest them easily.
 \ff[introJasmine]\rSe a gente fizer isso, não vamos precisar lidar com os Motoqueiros que estão bloqueando a entrada do Desert Resort também.
-\ff[introJasmine]\rSe a gente fizer isso, não vamos precisar lidar com os Motoqueiros que estão bloqueando a entrada do Desert Resort também.
+\ff[introJasmine]\rIf we do that, we also won't have to deal with the Bikers who are blocking the entrance to the Desert Resort.
 \ff[introJasmine]\rO que acha do plano?
-\ff[introJasmine]\rO que acha do plano?
+\ff[introJasmine]\rWhat do you think of the plan?
 \ff[introBenitex]\bNathan: Concordo, acredito que vá dá certo.
-\ff[introBenitex]\bNathan: Concordo, acredito que vá dá certo.
+\ff[introBenitex]\bNathan: I agree, I think it should work.
 \l[3]\ff[introJasmine]\rJasmine: Perfeito. Se você não se lembra, os Motoqueiros estão na parte central da Rota 4, mais ao leste da área.
-\l[3]\ff[introJasmine]\rJasmine: Perfeito. Se você não se lembra, os Motoqueiros estão na parte central da Rota 4, mais ao leste da área.
+\l[3]\ff[introJasmine]\rJasmine: That's perfect. You can prepare yourself and move to the central area of Route 4.
 \ff[introBenitex]\bNathan: Eu acredito que seja uma boa ideia atacar os motoqueiros na entrada do Desert Resort antes, não podemos deixar eles fugirem.
-\ff[introBenitex]\bNathan: Eu acredito que seja uma boa ideia atacar os motoqueiros na entrada do Desert Resort antes, não podemos deixar eles fugirem.
+\ff[introBenitex]\bNathan: I believe we should attack the bikers at the entrance to the Desert Resort first. Otherwise they might escape.
 \l[3]\ff[introJasmine]\rJasmine: Sem problemas, podemos fazer isso antes. Se você não se lembra, o Desert Resort fica ao Norte da Rota 4.
-\l[3]\ff[introJasmine]\rJasmine: Sem problemas, podemos fazer isso antes. Se você não se lembra, o Desert Resort fica ao Norte da Rota 4.
+\l[3]\ff[introJasmine]\rJasmine: Yes, that's right, we can do that first. You can prepare yourself and move to the north of Route 4, where you'll find the Desert Resort entrance.
 \ff[introJasmine]\rJasmine: Ótimo, plano arquitetado. Hora de entrar em ação.
-\ff[introJasmine]\rJasmine: Ótimo, plano arquitetado. Hora de entrar em ação.
+\ff[introJasmine]\rJasmine: Great, plan devised. Time to take action.
 \ff[introBenitex]\bNathan: Isso!
-\ff[introBenitex]\bNathan: Isso!
+\ff[introBenitex]\bNathan: Yes!
 \ff[introJasmine]\rAntes de sair, pegue isso. Vamos precisar que seus pokemon estejam fortes.
-\ff[introJasmine]\rAntes de sair, pegue isso. Vamos precisar que seus pokemon estejam fortes.
+\ff[introJasmine]\rBefore you leave, take this. We'll need your Pokémon to be strong.
 \ff[introJasmine]\rPode ir na frente, eu vou comprar alguns items antes de sair da cidade.
-\ff[introJasmine]\rPode ir na frente, eu vou comprar alguns items antes de sair da cidade.
+\ff[introJasmine]\rGo ahead, I'll buy some items before leaving the city.
 \rJenny: Você é o rapaz que invadiu o torneio, Nathan, certo?
-\rJenny: Você é o rapaz que invadiu o torneio, Nathan, certo?
+\rJenny: You're the guy who caused a mess at the tournament, Nathan, right?
 \ff[introBenitex]\bNathan: Não, não. Vocês devem ter se confundido, não sou esse rapaz.
-\ff[introBenitex]\bNathan: Não, não. Vocês devem ter se confundido, não sou esse rapaz.
+\ff[introBenitex]\bNathan: No, no. You must have the wrong person, I'm not that guy.
 \rJenny: Vamos lá, não se faça de estúpido. Vai ser mais fácil para nós dois.
-\rJenny: Vamos lá, não se faça de estúpido. Vai ser mais fácil para nós dois.
+\rJenny: Come on, don't play dumb. It'll be easier for both of us.
 \ff[introBenitex]\bNathan: Certo... Sou eu.
-\ff[introBenitex]\bNathan: Certo... Sou eu.
+\ff[introBenitex]\bNathan: Okay... It's me.
 \rJenny: Ótimo. Como você deve saber, você recebeu, como pena, prestar serviços comunitários.
-\rJenny: Ótimo. Como você deve saber, você recebeu, como pena, prestar serviços comunitários.
+\rJenny: Great. As you may know, you've been sentenced to community service.
 \l[3]\rNós tivemos a oportunidade de decidir qual vai ser seu serviço. De acordo com o nível dos seus pokemon e seu histórico, não queremos pegar leve.
-\l[3]\rNós tivemos a oportunidade de decidir qual vai ser seu serviço. De acordo com o nível dos seus pokemon e seu histórico, não queremos pegar leve.
+\l[3]\rWe were allowed to chose which service you'll take. Based on the level of your Pokémon, we don't want to go easy on you.
 \rPor isso, decidimos que você está encarregado de expulsar os motoqueiros da Rota 4.
-\rPor isso, decidimos que você está encarregado de expulsar os motoqueiros da Rota 4.
+\rTherefore, you are now in charge of expelling the Bikers from Route 4.
 \ff[introBenitex]\bNathan: Vocês vão confiar essa tarefa a mim?
-\ff[introBenitex]\bNathan: Vocês vão confiar essa tarefa a mim?
+\ff[introBenitex]\bNathan: Will you entrust that task to me?
 \rJenny: Sim, e não esperamos que você falhe, mas, bem, se falhar não vamos ser nós que vamos lidar com você.
-\rJenny: Sim, e não esperamos que você falhe, mas, bem, se falhar não vamos ser nós que vamos lidar com você.
+\rJenny: Yes, and we don't expect you to fail. But, well, if you do fail, we won't be the ones dealing with you.
 \rDe qualquer forma, vou te passar as informações da sua missão pra você poder começar.
-\rDe qualquer forma, vou te passar as informações da sua missão pra você poder começar.
+\rAnyway, I'll give you the information about your mission so you can get started.
 \rJenny: Meus parabéns Nathan. Aposto que deve ter sido uma missão e tanto, hein?
-\rJenny: Meus parabéns Nathan. Aposto que deve ter sido uma missão e tanto, hein?
+\rJenny: Congratulations, Nathan. I bet it was quite a mission, huh?
 \rBom, te chamei aqui para entregar sua recompensa!
-\rBom, te chamei aqui para entregar sua recompensa!
+\rI called you here to give you your reward!
 \l[3]\rSaiba que tudo que você fez vale muito mais do que isso, mas serve como valor simbólico e como agradecimento, de toda Unova.
-\l[3]\rSaiba que tudo que você fez vale muito mais do que isso, mas serve como valor simbólico e como agradecimento, de toda Unova.
-Nathan recebeu 100000$.
-Nathan recebeu 100000$.
+\l[3]\rKnow that everything you did is worth much more than this, but it serves as a symbolic value and as a thank you from all of Unova.
+Nathan recebeu $100000.
+Nathan received $100000.
 \ff[introBenitex]\bNathan: Uau, tudo isso mesmo?
-\ff[introBenitex]\bNathan: Uau, tudo isso mesmo?
+\ff[introBenitex]\bNathan: Wow, all that?
 \rJenny: Claro, foi uma missão muito perigosa, e você cumpriu com excelência.
-\rJenny: Claro, foi uma missão muito perigosa, e você cumpriu com excelência.
+\rJenny: Well of course. It was a very dangerous mission, and you accomplished it with excellence.
 \rJenny: Sinceramente, eu não estava muito confiante sobre você no início.
-\rJenny: Sinceramente, eu não estava muito confiante sobre você no início.
+\rJenny: Honestly, I wasn't very confident about you at first.
 \rMas, depois de ver tudo que aconteceu e tudo que você fez, eu não tenho alternativa.
-\rMas, depois de ver tudo que aconteceu e tudo que você fez, eu não tenho alternativa.
+\rBut after seeing everything that happened and everything you did, I have no choice.
 \rPreciso te agradecer, de verdade. Obrigada por derrotar os motoqueiros.
-\rPreciso te agradecer, de verdade. Obrigada por derrotar os motoqueiros.
+\rI really need to thank you for defeating the bikers.
 \l[3]\rSe você não tivesse que fazer isso como uma pena, você certamente receberia uma grande recompensa.
-\l[3]\rSe você não tivesse que fazer isso como uma pena, você certamente receberia uma grande recompensa.
+\l[3]\rIf you didn't have to do it as punishment, you would certainly receive a great reward.
 \rJenny: Mas, enfim. Obrigada de verdade, toda a Unova agradece por essa missão.
-\rJenny: Mas, enfim. Obrigada de verdade, toda a Unova agradece por essa missão.
+\rJenny: But anyway, thank you very much. All of Unova is grateful for the results of this mission.
 \rAh sim, claro que você também vai receber uma recompensa pelos pokemon que libertou.
-\rAh sim, claro que você também vai receber uma recompensa pelos pokemon que libertou.
-Nathan recebeu 2500$.
-Nathan recebeu 2500$.
+\rOh yes, of course you will also receive a reward for the Pokémon you freed.
+Nathan recebeu $2500.
+Nathan received $2500.
 \rBom trabalho.
-\rBom trabalho.
+\rGood job.
 Desculpe, mas estou um pouco ocupada, não posso falar agora.
-Desculpe, mas estou um pouco ocupada, não posso falar agora.
+Sorry, but I'm a little busy. I can't talk right now.
 \ff[introJasmine]\rJasmine: Staraptor, foco!
-\ff[introJasmine]\rJasmine: Staraptor, foco!
+\ff[introJasmine]\rJasmine: Staraptor, focus!
 Eaí camarada, como vai?
-Eaí camarada, como vai?
+Hey buddy, how's it going?
 \ff[introBenitex]\bNathan: Estou bem. Você é o Tenente Williams?
-\ff[introBenitex]\bNathan: Estou bem. Você é o Tenente Williams?
+\ff[introBenitex]\bNathan: I'm fine. Are you Lieutenant Williams?
 Tenente Williams: Em carne e osso!
-Tenente Williams: Em carne e osso!
+Lieutenant Williams: In the flesh!
 Diga, veio ajudar nas eleições?
-Diga, veio ajudar nas eleições?
+So, are you here to help with the elections?
 \ff[introBenitex]\bNathan: Isso.
-\ff[introBenitex]\bNathan: Isso.
-Tenetente Williams: Perfeito, quanto mais melhor.
-Tenetente Williams: Perfeito, quanto mais melhor.
+\ff[introBenitex]\bNathan: Yes.
+Tenente Williams: Perfeito, quanto mais melhor.
+Lieutenant Williams: Perfect, the more the merrier.
 Ah é, daqui em diante, pode me chamar de Will, você já é meu camarada!
-Ah é, daqui em diante, pode me chamar de Will, você já é meu camarada!
+Oh, by the way, from now on, you can call me Will. You're already my buddy!
 \ff[introBenitex]\bNathan: Beleza Will! O que eu devo fazer?
-\ff[introBenitex]\bNathan: Beleza Will! O que eu devo fazer? 
+\ff[introBenitex]\bNathan: Cool, Will! What can I do to help?
 Will: Deixa eu ver aqui no sistema o que falta...
-Will: Deixa eu ver aqui no sistema o que falta...
+Will: Let me check the system to see what's missing...
 Will: Ah sim, é claro. Precisamos de alguém que faça as Estatísticas Eleitorais.
-Will: Ah sim, é claro. Precisamos de alguém que faça as Estatísticas Eleitorais.
+Will: Oh yes, of course. We need someone to do the Election Statistics.
 \l[3]Você só precisa conversar com pessoas aqui na Oceanfront Road e anotar o que elas tem a dizer, bem simples, né?
-\l[3]Você só precisa conversar com pessoas aqui na Oceanfront Road e anotar o que elas tem a dizer, bem simples, né?
+\l[3]You just need to talk to people here on Oceanfront Road and write down what they have to say. Pretty simple, right?
 \ff[introBenitex]\bNathan: Sim, não vejo problemas.
-\ff[introBenitex]\bNathan: Sim, não vejo problemas.
+\ff[introBenitex]\bNathan: Yes, I don't see any problems.
 Will: Ótimo, vou designar você para a missão. Volte aqui depois de entrevistar umas 3 pessoas.
-Will: Ótimo, vou designar você para a missão. Volte aqui depois de entrevistar umas 3 pessoas.
+Will: Great, I'll assign you to the mission. Come back here after interviewing around 3 people.
 \ff[introBenitex]\bNathan: O que? Só 3?
-\ff[introBenitex]\bNathan: O que? Só 3?
+\ff[introBenitex]\bNathan: What? Only 3 people?
 Will: Cá entre nós, a maioria das pessoas nas ruas não vai querer te responder. 3 já é suficiente.
-Will: Cá entre nós, a maioria das pessoas nas ruas não vai querer te responder. 3 já é suficiente.
+Will: Between you and me, most people on the streets won't want to answer you. 3 is enough.
 \ff[introBenitex]\bNathan: Ah, certo então.
-\ff[introBenitex]\bNathan: Ah, certo então.
+\ff[introBenitex]\bNathan: Oh, okay then.
 Will: Te vejo daqui a pouco.
-Will: Te vejo daqui a pouco.
+Will: See you in a bit.
 Desculpe camarada, mas estou ocupado, não posso falar agora.
-Desculpe camarada, mas estou ocupado, não posso falar agora.
+Sorry, buddy, but I'm busy. I can't talk right now.
 Boa camarada, assim que se faz!
-Boa camarada, assim que se faz!
-Aqui está sua recompensa, 5000$!
-Aqui está sua recompensa, 5000$!
+Good job, buddy! That's the way to do it!
+Aqui está sua recompensa, $5000!
+Here's your reward, $5000!
 \ff[introBenitex]\bNathan: Opa, muito obrigado.
-\ff[introBenitex]\bNathan: Opa, muito obrigado.
-\ff[introBenitex]\b(Os fundos da delegacia parecem bem altos, 5000$ por conversar com 3 pessoas...)
-\ff[introBenitex]\b(Os fundos da delegacia parecem bem altos, 5000$ por conversar com 3 pessoas...)
+\ff[introBenitex]\bNathan: Thank you.
+\ff[introBenitex]\b(Os fundos da delegacia parecem bem altos, $5000 por conversar com 3 pessoas...)
+\ff[introBenitex]\b(The police funds seem quite high, $5000 for talking to three people...)
 \ff[introBenitex]\bNathan: (São protocolos policiais.)
-\ff[introBenitex]\bNathan: (São protocolos policiais.)
+\ff[introBenitex]\bNathan: (Police protocols.)
 \l[3]Como os motoqueiros foram derrotados e a fraude nas eleições foi relevada, os novos líderes de ginásio passaram a ser o segundo lugar da eleição.
-\l[3]Como os motoqueiros foram derrotados e a fraude nas eleições foi relevada, os novos líderes de ginásio passaram a ser o segundo lugar da eleição.
+\l[3]As the bikers were defeated and the election fraud was revealed, the second place in the election is now the new gym leader.
 \ff[introBenitex]\bNathan: Para onde levam essas escadas?
-\ff[introBenitex]\bNathan: Para onde levam essas escadas?
+\ff[introBenitex]\bNathan: Where do those stairs go?
 Levam para prisão de Castelia. Tomo conta da entrada.
-Levam para prisão de Castelia. Tomo conta da entrada.
+They lead to Castelia Prison. I take care of the entrance.
 \ff[introBenitex]\bNathan: Posso entrar?
-\ff[introBenitex]\bNathan: Posso entrar?
+\ff[introBenitex]\bNathan: May I come in?
 Desde que você tenha um motivo decente.
-Desde que você tenha um motivo decente.
+Only with special permission.
 Você quer entrar na prisão?
-Você quer entrar na prisão?
+Do you want to enter the prison?
 Com que motivos?
-Com que motivos?
+For what reason?
 \ff[introBenitex]\bNathan: Só quero dar uma volta mesmo.
-\ff[introBenitex]\bNathan: Só quero dar uma volta mesmo.
+\ff[introBenitex]\bNathan: I just want to take a look around.
 Desculpe, mas você não pode entrar na prisão assim. Peço que dê meia volta.
-Desculpe, mas você não pode entrar na prisão assim. Peço que dê meia volta.
+I'm sorry, but you can't enter the prison like that. Please turn back.
 \ff[introBenitex]\bNathan: Ah, tudo bem.
-\ff[introBenitex]\bNathan: Ah, tudo bem.
+\ff[introBenitex]\bNathan: Oh, okay.
 \ff[introBenitex]\bNathan: Ah não, me desculpe, me confundi.
-\ff[introBenitex]\bNathan: Ah não, me desculpe, me confundi.
+\ff[introBenitex]\bNathan: Oh no, sorry, I got confused.
 Certo.
-Certo.
+Okay.
+Você só pode entrar na prisão com permissão.
+You can only enter the prison with permission.
 Ele voltou!
-Ele voltou!
+He's back!
 Venha Nathan, vamos para reunião.
-Venha Nathan, vamos para reunião.
+Come on, Nathan, let's go to the meeting.
 \rJenny: Todos aqui, certo?\nÓtimo.
-\rJenny: Todos aqui, certo?\nÓtimo.
+\rJenny: Everyone here, right?\n Great.
 \rJasmine, Nathan, por favor, relatem o que aconteceu de forma resumida, depois vamos aos detalhes.
-\rJasmine, Nathan, por favor, relatem o que aconteceu de forma resumida, depois vamos aos detalhes.
+\rJasmine, Nathan, please give us a brief summary of what happened, then we'll go into the details.
 \l[3]\ff[introJasmine]\rJasmine: Para falar a verdade, Nathan fez a maior parte do trabalho, servi mais como um tipo de assistência que qualquer coisa.
-\l[3]\ff[introJasmine]\rJasmine: Para falar a verdade, Nathan fez a maior parte do trabalho, servi mais como um tipo de assistência que qualquer coisa.
+\l[3]\ff[introJasmine]\rJasmine: To tell you the truth, Nathan did most of the work. I was more of an assistant than anything else.
 \ff[introBenitex]\bNathan: Sim, fiz tudo sozinho, ela ainda chegou tarde.
-\ff[introBenitex]\bNathan: Sim, fiz tudo sozinho, ela ainda chegou tarde.
+\ff[introBenitex]\bNathan: Yes, I did it all myself. She even arrived late.
 \ff[introJasmine]\rJasmine: Ei Nathan, também não fala assim! Eu comprei medicamentos, a gente poderia ter precisado!
-\ff[introJasmine]\rJasmine: Ei Nathan, também não fala assim! Eu comprei medicamentos, a gente poderia ter precisado!
+\ff[introJasmine]\rJasmine: Hey Nathan, don't say it like that! I bought medicine, we might have needed it!
 Tenente Williams: Tá tudo certo rapaziada, a missão foi um sucesso, vamos relaxar.
-Tenente Williams: Tá tudo certo rapaziada, a missão foi um sucesso, vamos relaxar.
+Lieutenant Williams: It's all good my friends, the mission was a success. Let's relax.
 \ff[introBenitex]\bNathan: Por favor, não se subestime Jasmine, os items que você comprou foram essenciais para mim.
-\ff[introBenitex]\bNathan: Por favor, não se subestime Jasmine, os items que você comprou foram essenciais para mim.
+\ff[introBenitex]\bNathan: Please don't underestimate yourself, Jasmine, the items you purchased were essential for me.
 \ff[introJasmine]\rJasmine: Obrigada, Nathan.
-\ff[introJasmine]\rJasmine: Obrigada, Nathan.
+\ff[introJasmine]\rJasmine: Thank you, Nathan.
 \rJenny: Certo, certo. Vamos prosseguir com o que aconteceu na missão.
-\rJenny: Certo, certo. Vamos prosseguir com o que aconteceu na missão.
+\rJenny: Okay, okay. Let's move on to what happened on the mission.
 \l[3]\ff[introJasmine]\rJasmine: Bom, sobre minha parte, a primeira coisa que fiz foi passar na Battle Company para comprar alguns items.
-\l[3]\ff[introJasmine]\rJasmine: Bom, sobre minha parte, a primeira coisa que fiz foi passar na Battle Company para comprar alguns items.
+\l[3]\ff[introJasmine]\rJasmine: Well, for my part, the first thing I did was stop by Battle Company to buy some items.
 \l[3]\ff[introJasmine]\rDepois, quando cheguei na cidade, Nathan já tinha derrotado a maior parte dos motoqueiros. Então, só precisei seguir o protocolo.
-\l[3]\ff[introJasmine]\rDepois, quando cheguei na cidade, Nathan já tinha derrotado a maior parte dos motoqueiros. Então, só precisei seguir o protocolo.
+\l[3]\ff[introJasmine]\rWhen I arrived in their town, Nathan had already defeated most of them. So, I just followed the protocol.
 \l[3]\ff[introJasmine]\rColoquei as algemas em todos que encontrei e levei para uma casa próxima, depois chamei outros policiais para trazer eles para cá.
-\l[3]\ff[introJasmine]\rColoquei as algemas em todos que encontrei e levei para uma casa próxima, depois chamei outros policiais para trazer eles para cá.
+\l[3]\ff[introJasmine]\rI handcuffed everyone I found and took them to a nearby house, then called other police officers to bring them here.
 \ff[introJasmine]\rAh sim, me lembrei de algo importante.
-\ff[introJasmine]\rAh sim, me lembrei de algo importante.
+\ff[introJasmine]\rOh yes, I remembered something important.
 \l[3]\ff[introJasmine]\rInclusive, o Nathan coseguiu recuperar uma boa parte dos pokemon roubados, que estavam com os motoqueiros.
-\l[3]\ff[introJasmine]\rInclusive, o Nathan coseguiu recuperar uma boa parte dos pokemon roubados, que estavam com os motoqueiros.
+\l[3]\ff[introJasmine]\rNathan managed to recover a good portion of the stolen Pokémon, which really were with the Bikers.
 \ff[introJasmine]\rCom algum tempo, devemos conseguir recuperar os últimos.
-\ff[introJasmine]\rCom algum tempo, devemos conseguir recuperar os últimos.
+\ff[introJasmine]\rWith some time, we should be able to recover the rest.
 \ff[introJasmine]\rComo eu ia dizendo, os policiais trouxeram eles pra cá...
-\ff[introJasmine]\rComo eu ia dizendo, os policiais trouxeram eles pra cá...
+\ff[introJasmine]\rAs I was saying, the police brought them here...
 É aqui que eu entro, né?
-É aqui que eu entro, né?
+This is where I come in, right?
 \ff[introJasmine]\rJasmine: Sim, pode falar.
-\ff[introJasmine]\rJasmine: Sim, pode falar.
+\ff[introJasmine]\rJasmine: Yes, go ahead.
 \l[3]Ela ligou para mim, eu estava na recepção, como sempre. Então tive que ir até lá e trazer alguns deles até aqui aos poucos.
-\l[3]Ela ligou para mim, eu estava na recepção, como sempre. Então tive que ir até lá e trazer alguns deles até aqui aos poucos.
+\l[3]She called me, I was at the reception desk, as usual. So I had to go there and bring them here little by little.
 Era só isso, né?
-Era só isso, né?
+That's all, right?
 \ff[introJasmine]\rJasmine: Sim, você foi ótimo. Pode voltar para seu posto.
-\ff[introJasmine]\rJasmine: Sim, você foi ótimo. Pode voltar para seu posto.
+\ff[introJasmine]\rJasmine: Yes, you did great. You can go back to your post.
 \rJenny: Isso é tudo, Jasmine?
-\rJenny: Isso é tudo, Jasmine?
+\rJenny: Anything else, Jasmine?
 \ff[introJasmine]\rJasmine: Praticamente tudo. Depois disso, eu encontrei Nathan na base dos motoqueiros.
-\ff[introJasmine]\rJasmine: Praticamente tudo. Depois disso, eu encontrei Nathan na base dos motoqueiros.
+\ff[introJasmine]\rJasmine: That's pretty much all. After that, I met Nathan at the Bikers' base.
 \ff[introOak]\rCarvalho: Bom, imagino que seja o momento de dar seu relato, Nathan.
-\ff[introOak]\rCarvalho: Bom, imagino que seja o momento de dar seu relato, Nathan.
+\ff[introOak]\rOak: I guess it's time for you to give your report, Nathan.
 \ff[introBenitex]\bNathan: Ah, certo.
-\ff[introBenitex]\bNathan: Ah, certo.
+\ff[introBenitex]\bNathan: Oh, right.
 \ff[introBenitex]\bBom, eu invadi a cidade e derrotei vários motoqueiros pelo caminho.
-\ff[introBenitex]\bBom, eu invadi a cidade e derrotei vários motoqueiros pelo caminho.
+\ff[introBenitex]\bWell, I raided the city and defeated several Bikers along the way.
 \l[3]\ff[introBenitex]\bEm um determinado momento, achei uma passagem para uma casa grande, era a casa do chefe dos motoqueiros.
-\l[3]\ff[introBenitex]\bEm um determinado momento, achei uma passagem para uma casa grande, era a casa do chefe dos motoqueiros.
+\l[3]\ff[introBenitex]\bAt one point, I found a passage to a large house, which is where the Biker boss was.
 Tenente Williams: Agora a brincadeira tá ficando divertida.
-Tenente Williams: Agora a brincadeira tá ficando divertida.
+Lieutenant Williams: Now the game is getting fun.
 \l[3]\ff[introBenitex]\bNathan: Tentei conversar um pouco com um rapaz que se auto intitulava líder, mas ele não estava muito interessado em conversa.
-\l[3]\ff[introBenitex]\bNathan: Tentei conversar um pouco com um rapaz que se auto intitulava líder, mas ele não estava muito interessado em conversa.
+\l[3]\ff[introBenitex]\bNathan: I tried to chat with a guy who called himself the boss, but he wasn't very interested in talking.
 \ff[introBenitex]\bEntão a Jasmine chegou e enfrentamos vários motoqueiros juntos, até chegar a hora desse chefe.
-\ff[introBenitex]\bEntão a Jasmine chegou e enfrentamos vários motoqueiros juntos, até chegar a hora desse chefe.
+\ff[introBenitex]\bThen Jasmine arrived, and we faced several Bikers together until it was time to face him.
 Tenente Williams: Meu garoto!
-Tenente Williams: Meu garoto!
+Lieutenant Williams: That's my boy!
 \rJenny: Acalme-se, tenente!
-\rJenny: Acalme-se, tenente!
+\rJenny: Focus, lieutenant!
 Tenente Williams: Beleza, Jenny. Só porque foi você quem pediu.
-Tenente Williams: Beleza, Jenny. Só porque foi você quem pediu.
+Lieutenant Williams: Sorry, Jenny. Just because it was you who asked.
 \ff[introBenitex]\bBom, no fim das contas, ele não era o chefe de verdade.\nEu continuei explorando aquela casa e conheci o verdadeiro.
-\ff[introBenitex]\bBom, no fim das contas, ele não era o chefe de verdade.\nEu continuei explorando aquela casa e conheci o verdadeiro.
+\ff[introBenitex]\bWell, in the end, he wasn't the real boss. I continued exploring that house and met the real one.
 \ff[introBenitex]\bDiferentemente do outro, ele falou bastante, mas era meio enigmático.\nO pior de tudo é que ele fugiu, como se tivesse se teleportado.
-\ff[introBenitex]\bDiferentemente do outro, ele falou bastante, mas era meio enigmático.\nO pior de tudo é que ele fugiu, como se tivesse se teleportado.
+\ff[introBenitex]\bUnlike the other one, he talked a lot, but did not say anything. He was very enigmatic. Worst of all, he ran away, as if he had teleported.
 \rJenny: Pelo menos você conseguiu derrotar ele em batalha?
-\rJenny: Pelo menos você conseguiu derrotar ele em batalha?
+\rJenny: Did you at least defeat him in battle?
 \ff[introBenitex]\bNathan: Sim, depois da nossa conversa, nós nos enfrentamos e derrotei ele.
-\ff[introBenitex]\bNathan: Sim, depois da nossa conversa, nós nos enfrentamos e derrotei ele.
+\ff[introBenitex]\bNathan: Yes, after our conversation, we faced each other and I defeated him.
 \rJenny: Ótimo, isso é um alívio.
-\rJenny: Ótimo, isso é um alívio.
+\rJenny: Great, that's a relief.
 \l[3]Tenente Williams: Sim, como ele foi derrotado e conseguimos pegar a maioria dos motoqueiros, eles não devem voltar pra Rota, é muito perigoso.
-\l[3]Tenente Williams: Sim, como ele foi derrotado e conseguimos pegar a maioria dos motoqueiros, eles não devem voltar pra Rota, é muito perigoso.
+\l[3]Lieutenant Williams: Yes, and since he was defeated and we managed to catch most of the Bikers, they shouldn't return to the Route anymore. It's too dangerous.
 Podemos considerar essa missão completa.
-Podemos considerar essa missão completa.
+We can consider this mission complete.
 \ff[introJasmine]\rJasmine: Espera Will, acho que o Nathan tem mais a dizer.
-\ff[introJasmine]\rJasmine: Espera Will, acho que o Nathan tem mais a dizer.
+\ff[introJasmine]\rJasmine: Wait Will, I think Nathan has more to say.
 \ff[introBenitex]\bNathan: Sim, ainda tem mais.
-\ff[introBenitex]\bNathan: Sim, ainda tem mais.
+\ff[introBenitex]\bNathan: Yes, there's more.
 \l[3]\ff[introBenitex]\bNathan: Depois que derrotei o chefe real, entrei em uma sala ao lado, que parecia um laboratório secreto ou algo do tipo.
-\l[3]\ff[introBenitex]\bNathan: Depois que derrotei o chefe real, entrei em uma sala ao lado, que parecia um laboratório secreto ou algo do tipo.
+\l[3]\ff[introBenitex]\bNathan: After I defeated him, I entered a room next door, which looked like a secret laboratory or something.
 \ff[introBenitex]\bTinham vários cientistas, um motoqueiro e, o mais importante, um pokemon mítico.
-\ff[introBenitex]\bTinham vários cientistas, um motoqueiro e, o mais importante, um pokemon mítico.
+\ff[introBenitex]\bThere were several scientists, a Biker, and, most importantly, a mythical Pokémon.
 Tenente Williams: O que? Um mítico???
-Tenente Williams: O que? Um mítico???
+Lieutenant Williams: What? A mythical???
 \ff[introOak]\rCarvalho: Nathan, como você não me contou uma coisa como essa?
-\ff[introOak]\rCarvalho: Nathan, como você não me contou uma coisa como essa?
+\ff[introOak]\rOak: Nathan, how could you not tell me something like that?
 \rJenny: Vamos gente, deixe que ele termine sua história.
-\rJenny: Vamos gente, deixe que ele termine sua história.
+\rJenny: Come on, guys, let him finish his story.
 \l[3]\ff[introBenitex]\bNathan: Bom, era uma Meloetta. Ela parecia estar servindo como fonte de energia para alguma coisa.
-\l[3]\ff[introBenitex]\bNathan: Bom, era uma Meloetta.  Ela parecia estar servindo como fonte de energia para alguma coisa.
+\l[3]\ff[introBenitex]\bNathan: A Meloetta. It seemed to be serving as a source for something.
 \l[3]\ff[introBenitex]\bConversei com os cientistas e consegui libertar ela, então ela resolveu ajudar a gente.
-\l[3]\ff[introBenitex]\bConversei com os cientistas e consegui libertar ela, então ela resolveu ajudar a gente.
+\l[3]\ff[introBenitex]\bI talked to the scientists and managed to free it. She's now helping me.
 \ff[introBenitex]\bInclusive, ela parece ter mais informações.
-\ff[introBenitex]\bInclusive, ela parece ter mais informações.
+\ff[introBenitex]\bIn fact, she has some information to share.
 \ff[introOak]\rCarvalho: Isso é magnífico Nathan! Precisamos ouvir o que ela tem a dizer.
-\ff[introOak]\rCarvalho: Isso é magnífico Nathan!  Precisamos ouvir o que ela tem a dizer.
+\ff[introOak]\rOak: That's magnificent, Nathan!
 \ff[introJasmine]\rJasmine: Podemos conversar com ela, Nathan?
-\ff[introJasmine]\rJasmine: Podemos conversar com ela, Nathan?
+\ff[introJasmine]\rJasmine: Can we talk to her, Nathan?
 \ff[introBenitex]\bNathan: Claro, sem problemas.
-\ff[introBenitex]\bNathan: Claro, sem problemas.
+\ff[introBenitex]\bNathan: Of course.
 \ff[introOak]\rCarvalho: Incrível!
-\ff[introOak]\rCarvalho: Incrível!
-\ff[introBenitex]\bNathan: Também achei esses livros naquela sala, acho que podem ajudar.
-\ff[introBenitex]\bNathan: Também achei esses livros naquela sala, acho que podem ajudar.
-\l[3]\ff[introOak]\rCarvalho: Certo, se não for um incômodo, vou pegá-los e estudar o conteúdo no meu laboratório.
-\l[3]\ff[introOak]\rCarvalho: Certo, se não for um incômodo, vou pegá-los e estudar o conteúdo no meu laboratório. 
-\ff[introBenitex]\bNathan: Certo, seria ótimo.
-\ff[introBenitex]\bNathan: Certo, seria ótimo.
-\ff[introOak]\rCarvalho: Agora, vamos ouvir o que esse pokemon tem a dizer.
-\ff[introOak]\rCarvalho: Agora, vamos ouvir o que esse pokemon tem a dizer.
+\ff[introOak]\rOak: Amazing!
 \ff[introBenitex]\bNathan: Você pode confiar neles meloetta, estamos trabalhando nisso juntos.
-\ff[introBenitex]\bNathan: Você pode confiar neles meloetta, estamos trabalhando nisso juntos.
+\ff[introBenitex]\bNathan: You can trust them, Meloetta. We're working together.
 Meloetta: Certo. Vou contar a vocês o que sei.
-Meloetta: Certo. Vou contar a vocês o que sei.
+Meloetta: Okay. I'll tell you what I know.
 \l[3]Parece que esse grupo já estava me procurando a muito tempo. Depois que me encontraram e aprisionaram, fizeram uma grande festa.
-\l[3]Parece que esse grupo já estava me procurando a muito tempo. Depois que me encontraram e aprisionaram, fizeram uma grande festa.
+\l[3]It seems that this group had been looking for me for a long time. After they found me and imprisoned me, they threw a big party.
 Mas não vi por muito tempo. Fui levada a uma sala onde tentavam me obrigar a cantar por algum motivo.
-Mas não vi por muito tempo. Fui levada a uma sala onde tentavam me obrigar a cantar por algum motivo.
+But I didn't see it for long. I was taken to a room where they tried to force me to sing.
 \l[3]Eu me recusei o máximo que pude, mas começaram a dar choques com uma máquina, então não pude aguentar.
-\l[3]Eu me recusei o máximo que pude, mas começaram a dar choques com uma máquina, então não pude aguentar.
+\l[3]I refused as much as I could, but they started shocking me with a machine. I couldn't take it anymore...
 \l[3]Acho que eles queriam abrir um portal. Eu não sei exatamente para que ele serve e acredito que muitos deles também não.
-\l[3]Acho que eles queriam abrir um portal. Eu não sei exatamente para que ele serve e acredito que muitos deles também não.
-Depois de um tempo, começei a encontrar vários pokemon diferentes. Eles não são desse mundo.
-Depois de um tempo, começei a encontrar vários pokemon diferentes. Eles não são desse mundo.
+\l[3]I think they wanted to open a portal. I don't know exactly what it's for, and I believe many of them don't know either.
+Depois de um tempo, comecei a encontrar vários pokemon diferentes. Eles não são desse mundo.
+After a while, I started encountering several different Pokémon. They are not from this world.
 \ff[introOak]\rCarvalho: Devem ser pokemon como seu charmander, Nathan!
-\ff[introOak]\rCarvalho: Devem ser pokemon como seu charmander, Nathan!
+\ff[introOak]\rOak: They must be Pokémon like your Charmander, Nathan!
 \ff[introBenitex]\bNathan: Só podem ser.\nQuando eu conversei com o chefe deles, ele disse sobre procurar um pokemon.
-\ff[introBenitex]\bNathan: Só podem ser.\nQuando eu conversei com o chefe deles, ele disse sobre procurar um pokemon. 
+\ff[introBenitex]\bNathan: They must be. When I talked to their boss, he mentioned looking for a Pokémon.
 \ff[introBenitex]\bEu achava que era o volcarona, mas agora tenho certeza que estavam falando da meloetta.
-\ff[introBenitex]\bEu achava que era o volcarona, mas agora tenho certeza que estavam falando da meloetta.
-\l[3]Meloetta: Além disso, eles não eram os únicos. Além daqueles cientístas e do grupo que me sequestrou, também vi outras pessoas.
-\l[3]Meloetta: Além disso, eles não eram os únicos.  Além daqueles cientístas e do grupo que me sequestrou, também vi outras pessoas.
-Acredito que eles sim sejam os que estão utilizando os pokemon que saem do portal.
-Acredito que eles sim sejam os que estão utilizando os pokemon que saem do portal.
-\ff[introBenitex]\bNathan: O chefe dizia que eu já tinha chegado tarde e que a missão dele já tinha sido completa.
-\ff[introBenitex]\bNathan: O chefe dizia que eu já tinha chegado tarde e que a missão dele já tinha sido completa.
+\ff[introBenitex]\bHe was talking about Meloetta...
+\l[3]Meloetta: Além disso, eles não eram os únicos. Também vi outras pessoas.
+\l[3]Meloetta: They weren't the only ones. I also saw other people.
 Tenente Williams: Esses motoqueiros são maus, mas não o suficiente para arquitetar um plano desses.
-Tenente Williams: Esses motoqueiros são maus, mas não o suficiente para arquitetar um plano desses.
+Lieutenant Williams: These bikers are bad, but not smart enough to devise a plan like that.
 Tenho certeza que se fosse por eles, eles só venderiam a meloetta e sairiam felizes.
-Tenho certeza que se fosse por eles, eles só venderiam a meloetta e sairiam felizes.
-\l[3]\ff[introOak]\rCarvalho: Então, o que precisamos fazer agora é ir atrás do grupo que abriu esse portal e que provavelmente é responsável pelo volcarona.
-\l[3]\ff[introOak]\rCarvalho: Então, o que precisamos fazer agora é ir atrás do grupo que abriu esse portal e que provavelmente é responsável pelo volcarona.
+I'm sure that if it were up to them, they would just sell Meloetta and walk away happy.
+\ff[introOak]\rCarvalho: Então, o que precisamos fazer agora é ir atrás do grupo que abriu esse portal.
+\l[3]\ff[introOak]\rOak: So, what we need to do now is go after the group that opened this portal.
 \ff[introBenitex]\bNathan: Certo. Ainda tem algo a dizer, meloetta?
-\ff[introBenitex]\bNathan: Certo. Ainda tem algo a dizer, meloetta?
+\ff[introBenitex]\bNathan: Right. Do you have anything else to say, Meloetta?
 Meloetta: Não, acredito que já contei tudo que sabia.
-Meloetta: Não, acredito que já contei tudo que sabia.
+Meloetta: That is all I remember.
 \ff[introBenitex]\bNathan: Ótimo, então volte para pokebola, precisamos te manter segura.
-\ff[introBenitex]\bNathan: Ótimo, então volte para pokebola, precisamos te manter segura.
+\ff[introBenitex]\bNathan: Great, then go back into your Poké Ball. We need to keep you safe.
 \ff[introOak]\rCarvalho: Bom, vou me retirar. Vou voltar às minhas pesquisas.
-\ff[introOak]\rCarvalho: Bom, vou me retirar. Vou voltar às minhas pesquisas.
+\ff[introOak]\rOak: Well, I'll take my leave. I'm going back to my research.
 \rJenny: Certo professor, foi ótimo ter você conosco.
-\rJenny: Certo professor, foi ótimo ter você conosco.
+\rJenny: Thanks, Professor. It was great having you with us.
 \ff[introJasmine]\rJasmine: Também vou sair. Não tenho tempo a perder, preciso pesquisar mais sobre esse grupo.
-\ff[introJasmine]\rJasmine: Também vou sair. Não tenho tempo a perder, preciso pesquisar mais sobre esse grupo.
+\ff[introJasmine]\rJasmine: I'm leaving too. I don't have time to waste, I need to research more about this group.
 \ff[introOak]\rCarvalho: Não se esqueça de passar no meu laboratório depois, Nathan.
-\ff[introOak]\rCarvalho: Não se esqueça de passar no meu laboratório depois, Nathan.
+\ff[introOak]\rOak: Don't forget to stop by my lab later, Nathan.
 Tenente Williams: Quem você acha que é o grupo responsável por isso, Jenny?
-Tenente Williams: Quem você acha que é o grupo responsável por isso, Jenny?
+Lieutenant Williams: Who do you think is responsible for this, Jenny?
 Eu estava pensando na Equipe Rocket. Nunca gostei no Giovanni.
-Eu estava pensando na Equipe Rocket. Nunca gostei no Giovanni.
+I was thinking Team Rocket. Ever since Giovanni arrived here, I realized that things were changing.
 \l[3]\rJenny: Não sei Will, eles ficam em Kanto, tão longe... Além do mais, pode muito bem ser a equipe Plasma, a gente sempre ouve desses ataques.
-\l[3]\rJenny: Não sei Will, eles ficam em Kanto, tão longe... Além do mais, pode muito bem ser a equipe Plasma, a gente sempre ouve desses ataques.
+\l[3]\rJenny: I don't know, Will, they're based in Kanto, so far away... Besides, it could very well be Team Plasma, we always hear about their attacks.
 Tenente Williams: Mas a Team Plasma pela terceira vez? Não é possível, será que eles não desistem?
-Tenente Williams: Mas a Team Plasma pela terceira vez? Não é possível, será que eles não desistem?
+Lieutenant Williams: Team Plasma? Again? No way, how would they get resources to restructure?
 \rJenny: É verdade, eles não tem força pra se reerguer de novo...
-\rJenny: É verdade, eles não tem força pra se reerguer de novo...
-\rAh sim.
-\rAh sim.
+\rJenny: Yeah, that's true...
 \rJenny: Nathan, venha aqui, preciso falar algo com você.
-\rJenny: Nathan, venha aqui, preciso falar algo com você.
+\rJenny: Nathan, come here, I need to talk to you.
 \rMas não se preocupe, não é nada de ruim.
-\rMas não se preocupe, não é nada de ruim.
+\rDon't worry though, it's nothing bad.
 Acho que posso te ajudar.
-Acho que posso te ajudar.
+Can I help you?
 Realmente, fica complicado.
-Realmente, fica complicado.
+That sounds like a real problem.
 Estou só de passagem.
-Estou só de passagem.
+I'm just passing through.
 Ajudar nas eleições.
-Ajudar nas eleições.
+Help with the elections.
 Enfrentar os Motoqueiros.
-Enfrentar os Motoqueiros.
+Confront the Bikers.
 Inspecionar A Taverna.
-Inspecionar A Taverna.
+Inspect The Tavern.
 Estou decidido.
-Estou decidido.
+Yes, I'm sure.
 Pesando bem...
-Pesando bem...
+Never mind...
 Sim, estou ciente.
-Sim, estou ciente.
+Yes, I'm aware of them.
 Gostaria de saber mais.
-Gostaria de saber mais.
+I'd like to know more.
 Aceito a missão.
-Aceito a missão.
+I accept the mission.
 Não posso participar ainda.
-Não posso participar ainda.
+I can't participate yet.
 Concordo.
-Concordo.
+I agree.
 Atacar o Desert Resort antes.
-Atacar o Desert Resort antes.
+We should attack the Desert Resort before.
 Sim.
-Sim.
+Yes.
 É um engano.
-É um engano.
+It's a mistake.
 Quero.
-Quero.
+Yes.
 Foi um engano.
-Foi um engano.
+No.
 É verdade.
-É verdade.
+That's true.
 Seu valor é imprescindível.
-Seu valor é imprescindível.
+Don't underestimate yourself.
 [Map45]
 Esse menino não vai sair daí tão cedo...
 This boy isn't leaving anytime soon...
@@ -9376,7 +9366,7 @@ Adeus.
 Ah, vamos lá.
 Come on.
 Realmente, melhor não.
-Yeah, nevermind.
+Yeah, never mind.
 Claro, vou te contar.
 Sure.
 Infelizmente, não sei.
