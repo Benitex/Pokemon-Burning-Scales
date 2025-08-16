@@ -9391,300 +9391,290 @@ Deixa para lá.
 (Leave.)
 [Map47]
 Nosso acordo era simples, docinho. Eu te dou um beijo, você me dá seus pokemon. É hora de fazer sua parte.
-Nosso acordo era simples, docinho. Eu te dou um beijo, você me dá seus pokemon. É hora de fazer sua parte.
+Our deal was simple, sweetie. A kiss for your Pokémon. It's time to do your part.
 Menino: Err... É que... Sabe... Eu não posso.
-Menino: Err... É que... Sabe... Eu não posso.
+Boy: Err... It's just... You know... I can't.
 Você vai cumprir sua parte ou não, amor?
-Você vai cumprir sua parte ou não, amor?
+Are you going to do your part or not, love?
 Vou, claro que vou! Talvez, só não agora...
-Vou, claro que vou! Talvez, só não agora...
+I will, of course I will! Maybe, just not right now...
 \ff[introBenitex]\bNathan: (Isso está um pouco estranho, pra dizer o mínimo. Não sei se deveria interferir.)
-\ff[introBenitex]\bNathan: (Isso está um pouco estranho, pra dizer o mínimo. Não sei se deveria interferir.)
+\ff[introBenitex]\bNathan: (This is a little messed up, to say the least. I don't know if I should interfere.)
 Não se mete no nosso papo, chapa!
-Não se mete no nosso papo, chapa!
+Don't butt into our conversation, man!
 Eu disse pra cair fora!
-Eu disse pra cair fora!
+I said get lost!
 Você acabou com a minha paciência.
-Você acabou com a minha paciência.
+My patience is over.
 Chega, vamos dar o fora.
-Chega, vamos dar o fora.
+Enough, let's get out of here.
 Meu gothita!
-Meu gothita!
-\ff[introBenitex]\bNathan: Deve ser aquele menino e a moça. Imagino o que teria acontecido se eu inteferisse...
-\ff[introBenitex]\bNathan: Deve ser aquele menino e a moça.  Imagino o que teria acontecido se eu inteferisse...
+My Gothita!
+\ff[introBenitex]\bNathan: Deve ser aquele menino e a moça. Imagino o que teria acontecido se eu interferisse...
+\ff[introBenitex]\bNathan: That sounds like that boy. I wonder what would have happened if I had interfered...
 \ff[introBenitex]\bBom, agora já era.
-\ff[introBenitex]\bBom, agora já era.
+\ff[introBenitex]\bWell, it's too late now.
 Dando uma volta pela Narrow Street? Corajoso da sua parte.
-Dando uma volta pela Narrow Street? Corajoso da sua parte.
+Taking a stroll down Narrow Street? That's brave of you.
 Apenas um conselho: não mecha com os Motoqueiros.
-Apenas um conselho: não mecha com os Motoqueiros.
+Just a word of advice from a friend: don't mess with the Bikers.
 Eles só estão fazendo o trabalho deles, honesto ou não, é a forma que eles tem de sobreviver.
-Eles só estão fazendo o trabalho deles, honesto ou não, é a forma que eles tem de sobreviver.
+They're doing their job. Honest or not, it's how they survive.
 Nosso mundo é selvagem. O dinheiro rege as leis que governam a tudo e todos. Ou você é a caça, ou o caçador.
-Nosso mundo é selvagem. O dinheiro rege as leis que governam a tudo e todos. Ou você é a caça, ou o caçador.
+This world is savage. Money is the law that govern everything and everyone. You're either the hunter or the prey.
 \ff[introBenitex]\bNathan: Você-
-\ff[introBenitex]\bNathan: Você-
+\ff[introBenitex]\bNathan: You-
 Desculpe, mas não tenho tempo para continuar conversando. Tenho que ir.
-Desculpe, mas não tenho tempo para continuar conversando. Tenho que ir.
+Sorry, I don't have time to keep talking. I have to go.
 Recomendo que você faça o mesmo e para longe dessa rua.
-Recomendo que você faça o mesmo e para longe dessa rua.
+I recommend you do the same. Get away from this street.
 \w[signskin]Café Sonata
 \w[signskin]Café Sonata
 Ótimo! Um treinador, exatamente o que eu precisava.
-Ótimo! Um treinador, exatamente o que eu precisava.
+Great. A trainer, just what I needed.
 \ff[introBenitex]\bNathan: O que está acontecendo aqui? Não pude deixar de ouvir uma parte do que vocês estão conversando.
-\ff[introBenitex]\bNathan: O que está acontecendo aqui? Não pude deixar de ouvir uma parte do que vocês estão conversando.
+\ff[introBenitex]\bNathan: What's going on here? I couldn't help overhearing your conversation.
 Esse rapazinho aqui fez um acordo comigo, mas se recusa a fazer sua parte.
-Esse rapazinho aqui fez um acordo comigo, mas se recusa a fazer sua parte.
+This boy here made a deal with me, but he refuses to do his part.
 Menino: Não é bem assim, ela quer tirar meu pokemon!
-Menino: Não é bem assim, ela quer tirar meu pokemon!
+Boy: That's not quite right, she wants to take my Pokémon!
 \ff[introBenitex]\bNathan: Espera, esse uniforme... Você é membro da equipe Plasma, não é?
-\ff[introBenitex]\bNathan: Espera, esse uniforme... Você é membro da equipe Plasma, não é?
+\ff[introBenitex]\bNathan: Wait, that uniform... You're a member of Team Plasma, aren't you?
 Não menino. A equipe Plasma já se foi há anos. É verdade, fiz parte deles, ainda acredito nos ideais, mas isso tudo já passou, não estou cometendo crimes nem nada assim.
-Não menino. A equipe Plasma já se foi há anos. É verdade, fiz parte deles, ainda acredito nos ideais, mas isso tudo já passou, não estou cometendo crimes nem nada assim.
+No, kid. Team Plasma is long gone. It's true, I was once part of them, but that's all in the past. I'm not committing crimes or anything like that.
 Mas esse menino está, disso eu tenho certeza!
-Mas esse menino está, disso eu tenho certeza!
+But this boy sure is!
 \ff[introBenitex]\bNathan: Vocês não querem explicar melhor o que está acontecendo aqui?
-\ff[introBenitex]\bNathan: Vocês não querem explicar melhor o que está acontecendo aqui?
+\ff[introBenitex]\bNathan: Can you please explain what's going on here?
 É simples, o menino fez um acordo comigo. Um beijo por um pokemon. É simples, ele já recebeu o que pediu. Agora eu quero minha parte.
-É simples, o menino fez um acordo comigo. Um beijo por um pokemon. É simples, ele já recebeu o que pediu. Agora eu quero minha parte.
+It's simple, the boy made a deal with me. A kiss for a Pokémon. He already got what he asked for. Now I want my part.
 \ff[introBenitex]\bNathan: Isso procede, rapaz?
-\ff[introBenitex]\bNathan: Isso procede, rapaz?
+\ff[introBenitex]\bNathan: Is that right, young man?
 Menino: Bom... De certa forma...
-Menino: Bom... De certa forma...
+Boy: Well... In a way...
 Mas eu não posso entregar meu pokemon assim, ele é minha única forma de me defender! Os motoqueiros estão por toda parte, preciso dele!
-Mas eu não posso entregar meu pokemon assim, ele é minha única forma de me defender! Os motoqueiros estão por toda parte, preciso dele!
+But I can't just hand over my Pokémon like that, it's my only way to defend myself! The bikers are everywhere, I need it!
 Chega disso menino, você já fez o acordo e eu já fiz minha parte!
-Chega disso menino, você já fez o acordo e eu já fiz minha parte!
+Enough of this, kid, you made the deal and I've done my part!
 \ff[introBenitex]\bNathan: (Para quem eu deveria dar razão?)
-\ff[introBenitex]\bNathan: (Para quem eu deveria dar razão?)
+\ff[introBenitex]\bNathan: (Who should I side with?)
 \ff[introBenitex]\bNathan: Desculpe moça, mas o menino precisa desse pokemon. Será que nós não podemos resolver de outra forma?
-\ff[introBenitex]\bNathan: Desculpe moça, mas o menino precisa desse pokemon. Será que nós não podemos resolver de outra forma?
+\ff[introBenitex]\bNathan: Sorry, ma'am, but this young man really needs that Pokémon. Can't we work something else out?
 Argh. Certo. Eu quero 1000$, me dê e estamos quites.
-Argh. Certo. Eu quero 1000$, me dê e estamos quites.
+Argh. Fine. I want $1000. Give me that and we're done.
 Menino: 1000$? Mas também não tenho isso tudo!
-Menino: 1000$? Mas também não tenho isso tudo!
+Boy: $1000? I don't have all that!
 \ff[introBenitex]\bNathan: Ei menino, não se preocupe. Vou te ajudar. Moça, pode deixar que pago para ele.
-\ff[introBenitex]\bNathan: Ei menino, não se preocupe. Vou te ajudar. Moça, pode deixar que pago para ele.
+\ff[introBenitex]\bNathan: Don't worry. I'll help you. Ma'am, I'll pay for him.
 Moça: Ah, que bela ação de caridade! Ótimo, por mim não tem o menor problema.
-Moça: Ah, que bela ação de caridade! Ótimo, por mim não tem o menor problema.
+Lady: What a beautiful act of charity! Great, I don't care.
 \ff[introBenitex]\bNathan: Aqui está.
-\ff[introBenitex]\bNathan: Aqui está.
+\ff[introBenitex]\bNathan: Here it is.
 Moça: Obrigada, moço. Vou saindo.
-Moça: Obrigada, moço. Vou saindo.
+Lady: Thanks. I'll be on my way.
 Obrigado. Não sei o que seria de mim e meu pokemon sem você.
-Obrigado. Não sei o que seria de mim e meu pokemon sem você.
+Thank you. Não I don't know what would have become of me and my Pokémon without you.
 \l[3]\ff[introBenitex]\bNathan: Tome cuidado menino. Não faça acordos assim, ainda mais com esse tipo de gente. De hoje em diante, só prometa o que pode pagar, certo?
-\l[3]\ff[introBenitex]\bNathan: Tome cuidado menino. Não faça acordos assim, ainda mais com esse tipo de gente.  De hoje em diante, só prometa o que pode pagar, certo?
+\l[3]\ff[introBenitex]\bNathan: Be careful, please. Don't make deals like that, especially with people like that. From now on, only promise what you can pay for, okay?
 Eu entendo, aprendi minha lição. Me desculpe.
-Eu entendo, aprendi minha lição. Me desculpe.
+Yeah, I've learned my lesson. I'm sorry.
 \ff[introBenitex]\bNathan: Não tem problema, só tome mais cuidado.
-\ff[introBenitex]\bNathan: Não tem problema, só tome mais cuidado.
+\ff[introBenitex]\bNathan: No problem, just be more careful.
 \ff[introBenitex]\bNathan: Acabo de ver... Não tenho esse dinheiro.
-\ff[introBenitex]\bNathan: Acabo de ver... Não tenho esse dinheiro.
+\ff[introBenitex]\bNathan: Oh. I don't have that money.
 Menino: Ah não. Sério?
-Menino: Ah não. Sério?
+Boy: No way. Really?
 Moça: He, não sobraram muitas opções então. Menino, vai me dar o pokemon ou o dinheiro?
-Moça: He, não sobraram muitas opções então. Menino, vai me dar o pokemon ou o dinheiro?
+Lady: He, that's it then. Boy, hand out your Pokémon.
 Menino: Ah... Certo, não, não tem problema, não quero confusão. Toma meu pokemon.
-Menino: Ah... Certo, não, não tem problema, não quero confusão. Toma meu pokemon.
+Boy: ... I don't want any more trouble. Here, take my Pokémon.
 Adeus, gothita...
-Adeus, gothita...
+Goodbye, gothita...
 Minha gothita...
-Minha gothita...
+My Gothita...
 \ff[introBenitex]\bNathan: Você tem algum dinheiro com você menino? Eu posso complementar, se estiver faltando.
-\ff[introBenitex]\bNathan: Você tem algum dinheiro com você menino? Eu posso complementar, se estiver faltando.
+\ff[introBenitex]\bNathan: 
 Eu tenho 500$, não é muito, entendo se você não puder ajudar...
-Eu tenho 500$, não é muito, entendo se você não puder ajudar...
+I have $500. It's not much, I understand if you can't help...
 \ff[introBenitex]\bNathan: Não se preocupe, estou disposto a te ajudar. Vamos juntar nosso dinheiro.
-\ff[introBenitex]\bNathan: Não se preocupe, estou disposto a te ajudar. Vamos juntar nosso dinheiro.
+\ff[introBenitex]\bNathan: Don't worry, I'm willing to help you.
 \ff[introBenitex]\bNathan: Desculpe, mas não tenho dinheiro suficiente para te ajudar.
-\ff[introBenitex]\bNathan: Desculpe, mas não tenho dinheiro suficiente para te ajudar.
+\ff[introBenitex]\bNathan: I'm sorry, but I don't have enough money to help you.
 \ff[introBenitex]\bNathan: Você poderia reduzir um pouco o preço, moça?
-\ff[introBenitex]\bNathan: Você poderia reduzir um pouco o preço, moça?
+\ff[introBenitex]\bNathan: Could you lower the price a little, miss?
 Moça: Você deve estar de brincadeira comigo. É claro que não, não vou me rebaixar a esse ponto!
-Moça: Você deve estar de brincadeira comigo. É claro que não, não vou me rebaixar a esse ponto!
+Lady: You must be joking. Of course not, I won't stoop that low!
 Vamos, vai ser o pokemon ou o dinheiro?
-Vamos, vai ser o pokemon ou o dinheiro?
+Come on, are you going to pay me or hand over your Pokémon?
 \ff[introBenitex]\bNathan: Desculpe, mas esse é o trato. Ou você entrega esse pokemon, ou o dinheiro.
-\ff[introBenitex]\bNathan: Desculpe, mas esse é o trato. Ou você entrega esse pokemon, ou o dinheiro.
+\ff[introBenitex]\bNathan: Sorry, but that's the deal. Either you hand over that Pokémon, or the money.
 Moça: Exato!
-Moça: Exato!
+Lady: Exactly!
 Menino: Ah... Certo, não, não tem problema. Toma meu pokemon.
-Menino: Ah... Certo, não, não tem problema. Toma meu pokemon.
+Boy: ... I don't want any more trouble. Here, take my Pokémon.
 \ff[introBenitex]\bNathan: Menino. Você sabe muito bem que não deveria prometer o que não pode pagar. Agora você não tem mais volta.
-\ff[introBenitex]\bNathan: Menino. Você sabe muito bem que não deveria prometer o que não pode pagar. Agora você não tem mais volta.
+\ff[introBenitex]\bNathan: You know you shouldn't promise what you can't deliver. Now there's no turning back.
 Menino: Mas...
-Menino: Mas...
+Boy: But...
 \ff[introBenitex]\bNathan: Vamos, você pretende entregar o pokemon para a moça ou não?
-\ff[introBenitex]\bNathan: Vamos, você pretende entregar o pokemon para a moça ou não?
+\ff[introBenitex]\bNathan: Come on, are you going to give the Pokémon to the lady or not?
 Menino: Será que não posso pagar de outra forma?
-Menino: Será que não posso pagar de outra forma?
+Boy: Can't I pay in some other way?
 Moça: Argh. Certo. Eu quero 1000$, me dê e estamos quites.
-Moça: Argh. Certo. Eu quero 1000$, me dê e estamos quites.
+Lady: Argh. Fine. I want $1000. Give me that and we're done.
 \ff[introBenitex]\bNathan: Desculpe, mas foi sua decisão. Você vai ter que dar seu pokemon.
-\ff[introBenitex]\bNathan: Desculpe, mas foi sua decisão.  Você vai ter que dar seu pokemon.
+\ff[introBenitex]\bNathan: I'm sorry, but it was your decision. You'll have to give her your Pokémon.
 \ff[introBenitex]\bNathan: Esse monte de latas de lixo deixa a rua fedida e apertada.
-\ff[introBenitex]\bNathan: Esse monte de latas de lixo deixa a rua fedida e apertada.
+\ff[introBenitex]\bNathan: All those trash cans make the street smelly and cramped.
 AH! Ah, oi. O que... O que você quer? Não fiz nada de errado!
-AH! Ah, oi. O que... O que você quer? Não fiz nada de errado!
+AH! Oh, hi. What... What do you want? I didn't do anything wrong!
 Ah, não. Não, não é nada demais, você pode deixar pra lá.
-Ah, não. Não, não é nada demais, você pode deixar pra lá.
+No, it's no big deal, you can forget about it.
 Moça: Ah, perfeito. Com licença, mas esse rapazinho fez um acordo comigo e não quer cumprir sua parte.
-Moça: Ah, perfeito. Com licença, mas esse rapazinho fez um acordo comigo e não quer cumprir sua parte.
+Lady: Excuse me, but this boy made a deal with me and doesn't want to keep his end of the bargain.
 Minha gothita se foi... Para sempre...
-Minha gothita se foi... Para sempre...
+My Gothita is gone... Forever...
 Dar razão ao menino.
-Dar razão ao menino.
+Side with the boy.
 Dar razão à moça.
-Dar razão à moça.
+Side with the lady.
 Deixa que eu pago.
-Deixa que eu pago.
+I'll pay for him.
 Quanto você tem aí?
-Quanto você tem aí?
+How much do you have on you?
 Você pode reduzir o preço?
-Você pode reduzir o preço?
+Can you reduce the price?
 Desculpe, mas esse é o trato.
-Desculpe, mas esse é o trato.
+That's the deal, take it or leave it.
 Pagar por ele.
-Pagar por ele.
+Pay for him.
 Foi sua decisão.
-Foi sua decisão.
+you put yourself in this situation.
 [Map48]
 Corsários são piratas do bem. Pode confiar.
-Corsários são piratas do bem. Pode confiar.
+Corsairs are good pirates. Trust me.
 Sabia que no passado o rei de Castelia chamava corsários para saquear navios de outras regiões?
-Sabia que no passado o rei de Castelia chamava corsários para saquear navios de outras regiões?
+Did you know that in the past the king of Castelia used to call in corsairs to plunder ships from other regions?
 \ff[introBenitex]\bNathan: Caramba.
-\ff[introBenitex]\bNathan: Caramba.
+\ff[introBenitex]\bNathan: Wow.
 Eu sempre quis ser marinheiro por isso, desde criança eu queria ser pirata.
-Eu sempre quis ser marinheiro por isso, desde criança eu queria ser pirata.
+I always wanted to be a pirate, ever since I was a child. That's why I'm a sailor.
 Por isso, uso só uso pokemon que um verdadeiro pirata usaria.
-Por isso, uso só uso pokemon que um verdadeiro pirata usaria.
+That's why I only use Pokémon that a real pirate would use.
 Eu uso pokemon de corsário!
-Eu uso pokemon de corsário!
+I use pirate Pokémon!
 Quer ver?
-Quer ver?
+Do you want to seem them?
 Talvez essa não seja a melhor estratégia, mas é tipo de pokémon que eu mais gosto.
-Talvez essa não seja a melhor estratégia, mas é tipo de pokémon que eu mais gosto.
+It's not the best strategy, but that's the kind of Pokémon I like the most.
 \ff[introBenitex]\bNathan: Não, talvez depois.
-\ff[introBenitex]\bNathan: Não, talvez depois.
+\ff[introBenitex]\bNathan: No, maybe later.
 Poxa.
-Poxa.
+Bummer.
 Policial: Por favor, moça, não tem necessidade de tanto desespero.
-Policial: Por favor, moça, não tem necessidade de tanto desespero.
+Police Officer: Please, lady, there is no need to be so desperate.
 \l[3]Moça: Mas são meus pokémon, eles são muito importantes para mim! Você sabe o que esses Motoqueiros estão fazendo com eles? Sabe?!
-\l[3]Moça: Mas são meus pokémon, eles são muito importantes para mim! Você sabe o que esses Motoqueiros estão fazendo com eles? Sabe?!
+\l[3]Lady: But they're my Pokémon, they're very important to me! Do you know what those Bikers are doing to them? Do you!?
 \l[3]Policial: Calma Moça, nós não sabemos nem mesmo se foram os Motoqueiros. Não vamos acreditar nesse tipo de boato assim, certo?
-\l[3]Policial: Calma Moça, nós não sabemos nem mesmo se foram os Motoqueiros. Não vamos acreditar nesse tipo de boato assim, certo?
+\l[3]Police Officer: Calm down, please, we don't even know it was the Bikers who took them. Let's avoid believing in any rumor, okay?
 Moça: Você só diz isso porque não são seus pokémon!
-Moça: Você só diz isso porque não são seus pokémon!
+Lady: You only say that because they're not your Pokémon!
 Nem a polícia me ajuda mais, não sei qual vai ser o futuro da cidade nesse ritmo.
-Nem a polícia me ajuda mais, não sei qual vai ser o futuro da cidade nesse ritmo.
+Not even the police help me anymore. I don't know what the future of this city will be at this rate.
 Policial: Por favor moça, estamos fazendo o máximo que podemos nas nossas investigações.
-Policial: Por favor moça, estamos fazendo o máximo que podemos nas nossas investigações.
+Police Officer: Please, lady, we're doing the best we can with our investigations.
 Sim, estou vendo você nas suas investigações, parado aí o dia inteiro!
-Sim, estou vendo você nas suas investigações, parado aí o dia inteiro!
+Yes, I can see you doing your investigations, standing there all day!
 Estou fazendo minha patrulha, não diga uma coisa dessas do meu trabalho, por favor.
-Estou fazendo minha patrulha, não diga uma coisa dessas do meu trabalho, por favor.
+I'm doing my patrol, please don't say things like that about my work.
 Moça: Não vou mais perder meu tempo com você, pra mim já chega.
-Moça: Não vou mais perder meu tempo com você, pra mim já chega.
+Lady: I'm not going to waste any more time with you. I've had enough.
 Peço perdão por ter que presenciar isso.
-Peço perdão por ter que presenciar isso.
+I apologize for having to witness this.
 \ff[introBenitex]\bNathan: Não, não tem problema.
-\ff[introBenitex]\bNathan: Não, não tem problema.
+\ff[introBenitex]\bNathan: No, it's okay.
 \ff[introBenitex]\bMas você pode me explicar o que foi isso?
-\ff[introBenitex]\bMas você pode me explicar o que foi isso?
-Acredito que não tenho muitas opções.
-Acredito que não tenho muitas opções.
+\ff[introBenitex]\bBut can you explain to me what that was?
 Essa moça teve seu pokemon roubado enquanto estava no centro pokemon.
-Essa moça teve seu pokemon roubado enquanto estava no centro pokemon.
-Esse não foi o primeiro ataque. Nós já recemos uma série de registros de ataques como esse.
-Esse não foi o primeiro ataque. Nós já recemos uma série de registros de ataques como esse.
+This lady had her Pokémon stolen while she was at the Pokémon Center.
+Esse não foi a primeira vez. Nós já recebemos uma série de registros de ataques como esse.
+This wasn't the first time. We've already received a number of reports like this.
 São treinadores que estavam acessando suas boxes, quando alguém disfarçado chega e obriga a pessoa a entregar seus pokemon.
-São treinadores que estavam acessando suas boxes, quando alguém disfarçado chega e obriga a pessoa a entregar seus pokemon.
-Por causa dos disfarçes, não sabemos quem é, ou se fazem parte de um grupo organizado, apesar de isso ser bastante provável.
-Por causa dos disfarçes, não sabemos quem é, ou se fazem parte de um grupo organizado, apesar de isso ser bastante provável.
+Trainers who were accessing their boxes and someone in disguise arrives and forces them to hand over their Pokémon.
+Por causa dos disfarces, não sabemos quem é, ou se fazem parte de um grupo organizado.
+Because of the disguises, we don't know who they are or if they are part of an organized group.
 \ff[introBenitex]\bNathan: Esse problema precisa ser resolvido com urgência.
-\ff[introBenitex]\bNathan: Esse problema precisa ser resolvido com urgência.
+\ff[introBenitex]\bNathan: This problem needs to be resolved urgently.
 Nós fazemos o que podemos, mas é complicado tentar resolver esse tipo de coisa.
-Nós fazemos o que podemos, mas é complicado tentar resolver esse tipo de coisa.
+We do what we can, but it's complicated to resolve this kind of thing.
 Não podemos ficar conferindo se todas as pessoas que entram no Centro Pokemon são criminosos.
-Não podemos ficar conferindo se todas as pessoas que entram no Centro Pokemon são criminosos.
+We can't check whether every person who enters the Pokémon Center is a criminal.
 Um colega meu está vigiando o lugar para tentar evitar futuros crimes, mas não sabemos se isso vai realmente resolver.
-Um colega meu está vigiando o lugar para tentar evitar futuros crimes, mas não sabemos se isso vai realmente resolver.
+A colleague of mine is watching the place to try to prevent future crimes, but we don't know if that will really solve the problem.
 \ff[introBenitex]\bNathan: O mais interessante seria tentar resolver o problema pela raíz.
-\ff[introBenitex]\bNathan: O mais interessante seria tentar resolver o problema pela raíz.
+\ff[introBenitex]\bNathan: The best ideia would be to nip the problem in the bud.
 Realmente.
-Realmente.
+Indeed.
 De qualquer forma, eu posso explicar essa rua para você, caso deseje.
-De qualquer forma, eu posso explicar essa rua para você, caso deseje.
+Anyway, I can explain this street to you if you like.
 Quer ouvir sobre a Gym Street?
-Quer ouvir sobre a Gym Street?
+Want to hear about Gym Street?
 \ff[introBenitex]\bNathan: Sim, por favor.
-\ff[introBenitex]\bNathan: Sim, por favor.
+\ff[introBenitex]\bNathan: Yes, please.
 A Gym Street não tem tantos prédios abertos quanto a Castelia Street ou a Mode Street.
-A Gym Street não tem tantos prédios abertos quanto a Castelia Street ou a Mode Street.
+Gym Street doesn't have as many open buildings as Castelia Street or Mode Street.
 O principal prédio é o ginásio, que está organizando as eleições, como você talvez já saiba.
-O principal prédio é o ginásio, que está organizando as eleições, como você talvez já saiba.
-Mas acredito que você ainda possa desafiar o líder lá dentro.
-Mas acredito que você ainda possa desafiar o líder lá dentro.
+The most important building is the gym, which is currently organizing the elections, as you may already know.
 Além disso, aqui também fica situado o Clube dos Palhaços, para caso queira visitar.
-Além disso, aqui também fica situado o Clube dos Palhaços, para caso queira visitar.
+The Clown Club is also located here, in case you want to visit. It's... interesting.
 Esses são os dois prédios abertos, os outros são prédios residenciais.
-Esses são os dois prédios abertos, os outros são prédios residenciais.
+The other buildings are residential, or not open to visit.
 \ff[introBenitex]\bNathan: Obrigado pelas informações.
-\ff[introBenitex]\bNathan: Obrigado pelas informações.
+\ff[introBenitex]\bNathan: Thanks for the information.
 \ff[introBenitex]\bNathan: Não, obrigado.
-\ff[introBenitex]\bNathan: Não, obrigado.
+\ff[introBenitex]\bNathan: No, thanks.
 Além do mais, tudo que você fez por nós...
-Além do mais, tudo que você fez por nós...
+Also, about everything you did for us...
 Castelia, não... Unova está eternamente grata.
-Castelia, não... Unova está eternamente grata.
+Castelia... No, Unova is eternally grateful.
 \ff[introBenitex]\bNathan: Fechado. Parece que estão acontecendo mudanças para o novo líder de ginásio.
-\ff[introBenitex]\bNathan: Fechado. Parece que estão acontecendo mudanças para o novo líder de ginásio.
+\ff[introBenitex]\bNathan: Closed. It seems they are organizing the gym for the new leader.
 \ff[introBenitex]\bNathan: A lixeira está cheia de latas de tinta e pincéis.
-\ff[introBenitex]\bNathan: A lixeira está cheia de latas de tinta e pincéis.
-\ff[introBenitex]\bNathan: Tudo bem?
-\ff[introBenitex]\bNathan: Tudo bem?
-Mais ou menos.
-Mais ou menos.
+\ff[introBenitex]\bNathan: The trash can is full of paint cans and brushes.
 Queria poder voltar a visitar o Desert Resort.
-Queria poder voltar a visitar o Desert Resort.
+I wish I could visit the Desert Resort again.
 Foi lá que eu encontrei esse Skorupi, acho que deve ser bem raro.
-Foi lá que eu encontrei esse Skorupi, acho que deve ser bem raro.
+That's where I found this Skorupi, which I think must be pretty rare.
 \ff[introBenitex]\bNathan: Ah, daqui a pouco deve estar aberto de novo.
-\ff[introBenitex]\bNathan: Ah, daqui a pouco deve estar aberto de novo.
+\ff[introBenitex]\bNathan: It should be open again in a little while.
 Tomara, não aguento mais esses Motoqueiros.
-Tomara, não aguento mais esses Motoqueiros.
+I hope so, I can't stand these Bikers anymore.
 O Desert Resort está aberto de novo!
-O Desert Resort está aberto de novo!
+The Desert Resort is open again!
 Estou me preparando para sair.
-Estou me preparando para sair.
+I'm getting ready to go out.
 \ff[introBenitex]\bNathan: Que bom, bom passeio.
-\ff[introBenitex]\bNathan: Que bom, bom passeio.
-Obrigado.
-Obrigado.
+\ff[introBenitex]\bNathan: Great, have a good day.
 Com licença, sou um homem ocupado, não posso falar agora.
-Com licença, sou um homem ocupado, não posso falar agora.
+Excuse me, I'm a busy man, I can't talk right now.
 \ff[introBenitex]\bNathan: Sem problemas.
-\ff[introBenitex]\bNathan: Sem problemas.
+\ff[introBenitex]\bNathan: No problem.
 \ff[introBenitex]\bNathan: Está cheia de máscaras, brinquedos e balões estourados.
-\ff[introBenitex]\bNathan: Está cheia de máscaras, brinquedos e balões estourados.
+\ff[introBenitex]\bNathan: It's full of masks, toys, and popped balloons.
 Esses palhaços não param com essas pegadinhas deles, estou exausto.
-Esses palhaços não param com essas pegadinhas deles, estou exausto.
+These Clowns won't stop with their pranks, I'm exhausted.
 Não aguento mais esses palhaços zoando com a minha cara, vou ter que fazer outra reclamação.
-Não aguento mais esses palhaços zoando com a minha cara, vou ter que fazer outra reclamação.
+I can't take these clowns making fun of me anymore. I'm going to file another complaint.
 \ff[introBenitex]\bNathan: O que aconteceu?
-\ff[introBenitex]\bNathan: O que aconteceu?
+\ff[introBenitex]\bNathan: What happened?
 \ff[introBenitex]\bNathan: Está trancado.
-\ff[introBenitex]\bNathan: Está trancado.
-\w[signskin]Ginásio Pokémon da Cidade de Castelia. \nLíder indefinido até as eleições.
-\w[signskin]Ginásio Pokémon da Cidade de Castelia. \nLíder indefinido até as eleições.
+\ff[introBenitex]\bNathan: It's locked.
+\w[signskin]Ginásio Pokémon da Cidade de Castelia.
+\w[signskin]Castelia City Gym.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 [Map52]
 [Map53]
 Nessa sala, você pode conversar com o organizador de eventos, mas ele não está disponível no momento.
