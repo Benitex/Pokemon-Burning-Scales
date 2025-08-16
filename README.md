@@ -4,7 +4,9 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64505839/126537600-ea1142b8-32a6-4646-a451-77852e4e190a.png)
 
-If you're looking for a narrative and exploration focused game, inspired by games like Skyrim, Zelda, Baldur's Gate III and The Witcher III, in a Pokémon setting, give this game a try! Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of a small open world and its story. You'll encounter dozens of characters who will provide interesting interactions, impactful battles, funny moments, and, most importantly, numerous side quests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
+If you're looking for a narrative and exploration focused game, inspired by games like Skyrim, Zelda, Baldur's Gate III and The Witcher III, in a Pokémon setting, give this game a try!
+
+Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of a small open world and its story. You'll encounter dozens of characters who will provide interesting interactions, impactful battles, funny moments, and, most importantly, numerous side quests. Made with [Pokémon Essentials](https://github.com/Maruno17/pokemon-essentials) v19.1 and RPG Maker XP.
 
 The game's story unfolds at a significantly different pace from the series' standard. The game map comprises the cities of Nimbasa, Castelia, and their surroundings. Instead of traveling throughout the region, you'll explore a small map filled with interactions and side quests. This allows you to thoroughly explore each part, interact with all the characters, dive straight into the main quest, or take it bit by bit at your own pace.
 

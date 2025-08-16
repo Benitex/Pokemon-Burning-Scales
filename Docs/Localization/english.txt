@@ -9676,6 +9676,82 @@ Yes.
 Não.
 No.
 [Map52]
+Adoro essa caverninha.
+I love this little cave.
+O que aquele cara tá fazendo na minha caverna?
+What is that guy doing in my cave?
+\ff[introRobert]\c[10]Robert: Foi aqui que eu encontrei meu Sandile pela primeira vez.
+\ff[introRobert]\c[10]Robert: This is the place where I found my Sandile.
+\ff[introRobert]\c[10]Agora olha como ele já está grandinho.
+\ff[introRobert]\c[10]Look how grown up he is now.
+\ff[introRobert]\c[10]Tudo certo com você, Nathan?
+\ff[introRobert]\c[10]How are you doing, Nathan?
+\ff[introBenitex]\bNathan: Sim, estou procurando pistas sobre a Volcarona que atacou o Desert Resort recentemente.
+\ff[introBenitex]\bNathan: Good. I'm looking for clues about the Volcarona that recently attacked the Desert Resort.
+\l[3]\ff[introRobert]\c[10]Robert: Então foi uma Volcarona? Ah, achava que seria algo mais... especial.
+\l[3]\ff[introRobert]\c[10]Robert: So it was a Volcarona then? I thought it would be something more... special.
+\ff[introBenitex]\bNathan: Ah, se você soubesse o resto da história...
+\ff[introBenitex]\bNathan: Oh, the rest of the story is pretty special...
+\ff[introRobert]\c[10]As coisas nunca são simples, né? O que aconteceu?
+\ff[introRobert]\c[10]Things are never simple, are they? What happened?
+\ff[introBenitex]\bNathan: É uma longa história que envolve Motoqueiros, portais e um Pokémon mítico.
+\ff[introBenitex]\bNathan: It's a long story involving Bikers, portals, and a mythical Pokémon.
+\ff[introRobert]\c[10]Robert: Por Arceus...
+\ff[introRobert]\c[10]Robert: Arceus...
+\l[3]\ff[introRobert]\c[10]Robert: Que bom que você está se responsabilizando por isso. Sinceramente, não sei se eu seria capaz de lidar com tudo isso.
+\l[3]\ff[introRobert]\c[10]Robert: I'm glad you're taking responsibility for this. Honestly, I don't know if I would be able to handle all of this.
+\ff[introBenitex]\bNathan: Tudo ótimo. Tirei um tempinho pra explorar o Desert Resort.
+\ff[introBenitex]\bNathan: Everything's great. I took some time off to explore the Desert Resort.
+\ff[introRobert]\c[10]Robert: Também está procurando aquele Pokémon misterioso?
+\ff[introRobert]\c[10]Robert: Are you also looking for that mysterious Pokémon too?
+\ff[introBenitex]\bNathan: Sim, estou dando uma olhada por aí.
+\ff[introBenitex]\bNathan: Yeah, I'm taking a look around.
+\ff[introRobert]\c[10]Robert: Não consegui descobrir muito sobre ele ainda.
+\ff[introRobert]\c[10]Robert: I haven't been able to find out much about it yet.
+\ff[introBenitex]\bNathan: Como você chegou aqui?
+\ff[introBenitex]\bNathan: How did you get here?
+\ff[introRobert]\c[10]Robert: Ah, eu vim voando. Aqueles Motoqueiros estavam bloqueando meu caminho.
+\ff[introRobert]\c[10]Robert: Oh, I flew here. Those bikers were blocking my way on the ground.
+\ff[introBenitex]\bNathan: Hum, devia ter pensado nisso.
+\ff[introBenitex]\bNathan: Oh, I should have thought of that.
+\ff[introRobert]\c[10]Robert: Mas vamos mudar de assunto.
+\ff[introRobert]\c[10]Robert: But let's change the subject.
+\ff[introRobert]\c[10]Robert: Vamos lá, a gente se encontrar aqui só pode significar uma coisa. Precisamos batalhar!
+\ff[introRobert]\c[10]Robert: Come on, the fact that we're meeting here can only mean one thing. We need to fight!
+\ff[introBenitex]\bNathan: Claro, ótima ideia.
+\ff[introBenitex]\bNathan: Sure, that's a great idea.
+\ff[introRobert]\c[10]Robert: É por isso que gosto de você. Bora!
+\ff[introRobert]\c[10]Robert: That's why I like you. Let's go!
+\ff[introRobert]\c[10]Robert: Ui, você tá bem forte.
+\ff[introRobert]\c[10]Robert: Wow, you became pretty strong.
+\ff[introBenitex]\bNathan: Sim, você tem que se esforçar mais pra me alcançar!
+\ff[introBenitex]\bNathan: Yeah, you have to try harder to catch up with me!
+\ff[introRobert]\c[10]Robert: Boa Nathan, boa. Daqui a pouco você chega no meu nível.
+\ff[introRobert]\c[10]Robert: Nice one, Nathan, nice one. You'll be at my level in no time.
+\ff[introBenitex]\bNathan: Ei!
+\ff[introBenitex]\bNathan: Hey!
+\ff[introRobert]\c[10]Robert: Foi só uma provocação saudável. Me dê seus Pokémon, vou curar eles pra você.
+\ff[introRobert]\c[10]Robert: It was just some friendly banter. Give me your Pokémon, I'll heal them for you.
+\ff[introBenitex]\bNathan: Valeu.
+\ff[introBenitex]\bNathan: Thanks.
+\ff[introBenitex]\bNathan: Acho melhor não, essa caverna é muito apertadinha.
+\ff[introBenitex]\bNathan: Maybe that's not the best idea. This cave is just too cramped.
+\ff[introRobert]\c[10]Robert: Hum, acho que você está certo.
+\ff[introRobert]\c[10]Robert: Yeah, I guess you're right.
+\ff[introRobert]\c[10]Robert: Beleza, vou ficar por aqui por mais um tempo. O clima dessa caverna é... interessante.
+\ff[introRobert]\c[10]Robert: Alright, I'll stay here a little longer. The atmosphere in this cave is... interesting.
+\ff[introBenitex]\bNathan: Beleza. Te vejo por aí.
+\ff[introBenitex]\bNathan: Yeah, see you around.
+\ff[introRobert]\c[10]Robert: Esse lugar tem marcas estranhas, parece que foi usado pra alguma coisa.
+\ff[introRobert]\c[10]Robert: This place has strange marks on it. It looks like it was used for something.
+\ff[introRobert]\c[10]Vou continuar aqui por mais um tempinho.
+\ff[introRobert]\c[10]I'll stay here for some time.
+\ff[introRobert]\c[10]Robert: Calma, camarada, calma...
+\ff[introRobert]\c[10]Robert: Calm down, buddy, calm down... He gets territorial in here.
+Claro!
+Sure!
+Acho melhor não.
+I believe it is best not to.
 [Map53]
 Nessa sala, você pode conversar com o organizador de eventos, mas ele não está disponível no momento.
 This is the room where the staff works. Sorry, but you cannot enter.
