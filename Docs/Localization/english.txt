@@ -10299,436 +10299,438 @@ B1F
 Exit
 Exit
 [Map55]
-\ff[introJuniper]Juniper: Nathan! A que lhe devo a ilustre preseça?
-\ff[introJuniper]Juniper: 
+\ff[introJuniper]Juniper: Nathan! A que lhe devo a ilustre presença?
+\ff[introJuniper]Juniper: Nathan! To what do I owe the honor of your presence?
 \ff[introBenitex]\bNathan: Olá professora, vim conversar com o professor Carvalho e aproveitei para fazer uma visita.
-\ff[introBenitex]\bNathan: Olá professora, vim conversar com o professor Carvalho e aproveitei para fazer uma visita.
+\ff[introBenitex]\bNathan: Hello, Professor. I came to talk to Professor Oak and took the opportunity to visit.
 \ff[introJuniper]Juniper: Pode entrar! Não estou ocupada, podemos conversar.
-\ff[introJuniper]Juniper: Pode entrar! Não estou ocupada, podemos conversar.
+\ff[introJuniper]Juniper: Come in! I'm not busy, let's talk.
 \ff[introJuniper]Juniper: Oi Nathan, há quanto tempo!
-\ff[introJuniper]Juniper: Oi Nathan, há quanto tempo!
+\ff[introJuniper]Juniper: Hi Nathan, long time no see!
 \ff[introJuniper]Já estava pensando que não voltaria mais para Unova.
-\ff[introJuniper]Já estava pensando que não voltaria mais para Unova.
+\ff[introJuniper]I was beginning to think you would never return to Unova.
 \ff[introBenitex]\bNathan: Ah, desculpa, eu ando um pouco ocupado ultimamente.
-\ff[introBenitex]\bNathan: Ah, desculpa, eu ando um pouco ocupado ultimamente.
+\ff[introBenitex]\bNathan: Sorry, I've been a little busy lately.
 \ff[introJuniper]Juniper: Quando te conheci, nunca imaginei que acabaria se tornando alguém tão importante.
-\ff[introJuniper]Juniper: Quando te conheci, nunca imaginei que acabaria se tornando alguém tão importante.
+\ff[introJuniper]Juniper: When I first met you, I never imagined you would become such an important person.
 \ff[introBenitex]\bNathan: Quem diria, né?
-\ff[introBenitex]\bNathan: Quem diria, né?
+\ff[introBenitex]\bNathan: Who would have thought, right?
 \l[3]\ff[introJuniper]Juniper: Enfim, você veio até aqui para ver o pokemon que eu achei, não vou gastar muito do seu tempo.
-\l[3]\ff[introJuniper]Juniper: Enfim, você veio até aqui para ver o pokemon que eu achei, não vou gastar muito do seu tempo.
+\l[3]\ff[introJuniper]Juniper: Anyway, you came here to see the Pokémon I found, so I won't take up too much of your time.
 \ff[introJuniper]Dê uma olhadinha nisso!
-\ff[introJuniper]Dê uma olhadinha nisso!
+\ff[introJuniper]Take a look at this!
 \ff[introBenitex]\bNathan: Caramba, que charmander diferente!
-\ff[introBenitex]\bNathan: Caramba, que charmander diferente!
+\ff[introBenitex]\bNathan: Wow, what a different Charmander!
 \ff[introJuniper]Juniper: Não é? Ele tem marcas na pele e é bem mais escuro.
-\ff[introJuniper]Juniper: Não é? Ele tem marcas na pele e é bem mais escuro.
+\ff[introJuniper]Juniper: Isn't it? It has markings on its skin, which is also much darker.
 \ff[introBenitex]\bNathan: Bom, definitivamente não é um shiny. Onde você econtrou ele?
-\ff[introBenitex]\bNathan: Bom, definitivamente não é um shiny. Onde você econtrou ele?
+\ff[introBenitex]\bNathan: It definitely is not a shiny. Where did you find it?
 \l[3]\ff[introJuniper]Juniper: Essa parte é interessante. Encontrei ele na Rota 4, mas estava sozinho, não encontrei nenhum outro parecido.
-\l[3]\ff[introJuniper]Juniper: Essa parte é interessante.  Encontrei ele na Rota 4, mas estava sozinho, não encontrei nenhum outro parecido.
+\l[3]\ff[introJuniper]Juniper: That's the curious part. I found it on Route 4, but it was alone, I didn't find any others like it.
 \ff[introBenitex]\bNathan: Hum, será que é algum tipo de mutação ou forma regional?
-\ff[introBenitex]\bNathan: Hum, será que é algum tipo de mutação ou forma regional?
+\ff[introBenitex]\bNathan: Could it be some kind of mutation or regional variant?
 \ff[introJuniper]Juniper: Não acho que ele seja uma forma regional, nunca tiveram charmanders em Unova.
-\ff[introJuniper]Juniper: Não acho que ele seja uma forma regional, nunca tiveram charmanders em Unova.
+\ff[introJuniper]Juniper: I don't think it's a regional form. There have never been any Charmanders in Unova.
 \ff[introJuniper]Também não vi nenhuma outra forma da família evolutiva dele.
-\ff[introJuniper]Também não vi nenhuma outra forma da família evolutiva dele.
+\ff[introJuniper]I haven't seen any other stages of its evolutionary family either.
 \l[3]\ff[introJuniper]Queria saber como são as evoluções dele, por isso, gostaria que você treinasse ele para mim, o que acha?
-\l[3]\ff[introJuniper]Queria saber como são as evoluções dele, por isso, gostaria que você treinasse ele para mim, o que acha?
+\l[3]\ff[introJuniper]I'd like to know what its evolutions are like, so I'd like you to train it for me. What do you think?
 \ff[introBenitex]\bNathan: Claro, pode contar comigo.
-\ff[introBenitex]\bNathan: Claro, pode contar comigo.
+\ff[introBenitex]\bNathan: Sure, leave it to me.
 \ff[introJuniper]Juniper: Muito obrigada, Nathan, sabia que poderia contar com você!
-\ff[introJuniper]Juniper: Muito obrigada, Nathan, sabia que poderia contar com você!
+\ff[introJuniper]Juniper: Thank you so much, Nathan. I knew I could count on you!
 \ff[introJuniper]Juniper: Aqui está, tome conta dele com carinho!
-\ff[introJuniper]Juniper: Aqui está, tome conta dele com carinho!
+\ff[introJuniper]Juniper: Here you go. Take good care of him!
 \ff[introBenitex]\bNathan: Pode deixar. Sabe de algum lugar onde eu posso treinar ele?
-\ff[introBenitex]\bNathan: Pode deixar. Sabe de algum lugar onde eu posso treinar ele?
+\ff[introBenitex]\bNathan: Of course. Do you know of any place where I can train him?
 \ff[introJuniper]Juniper: Eu sei o lugar perfeito!
-\ff[introJuniper]Juniper: Eu sei o lugar perfeito!
+\ff[introJuniper]Juniper: I know the perfect place!
 \ff[introJuniper]Falta só uma semana para o grande torneio anual de Nimbasa, Nathan, seria ótimo!
-\ff[introJuniper]Falta só uma semana para o grande torneio anual de Nimbasa, Nathan, seria ótimo!
+\ff[introJuniper]There's only one week left until the big annual Nimbasa tournament. I think you should participate.
 \ff[introBenitex]\bNathan: Uma semana? Não vai ficar muito puxado?
-\ff[introBenitex]\bNathan: Uma semana? Não vai ficar muito puxado?
+\ff[introBenitex]\bNathan: Just a week? That's impossible!
 \ff[introJuniper]Juniper: Ah, nem parece o Nathan que eu conheço. Vamos, eu sei que você consegue.
-\ff[introJuniper]Juniper: Ah, nem parece o Nathan que eu conheço. Vamos, eu sei que você consegue.
+\ff[introJuniper]Juniper: That doesn't sound like the Nathan I know. Come on, I know you can do it!
 \ff[introBenitex]\bNathan: Caramba, acho que deveria ter trazido algum pokemon comigo.
-\ff[introBenitex]\bNathan: Caramba, acho que deveria ter trazido algum pokemon comigo.
+\ff[introBenitex]\bNathan: Arceus, I should have brought some Pokémon with me.
 \ff[introJuniper]Juniper: Bom, isso foi só uma ideia. Você pode treinar na Rota 4 mesmo, ele deve estar acostumado com o ambiente.
-\ff[introJuniper]Juniper: Bom, isso foi só uma ideia.  Você pode treinar na Rota 4 mesmo, ele deve estar acostumado com o ambiente.
+\ff[introJuniper]Juniper: Well, that was just an idea. You can train on Route 4, he should be used to that environment.
 \ff[introJuniper]Mas, se for participar do torneio, fique atento com o prazo, não gaste muito tempo saindo de Nimbasa e voltando para Castelia sem motivo!
-\ff[introJuniper]Mas, se for participar do torneio, fique atento com o prazo, não gaste muito tempo saindo de Nimbasa e voltando para Castelia sem motivo!
+\ff[introJuniper]But if you're going to participate in the tournament, keep an eye on the deadline. Don't spend too much time coming back to Castelia for no reason!
 \ff[introBenitex]\bNathan: Certo, certo, eu sei.
-\ff[introBenitex]\bNathan: Certo, certo, eu sei.
+\ff[introBenitex]\bNathan: Okay, okay, I know.
 \ff[introBenitex]\bNathan: Obrigado por confiar ele a mim, professora.
-\ff[introBenitex]\bNathan: Obrigado por confiar ele a mim, professora.
+\ff[introBenitex]\bNathan: Thank you for entrusting him to me, Professor.
 \ff[introJuniper]Juniper: Que isso Nathan, eu sou quem deve te agradecer por vir até Unova para isso.
-\ff[introJuniper]Juniper: Que isso Nathan, eu sou quem deve te agradecer por vir até Unova para isso.
+\ff[introJuniper]Juniper: I'm the one who should be thanking you for coming to Unova for training him.
 \ff[introBenitex]\bNathan: Sem problemas, se precisar de mim para alguma coisa, é só avisar.
-\ff[introBenitex]\bNathan: Sem problemas, se precisar de mim para alguma coisa, é só avisar.
+\ff[introBenitex]\bNathan: If you need me for anything, just let me know.
 \ff[introJuniper]Juniper: Obrigada.
-\ff[introJuniper]Juniper: Obrigada.
+\ff[introJuniper]Juniper: Thanks.
 Olá jovem aventureiro! Como a vida vem te tratando?
-Olá jovem aventureiro! Como a vida vem te tratando?
+Hello, young traveler! How has life been treating you?
 \ff[introBenitex]\bNathan: Estou muito bem, senhor.
-\ff[introBenitex]\bNathan: Estou muito bem, senhor.
+\ff[introBenitex]\bNathan: I'm doing very well, sir.
 Pelo seu olhar, sei muito bem que conheceu vários pokemon. Ótimo, isso é muito bom.
-Pelo seu olhar, sei muito bem que conheceu vários pokemon. Ótimo, isso é muito bom.
+From the look in your eyes, I can tell you've met many different Pokémon. Good job.
 \ff[introBenitex]\bNathan: Obrigado!
-\ff[introBenitex]\bNathan: Obrigado!
+\ff[introBenitex]\bNathan: Thanks!
 \l[3]Um dia, eu fui um aventureiro como você, meu jovem. Atravessei vastos territórios, viajei por todas as regiões que você puder pensar.
-\l[3]Um dia, eu fui um aventureiro como você, meu jovem.  Atravessei vastos territórios, viajei por todas as regiões que você puder pensar.
+\l[3]Once upon a time, I was an adventurer like you, young man. I crossed vast territories and traveled to every region you can think of.
 Mas um dia, todos precisam descansar, não é mesmo?
-Mas um dia, todos precisam descansar, não é mesmo?
+But one day, everyone needs to stop to rest, right?
 Mas eu não parei, continuei viajando pelo mundo! Sem parar!
-Mas eu não parei, continuei viajando pelo mundo! Sem parar!
+Well, I didn't. I kept traveling the world! Nonstop!
 Mas isso acabou comprometendo minha saúde, é só por isso que tive que parar.
-Mas isso acabou comprometendo minha saúde, é só por isso que tive que parar.
+But that ended up compromising my health, which is the only reason I stopped.
 Espera, do que eu estava falando mesmo?
-Espera, do que eu estava falando mesmo?
+Wait, what was I talking about again?
 \ff[introBenitex]\bNathan: Você estava falando sobre os pokemon que conheci, depois começou a contar sua história.
-\ff[introBenitex]\bNathan: Você estava falando sobre os pokemon que conheci, depois começou a contar sua história.
+\ff[introBenitex]\bNathan: You were talking about the Pokémon I met, then you started telling your story.
 Ah sim, muito bem, meu jovem. Quem me dera ter uma memória como a sua.
-Ah sim, muito bem, meu jovem. Quem me dera ter uma memória como a sua.
+Oh yes, very good, young man. I wish I had a memory like yours.
 Bom, eu te contei isso porque me senti inspirado por você. Vou te fazer um desafio, que tal?
-Bom, eu te contei isso porque me senti inspirado por você.  Vou te fazer um desafio, que tal?
+Well, I told you that because I felt inspired by you. What about a challenge?
 \ff[introBenitex]\bNathan: Pode mandar.
-\ff[introBenitex]\bNathan: Pode mandar.
+\ff[introBenitex]\bNathan: Bring it on.
 \l[3]Muito bem. Quero que você capture mais pokemon e mostre eles para mim. E a cada 10 pokemon que você me mostrar em sua pokedex, te darei um novo pokemon especial, que não pode ser encontrado por aqui.
-\l[3]Muito bem. Quero que você capture mais pokemon e mostre eles para mim. E a cada 10 pokemon que você me mostrar em sua pokedex, te darei um novo pokemon especial, que não pode ser encontrado por aqui.
+\l[3]Very well. I want you to capture more Pokémon and show them to me. And for every 10 new Pokémon you show me in your Pokédex, I'll give you a new special Pokémon that can't be found around here.
 \ff[introBenitex]\bNathan: Parece ótimo, temos um acordo!
-\ff[introBenitex]\bNathan: Parece ótimo, temos um acordo!
+\ff[introBenitex]\bNathan: Sounds great, we have a deal!
 Haha, perfeito!
-Haha, perfeito! 
+Haha, that's perfect! 
 Já vou te entregar um agora, você deve precisar dele. É perigoso enfrentar andar por aí sozinho, pegue isso.
-Já vou te entregar um agora, você deve precisar dele. É perigoso enfrentar andar por aí sozinho, pegue isso.
+I'll give you one now, you'll probably need it. It's dangerous to go alone! Take this.
 Muito bem, por acaso encontrou 10 pokemon novos para me mostrar?
-Muito bem, por acaso encontrou 10 pokemon novos para me mostrar?
+Very well, did you happen to find 10 new Pokémon to show me?
 \ff[introBenitex]\bNathan: Olha aqui minha pokédex.
-\ff[introBenitex]\bNathan: Olha aqui minha pokédex.
+\ff[introBenitex]\bNathan: Look at my Pokédex.
 Ah sim, muito bem, muito bem. Os 10 primeiros pokemon diferentes registrados, me lembra a emoção do início da minha jornada...
-Ah sim, muito bem, muito bem. Os 10 primeiros pokemon diferentes registrados, me lembra a emoção do início da minha jornada...
+Oh yes, very good, very good. The first 10 different Pokémon registered, it reminds me of the excitement at the beginning of my journey...
 Bom, aqui está, um novo pokemon para você!
-Bom, aqui está, um novo pokemon para você!
+Well, here it is, a new Pokémon for you!
 Muito bem, vejo bastante progresso! 20 já demonstra bastante experiência, muita variedade. Ótimo, meu jovem.
-Muito bem, vejo bastante progresso! 20 já demonstra bastante experiência, muita variedade. Ótimo, meu jovem.
+Oh, very good, I see a lot of progress! 20 Pokémon shows a lot of experience and variety. Excellent, young man.
 Uau, você já capturou 30 espécies diferentes? Isso exige bastante dedicação! Muito bem meu jovem, tenho grandes expectativas em você.
-Uau, você já capturou 30 espécies diferentes? Isso exige bastante dedicação! Muito bem meu jovem, tenho grandes expectativas em você.
+Wow, you've already caught 30 different species? That takes a lot of dedication! Well done, young man, I have high expectations for you.
 40 espécies diferentes? Você está cada vez mais perto de completar a Pokédex, continue com o bom trabalho.
-40 espécies diferentes? Você está cada vez mais perto de completar a Pokédex, continue com o bom trabalho.
+40 different species? You're getting closer and closer to completing the Pokédex, keep up the good work.
+50 espécies? Isso é uma marca e tanto! Aqui, este vai ser o último pokemon que vou dar para você.
+50 species? That's quite a milestone! Here, this will be the last Pokémon I'll give you.
+Não posso dar mais pokemon para você. Preciso guardar alguns pros outros treinadores.
+I can't give you any more Pokémon. I need to save some for the other trainers.
 Infelizmente, você ainda não capturou o suficiente. Mas não desanime, procure por todos os cantos, uma hora você chega lá!
-Infelizmente, você ainda não capturou o suficiente. Mas não desanime, procure por todos os cantos, uma hora você chega lá!
+Unfortunately, you haven't caught enough yet. But don't be discouraged, keep searching everywhere, you'll get there eventually!
 \ff[introJuniper]Juniper: Alguma novidade quanto ao treinamento?
-\ff[introJuniper]Juniper: Alguma novidade quanto ao treinamento?
+\ff[introJuniper]Juniper: Any news regarding training?
 \ff[introBenitex]\bNathan: Ainda não.
-\ff[introBenitex]\bNathan: Ainda não.
+\ff[introBenitex]\bNathan: Not yet.
 \ff[introJuniper]Juniper: Certo, tente não exagerar e deixar eles sobrecarregados.
-\ff[introJuniper]Juniper: Certo, tente não exagerar e deixar eles sobrecarregados.
+\ff[introJuniper]Juniper: Okay, try not to overdo it.
 \ff[introJuniper]Juniper: E então, como vai seu charmander?
-\ff[introJuniper]Juniper: E então, como vai seu charmander?
+\ff[introJuniper]Juniper: So, how is Charmander going?
 \ff[introBenitex]\bNathan: Vai muito bem, inclusive, já até evoluiu.
-\ff[introBenitex]\bNathan: Vai muito bem, inclusive, já até evoluiu.
+\ff[introBenitex]\bNathan: He's great, he even evolved.
 \ff[introJuniper]Juniper: Interessante... A nova forma ainda parece um charmeleon, mas é bem diferente também.
-\ff[introJuniper]Juniper: Interessante... A nova forma ainda parece um charmeleon, mas é bem diferente também.
+\ff[introJuniper]Juniper: Interesting... This stage looks like a Charmeleon, but it's also quite different.
 \ff[introBenitex]\bNathan: Ele vai bem, ainda não chegou a evoluir, mas acredito que em breve deva estar preparado.
-\ff[introBenitex]\bNathan: Ele vai bem, ainda não chegou a evoluir, mas acredito que em breve deva estar preparado.
+\ff[introBenitex]\bNathan: He's doing well. He hasn't evolved yet, but I believe he'll be ready soon.
 \ff[introJuniper]Juniper: Ótimo, ótimo.
-\ff[introJuniper]Juniper: Ótimo, ótimo.
+\ff[introJuniper]Juniper: Great, great.
 \ff[introJuniper]Por favor, continue me mostrando o crescimento desses pokemon com essa forma alternativa.
-\ff[introJuniper]Por favor, continue me mostrando o crescimento desses pokemon com essa forma alternativa.
+\ff[introJuniper]Please continue to show me the growth of these Pokémon.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Sure.
 \ff[introBenitex]\bNathan: A propósito, consegui achar um novo pokemon diferente.
-\ff[introBenitex]\bNathan: A propósito, consegui achar um novo pokemon diferente.
+\ff[introBenitex]\bNathan: By the way, I managed to find a new Pokémon.
 \ff[introJuniper]Juniper: Sério? Como ele é?
-\ff[introJuniper]Juniper: Sério? Como ele é?
+\ff[introJuniper]Juniper: Seriously? How does it look?
 \ff[introBenitex]\bNathan: É um digglet, mas parece um pouco um túmulo.
-\ff[introBenitex]\bNathan: É um digglet, mas parece um pouco um túmulo.
+\ff[introBenitex]\bNathan: It's a Digglet, but it kind of looks like a tomb.
 \ff[introJuniper]Juniper: Nossa, bem diferente. Onde você encontrou ele?
-\ff[introJuniper]Juniper: Nossa, bem diferente. Onde você encontrou ele?
+\ff[introJuniper]Juniper: Wow, that's very different. Where did you find it?
 \ff[introBenitex]\bNathan: Ah... Eu estava... Andando por aí... E achei ele.
-\ff[introBenitex]\bNathan: Ah... Eu estava... Andando por aí... E achei ele.
+\ff[introBenitex]\bNathan: Oh... I was... walking around... and found him.
 \ff[introJuniper]Juniper: Onde é "por aí"?
-\ff[introJuniper]Juniper: Onde é "por aí"?
-\ff[introBenitex]\bNathan: Na Rota 4
-\ff[introBenitex]\bNathan: Na Rota 4
+\ff[introJuniper]Juniper: Oh, where's "around"?
+\ff[introBenitex]\bNathan: Na Rota 4.
+\ff[introBenitex]\bNathan: On Route 4.
 \ff[introJuniper]Juniper: Ah, tinha mais um desses pokemon na Rota 4? Muito interessante, muito mesmo.
-\ff[introJuniper]Juniper: Ah, tinha mais um desses pokemon na Rota 4? Muito interessante, muito mesmo.
+\ff[introJuniper]Juniper: So there are more of those Pokémon on Route 4? Interesting, very interesting?
 \ff[introBenitex]\bNathan: No Desert Resort.
-\ff[introBenitex]\bNathan: No Desert Resort.
-\ff[introJuniper]Juniper: Ah, então os Motoqueiros já saíram do Desert Resort? Que ótimo!
-\ff[introJuniper]Juniper: Ah, então os Motoqueiros já saíram do Desert Resort? Que ótimo!
+\ff[introBenitex]\bNathan: At Desert Resort.
 \ff[introJuniper]Interessante, então esses pokemon também estão presentes no Desert Resort...
-\ff[introJuniper]Interessante, então esses pokemon também estão presentes no Desert Resort...
+\ff[introJuniper]Interesting, so these Pokémon are also present in the Desert Resort...
 \ff[introBenitex]\bNathan: Na Floresta de Pinwheel.
-\ff[introBenitex]\bNathan: Na Floresta de Pinwheel.
+\ff[introBenitex]\bNathan: In the Pinwheel Forest.
 \ff[introJuniper]Juniper: Hum, não imaginava que esses pokemon estavam até na Floresta de Pinwheel.
-\ff[introJuniper]Juniper: Hum, não imaginava que esses pokemon estavam até na Floresta de Pinwheel.
+\ff[introJuniper]Juniper: Oh, I didn't realize those Pokémon were even in Pinwheel Forest.
 \ff[introBenitex]\bNathan: Na Rota 10.
-\ff[introBenitex]\bNathan: Na Rota 10.
+\ff[introBenitex]\bNathan: On Route 10.
 \ff[introJuniper]Juniper: Caramba, na Rota 10? Tão longe!
-\ff[introJuniper]Juniper: Caramba, na Rota 10? Tão longe!
+\ff[introJuniper]Juniper: Wow, on Route 10? That's so far away!
 \ff[introJuniper]Juniper: Pelo visto esses pokemon já estão se disseminando por toda Unova!
-\ff[introJuniper]Juniper: Pelo visto esses pokemon já estão se disseminando por toda Unova!
+\ff[introJuniper]Juniper: It looks like these Pokémon are already spreading throughout Unova!
 \ff[introJuniper]Isso deve ser essencial pra continuação da nossa pesquisa.
-\ff[introJuniper]Isso deve ser essencial pra continuação da nossa pesquisa.
+\ff[introJuniper]This should be essential for the continuation of our research.
 \ff[introBenitex]\bNathan: Durante o torneio de Nimbasa, encontrei um vendedor de "produtos".
-\ff[introBenitex]\bNathan: Durante o torneio de Nimbasa, encontrei um vendedor de "produtos".
+\ff[introBenitex]\bNathan: During the Nimbasa tournament, I encountered a seller of "products".
 \ff[introBenitex]\bEle me ofereceu um pokemon especial se eu comprasse vários outros com ele.
-\ff[introBenitex]\bEle me ofereceu um pokemon especial se eu comprasse vários outros com ele.
+\ff[introBenitex]\bHe offered me a special Pokémon if I bought some others from him.
 \ff[introJuniper]Juniper: Nathan, você comprou um pokemon contrabandeado?
-\ff[introJuniper]Juniper: Nathan, você comprou um pokemon contrabandeado?
+\ff[introJuniper]Juniper: Nathan, did you buy smuggled Pokémon?
 \ff[introBenitex]\bNathan: Não, é claro que não!
-\ff[introBenitex]\bNathan: Não, é claro que não!
+\ff[introBenitex]\bNathan: No, of course not!
 \ff[introBenitex]\bEu peguei ele escondido enquanto ele atendia outra pessoa.
-\ff[introBenitex]\bEu peguei ele escondido enquanto ele atendia outra pessoa.
+\ff[introBenitex]\bI took it secretly while he was helping someone else.
 \ff[introJuniper]Juniper: Que isso Nathan!
-\ff[introJuniper]Juniper: Que isso Nathan!
+\ff[introJuniper]Juniper: Come on, Nathan!
 \ff[introJuniper]Não sei quem está mais errado nessa história...
-\ff[introJuniper]Não sei quem está mais errado nessa história...
+\ff[introJuniper]I don't know who is more wrong in this story...
 \ff[introJuniper]Bom, vou pedir pra polícia investigar o caso, obrigado por me avisar sobre isso.
-\ff[introJuniper]Bom, vou pedir pra polícia investigar o caso, obrigado por me avisar sobre isso.
+\ff[introJuniper]Well, I'll ask the police to investigate the case. Thank you for letting me know about this.
 \ff[introBenitex]\bNathan: É, mais ou menos, eu comprei, mas dei uma lição nele!
-\ff[introBenitex]\bNathan: É, mais ou menos, eu comprei, mas dei uma lição nele!
+\ff[introBenitex]\bNathan: Kind of, I bought it, but I taught him a lesson!
 \l[3]\ff[introJuniper]Juniper: É, menos mal, eu acho. Não faça mais isso, esses pokemon passam por situações muito ruins enquanto são transportados.
-\l[3]\ff[introJuniper]Juniper: É, menos mal, eu acho.  Não faça mais isso, esses pokemon passam por situações muito ruins enquanto são transportados.
+\l[3]\ff[introJuniper]Juniper: That's good, I guess. Don't do that again, those Pokémon go through a lot of bad stuff while they're being transported.
 \ff[introBenitex]\bNathan: Eu sei, desculpe professora.
-\ff[introBenitex]\bNathan: Eu sei, desculpe professora.
+\ff[introBenitex]\bNathan: I know, sorry.
 \ff[introBenitex]\bNathan: Sim, eu estava precisando de uns pokemon que ele vendia, então aproveitei pra comprar.
-\ff[introBenitex]\bNathan: Sim, eu estava precisando de uns pokemon que ele vendia, então aproveitei pra comprar.
+\ff[introBenitex]\bNathan: Yes. I needed Pokémon and he was conveniently selling some, so I took the opportunity to buy them.
 \l[3]\ff[introJuniper]Não faça mais isso, esses pokemon sofrem muito enquanto são transportados de um lado para o outro.
-\l[3]\ff[introJuniper]Não faça mais isso, esses pokemon sofrem muito enquanto são transportados de um lado para o outro.
+\l[3]\ff[introJuniper]Don't do that anymore, those Pokémon suffer a lot while being transported from one place to another.
 \ff[introJuniper]Juniper: Obrigado por reportar sobre esse pokemon. Continue o treinamento dele, por favor.
-\ff[introJuniper]Juniper: Obrigado por reportar sobre esse pokemon. Continue o treinamento dele, por favor.
+\ff[introJuniper]Juniper: Thank you for reporting that. Please continue training that Digglet.
 \ff[introJuniper]Juniper: Bom, falando em pokemon com forma alternativa, consegui encontrar 3 novos.
-\ff[introJuniper]Juniper: Bom, falando em pokemon com forma alternativa, consegui encontrar 3 novos.
+\ff[introJuniper]Juniper: Speaking of Pokémon with alternative forms, I found three new ones.
 \ff[introBenitex]\bNathan: Três?
-\ff[introBenitex]\bNathan: Três?
+\ff[introBenitex]\bNathan: Three?
 \ff[introJuniper]Juniper: Sim, mas são três variações do mesmo pokemon. São 3 yamasks diferentes.
-\ff[introJuniper]Juniper: Sim, mas são três variações do mesmo pokemon. São 3 yamasks diferentes.
+\ff[introJuniper]Juniper: Yes, they are actually three variations of the same Pokémon. They are three different Yamask forms.
 \l[3]\ff[introJuniper]Mas o mais curioso é que todos eles carregam pedaços de outros pokemon no lugar de suas máscaras.
-\l[3]\ff[introJuniper]Mas o mais curioso é que todos eles carregam pedaços de outros pokemon no lugar de suas máscaras.
+\l[3]\ff[introJuniper]But the most curious thing is that they all carry pieces of other Pokémon in place of their masks.
 \l[3]\ff[introJuniper]Vou te entregar um deles para você treinar, mas, antes, acho que seria interessante você conhecer melhor cada um deles.
-\l[3]\ff[introJuniper]Vou te entregar um deles para você treinar, mas, antes, acho que seria interessante você conhecer melhor cada um deles.
+\l[3]\ff[introJuniper]I'll give you one of them to train. But first, I think should know a little more about each of them.
 \l[3]\ff[introJuniper]Um carrega a pérola da cabeça de um spoink, outro carrega a pedra de um spiritomb e o último a máscara de um duskull.
-\l[3]\ff[introJuniper]Um carrega a pérola da cabeça de um spoink, outro carrega a pedra de um spiritomb e o último a máscara de um duskull.
+\l[3]\ff[introJuniper]One carries the pearl from a Spoink's head, another carries a Spiritomb's stone, and the last one carries a Duskull's mask.
 \ff[introJuniper]Juniper: Sobre qual deles você quer saber?
-\ff[introJuniper]Juniper: Sobre qual deles você quer saber?
+\ff[introJuniper]Juniper: Which one would you like to know about?
 \ff[introBenitex]\bNathan: Me conte sobre o que carrega a pérola de um spoink.
-\ff[introBenitex]\bNathan: Me conte sobre o que carrega a pérola de um spoink.
+\ff[introBenitex]\bNathan: Tell me about the one carrying a Spoink's pearl.
 \l[3]\ff[introJuniper]Juniper: Sim, na verdade, a pérola que ele carrega foi produzida por um clampearl, mas ele pegou de um spoink, pelas marcas.
-\l[3]\ff[introJuniper]Juniper: Sim, na verdade, a pérola que ele carrega foi produzida por um clampearl, mas ele pegou de um spoink, pelas marcas.
+\l[3]\ff[introJuniper]Juniper: Sure. Actually, the pearl it carries was produced by a Clampearl, but was taken from a Spoink body, judging by the marks.
 \ff[introBenitex]\bNathan: Interessante.
-\ff[introBenitex]\bNathan: Interessante.
+\ff[introBenitex]\bNathan: Interesting.
 \ff[introJuniper]Juniper: Ele é bem mais agressivo que os outros, também é do tipo psíquico.
-\ff[introJuniper]Juniper: Ele é bem mais agressivo que os outros, também é do tipo psíquico.
+\ff[introJuniper]Juniper: It is quite aggressive, and it is also a psychic type.
 \ff[introBenitex]\bNathan: Me conte sobre o que carrega a pedra de um spiritomb.
-\ff[introBenitex]\bNathan: Me conte sobre o que carrega a pedra de um spiritomb.
+\ff[introBenitex]\bNathan: Tell me about the one carrying a Spiritomb's stone.
 \ff[introJuniper]Juniper: Ah, esse é bem especial!
-\ff[introJuniper]Juniper: Ah, esse é bem especial!
+\ff[introJuniper]Juniper: Ah, that one is quite special!
 \l[3]\ff[introJuniper]Esse pokemon carrega uma pedra angular estranha, parecida com as que spiritombs utilizam para projetar suas aparências.
-\l[3]\ff[introJuniper]Esse pokemon carrega uma pedra angular estranha, parecida com as que spiritombs utilizam para projetar suas aparências.
-\l[3]\ff[introJuniper] Ele também é do tipo pedra. Mas, mais importante que isso, de acordo com minhas pesquisas, ele tem uma habilidade vista apenas em um pokemon em Hoenn, se chama Wonder Guard.
-\l[3]\ff[introJuniper] Ele também é do tipo pedra. Mas, mais importante que isso, de acordo com minhas pesquisas, ele tem uma habilidade vista apenas em um pokemon em Hoenn, se chama Wonder Guard.
+\l[3]\ff[introJuniper]This Pokémon carries an Odd Keystone, similar to the ones Spiritombs use to project their appearances.
+\l[3]\ff[introJuniper]Ele também é do tipo pedra. Mas, mais importante que isso, ele tem uma habilidade rara: Wonder Guard.
+\l[3]\ff[introJuniper]It is also a Rock-type. But more importantly, it has a very rare ability: Wonder Guard.
 \ff[introJuniper]\l[3]Ele só é afetado por golpes super efetivos, os outros golpes simplesmente não machucam ele, é incrível!
-\ff[introJuniper]\l[3]Ele só é afetado por golpes super efetivos, os outros golpes simplesmente não machucam ele, é incrível!
+\ff[introJuniper]\l[3]It is only affected by super effective moves. Other moves simply don't hurt it. It's amazing!
 \ff[introBenitex]\bNathan: Me conte sobre o que carrega a máscara de um duskull.
-\ff[introBenitex]\bNathan: Me conte sobre o que carrega a máscara de um duskull.
+\ff[introBenitex]\bNathan: Tell me about the one carrying a Duskull's mask.
 \ff[introJuniper]Juniper: Esse carrega a máscara de um duskull, ele é meio tímido, fica sempre escondidinho.
-\ff[introJuniper]Juniper: Esse carrega a máscara de um duskull, ele é meio tímido, fica sempre escondidinho.
+\ff[introJuniper]Juniper: The one carrying the Duskull mask is a bit shy. It's always hiding himself.
 \ff[introJuniper]Ele também parece ser mais defensivo, e também é do tipo sombrio.
-\ff[introJuniper]Ele também parece ser mais defensivo, e também é do tipo sombrio.
+\ff[introJuniper]It also seems to be more defensive and is a dark-type.
 \ff[introBenitex]\bNathan: Certo, já tomei minha decisão.
-\ff[introBenitex]\bNathan: Certo, já tomei minha decisão.
+\ff[introBenitex]\bNathan: Okay, I've made my decision.
 \ff[introJuniper]Juniper: Perfeito, pode escolher então.
-\ff[introJuniper]Juniper: Perfeito, pode escolher então.
+\ff[introJuniper]Juniper: Perfect, you may choose one.
 \ff[introJuniper]Juniper: Interessante decisão.
-\ff[introJuniper]Juniper: Interessante decisão.
+\ff[introJuniper]Juniper: Interesting decision.
 \ff[introJuniper]Você pode treinar esse yamask da mesma forma que vinha treinando seu charmander. Depois de um tempo, venha e me conte as novidades.
-\ff[introJuniper]Você pode treinar esse yamask da mesma forma que vinha treinando seu charmander. Depois de um tempo, venha e me conte as novidades.
+\ff[introJuniper]You can raise this Yamask the same way you've been raising your Charmander. After a while, come back and tell me how it's going.
 \ff[introJuniper]Juniper: Ah sim, antes que me esqueça.
-\ff[introJuniper]Juniper: Ah sim, antes que me esqueça.
+\ff[introJuniper]Juniper: Oh yes, before I forget.
 \ff[introJuniper]Pegue algumas balas, seus pokemon devem adorar!
-\ff[introJuniper]Pegue algumas balas, seus pokemon devem adorar!
+\ff[introJuniper]Take some candy, your Pokémon will love it!
 \ff[introJuniper]Juniper: Volte sempre, Nathan!
-\ff[introJuniper]Juniper: Volte sempre, Nathan!
+\ff[introJuniper]Juniper: Come back anytime, Nathan!
 \ff[introJuniper]Juniper: Você está indo muito bem, em breve Unova voltará à paz!
-\ff[introJuniper]Juniper: Você está indo muito bem, em breve Unova voltará à paz!
+\ff[introJuniper]Juniper: You're doing great, soon Unova will return to peace!
 \ff[introBenitex]\bNathan: Se Arceus quiser.
-\ff[introBenitex]\bNathan: Se Arceus quiser.
+\ff[introBenitex]\bNathan: Arceus willing.
 \ff[introJuniper]Juniper: Nathan! É ótimo te rever, você chegou no momento perfeito!
-\ff[introJuniper]Juniper: Nathan! É ótimo te rever, você chegou no momento perfeito!
+\ff[introJuniper]Juniper: Nathan! It's great to see you again, you arrived at the perfect moment!
 \ff[introBenitex]\bNathan: Ótimo! Por quê?
-\ff[introBenitex]\bNathan: Ótimo! Por quê?
+\ff[introBenitex]\bNathan: Great! Why?
 \l[3]\ff[introJuniper]Juniper: Acabei de desenvolver uma tecnologia que possibilita que você acesse seus pokemon em qualquer lugar!
-\l[3]\ff[introJuniper]Juniper: Acabei de desenvolver uma tecnologia que possibilita que você acesse seus pokemon em qualquer lugar!
+\l[3]\ff[introJuniper]Juniper: I just developed a device that allows you to access your boxes anywhere!
 \ff[introBenitex]\bNathan: Parece ótimo.
-\ff[introBenitex]\bNathan: Parece ótimo.
+\ff[introBenitex]\bNathan: Nice!
 \ff[introJuniper]Juniper: Realmente, tenho certeza que vai te ajudar.
-\ff[introJuniper]Juniper: Realmente, tenho certeza que vai te ajudar.
+\ff[introJuniper]Juniper: I'm sure it will help you a lot.
 \ff[introJuniper]Aqui, pegue, pegue.
-\ff[introJuniper]Aqui, pegue, pegue.
+\ff[introJuniper]Here, take it, take it.
 \ff[introBenitex]\bNathan: Muito obrigado.
-\ff[introBenitex]\bNathan: Muito obrigado.
+\ff[introBenitex]\bNathan: Thank you very much.
 \ff[introBenitex]\bEu também tenho boas notícias.
-\ff[introBenitex]\bEu também tenho boas notícias.
+\ff[introBenitex]\bI also have good news.
 \ff[introBenitex]\bOs motoqueiros finalmente saíram da Rota 4. Eu invadi e expulsei eles de lá.
-\ff[introBenitex]\bOs motoqueiros finalmente saíram da Rota 4. Eu invadi e expulsei eles de lá.
+\ff[introBenitex]\bThe bikers finally left Route 4. I stormed in and kicked them out.
 \ff[introJuniper]Juniper: Nossa, mas você está bem?
-\ff[introJuniper]Juniper: Nossa, mas você está bem?
+\ff[introJuniper]Juniper: Wow, are you okay?
 \l[3]\ff[introBenitex]\bNathan: Sim, deu tudo certo. Participei de uma reunião discutindo sobre essa situação a pouco tempo.
-\l[3]\ff[introBenitex]\bNathan: Sim, deu tudo certo.  Participei de uma reunião discutindo sobre essa situação a pouco tempo.
+\l[3]\ff[introBenitex]\bNathan: Yes, everything went well. I attended a meeting discussing this situation a little while ago.
 \l[3]\ff[introBenitex]\bNathan: Sim, deu tudo certo. Agora só preciso conversar com o professor e com os policiais.
-\l[3]\ff[introBenitex]\bNathan: Sim, deu tudo certo.  Agora só preciso conversar com o professor e com os policiais.
+\l[3]\ff[introBenitex]\bNathan: Yes, everything went well. Now I just need to tell about it to the police and professor Oak.
 \l[3]\ff[introBenitex]\bSinto que estou cada vez mais próximo de descobrir a origem do Volcarona e dos outros pokémon com essas outras formas.
-\l[3]\ff[introBenitex]\bSinto que estou cada vez mais próximo de descobrir a origem do Volcarona e dos outros pokémon com essas outras formas.
+\l[3]\ff[introBenitex]\bI feel like I'm getting closer to discovering the origin of Volcarona and these other Pokémon.
 \l[3]\ff[introBenitex]\bInclusive, até encontrei uma meloetta que foi sequestrada pelos motoqueiros. Ela vai me ajudar a partir de agora.
-\l[3]\ff[introBenitex]\bInclusive, até encontrei uma meloetta que foi sequestrada pelos motoqueiros. Ela vai me ajudar a partir de agora.
+\l[3]\ff[introBenitex]\bI even found a Meloetta that was kidnapped by the Bikers. She's going to help me from now on.
 \ff[introJuniper]Juniper: Isso é incrível Nathan!
-\ff[introJuniper]Juniper: Isso é incrível Nathan!
+\ff[introJuniper]Juniper: That's amazing, Nathan!
 \ff[introJuniper]Mal posso esperar para ver seu progresso nessa missão.
-\ff[introJuniper]Mal posso esperar para ver seu progresso nessa missão.
+\ff[introJuniper]I can't wait to see more of your progress on this mission.
 \ff[introJuniper]Juniper: Quantos desses pokemon será que ainda vão aparecer por aí?
-\ff[introJuniper]Juniper: Quantos desses pokemon será que ainda vão aparecer por aí?
+\ff[introJuniper]Juniper: How many more of these Pokémon are going to show up?
 \ff[introJuniper]Juniper: Olá Nathan, como vai?
-\ff[introJuniper]Juniper: Olá Nathan, como vai?
+\ff[introJuniper]Juniper: Hello Nathan, how are you?
 \ff[introBenitex]\bNathan: Acabei de voltar do Desert Resort, não encontrei esse Volcarona, mas consegui algumas pistas.
-\ff[introBenitex]\bNathan: Acabei de voltar do Desert Resort, não encontrei esse Volcarona, mas consegui algumas pistas.
+\ff[introBenitex]\bNathan: I just got back from Desert Resort. I didn't find that Volcarona, but I did get some clues.
 \ff[introJuniper]Juniper: Ótimo! Não temos o objetivo final, mas estamos caminhando para ele, é o que importa.
-\ff[introJuniper]Juniper: Ótimo! Não temos o objetivo final, mas estamos caminhando para ele, é o que importa.
+\ff[introJuniper]Juniper: Great! We we're getting closer to the final goal.
 \ff[introJuniper]\l[3]Além disso, enquanto você faz esse trabalho de campo, o professor Carvalho e eu podemos continuar nossas pesquisas.
-\ff[introJuniper]\l[3]Além disso, enquanto você faz esse trabalho de campo, o professor Carvalho e eu podemos continuar nossas pesquisas.
+\ff[introJuniper]\l[3]Alos, while you're doing this fieldwork, Professor Oak and I can continue our research.
 \l[3]\ff[introJuniper]Juniper: Desenvolvi um dispositivo que pode ser bem útil pra você há um tempinho atrás, mas ainda não tive a oportunidade de entregar.
-\l[3]\ff[introJuniper]Juniper: Desenvolvi um dispositivo que pode ser bem útil pra você há um tempinho atrás, mas ainda não tive a oportunidade de entregar.
+\l[3]\ff[introJuniper]Juniper: I developed a device that could be very useful to you a while ago, but I haven't had the opportunity to deliver it to you yet.
 \ff[introJuniper]Esse dispositivo possibilita que você acesse os pokemon da sua box em qualquer lugar!
-\ff[introJuniper]Esse dispositivo possibilita que você acesse os pokemon da sua box em qualquer lugar!
+\ff[introJuniper]This device allows you to access the Pokémon in your boxes anywhere!
 \ff[introJuniper]Mas isso não é tudo.
-\ff[introJuniper]Mas isso não é tudo.
+\ff[introJuniper]But that's not all.
 \ff[introJuniper]Olha só, consegui outro pokemon especial!
-\ff[introJuniper]Olha só, consegui outro pokemon especial!
+\ff[introJuniper]Look, I got another special Pokémon!
 \ff[introJuniper]Ele parece um piplup, mas ao mesmo tempo é bastante diferente.
-\ff[introJuniper]Ele parece um piplup, mas ao mesmo tempo é bastante diferente.
+\ff[introJuniper]It looks a little like a Piplup, but it's very different at the same time.
 \ff[introJuniper]Juniper: Reserve uma atenção especial para ele, pode ser importante para futuras pesquisas.
-\ff[introJuniper]Juniper: Reserve uma atenção especial para ele, pode ser importante para futuras pesquisas.
+\ff[introJuniper]Juniper: Pay special attention to it, it may be important for future research.
 \ff[introBenitex]\bNathan: Certo, obrigado.
-\ff[introBenitex]\bNathan: Certo, obrigado.
+\ff[introBenitex]\bNathan: Sure, thank you.
 \ff[introJuniper]Juniper: Vá com cuidado!
-\ff[introJuniper]Juniper: Vá com cuidado!
+\ff[introJuniper]Juniper: Be careful!
 \ff[introJuniper]Juniper: Olá Nathan, alguma novidade?
-\ff[introJuniper]Juniper: Olá Nathan, alguma novidade?
+\ff[introJuniper]Juniper: Hello Nathan, any news?
 \ff[introJuniper]Bom, eu tenho!
-\ff[introJuniper]Bom, eu tenho!
+\ff[introJuniper]Well, I have some!
 \l[3]\ff[introJuniper]Desenvolvi um dispositivo que pode ser bem útil pra você há um tempinho atrás, mas ainda não tive a oportunidade de entregar.
-\l[3]\ff[introJuniper]Desenvolvi um dispositivo que pode ser bem útil pra você há um tempinho atrás, mas ainda não tive a oportunidade de entregar.
+\l[3]\ff[introJuniper]I developed a device that could be very useful to you a while ago, but I haven't had the opportunity to deliver it to you yet.
 \ff[introJuniper]Olha só, consegui outro pokemon super especial!
-\ff[introJuniper]Olha só, consegui outro pokemon super especial!
+\ff[introJuniper]Hey, look, I found another super special Pokémon!
 \l[3]\ff[introBenitex]\bNathan: Preciso falar com você sobre uma coisa. Encontrei os membros da Team Plasma enquanto explorava os Esgotos de Castelia.
-\l[3]\ff[introBenitex]\bNathan: Preciso falar com você sobre uma coisa. Encontrei os membros da Team Plasma enquanto explorava os Esgotos de Castelia.
+\l[3]\ff[introBenitex]\bNathan: I need to talk to you about something. I ran into some Team Plasma members while exploring the Sewers.
 \l[3]\ff[introBenitex]\bMais específicamente, encontrei a Shadow Triad e eles me falaram algo como se esses pokemon fizessem parte do plano deles.
-\l[3]\ff[introBenitex]\bMais específicamente, encontrei a Shadow Triad e eles me falaram algo como se esses pokemon fizessem parte do plano deles.
+\l[3]\ff[introBenitex]\bMore specifically, I ran into the Shadow Triad. They said something about these Pokémon being part of their plan.
 \ff[introJuniper]Juniper: Entendo.
-\ff[introJuniper]Juniper: Entendo.
+\ff[introJuniper]Juniper: I see.
 \l[3]\ff[introJuniper]Desde a última vez que estive com você, passei um tempo conversando com o professor Carvalho sobre essa situação.
-\l[3]\ff[introJuniper]Desde a última vez que estive com você, passei um tempo conversando com o professor Carvalho sobre essa situação.
+\l[3]\ff[introJuniper]Since the last time I saw you, I've spent some time talking to Professor Oak about this situation.
 \l[3]\ff[introJuniper]Definitivamente, o começo dessas aparições de pokemon está relacionada com o portal que foi aberto pelos Motoqueiros na Rota 4.
-\l[3]\ff[introJuniper]Definitivamente, o começo dessas aparições de pokemon está relacionada com o portal que foi aberto pelos Motoqueiros na Rota 4.
+\l[3]\ff[introJuniper]These Pokémon are definitely related to the portal that was opened by the Bikers on Route 4.
 \ff[introJuniper]Acredito que esses Pokemon vem de algum lugar muito distante, talvez até outra dimensão.
-\ff[introJuniper]Acredito que esses Pokemon vem de algum lugar muito distante, talvez até outra dimensão.
+\ff[introJuniper]I believe these Pokémon come from somewhere very far away, perhaps even another dimension.
 \l[3]\ff[introJuniper]É um lugar chamado Pandemônio, pelo que parece. Não sabemos muito mais sobre isso, mas essa Volcarona também deve ser de lá.
-\l[3]\ff[introJuniper]É um lugar chamado Pandemônio, pelo que parece. Não sabemos muito mais sobre isso, mas essa Volcarona também deve ser de lá.
+\l[3]\ff[introJuniper]It's a place called Pandemonium, from what we researched. We don't know much else about it, but this Volcarona must be from there too.
 \ff[introJuniper]Juniper: Hum, isso parece... Perigoso.
-\ff[introJuniper]Juniper: Hum, isso parece... Perigoso.
+\ff[introJuniper]Juniper: That sounds... dangerous.
 \ff[introJuniper]Pra ser sincera, eu não descobri mais muito sobre eles desde que nos falamos pela última vez.
-\ff[introJuniper]Pra ser sincera, eu não descobri mais muito sobre eles desde que nos falamos pela última vez.
+\ff[introJuniper]To be honest, I haven't found out much more about them since we last spoke.
 \ff[introJuniper]É triste dizer isso, mas acho que talvez seja melhor deixar eles guardados por um tempo.
-\ff[introJuniper]É triste dizer isso, mas acho que talvez seja melhor deixar eles guardados por um tempo.
+\ff[introJuniper]It's hard to say, but I think we should keep these Pokémon stored away in the Pokémon Center for a while.
 \ff[introJuniper]Nós sabemos muito pouco, e pode ser que eles acabem se tornando um problema pra gente.
-\ff[introJuniper]Nós sabemos muito pouco, e pode ser que eles acabem se tornando um problema pra gente.
+\ff[introJuniper]We know very little about them, and they could end up becoming a problem for us.
 \ff[introBenitex]\bNathan: Hum, é verdade. Não posso arriscar continuar usando eles, se isso for acabar ajudando a Team Plasma.
-\ff[introBenitex]\bNathan: Hum, é verdade. Não posso arriscar continuar usando eles, se isso for acabar ajudando a Team Plasma.
+\ff[introBenitex]\bNathan: You're right. I can't risk using them if it ends up helping Team Plasma.
 \ff[introJuniper]Juniper: Fico feliz que você entenda.
-\ff[introJuniper]Juniper: Fico feliz que você entenda.
+\ff[introJuniper]Juniper: I'm glad you understand.
 \ff[introBenitex]\bNathan: Mas eles são super fortes, preciso deles pra enfrentar a Team Plasma.
-\ff[introBenitex]\bNathan: Mas eles são super fortes, preciso deles pra enfrentar a Team Plasma.
+\ff[introBenitex]\bNathan: But they're super strong, I need them to take on Team Plasma.
 \ff[introJuniper]Juniper: Tem certeza? Você já fez grandes coisas por conta própria. Todos sabemos disso.
-\ff[introJuniper]Juniper: Tem certeza? Você já fez grandes coisas por conta própria. Todos sabemos disso.
+\ff[introJuniper]Juniper: Are you sure? You've already done great things on your own. We all know that.
 \ff[introJuniper]Além do mais, se isso for ajudar a Team Plasma, o poder deles vai acabar sendo uma faca de dois gumes.
-\ff[introJuniper]Além do mais, se isso for ajudar a Team Plasma, o poder deles vai acabar sendo uma faca de dois gumes.
+\ff[introJuniper]Besides, if this helps Team Plasma, their power will end up being a double-edged sword.
 \ff[introBenitex]\bNathan: Mas eles são meus companheiros, já criei um carinho especial por eles.
-\ff[introBenitex]\bNathan: Mas eles são meus companheiros, já criei um carinho especial por eles.
+\ff[introBenitex]\bNathan: But they are my companions, and I have a special affection for them.
 \ff[introJuniper]Juniper: Fico feliz em ouvir isso.
-\ff[introJuniper]Juniper: Fico feliz em ouvir isso.
+\ff[introJuniper]Juniper: I am glad to hear that.
 \ff[introJuniper]Mas pense bem. Talvez seja melhor dar um tempo para eles e voltar quando a situação estiver resolvida.
-\ff[introJuniper]Mas pense bem. Talvez seja melhor dar um tempo para eles e voltar quando a situação estiver resolvida.
+\ff[introJuniper]But think about it. Maybe it would be better to give it some time and get them back when the situation has been resolved.
 \ff[introJuniper]Mas não vou pedir pra você me devolver eles nem nada assim, acredito que você vá tomar a decisão correta.
-\ff[introJuniper]Mas não vou pedir pra você me devolver eles nem nada assim, acredito que você vá tomar a decisão correta.
+\ff[introJuniper]But I'm not going to take them back or anything like that. I believe you will make the right decision.
 \ff[introBenitex]\bNathan: Certo, obrigado pela confiança.
-\ff[introBenitex]\bNathan: Certo, obrigado pela confiança.
+\ff[introBenitex]\bNathan: Okay, thank you for your trust.
 \ff[introJuniper]Juniper: Você está perto de descobrir as respostas Nathan, tome cuidado.
-\ff[introJuniper]Juniper: Você está perto de descobrir as respostas Nathan, tome cuidado.
+\ff[introJuniper]Juniper: You're close to finding the answers, Nathan. Be careful.
 \ff[introJuniper]Juniper: Nathan!
 \ff[introJuniper]Juniper: Nathan!
 \ff[introJuniper]Obrigado por passar aqui! E aí? O que pretende fazer agora?
-\ff[introJuniper]Obrigado por passar aqui! E aí? O que pretende fazer agora?
-\ff[introBenitex]\bNathan: Acho que vou voltar para Kanto, encontrar meu irmão.Vou ajudar ele a começar sua aventura!
-\ff[introBenitex]\bNathan: Acho que vou voltar para Kanto, encontrar meu irmão.Vou ajudar ele a começar sua aventura!
+\ff[introJuniper]Thanks for stopping by! So, what are you up to now?
+\ff[introBenitex]\bNathan: Acho que vou voltar para Kanto, encontrar meu irmão. Vou ajudar ele a começar sua aventura!
+\ff[introBenitex]\bNathan: I think I'll go back to Kanto and meet my brother. I'm going to help him start his adventure!
 \ff[introJuniper]Juniper: Que ótimo! Você vai poder rever o professor também.
-\ff[introJuniper]Juniper: Que ótimo! Você vai poder rever o professor também.
+\ff[introJuniper]Juniper: That's great! You'll get to see the professor again, too.
 \ff[introBenitex]\bNathan: Ele foi para Kanto?
-\ff[introBenitex]\bNathan: Ele foi para Kanto?
+\ff[introBenitex]\bNathan: Did he go to Kanto already?
 \ff[introJuniper]Juniper: Sim, nesse ponto ele já deve estar chegando em Pallet.
-\ff[introJuniper]Juniper: Sim, nesse ponto ele já deve estar chegando em Pallet.
+\ff[introJuniper]Juniper: Yes, he should be arriving in Pallet by now.
 \ff[introJuniper]É difícil acreditar que ele veio até Unova para passar um tempinho e conhecer as formas do Pandemônio.
-\ff[introJuniper]É difícil acreditar que ele veio até Unova para passar um tempinho e conhecer as formas do Pandemônio.
+\ff[introJuniper]It's hard to believe he came all the way to Unova to spend some time and learn about the Pandemonium forms.
 \ff[introBenitex]\bNathan: Mesmo assim, ele ficou aqui por todo esse tempo para ajudar a região.
-\ff[introBenitex]\bNathan: Mesmo assim, ele ficou aqui por todo esse tempo para ajudar a região.
+\ff[introBenitex]\bNathan: Even so, he stayed here all this time to help the region.
 \ff[introJuniper]Juniper: Ele é um nobre homem, assim como você!
-\ff[introJuniper]Juniper: Ele é um nobre homem, assim como você!
+\ff[introJuniper]Juniper: He's a noble man, just like you!
 \ff[introJuniper]Juniper: Foi ótimo rever você, mas eu também estou de saída. Vou voltar para meu laboratório principal.
-\ff[introJuniper]Juniper: Foi ótimo rever você, mas eu também estou de saída. Vou voltar para meu laboratório principal.
+\ff[introJuniper]Juniper: It was great to see you again, but I'm also leaving. I'm going back to my main laboratory.
 \ff[introJuniper]Boa sorte em Kanto!
-\ff[introJuniper]Boa sorte em Kanto!
+\ff[introJuniper]Good luck in Kanto!
 \ff[introBenitex]\bNathan: Te vejo por aí, boa sorte!
-\ff[introBenitex]\bNathan: Te vejo por aí, boa sorte!
+\ff[introBenitex]\bNathan: See you around, good luck!
 \ff[introBenitex]\bNathan: Que máquina estranha...
-\ff[introBenitex]\bNathan: Que máquina estranha...
+\ff[introBenitex]\bNathan: What a strange machine...
 \ff[introJuniper]Juniper: Prefiro que você não mexa nela Nathan, por favor.
-\ff[introJuniper]Juniper: Prefiro que você não mexa nela Nathan, por favor.
+\ff[introJuniper]Juniper: Don't touch it, Nathan. Please.
 \ff[introBenitex]\bNathan: (Vários registros de pokemon com formas alternativas.)
-\ff[introBenitex]\bNathan: (Vários registros de pokemon com formas alternativas.)
+\ff[introBenitex]\bNathan: (Several records of Pokémon with alternate forms.)
 \ff[introBenitex]\bNathan: Você é assistente da professora Juniper?
-\ff[introBenitex]\bNathan: Você é assistente da professora Juniper?
+\ff[introBenitex]\bNathan: Are you Professor Juniper's assistant?
 Sou mais como uma parceira de pesquisa. Eu e meu pai trabalhamos aqui no mesmo laboratório.
-Sou mais como uma parceira de pesquisa. Eu e meu pai trabalhamos aqui no mesmo laboratório.
+I'm more of a research partner. My father and I work here in the same lab.
 Nós estamos dando continuidade as pesquisas antigas da professora, enquanto ela pesquisa sobre esses novos pokemon.
-Nós estamos dando continuidade as pesquisas antigas da professora, enquanto ela pesquisa sobre esses novos pokemon.
+We're continuing the professor's old research while she researches these new Pokémon.
 Se puder, converse um pouco com meu pai. Ele adora conversar com vocês treinadores, lembra o passado dele.
-Se puder, converse um pouco com meu pai. Ele adora conversar com vocês treinadores, lembra o passado dele.
-\l[3]Desde que ele teve que de viajar, começou a ficar bem tristinho, pelo menos trabalhar como cientista tem aumentado um pouco o bem-estar dele.
-\l[3]Desde que ele teve que de viajar, começou a ficar bem tristinho, pelo menos trabalhar como cientista tem aumentado um pouco o bem-estar dele.
+If you can, talk to my father a little. He loves talking to trainers, it reminds him of his past.
+\l[3]Desde que ele parou de viajar, começou a ficar bem tristinho. Pelo menos trabalhar como cientista tem aumentado um pouco o bem-estar dele.
+\l[3]Ever since he stopped traveling, he's been feeling quite sad. He's happy when he's working here, though.
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: Sure.
 \ff[introBenitex]\bNathan: (É o caderno de anotações da professora.)
-\ff[introBenitex]\bNathan: (É o caderno de anotações da professora.)
+\ff[introBenitex]\bNathan: (It's the professor's notebook.)
 \ff[introBenitex]\bNathan: (Livros sobre pokemon de Unova.)
-\ff[introBenitex]\bNathan: (Livros sobre pokemon de Unova.)
-\ff[introBenitex]\bNathan: (Um quadro de um moço e sua filhinha observando uma paisagem)
-\ff[introBenitex]\bNathan: (Um quadro de um moço e sua filhinha observando uma paisagem)
+\ff[introBenitex]\bNathan: (Books about Unovan Pokémon.)
+\ff[introBenitex]\bNathan: (Um quadro de um moço e sua filhinha observando uma paisagem.)
+\ff[introBenitex]\bNathan: (A painting of a young man and his little daughter observing a landscape.)
 (Mentir)
-(Mentir)
+(Lie.)
 Dedurar o vendedor.
-Dedurar o vendedor.
+Snitch the seller.
 Rota 4.
-Rota 4.
+Route 4.
 Desert Resort.
 Desert Resort.
 Floresta de Pinwheel.
-Floresta de Pinwheel.
+Pinwheel Forest.
 Rota 10.
-Rota 10.
+Route 10.
 Mais ou menos...
-Mais ou menos...
+Kind of...
 Sim, comprei mesmo!
-Sim, comprei mesmo!
+Yes, I bought it!
 Spoink.
 Spoink.
 Spiritomb.
@@ -10736,111 +10738,109 @@ Spiritomb.
 Duskull.
 Duskull.
 Estou pronto.
-Estou pronto.
+I'm ready.
 Você está certa.
-Você está certa.
+You are right.
 Mas preciso do poder deles.
-Mas preciso do poder deles.
+I need their power.
 Eu criei um carinho por eles.
-
+I have a special affection for them.
 [Map56]
 \ff[introBenitex]\bNathan: Seu purloin está bem? Parece que ele se machucou recentemente...
-\ff[introBenitex]\bNathan: Seu purloin está bem?  Parece que ele se machucou recentemente...
+\ff[introBenitex]\bNathan: Is your Purrloin okay? It looks wounded...
 Sim, ele acabou ficando envenenado numa batalha. Agora ele tá bem, mas é sempre importante levar antidotos para evitar isso.
-Sim, ele acabou ficando envenenado numa batalha. Agora ele tá bem, mas é sempre importante levar antidotos para evitar isso.
+Yes, it got poisoned in a battle. It's fine now, but next time I'll bring antidotes to prevent this from happening.
 Já está quase na hora do início do torneio, abra a porta aqui ao lado quando quiser começar a assistir.
-Já está quase na hora do início do torneio, abra a porta aqui ao lado quando quiser começar a assistir.
+It's almost time for the tournament to start. Walk through the door when you're ready to watch the matches.
 Estou ansioso para o torneio, meu amigo Robert vai participar, estou torcendo para ele.
-Estou ansioso para o torneio, meu amigo Robert vai participar, estou torcendo para ele.
+I'm looking forward to watching the tournament. My friend Robert is participating, and I'm rooting for him.
 \ff[introBenitex]\bNathan: Ah, eu conheci ele, esse Krokodile dele parece bem forte.
-\ff[introBenitex]\bNathan: Ah, eu conheci ele, esse Krokodile dele parece bem forte.
+\ff[introBenitex]\bNathan: Oh, I met him. His Krokodile seems pretty strong.
 Realmente é, nunca consegui derrotar ele em uma batalha e esse Krokodile é o principal motivo.
-Realmente é, nunca consegui derrotar ele em uma batalha e esse Krokodile é o principal motivo.
+It really is. I've never been able to defeat him in battle, and that Krokodile is the main reason why.
 \ff[introBenitex]\bNathan: Como é esse seu amigo?
-\ff[introBenitex]\bNathan: Como é esse seu amigo?
+\ff[introBenitex]\bNathan: What is your friend like?
 Ah, ele é um treinador forte, você vai ver! Ele costuma andar sempre com seu Krokorok.
-Ah, ele é um treinador forte, você vai ver! Ele costuma andar sempre com seu Krokorok.
+He's a strong trainer, you'll see! He always walks around with his Krokorok.
 Oi, já falou conheceu meu irmão? Ele vende seus "produtos" no parque aqui da cidade, vale a pena dar uma conferida!
-Oi, já falou conheceu meu irmão? Ele vende seus "produtos" no parque aqui da cidade, vale a pena dar uma conferida!
+Hi, have you met my brother? He sells products in the park here in town, definitely worth checking out!
 \ff[introBenitex]\bNathan: Conheci sim, fiz bom uso dos produtos dele!
-\ff[introBenitex]\bNathan: Conheci sim, fiz bom uso dos produtos dele!
+\ff[introBenitex]\bNathan: Yeah, I use his products!
 Hahaha, mais um cliente satisfeito! A gente fica o ano todo caçando esses pokemon para vender nesse torneio, espero que você faça bom uso dele.
-Hahaha, mais um cliente satisfeito! A gente fica o ano todo caçando esses pokemon para vender nesse torneio, espero que você faça bom uso dele.
+Another satisfied customer! We spend the whole year hunting these Pokémon. I hope you make good use of it.
 \ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+\ff[introBenitex]\bNathan: You bet.
 Até mais, imagino que nós vamos nos encontrar novamente...
-Até mais, imagino que nós vamos nos encontrar novamente...
+See you later! We'll meet again, I'm sure....
 \ff[introBenitex]\bNathan: Mas, de que tipo de "produto" você tá falando?
-\ff[introBenitex]\bNathan: Mas, de que tipo de "produto" você tá falando?
+\ff[introBenitex]\bNathan: What kind of product are you talking about?
 Desses do tipo que você carrega no bolso! Dá uma passada lá depois, ele faz um bom preço.
-Desses do tipo que você carrega no bolso! Dá uma passada lá depois, ele faz um bom preço.
+The kind you carry in your pocket! Stop by later, he has a good price.
 \ff[introBenitex]\bNathan: Ah, beleza então...
-\ff[introBenitex]\bNathan: Ah, beleza então...
-Mas ele vai sair depois que acabar o torneio, então, se for para pegar os produtos, é melhor você passar lá antes que começe em.
-Mas ele vai sair depois que acabar o torneio, então, se for para pegar os produtos, é melhor você passar lá antes que começe em.
+\ff[introBenitex]\bNathan: Sure...
 \ff[introBenitex]\bNathan: Olá, tudo bem? Empolgada?
-\ff[introBenitex]\bNathan: Olá, tudo bem? Empolgada?
+\ff[introBenitex]\bNathan: Hello, how are you? Excited?
 Para falar a verdade, eu preferia assistir um musical, mas como estou sem nada para fazer, vim ver as batalhas mesmo.
-Para falar a verdade, eu preferia assistir um musical, mas como estou sem nada para fazer, vim ver as batalhas mesmo.
+To tell you the truth, I'd rather watch a musical, but since I have nothing else to do, I came to watch the battles anyway.
 \ff[introBenitex]\bNathan: Caramba, não esperava por algo assim, todos estão tão empolgados para esse torneio.
-\ff[introBenitex]\bNathan: Caramba, não esperava por algo assim, todos estão tão empolgados para esse torneio.
+\ff[introBenitex]\bNathan: Wow, I didn't expect this. Everyone is so excited about this tournament.
 É, talvez eu me anime com as batalhas...
-É, talvez eu me anime com as batalhas...
+Yeah, maybe I'll get excited too...
 Talvez eu me anime com as batalhas...
-Talvez eu me anime com as batalhas...
+Maybe I'll get excited about the battles...
 \ff[introBenitex]\bNathan: Olá! Tudo bem com você e seu purloin?
-\ff[introBenitex]\bNathan: Olá! Tudo bem com você e seu purloin?
-Menina: Sim, ele estava meio mal antes, mas eu cuidei dele.
-Menina: Sim, ele estava meio mal antes, mas eu cuidei dele.
+\ff[introBenitex]\bNathan: Hello! How are you?
+Sim, ele estava meio mal antes, mas eu cuidei dele.
+Good! My Purrloing was feeling a bit unwell earlier, but I looked after it.
 Agora estamos bem felizes e prontos para assistir as batalhas!
-Agora estamos bem felizes e prontos para assistir as batalhas!
+Now we're feeling great and ready to watch those battles!
 \ff[introBenitex]\bNathan: Que bom, espero que aproveitem.
-\ff[introBenitex]\bNathan: Que bom, espero que aproveitem.
+\ff[introBenitex]\bNathan: That's great, I hope you enjoy it.
 [Map57]
 \ff[introBenitex]\bNathan: Ninguém vendo, né?
-\ff[introBenitex]\bNathan: Ninguém vendo, né?
+\ff[introBenitex]\bNathan: No one's watching, right?
 \ff[introBenitex]\bNathan: Agora só tem lixo, muitas latas de cerveja. Devem ser dos motoqueiros.
-\ff[introBenitex]\bNathan: Agora só tem lixo, muitas latas de cerveja. Devem ser dos motoqueiros.
+\ff[introBenitex]\bNathan: Oh, just trash, lots of beer cans. Those damn Bikers...
 Bem vindo ao Desert Resort!
-Bem vindo ao Desert Resort!
+Welcome to the Desert Resort!
 De volta ao trabalho...
-De volta ao trabalho...
+Back to work...
 Opa, olha você aí! Obrigado por liberar a passagem dos motoqueiros, seja muito bem vindo ao Desert Resort.
-Opa, olha você aí! Obrigado por liberar a passagem dos motoqueiros, seja muito bem vindo ao Desert Resort.
+Hey, look who's here! Thank you for defeating those Bikers. Welcome to Desert Resort.
 \ff[introBenitex]\bNathan: O que tem pra fazer aí?
-\ff[introBenitex]\bNathan: O que tem pra fazer aí?
+\ff[introBenitex]\bNathan: What can I do here?
 Capturar uns pokemon, explorar algumas ruínas, esse tipo de coisa.
-Capturar uns pokemon, explorar algumas ruínas, esse tipo de coisa.
+Catch some Pokémon, explore some ruins, that kind of stuff.
 \l[3]Ah é, cuidado com aquele pokemon esquisito! Cansei de ver treinadores reclamando, até interditarem a rota completamente.
-\l[3]Ah é, cuidado com aquele pokemon esquisito!  Cansei de ver treinadores reclamando, até interditarem a rota completamente.
+\l[3]Oh, and watch out for that weird Pokémon! I got tired of seeing trainers complaining. That's when I could work, before those Bikers.
 Mas graças a você, vamos ver esse lugar enchendo de novo!
-Mas graças a você, vamos ver esse lugar enchendo de novo!
+But thanks to you, we'll see this place fill up again!
 Pode ir, não quero tomar mais do seu tempo.
-Pode ir, não quero tomar mais do seu tempo.
+Go on, I don't want to take up any more of your time.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thanks.
 \ff[introBenitex]\bNathan: Oi, fofinho, tudo bem?
-\ff[introBenitex]\bNathan: Oi, fofinho, tudo bem?
+\ff[introBenitex]\bNathan: Hi, little one, how are you?
 \ff[introBenitex]\bNathan: Quanta animação.
-\ff[introBenitex]\bNathan: Quanta animação.
+\ff[introBenitex]\bNathan: Oh, you're excited!
 \ff[introBenitex]\bNathan: Você quer vir comigo?
-\ff[introBenitex]\bNathan: Você quer vir comigo?
+\ff[introBenitex]\bNathan: Do you want to come with me?
 \ff[introBenitex]\bNathan: Que bom, você vai ser muito bem vindo.
-\ff[introBenitex]\bNathan: Que bom, você vai ser muito bem vindo.
+\ff[introBenitex]\bNathan: Great, you will be very welcome.
 Esse deserto tem pokemon em tudo quanto é canto, não aguento mais correr!
-Esse deserto tem pokemon em tudo quanto é canto, não aguento mais correr!
+There are lots of Pokémon in this desert, I can't run anymore!
 \ff[introBenitex]\bNathan: Você não tem repels?
-\ff[introBenitex]\bNathan: Você não tem repels?
+\ff[introBenitex]\bNathan: Don't you have Repels?
 Acabaram todos...
-Acabaram todos...
+They're all gone...
 \ff[introBenitex]\bNathan: Aqui, fica com esse aqui.
-\ff[introBenitex]\bNathan: Aqui, fica com esse aqui.
+\ff[introBenitex]\bNathan: Here, take this one.
 Sério? Incrível! Você é show moço.
-Sério? Incrível! Você é show moço.
+Really? Amazing! You're awesome, man.
 Dar um repel para o menino.
-Dar um repel para o menino.
+Give the boy a Repel.
 Sair.
-Sair.
+(Leave.)
 [Map58]
 Esse deve ser o último Zweilous! Olha a passagem para o Relic Castle ali!
 Esse deve ser o último Zweilous! Olha a passagem para o Relic Castle ali!
@@ -15852,8 +15852,8 @@ Narrow Street
 Gym Street
 Gym Street
 52
-Caverna Abismal
-Abysmal Cave
+Caverna Pequena
+Small Cave
 53
 Teatro Musical
 Musical Theater
