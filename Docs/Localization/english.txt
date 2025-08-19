@@ -10843,153 +10843,153 @@ Sair.
 (Leave.)
 [Map58]
 Esse deve ser o último Zweilous! Olha a passagem para o Relic Castle ali!
-Esse deve ser o último Zweilous! Olha a passagem para o Relic Castle ali!
+That must be the last Zweilous! The passage to Relic Castle is over there!
 \ff[introBenitex]\bNathan: Vamos!
-\ff[introBenitex]\bNathan: Vamos!
+\ff[introBenitex]\bNathan: Let's go!
 Ótimo, a gente conseguiu!
-Ótimo, a gente conseguiu!
+Great, we did it!
 Aqui em frente já é a passagem para o meio do Relic Castle. Obrigado por me ajudar a passar!
-Aqui em frente já é a passagem para o meio do Relic Castle. Obrigado por me ajudar a passar!
+Right in front of us is the passageway to the middle floors of Relic Castle. Thank you for helping me get through!
 \ff[introBenitex]\bNathan: Opa, não há de quê!
-\ff[introBenitex]\bNathan: Opa, não há de quê!
+\ff[introBenitex]\bNathan: Hey, you're welcome!
 \ff[introBenitex]\bEspera, ele não ia ficar aqui analisando os ossos?
-\ff[introBenitex]\bEspera, ele não ia ficar aqui analisando os ossos?
+\ff[introBenitex]\bWait a second, wasn't he going to stay here and analyze those bones?
 \ff[introBenitex]\bAcho melhor eu tentar lidar com esse Hydreigon também, antes que alguém saia ferido.
-\ff[introBenitex]\bAcho melhor eu tentar lidar com esse Hydreigon também, antes que alguém saia ferido.
+\ff[introBenitex]\bWell, I think I'd better try to deal with this Hydreigon, before someone gets hurt.
 \ff[introBenitex]\bDeve ter alguma passagem até ele no Relic Castle...
-\ff[introBenitex]\bDeve ter alguma passagem até ele no Relic Castle...
+\ff[introBenitex]\bThere must be some way to get to it through Relic Castle...
 \ff[introBenitex]\bNathan: O que você está fazendo aqui?
-\ff[introBenitex]\bNathan: O que você está fazendo aqui?
+\ff[introBenitex]\bNathan: What are you doing here?
 Que susto!
-Que susto!
+Don't scare me like that!
 Eu posso te perguntar a mesma coisa, como você acabou parando aqui?
-Eu posso te perguntar a mesma coisa, como você acabou parando aqui?
+I could ask you the same thing, how did you get here?
 \ff[introBenitex]\bNathan: Eu passei pelos Esgotos pra chegar até aqui.
-\ff[introBenitex]\bNathan: Eu passei pelos Esgotos pra chegar até aqui.
+\ff[introBenitex]\bNathan: I came through the sewers to get here.
 Certo.
-Certo.
+Sure...
 Vou ser justo e te contar o que estou fazendo.
-Vou ser justo e te contar o que estou fazendo.
+I'll be fair and tell you what I'm doing.
 \ff[introBenitex]\bNathan: Atravessei o Relic Castle até chegar aqui.
-\ff[introBenitex]\bNathan: Atravessei o Relic Castle até chegar aqui.
+\ff[introBenitex]\bNathan: I arrived through Relic Castle.
 Pelo Relic Castle? Não é possível, como você passou pelo Hydreigon?
-Pelo Relic Castle? Não é possível, como você passou pelo Hydreigon?
+Through Relic Castle? That's impossible. How did you get past that Hydreigon?
 \ff[introBenitex]\bNathan: Hydreigon... Sim, eu derrotei ele poucos minutos atrás.
-\ff[introBenitex]\bNathan: Hydreigon... Sim, eu derrotei ele poucos minutos atrás.
+\ff[introBenitex]\bNathan: Hydreigon... Yeah, I defeated it just a few minutes ago.
 \ff[introBenitex]\bNathan: (Esse com certeza foi um Hydreigon...)
-\ff[introBenitex]\bNathan: (Esse com certeza foi um Hydreigon...)
+\ff[introBenitex]\bNathan: (That was definitely a Hydreigon...)
 \ff[introBenitex]\bNathan: Que hydreigon?
-\ff[introBenitex]\bNathan: Que hydreigon?
+\ff[introBenitex]\bNathan: Hydreigon?
 Apesar das suas tendências questionáveis, vou te dizer a verdade sobre a minha parte.
-Apesar das suas tendências questionáveis, vou te dizer a verdade sobre a minha parte.
+Despite your questionable tendencies, I'll tell you the truth about my part.
 \ff[introBenitex]\bNathan: Eu... Cavei um buraco até chegar aqui.
-\ff[introBenitex]\bNathan: Eu... Cavei um buraco até chegar aqui.
+\ff[introBenitex]\bNathan: I... I dug a hole until I got here.
 Fez um buraco no meio de Castelia e deu a sorte de cavar no lugar certo? Não acredito em você.
-Fez um buraco no meio de Castelia e deu a sorte de cavar no lugar certo? Não acredito em você.
+You dug a hole in the middle of Castelia and were lucky enough to arrive here? Sorry, but I don't believe you.
 \ff[introBenitex]\bNathan: Bom... E você, o que está fazendo aqui?
-\ff[introBenitex]\bNathan: Bom... E você, o que está fazendo aqui?
+\ff[introBenitex]\bNathan: Well... And you, what are you doing here?
 \ff[introBenitex]\bNathan: Eu perguntei primeiro, quero ouvir sua resposta!
-\ff[introBenitex]\bNathan: Eu perguntei primeiro, quero ouvir sua resposta!
+\ff[introBenitex]\bNathan: I asked first. I want to hear your answer!
 Hum, que menino insolente. Tudo bem, vou te dizer a minha parte.
-Hum, que menino insolente. Tudo bem, vou te dizer a minha parte.
+Fine, I'll tell you my part.
 Eu faço parte do Clube de Hikers, vim até essa caverna para investigar esses resquícios aqui.
-Eu faço parte do Clube de Hikers, vim até essa caverna para investigar esses resquícios aqui.
+I'm part of the Hikers Club. I came to this cave to research these bone remains here.
 \l[3]Em uma das explorações, pelos esgotos, um dos Hikers encontrou esse lugar e esses ossos. Pouco tempo depois me pediram pra vir examinar.
-\l[3]Em uma das explorações, pelos esgotos, um dos Hikers encontrou esse lugar e esses ossos. Pouco tempo depois me pediram pra vir examinar.
+\l[3]During one of the explorations through the sewers, one of the Hikers found this place and these bones. Shortly after, I was asked to come and examine them.
 \ff[introBenitex]\bNathan: Legal. Acho que sua história faz sentido. Como está a investigação?
-\ff[introBenitex]\bNathan: Legal. Acho que sua história faz sentido. Como está a investigação?
+\ff[introBenitex]\bNathan: Cool. I think your story makes sense. How's the research going?
 Estou tendo problemas pra avançar. Não consigo seguir em frente porque-
-Estou tendo problemas pra avançar. Não consigo seguir em frente porque-
+I'm having trouble moving forward. I can't-
 Ufa, essa foi por pouco.
-Ufa, essa foi por pouco.
-Bom como eu estava dizendo, eu estou tendo problemas pra avançar. Essa caverna tá infestada de deinos!
-Bom como eu estava dizendo, eu estou tendo problemas pra avançar. Essa caverna tá infestada de deinos!
+Phew, that was close.
+Bom, como eu estava dizendo, eu estou tendo problemas pra avançar. Essa caverna tá infestada de deinos!
+Well, as I was saying, I'm having trouble moving forward. This cave is infested with Deinos!
 Tenho quase certeza que ouvi um hydreigon também.
-Tenho quase certeza que ouvi um hydreigon também.
+I'm pretty sure I heard a Hydreigon too.
 Esse é o tipo de pokemon que eu não consigo lidar por conta própria.
-Esse é o tipo de pokemon que eu não consigo lidar por conta própria.
+That's the the kind of Pokémon I can't handle on my own.
 \ff[introBenitex]\bNathan: Ah, pode deixar comigo, eu posso enfrentar eles e abrir o caminho pra você!
-\ff[introBenitex]\bNathan: Ah, pode deixar comigo, eu posso enfrentar eles e abrir o caminho pra você!
+\ff[introBenitex]\bNathan: Leave it to me, I can take them on and clear the way for you!
 Ótimo! Vamos juntos, posso te ajudar até a gente chegar no Relic Castle.
-Ótimo! Vamos juntos, posso te ajudar até a gente chegar no Relic Castle.
+Great! Let's go together, I can help you until we reach Relic Castle.
 \ff[introBenitex]\bNathan: Beleza.
-\ff[introBenitex]\bNathan: Beleza.
+\ff[introBenitex]\bNathan: Cool.
 \ff[introBenitex]\bNathan: É uma pena, boa sorte pra você.
-\ff[introBenitex]\bNathan: É uma pena, boa sorte pra você.
-\ff[introBenitex]\b(Espero não ter que enfrentar esses pokemon, mas não vejo outra alternativa de caminho.)
-\ff[introBenitex]\b(Espero não ter que enfrentar esses pokemon, mas não vejo outra alternativa de caminho.)
+\ff[introBenitex]\bNathan: That's too bad, good luck to you.
+\ff[introBenitex]\b(Espero não ter que enfrentar esses pokemon.)
+\ff[introBenitex]\b(I hope I don't have to face these Pokémon.)
 \ff[introBenitex]\bNathan: Mesmo ouvindo sua história, você ainda parece suspeito demais pra mim.
-\ff[introBenitex]\bNathan: Mesmo ouvindo sua história, você ainda parece suspeito demais pra mim.
+\ff[introBenitex]\bNathan: Even after hearing your story, you still seem too suspicious to me.
 Você acredita no que quiser, estou te contando a verdade.
-Você acredita no que quiser, estou te contando a verdade.
+Believe what you want, I'm telling you the truth.
 \ff[introBenitex]\bNathan: (É melhor eu sair daqui o quanto antes.)
-\ff[introBenitex]\bNathan: (É melhor eu sair daqui o quanto antes.)
+\ff[introBenitex]\bNathan: (I'd better get out of here as soon as possible.)
 \ff[introBenitex]\bNathan: Não vou deixar você continuar aqui, chega!
-\ff[introBenitex]\bNathan: Não vou deixar você continuar aqui, chega!
+\ff[introBenitex]\bNathan: I won't let you stay here, that's enough!
 É exatamente como eu estava te dizendo, eu também fui derrotado por esses deinos várias vezes!
-É exatamente como eu estava te dizendo, eu também fui derrotado por esses deinos várias vezes!
+It's exactly as I was telling you, I've also been defeated by those Deinos several times!
 \l[3]Tenho quase certeza que ouvi um hydreigon também. Esse é o tipo de pokemon que eu não consigo lidar por conta própria.
-\l[3]Tenho quase certeza que ouvi um hydreigon também. Esse é o tipo de pokemon que eu não consigo lidar por conta própria.
+\l[3]I'm pretty sure I heard a Hydreigon too. That's the the kind of Pokémon I can't handle on my own.
 \ff[introBenitex]\bNathan: Olha, talvez nossa primeira batalha não tenha dado tão certo, mas acho que posso ajudar.
-\ff[introBenitex]\bNathan: Olha, talvez nossa primeira batalha não tenha dado tão certo, mas acho que posso ajudar.
+\ff[introBenitex]\bNathan: Look, maybe our first battle didn't go so well, but I think I can help.
 Acho que a gente consegue se formos juntos, posso te ajudar até a gente chegar no Relic Castle.
-Acho que a gente consegue se formos juntos, posso te ajudar até a gente chegar no Relic Castle.
+It if we go together, we can help each other until we get to Relic Castle.
 \ff[introBenitex]\bNathan: (Ele parece concentrado enquanto analisa os ossos.)
-\ff[introBenitex]\bNathan: (Ele parece concentrado enquanto analisa os ossos.)
+\ff[introBenitex]\bNathan: (He looks focused as he examines the bones.)
 \ff[introBenitex]\bNathan: Restos de ossos... São antigos, mas parece que foram algum pokemon.
-\ff[introBenitex]\bNathan: Restos de ossos... São antigos, mas parece que foram algum pokemon.
+\ff[introBenitex]\bNathan: Bone remains... They're old, and they look like some kind of Pokémon.
 \ff[introBenitex]\bNathan: São ossos de sandacondas e persians. Foram agressivamente derrotados.
-\ff[introBenitex]\bNathan: São ossos de sandacondas e persians. Foram agressivamente derrotados.
+\ff[introBenitex]\bNathan: Bones of Sandacondas and Persians. They were defeated violently.
 \ff[introBenitex]\bProvavelmente fruto de uma batalha com um pokemon extremamente violento.
-\ff[introBenitex]\bProvavelmente fruto de uma batalha com um pokemon extremamente violento.
+\ff[introBenitex]\bProbably the result of a battle with an extremely violent Pokémon.
 Só pode ter sido um hydreigon. Os sons confirmam minha hipótese.
-Só pode ter sido um hydreigon. Os sons confirmam minha hipótese.
+It could only have been a Hydreigon. Those sounds reinforce my hypothesis.
 \ff[introBenitex]\bNathan: Beleza, sem o Hydreigon, os outros treinadores devem poder passar sem problemas.
-\ff[introBenitex]\bNathan: Beleza, sem o Hydreigon, os outros treinadores devem poder passar sem problemas.
+\ff[introBenitex]\bNathan: Nice, removing this Hydreigon makes this place safe for trainers to get through.
 \ff[introBenitex]\bNathan: Mais ossos de pokemon, esses estão roídos e destroçados. Nem dá pra identificar qual era a espécie.
-\ff[introBenitex]\bNathan: Mais ossos de pokemon, esses estão roídos e destroçados. Nem dá pra identificar qual era a espécie.
+\ff[introBenitex]\bNathan: More Pokémon bones, these are gnawed and torn apart. It's impossible to identify what species they belonged to.
 \ff[introBenitex]\bNathan: (Alguém aqui?)
-\ff[introBenitex]\bNathan: (Alguém aqui?)
+\ff[introBenitex]\bNathan: (There's someone here? How?)
 Os deinos são fortes, mas você acha que vale a pena desistir? É melhor voltar pra casa?
-Os deinos são fortes, mas você acha que vale a pena desistir? É melhor voltar pra casa?
+Those Deinos are strong, do you think we should give up? Go back home?
 \ff[introBenitex]\bNathan: Sim, esses ossos não valem o esforço e preciso muito sair agora.
-\ff[introBenitex]\bNathan: Sim, esses ossos não valem o esforço e preciso muito sair agora.
+\ff[introBenitex]\bNathan: Yes, those bones aren't worth the effort. I really need to leave now.
 Hum, eu entendo, obrigado pela intenção, de todo modo.
-Hum, eu entendo, obrigado pela intenção, de todo modo.
+I understand, thanks for the thought, anyway.
 \ff[introBenitex]\bNathan: Ah, não, acho que isso é importante. Posso fazer o que estava pensando depois.
-\ff[introBenitex]\bNathan: Ah, não, acho que isso é importante. Posso fazer o que estava pensando depois.
+\ff[introBenitex]\bNathan: No, nevermind. I think this is more important.
 Olha, mais ossos logo ali na frente!
-Olha, mais ossos logo ali na frente!
+Look, more bones just up ahead!
 \ff[introBenitex]\bNathan: Esse barulho foi o Hydreigon?
-\ff[introBenitex]\bNathan: Esse barulho foi o Hydreigon?
+\ff[introBenitex]\bNathan: Was that noise the Hydreigon?
 Vim pelos esgotos.
-Vim pelos esgotos.
+I came through the sewers.
 Vim pelo Relic Castle.
-Vim pelo Relic Castle.
+I came through Relic Castle.
 Cavei um buraco.
-Cavei um buraco.
+I dug a hole.
 Me responda primeiro!
-Me responda primeiro!
+Answer me first!
 Sim, acabei com ele.
-Sim, acabei com ele.
+Yes, I defeated it.
 Hydreigon?
 Hydreigon?
 Faz sentido.
-Faz sentido.
+That makes sense.
 Não posso confiar em você.
-Não posso confiar em você.
+I can't trust you.
 Eu posso ajudar!
-Eu posso ajudar!
+I can help!
 É uma pena.
-É uma pena.
+That's too bad.
 (Sair.)
-(Sair.)
+(Leave.)
 (Enfrentar.)
-(Enfrentar.)
+(Battle.)
 Sim (desistir).
-Sim (desistir).
+Yes (give up).
 Não (continuar).
-Não (continuar).
+No (continue).
 [Map59]
 Me deixe em paz!
 Me deixe em paz!
