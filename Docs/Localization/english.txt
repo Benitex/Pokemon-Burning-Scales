@@ -10992,59 +10992,59 @@ Não (continuar).
 No (continue).
 [Map59]
 Me deixe em paz!
-Me deixe em paz!
+Leave me alone!
 \ff[introBenitex]\bNathan: (Acho melhor realmente deixar ele sozinho.)
-\ff[introBenitex]\bNathan: (Acho melhor realmente deixar ele sozinho.)
+\ff[introBenitex]\bNathan: (Yeah, I really should.)
 Não posso conversar ou ficar fazendo graças agora.
-Não posso conversar ou ficar fazendo graças agora.
+I can't chat or joke around right now.
 \l[3]Estou analisando cada passo dos meus companheiros. Assim, vou conhecer todos os movimentos e criar o plano perfeito.
-\l[3]Estou analisando cada passo dos meus companheiros. Assim, vou conhecer todos os movimentos e criar o plano perfeito.
+\l[3]I'm analyzing every move my teammates make. That way, I'll know all their strategies and create the perfect plan.
 O verdadeiro líder dos Palhaços...
-O verdadeiro líder dos Palhaços...
+The true Clown leader...
 \ff[introBenitex]\bNathan: (Assustador.)
-\ff[introBenitex]\bNathan: (Assustador.)
+\ff[introBenitex]\bNathan: (Creepy.)
 Aposto que você não imaginava que nosso clube seria assim quando você viu do lado de fora.
-Aposto que você não imaginava que nosso clube seria assim quando você viu do lado de fora.
+I bet you didn't imagine our club would be like this when you saw it from the outside.
 \ff[introBenitex]\bNathan: Definitivamente, achava que estava entrando em um prédio normal.
-\ff[introBenitex]\bNathan: Definitivamente, achava que estava entrando em um prédio normal.
+\ff[introBenitex]\bNathan: Yeah, I thought I was entering a normal building.
 Imagina só, um prédio executivo dos Palhaços! Olha só quem está me fazendo rir.
-Imagina só, um prédio executivo dos Palhaços! Olha só quem está me fazendo rir.
+Just imagine, an executive building for Clowns! Look who's making me laugh.
 Eu fui o palhaço que planejou esse lugar, por isso, sou o líder!
-Eu fui o palhaço que planejou esse lugar, por isso, sou o líder!
+I was the clown who thought of using this place, so I'm the leader!
 Por favor, aproveite o show! E não se esqueça de votar nos Palhaços.
-Por favor, aproveite o show! E não se esqueça de votar nos Palhaços.
+Please enjoy the show! And don't forget to vote for the Clowns.
 Quando eu ganhar a eleição, vou transformar Castelia em uma cidade muito mais feliz.
-Quando eu ganhar a eleição, vou transformar Castelia em uma cidade muito mais feliz.
+When I win the election, I Castelia will become a much happier place.
 Todos vão andar sorrindo pelas ruas. Por bem ou por mal.
-Todos vão andar sorrindo pelas ruas. Por bem ou por mal.
+Everyone will walk around smiling in the streets. One way or another.
 \ff[introBenitex]\bNathan: Por bem ou por mal?
-\ff[introBenitex]\bNathan: Por bem ou por mal?
+\ff[introBenitex]\bNathan: One way or another?
 Sim, é comprovado cientificamente que sorrir deixa as pessoas felizes.
-Sim, é comprovado cientificamente que sorrir deixa as pessoas felizes.
+Yes. It is scientifically proven that smiling makes people happy.
 Então, por mais que algumas pessoas evitem a todo custo, isso vai ser o melhor para elas.
-Então, por mais que algumas pessoas evitem a todo custo, isso vai ser o melhor para elas.
+So, even if some people avoid it, they will do so.
 \ff[introBenitex]\bNathan: Certo...
-\ff[introBenitex]\bNathan: Certo...
+\ff[introBenitex]\bNathan: Sure...
 Vamos, vamos, vamos!
-Vamos, vamos, vamos!
+Come on, come on, come on!
 Vamos, rapaz, pule também!
-Vamos, rapaz, pule também!
+Come on, boy, jump too!
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 Muito bem, como líder, te declaro contratado!
-Muito bem, como líder, te declaro contratado!
+Very good. As the leader, I hereby declare you hired!
 \ff[introBenitex]\bNathan: Muito obrigado, vai ser uma honra trazer o sorriso para cara de tantas pessoas!
-\ff[introBenitex]\bNathan: Muito obrigado, vai ser uma honra trazer o sorriso para cara de tantas pessoas!
+\ff[introBenitex]\bNathan: Thank you very much, it will be an honor to bring smiles to so many people's faces!
 \ff[introBenitex]\bNathan: Espera, eu nem quero ser palhaço!
-\ff[introBenitex]\bNathan: Espera, eu nem quero ser palhaço!
+\ff[introBenitex]\bNathan: Wait, I don't even want to be a clown!
 Claro, claro. Aqui é o palco, ali atrás é a sala de descanso. Aproveite!
-Claro, claro. Aqui é o palco, ali atrás é a sala de descanso. Aproveite!
+Sure, sure. This is the stage, back there is the break room. Enjoy your new job!
 Sabia que você seria um bom palhaço.
-Sabia que você seria um bom palhaço.
+I knew you'd make a good clown.
 Muito obrigado!
-Muito obrigado!
+Thank you!
 Mas eu nem quero trabalhar
-Mas eu nem quero trabalhar
+But I don't want to work here.
 [Map60]
 \ff[introBenitex]\bNathan: É uma estante cheia de livros.
 \ff[introBenitex]\bNathan: É uma estante cheia de livros.
@@ -11252,102 +11252,102 @@ Claro que não.
 Claro que não.
 [Map61]
 \ff[introBenitex]\bNathan: (É só uma caneca de cerveja.)
-\ff[introBenitex]\bNathan: (É só uma caneca de cerveja.)
+\ff[introBenitex]\bNathan: (It's just a mug of beer.)
 Imagino que você não esteja aqui para uma noite de festa.
-Imagino que você não esteja aqui para uma noite de festa.
+I imagine you're not here for a night of partying.
 \ff[introBenitex]\bNathan: (Um livro de literatura.)
-\ff[introBenitex]\bNathan: (Um livro de literatura.)
+\ff[introBenitex]\bNathan: (A literature book.)
 Eu estou aqui em. Lado errado.
-Eu estou aqui em. Lado errado.
+I'm right here. That's the wrong direction.
 É um prazer te conhecer, senhor...?
-É um prazer te conhecer, senhor...?
+It's a pleasure to meet you, Mr...?
 \ff[introBenitex]\bNathan: Nathan.
 \ff[introBenitex]\bNathan: Nathan.
 Claro, senhor Nathan. Sabia que já tinha ouvido falar.
-Claro, senhor Nathan. Sabia que já tinha ouvido falar.
+Of course, Mr. Nathan. I knew I had heard of you before.
 Bom, foi você quem veio me visitar. Diga então, por que está aqui?
-Bom, foi você quem veio me visitar. Diga então, por que está aqui?
+Well, thank you for visiting me. What do you wish?
 \ff[introBenitex]\bNathan: Me diga você, por que invadiram a Rota 4?
-\ff[introBenitex]\bNathan: Me diga você, por que invadiram a Rota 4?
+\ff[introBenitex]\bNathan: Tell me, why did you invade Route 4?
 É uma pergunta complexa. Deixe-me pensar o que posso dizer...
-É uma pergunta complexa. Deixe-me pensar o que posso dizer...
+That's a complex question. Let me think about what I can say...
 \l[3]Estamos aqui a trabalho. Queriamos dinheiro, um pessoal ofereceu para nós. Ficamos aqui por um tempo por causa de um pokemon, mas gostamos do lugar e resolvemos nos mudar.
-\l[3]Estamos aqui a trabalho. Queriamos dinheiro, um pessoal ofereceu para nós. Ficamos aqui por um tempo por causa de um pokemon, mas gostamos do lugar e resolvemos nos mudar.
+\l[3]We're here for work. We need money, and someone offered it to us. We stayed here for a while because of a Pokémon, but we liked the place and decided to move here.
 Isso resume muito bem a longa história.
-Isso resume muito bem a longa história.
+That pretty much sums up the long story.
 \ff[introBenitex]\bNathan: Então vocês realmente são a causa do problema do volcarona?
-\ff[introBenitex]\bNathan: Então vocês realmente são a causa do problema do volcarona?
+\ff[introBenitex]\bNathan: So you guys are really the cause of the Volcarona problem?
 Ah, não era esse o pokémon que me referia.
-Ah, não era esse o pokémon que me referia.
+Oh no, that's not the Pokémon I was referring to.
 Está vendo aquela porta?
-Está vendo aquela porta?
+See that door over there?
 O pokémon ainda está lá. Não é um volcarona, mas devo dizer que eles certamente estão relacionados.
-O pokémon ainda está lá. Não é um volcarona, mas devo dizer que eles certamente estão relacionados.
+The Pokémon is still there. It's not a Volcarona, but I must say they are both very interesting.
 Bom, muito em breve você vai entender bem melhor todo o mundo ao seu redor. Todos esses mistérios, tudo isso.
-Bom, muito em breve você vai entender bem melhor todo o mundo ao seu redor. Todos esses mistérios, tudo isso.
+Well, very soon you will understand the world around you much better. All these mysteries, all of it.
 Por enquanto, é hora de resolver nosso problema, certo?
-Por enquanto, é hora de resolver nosso problema, certo?
+For now, it's time to solve our problem, shall we?
 \l[3]\ff[introBenitex]\bNathan: Você e seus motoqueiros vão sair da Rota 4. Os policiais já estão aqui, já derrotei todos os seus cúmplices.
-\l[3]\ff[introBenitex]\bNathan: Você e seus motoqueiros vão sair da Rota 4. Os policiais já estão aqui, já derrotei todos os seus cúmplices.
+\l[3]\ff[introBenitex]\bNathan: You and your bikers are going to leave Route 4. The police are already here. I've already defeated all your accomplices.
 Já estava com saudades de uma boa batalha, vamos lá!
-Já estava com saudades de uma boa batalha, vamos lá!
+I 've been missing a good fight, let's go!
 Uma vitória, realmente.
-Uma vitória, realmente.
+A victory indeed.
 Realmente, você venceu.
-Realmente, você venceu.
+Indeed, you won.
 Mas agora é tarde.
-Mas agora é tarde.
+But now it's too late.
 Nós já fizemos nossa parte do acordo, você está atrasado. O resto é lucro.
-Nós já fizemos nossa parte do acordo, você está atrasado.  O resto é lucro.
+We've already done our part of the deal, you're late. The rest is profit.
 Não pense que saiu na frente, porque você só está perdendo. Você só conhece a ponta do iceberg, camarada.
-Não pense que saiu na frente, porque você só está perdendo. Você só conhece a ponta do iceberg, camarada.
+Don't think you're ahead. You're only losing. You only know the tip of the iceberg, buddy.
 Você lutou bem, por um momento pensei que poderia ser derrotado.
-Você lutou bem, por um momento pensei que poderia ser derrotado.
+You fought well, for a moment I thought  I might be defeated.
 De qualquer forma, o resultado dessa batalha não implica em nada. Já cumpri meu objetivo, estou pronto pra sair.
-De qualquer forma, o resultado dessa batalha não implica em nada. Já cumpri meu objetivo, estou pronto pra sair.
+Anyway, the outcome of this battle means nothing. I've accomplished my goal, I'm ready to leave.
 Infelizmente, você só conhece a ponta do iceberg, camarada.
-Infelizmente, você só conhece a ponta do iceberg, camarada.
+Unfortunately, you only know the tip of the iceberg, comrade.
 Mas, em breve, tudo será esclarecido.
-Mas, em breve, tudo será esclarecido.
+But soon, everything will be clarified.
 \ff[introBenitex]\bNathan: Droga.
-\ff[introBenitex]\bNathan: Droga.
+\ff[introBenitex]\bNathan: Damn.
 \ff[introBenitex]\bNathan: Um mapa de Castelia.
-\ff[introBenitex]\bNathan: Um mapa de Castelia.
+\ff[introBenitex]\bNathan: A Castelia map.
 Você está realmente perdido.
-Você está realmente perdido.
+So you really are lost.
 \ff[introBenitex]\bNathan: O lixo é fedido, tem todo tipo de coisa aí dentro.
-\ff[introBenitex]\bNathan: O lixo é fedido, tem todo tipo de coisa aí dentro.
+\ff[introBenitex]\bNathan: The trash stinks, there's all kinds of stuff in there.
 Você já está quase chegando em mim, acredito que uma hora me ache.
-Você já está quase chegando em mim, acredito que uma hora me ache.
+You are almost here, you'll find me. Eventually.
 Heh, parece que tenho visitas.
-Heh, parece que tenho visitas.
+Heh, looks like I have visitors.
 Eu sou o verdadeiro chefe dos motoqueiros. Aquele cara serve muito bem como meu disfarce.
-Eu sou o verdadeiro chefe dos motoqueiros. Aquele cara serve muito bem como meu disfarce.
+I am the real leader of the Bikers. That guy serves as a very good decoy.
 Parabéns por passar pelo impostor. Você tem direito de falar comigo, pode vir.
-Parabéns por passar pelo impostor. Você tem direito de falar comigo, pode vir.
+Congratulations on defeating the impostor. You have the right to speak with me, come on in.
 Você não veio até aqui a toa, né?
-Você não veio até aqui a toa, né?
+You didn't come all this way for nothing, did you?
 \ff[introBenitex]\bNathan: Cla- claro que não!
 \ff[introBenitex]\bNathan: Cla- claro que não!
 Heh.
 Heh.
 [Map62]
 \ff[introBenitex]\bNathan: Um mapa...
-\ff[introBenitex]\bNathan: Um mapa...
+\ff[introBenitex]\bNathan: A map...
 Mal educado!
-Mal educado!
+How rude!
 He!
 He!
 \ff[introBenitex]\bNathan: Será que eu deveria abrir essa caixa?
-\ff[introBenitex]\bNathan: Será que eu deveria abrir essa caixa?
+\ff[introBenitex]\bNathan: Should I open this box?
 \ff[introBenitex]\bNathan: Bizarro.
-\ff[introBenitex]\bNathan: Bizarro.
+\ff[introBenitex]\bNathan: I don't feel well...
 \ff[introBenitex]\bNathan: Não, deixa ela aí quietinha.
-\ff[introBenitex]\bNathan: Não, deixa ela aí quietinha.
+\ff[introBenitex]\bNathan: No... Let's leave it right there.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 [Map63]
 \ff[introBenitex]\bNathan: "Ideais eternos"
 \ff[introBenitex]\bNathan: "Ideais eternos"
