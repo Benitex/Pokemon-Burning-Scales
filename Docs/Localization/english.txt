@@ -11047,209 +11047,205 @@ Mas eu nem quero trabalhar
 But I don't want to work here.
 [Map60]
 \ff[introBenitex]\bNathan: É uma estante cheia de livros.
-\ff[introBenitex]\bNathan: É uma estante cheia de livros.
+\ff[introBenitex]\bNathan: A bookshelf filled with books.
 \ff[introBenitex]\bNão tenho tempo para ler isso agora, vou guardar e mostrar para o professor.
-\ff[introBenitex]\bNão tenho tempo para ler isso agora, vou guardar e mostrar para o professor.
+\ff[introBenitex]\bI don't have time to read this now, I'll take it and show it to the professor.
 \ff[introBenitex]\bNathan: (Essa máquina tem vários botões, qual devo apertar?)
-\ff[introBenitex]\bNathan: (Essa máquina tem vários botões, qual devo apertar?)
+\ff[introBenitex]\bNathan: (There are several buttons on this machine, which one should I press?)
 \ff[introBenitex]\bNathan: (Não devo arriscar ainda. É muito perigoso.)
-\ff[introBenitex]\bNathan: (Não devo arriscar ainda. É muito perigoso.)
+\ff[introBenitex]\bNathan: (I shouldn't risk it yet. It's too dangerous.)
 Eu não sei de nada, cheguei aqui a pouco tempo. Por favor, não me machuque!
-Eu não sei de nada, cheguei aqui a pouco tempo. Por favor, não me machuque!
+I don't know anything, I've only just arrived here. Please don't hurt me!
 Só me deixe em paz, por favor! Faça o que quiser!
-Só me deixe em paz, por favor! Faça o que quiser!
+Do whatever you want, just leave me alone, please!
 \ff[introBenitex]\bNathan: Me diga imediatamente. Como liberto a meloetta?
-\ff[introBenitex]\bNathan: Me diga imediatamente. Como liberto a meloetta?
+\ff[introBenitex]\bNathan: Then tell me immediately. How do I free Meloetta?
 Calma, calma, eu digo, só não faça nada comigo, ok?
-Calma, calma, eu digo, só não faça nada comigo, ok?
+Calm down, I'll tell you, just don't do anything to me, okay?
 \ff[introBenitex]\bNathan: Diga logo!
-\ff[introBenitex]\bNathan: Diga logo!
+\ff[introBenitex]\bNathan: Just say it!
 Você precisa apertar os botões certos das máquinas na ordem...
-Você precisa apertar os botões certos das máquinas na ordem...
+You need to press the right buttons on the machines in the right order...
 \ff[introBenitex]\bNathan: Qual é a ordem???
-\ff[introBenitex]\bNathan: Qual é a ordem???
+\ff[introBenitex]\bNathan: What is the right order???
 Não sei a ordem, eu só vinha aqui pra dar as ordens pra esses cientistas estúpidos, não sei nada sobre essa sala!
-Não sei a ordem, eu só vinha aqui pra dar as ordens pra esses cientistas estúpidos, não sei nada sobre essa sala!
+I don't know the order, I just came here to give orders to those stupid scientists. I don't know anything about this room!
 \ff[introBenitex]\bNathan: Então fique aí e não pense em fazer nada!
-\ff[introBenitex]\bNathan: Então fique aí e não pense em fazer nada!
-\ff[introBenitex]\bNathan: (Conversar com os cientistas é uma boa ideia agora.)
-\ff[introBenitex]\bNathan: (Conversar com os cientistas é uma boa ideia agora.)
+\ff[introBenitex]\bNathan: So stay there and don't do anything suspecious!
 Por favor, não me machuque, não estou aqui por que quero!
-Por favor, não me machuque, não estou aqui por que quero!
+Please don't hurt me, I'm not here because I want to be!
 \ff[introBenitex]\bNathan: Por que você está aqui então?
-\ff[introBenitex]\bNathan: Por que você está aqui então?
+\ff[introBenitex]\bNathan: Why are you here then?
 Fui sequestrada, agora preciso ficar aqui!
-Fui sequestrada, agora preciso ficar aqui!
+I was kidnapped, now I have to stay here!
 \ff[introBenitex]\bNathan: Venha comigo, posso te ajudar.
-\ff[introBenitex]\bNathan: Venha comigo, posso te ajudar.
+\ff[introBenitex]\bNathan: Come with me, I can help you.
 Não, não. Já me ameaçaram multiplas vezes, não posso sair, você sabe o que vai acontecer.
-Não, não. Já me ameaçaram multiplas vezes, não posso sair, você sabe o que vai acontecer.
-\ff[introBenitex]\bNathan: Que situação...
-\ff[introBenitex]\bNathan: Que situação...
+No. I've been threatened many times, I can't leave. You know what they'll do to me.
 \ff[introBenitex]\bNathan: Você não tem como se defender, me diga qual o botão que liberta a meloetta!
-\ff[introBenitex]\bNathan: Você não tem como se defender, me diga qual o botão que liberta a meloetta!
+\ff[introBenitex]\bNathan: You have no way of defending yourself, tell me which button releases Meloetta!
 Eu era responsável pela segunda máquina.
-Eu era responsável pela segunda máquina.
+I was in charge of the second machine.
 \ff[introBenitex]\bNathan: Qual é o botão?
-\ff[introBenitex]\bNathan: Qual é o botão?
+\ff[introBenitex]\bNathan: What's button should I pres?
 O botão... Era o primeiro, né?
-O botão... Era o primeiro, né?
+I think... It's the first, isn't it?
 \ff[introBenitex]\bNathan: Primeiro então.
-\ff[introBenitex]\bNathan: Primeiro então.
-Ou era o segundo? Não, acho que era o primeiro mesmo.
-Ou era o segundo? Não, acho que era o primeiro mesmo.
+\ff[introBenitex]\bNathan: So the first?
+Ou era o terceiro? Não, acho que era o primeiro mesmo.
+Wait, is it the third button? No, no, it's the first.
 Ah é, é a máquina com detalhes verdes e vermelhos. Ou era a com detalhes azuis?
-Ah é, é a máquina com detalhes verdes e vermelhos. Ou era a com detalhes azuis?
+It's the machine with the green and red details. Wait, is it the one with the blue details?
 \ff[introBenitex]\bNathan: Chega de perder tempo com você.
-\ff[introBenitex]\bNathan: Chega de perder tempo com você.
+\ff[introBenitex]\bNathan: That's enough.
 Você... é só mais um deles. Eu vi o que você me fez passar...
-Você... é só mais um deles. Eu vi o que você me fez passar...
+You... you're just another one of them. I saw what you put me through...
 \ff[introBenitex]\bNathan: (Ela está se comunicando telepáticamente comigo!)
-\ff[introBenitex]\bNathan: (Ela está se comunicando telepáticamente comigo!)
+\ff[introBenitex]\bNathan: (Melloeta is communicating with me telepathically!)
 \ff[introBenitex]\bNathan: Não, não, me desculpe!
-\ff[introBenitex]\bNathan: Não, não, me desculpe!
+\ff[introBenitex]\bNathan: No, I'm not. Sorry!
 \ff[introBenitex]\bEu estava tentando te salvar, só que acabei me confundindo nos botões, acabei apertando errado!
-\ff[introBenitex]\bEu estava tentando te salvar, só que acabei me confundindo nos botões, acabei apertando errado!
+\ff[introBenitex]\bI was trying to save you, but I got the buttons wrong!
 Não sei se confio em você.
-Não sei se confio em você.
+I don't know if I trust you.
 Já sei. Vamos batalhar. Mesmo fraca, posso ver sua conexão com os pokemon.
-Já sei. Vamos batalhar. Mesmo fraca, posso ver sua conexão com os pokemon.
+I have an idea. Let's fight. Even though I'm weak, I can see your connection with Pokemon.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Sure.
 Muito bem, você é diferente deles. Posso confiar em você.
-Muito bem, você é diferente deles. Posso confiar em você.
+Very well, you're different from them. I can trust you.
 Você...
-Você...
+You...
 Você me salvou. Muito obrigada.
-Você me salvou. Muito obrigada.
+You saved me. Thank you so much.
 \ff[introBenitex]\bNathan: O que você estava fazendo aqui? Por que eles estavam te obrigando a cantar?
-\ff[introBenitex]\bNathan: O que você estava fazendo aqui?  Por que eles estavam te obrigando a cantar?
+\ff[introBenitex]\bNathan: What were you doing here? Why were they making you sing?
 Minha música é sagrada, eles estão tentando usá-la para abrir algum tipo de portal, mas não sei para que.
-Minha música é sagrada, eles estão tentando usá-la para abrir algum tipo de portal, mas não sei para que.
+My voice is sacred, they're trying to use it to open some kind of portal, but I don't know what for.
 \ff[introBenitex]\bNathan: Eu também não sei o que estão fazendo, mas sei que são pessoas crueis.
-\ff[introBenitex]\bNathan: Eu também não sei o que estão fazendo, mas sei que são pessoas crueis.
+\ff[introBenitex]\bNathan: I don't know what they're doing either, but I do know that they're cruel people.
 \ff[introBenitex]\bVenha comigo, estou tentando resolver esse problema junto com uma equipe.
-\ff[introBenitex]\bVenha comigo, estou tentando resolver esse problema junto com uma equipe.
+\ff[introBenitex]\bCome with me, I'm trying to solve this problem together with a team.
 Tudo bem, acho que posso te ajudar.
-Tudo bem, acho que posso te ajudar.
+All right, I think I can help you.
 Outros pokémon correm perigo, precisamos salvar a todos.
-Outros pokémon correm perigo, precisamos salvar a todos.
+Other Pokémon are in danger, we need to save them all.
 \l[3]\ff[introBenitex]\bNathan: (Preciso avisar sobre isso para Jasmine e conversar com o professor Carvalho sobre esse pokemon)
-\l[3]\ff[introBenitex]\bNathan: (Preciso avisar sobre isso para Jasmine e conversar com o professor Carvalho sobre esse pokemon)
+\l[3]\ff[introBenitex]\bNathan: (I need to tell Jasmine about my discoveries and talk to Professor Oak about this Pokémon.)
 Motoqueiro: Seus cientistas imprestáveis, vamos logo com isso!
-Motoqueiro: Seus cientistas imprestáveis, vamos logo com isso!
+Biker: You useless scientists, let's get on with it!
 Vocês não ouviram o que o chefe disse? O menino está vindo! Rápido, rápido!
-Vocês não ouviram o que o chefe disse? O menino está vindo! Rápido, rápido!
+Didn't you hear what the boss said? The boy is coming! Hurry up, hurry up!
 Não, não... Como você passou pelo chefe???
-Não, não... Como você passou pelo chefe???
+No, no... How did you get past the boss?
 Não importa, o pagamento era alto, você não vai passar daqui!
-Não importa, o pagamento era alto, você não vai passar daqui!
+Well, it doesn't matter. If I get, my reward will be insane. You won't get past here!
 \ff[introBenitex]\bNathan: Espera, eu já derrotei o chefe de vocês, você sabe que não pode me derrotar!
-\ff[introBenitex]\bNathan: Espera, eu já derrotei o chefe de vocês, você sabe que não pode me derrotar!
+\ff[introBenitex]\bNathan: Wait, I've already beaten your boss, you know you can't beat me!
 Você quem pensa!
-Você quem pensa!
+That's what you think!
 \ff[introBenitex]\bNathan: Bom, eu tentei evitar isso.
-\ff[introBenitex]\bNathan: Bom, eu tentei evitar isso.
+\ff[introBenitex]\bNathan: I gave you your chance.
 \ff[introBenitex]\bNathan: (Um diário)
-\ff[introBenitex]\bNathan: (Um diário)
+\ff[introBenitex]\bNathan: (A diary.)
 Pode ler, não tem nada de importante aí.
-Pode ler, não tem nada de importante aí.
+Read on, there's nothing important there.
 \l[3]09/10: Começamos a programação do portal, tudo corre bem até agora. Vou começar a escrever planejamentos e colocar na parede, para pessoas desorganizadas como a Rafaela.
-\l[3]09/10: Começamos a programação do portal, tudo corre bem até agora. Vou começar a escrever planejamentos e colocar na parede, para pessoas desorganizadas como a Rafaela.
+\l[3]October 9: We've started programming the portal, everything is going well so far. I'm going to start writing plans and putting them on the wall, that'll help aloof people like Raphaela.
 \l[3]20/10: O portal já deve funcinar no estágio que está, conseguimos fazer tudo em um tempo ótimo. Parece que tudo vai correr bem.
-\l[3]20/10: O portal já deve funcinar no estágio que está, conseguimos fazer tudo em um tempo ótimo. Parece que tudo vai correr bem.
+\l[3]October 20: The portal should be up and running by now, we've managed to get everything done in good time. Everything seems to be going well.
 \l[3]24/10: Vamos começar o processo de busca pela Meloetta, imaginamos que ela não deva resistir, então vamos começar a produzir um equipamento de resistência.
-\l[3]24/10: Vamos começar o processo de busca pela Meloetta, imaginamos que ela não deva resistir, então vamos começar a produzir um equipamento de resistência.
+\l[3]October 24: We're going to start the process of searching for Meloetta. She might try to resist, so we're going to start creating the resistance machine.
 \l[3]31/10: O equipamento está pronto e parece funcionar bem. Mas a busca da meloetta não progrediu muito, já estamos procurando a dias e nada.
-\l[3]31/10: O equipamento está pronto e parece funcionar bem. Mas a busca da meloetta não progrediu muito, já estamos procurando a dias e nada.
+\l[3]October 31: The machine is ready and seems to work well. But the search for the meloetta hasn't progressed much, we've been looking for days and nothing.
 \l[3]05/11: Conseguimos a meloetta, tentamos pedir para ela cantar, mas, como imaginado, não deu certo. Vamos ter que começar o tratamento de choque.
-\l[3]05/11: Conseguimos a meloetta, tentamos pedir para ela cantar, mas, como imaginado, não deu certo. Vamos ter que começar o tratamento de choque.
+\l[3]November 11: We got the meloetta, tried to ask it to sing, but, as imagined, it didn't work. We'll start the shock treatment.
 \l[3]11/11: Meloetta finalmente está começando a cantar. Pensei que nunca conseguiríamos abrir o portal. Vamos ver quais vão ser os resultados.
-\l[3]11/11: Meloetta finalmente está começando a cantar.  Pensei que nunca conseguiríamos abrir o portal. Vamos ver quais vão ser os resultados.
+\l[3]November 21st: Meloetta is finally starting to sing. I thought we'd never get that portal open. Let's see what the results will be.
 \l[3]12/11: A Rafaela está arruinando nossos planos, mas agora é tarde, precisamos continuar com ela, não temos tempo para achar um substituto.
-\l[3]12/11: A Rafaela está arruinando nossos planos, mas agora é tarde, precisamos continuar com ela, não temos tempo para achar um substituto.
+\l[3]November 11: Rafaela is ruining our plans. But now it's too late to fire her, we don't have time to find a replacement.
 \l[3]13/11: Finalmente conseguimos abrir o portal. O outro lado é estranhamente parecido com o que conhecemos, mas os pokemon são totalmente diferentes. Vamos começar o processo.
-\l[3]13/11: Finalmente conseguimos abrir o portal. O outro lado é estranhamente parecido com o que conhecemos, mas os pokemon são totalmente diferentes. Vamos começar o processo.
+\l[3]November 13: We finally managed to open the portal steadily. The other side is strangely similar to the one we know, but the Pokémon are totally different. We'll start the process.
 Estavamos tão perto do lucro... Tão perto...
-Estavamos tão perto do lucro... Tão perto...
+We were so close to profit... So close...
 \ff[introBenitex]\bNathan: (Ele parece um pouco traumatizado)
-\ff[introBenitex]\bNathan: (Ele parece um pouco traumatizado)
+\ff[introBenitex]\bNathan: (He seems traumatized.)
 Rá! Sou o pai da Cynthia, eu derroto qualquer um. Não tenha dúvida disso.
-Rá! Sou o pai da Cynthia, eu derroto qualquer um. Não tenha dúvida disso.
+Ha! I'm Cynthia's father, I can beat anyone. No doubt about it.
 \ff[introBenitex]\bNathan: Uhum. Diga logo.
-\ff[introBenitex]\bNathan: Uhum. Diga logo.
+\ff[introBenitex]\bNathan: Yeah, sure. Just tell me the button.
 Minha máquina é a terceira. Longe das outras está. A resposta é a chave.
-Minha máquina é a terceira. Longe das outras está. A resposta é a chave.
+My machine is third. Far behind the others. The answer is the key.
 Primeiro, é o botão e você vai conseguir. LIBERDADE. Claro que depois de apertar os dois primeiros.
-Primeiro, é o botão e você vai conseguir. LIBERDADE. Claro que depois de apertar os dois primeiros.
+First, the button, and you'll get it. FREEDOM. Of course, after pressing the other two.
 \ff[introBenitex]\bNathan: Ótimo.
-\ff[introBenitex]\bNathan: Ótimo.
+\ff[introBenitex]\bNathan: Great.
 \ff[introBenitex]\bNathan: (É feita de um vidro extremamente resistente, até para conter a meloetta. Não vou conseguir quebrar.)
-\ff[introBenitex]\bNathan: (É feita de um vidro extremamente resistente, até para conter a meloetta. Não vou conseguir quebrar.)
+\ff[introBenitex]\bNathan: (This door is made of extremely resistant glass, so it can contain Meloetta. I won't be able to break it.)
 \ff[introBenitex]\bNathan: (É uma lingua estranha, não entendo o que está escrito.)
-\ff[introBenitex]\bNathan: (É uma lingua estranha, não entendo o que está escrito.)
+\ff[introBenitex]\bNathan: (It's a weird language, I don't understand what's written.)
 Eu nunca vou dizer nada para você!
-Eu nunca vou dizer nada para você!
+I'll never say anything to you!
 \ff[introBenitex]\bNathan: Você não me dá outras opções.
-\ff[introBenitex]\bNathan: Você não me dá outras opções.
+\ff[introBenitex]\bNathan: You don't give me any other options.
 Eu não tenho pokémon, o que você vai fazer, me atacar sem direito a defesa?
-Eu não tenho pokémon, o que você vai fazer, me atacar sem direito a defesa?
+I don't have any Pokémon. What are you going to do, attack me without the right to defend yourself?
 \ff[introBenitex]\bNathan: Você vai ver então, diga tudo ou vai sofrer as consequências!
-\ff[introBenitex]\bNathan: Você vai ver então, diga tudo ou vai sofrer as consequências!
+\ff[introBenitex]\bNathan: Yes, that's it! Tell me everything you know right now, or suffer the consequences!
 Já disse que não vou dizer nada!
-Já disse que não vou dizer nada!
+I said I won't say anything!
 \ff[introBenitex]\bNathan: (Não posso passar desse ponto, vou acabar me tornando como eles...)
-\ff[introBenitex]\bNathan: (Não posso passar desse ponto, vou acabar me tornando como eles...)
+\ff[introBenitex]\bNathan: (Damn, the bluff didn't work...)
 \ff[introBenitex]\bNathan: Claro que não, peço que me diga civilizadamente, já que você não tem defesas mesmo.
-\ff[introBenitex]\bNathan: Claro que não, peço que me diga civilizadamente, já que você não tem defesas mesmo.
+\ff[introBenitex]\bNathan: Of course not. I'm asking you to tell me civilly, since you have no defenses at all.
 Pena que não vai acontecer.
-Pena que não vai acontecer.
+It's a shame that's not going to happen.
 \ff[introBenitex]\bNathan: Chega de perder tempo.
-\ff[introBenitex]\bNathan: Chega de perder tempo.
+\ff[introBenitex]\bNathan: I'm not going to waste any more time on you.
 \ff[introBenitex]\bNathan: (Um quadro de planejamentos!)
-\ff[introBenitex]\bNathan: (Um quadro de planejamentos!)
+\ff[introBenitex]\bNathan: (A planning board!)
 \l[3]\w[signskin]Etapa 1: Pedir a meloetta para começar a canção. Não há necessidade de uso de violência caso ela aceite de primeira e podemos facilitar o resto do processo com isso.
-\l[3]\w[signskin]Etapa 1: Pedir a meloetta para começar a canção. Não há necessidade de uso de violência caso ela aceite de primeira e podemos facilitar o resto do processo com isso.
+\l[3]\w[signskin]Step 1: Ask Meloetta to start the song. There's no need to use violence if it accepts at first. That would make the rest of the process easier.
 \l[3]\w[signskin]Etapa 2: Programar as máquinas de choque para o tratamento obrigatório. Se ela recusar a cantoria, só resta o uso do tratamento de choque, não temos alternativa.
-\l[3]\w[signskin]Etapa 2: Programar as máquinas de choque para o tratamento obrigatório. Se ela recusar a cantoria, só resta o uso do tratamento de choque, não temos alternativa.
+\l[3]\w[signskin]Step 2: Program the shock machines for compulsory treatment. If it refuses to sing, all that remains is the use of shock treatment.
 \l[3]\w[signskin]Etapa 3: Programar o portal. Quando chegarmos a essa parte, estaremos muito próximos do objetivo, portanto todo cuidado é necessário para evitar erros.
-\l[3]\w[signskin]Etapa 3: Programar o portal. Quando chegarmos a essa parte, estaremos muito próximos do objetivo, portanto todo cuidado é necessário para evitar erros.
+\l[3]\w[signskin]Step 3: Program the portal. When we get to this part, we'll be very close to the goal, so every care is needed to avoid mistakes.
 \l[3]\w[signskin]Etapa 4: Trazer a maior quantidade de pokémon possível. Precisamos aproveitar cada segundo com a passagem para o outro lado, trazer a maior quantidade de pokémon.
-\l[3]\w[signskin]Etapa 4: Trazer a maior quantidade de pokémon possível. Precisamos aproveitar cada segundo com a passagem para o outro lado, trazer a maior quantidade de pokémon.
+\l[3]\w[signskin]Step 4: Bring in as many Pokémon as possible. We need to make the most out of each second with the passage open, and bring in as many Pokémon as possible.
 \w[signskin]Etapa 5: LUCRO!!!
-\w[signskin]Etapa 5: LUCRO!!!
+\w[signskin]Step 5: PROFIT!!!
 \l[3]\w[signskin]Obs: Rafaela, se você se você continuar errando os botões das máquinas, sabe muito bem o que vai acontecer com você e sua família.
-\l[3]\w[signskin]Obs: Rafaela, se você se você continuar errando os botões das máquinas, sabe muito bem o que vai acontecer com você e sua família.
+\l[3]\w[signskin]Note: Raphaela, if you keep pushing the buttons on the machines, you know very well what will happen to you and your family.
 As faculdades restringem a pesquisa ao âmbito que desejam. Prendem nossa liberdade. Por isso estou aqui.
-As faculdades restringem a pesquisa ao âmbito que desejam. Prendem nossa liberdade. Por isso estou aqui.
+Colleges restrict research to the scope they want. They imprison our freedom. That's why I'm here.
 \ff[introBenitex]\bNathan: Não tenho tempo para ouvir suas baboseiras.
-\ff[introBenitex]\bNathan: Não tenho tempo para ouvir suas baboseiras.
+\ff[introBenitex]\bNathan: I don't have time to listen to your drivel.
 Fique calmo, não vou negar te dizer como abrir a porta. Não estou aqui porque quero, foi a única oportunidade que tive.
-Fique calmo, não vou negar te dizer como abrir a porta. Não estou aqui porque quero, foi a única oportunidade que tive.
+Calm down, I'm not going to refuse to tell you how to open the door. I'm not here because I want to be, it was the only opportunity I had.
 \ff[introBenitex]\bNathan: Não minta!
-\ff[introBenitex]\bNathan: Não minta!
+\ff[introBenitex]\bNathan: Don't lie!
 É verdade, no meio acadêmico não há espaço para o tipo de pesquisa que eu realizo, só aqui tive oportunidade de adquirir conhecimento.
-É verdade, no meio acadêmico não há espaço para o tipo de pesquisa que eu realizo, só aqui tive oportunidade de adquirir conhecimento.
+It's true, in academia there's no room for the kind of research I do. Only here have I had the opportunity to acquire true knowledge.
 \ff[introBenitex]\bNathan: Certo, voltando pro botão que abre a porta...
-\ff[introBenitex]\bNathan: Certo, voltando pro botão que abre a porta...
+\ff[introBenitex]\bNathan: Sure, back to the button that opens the door...
 Ah, você precisa desativar três máquinas que estão mantendo a meloetta trancada. Cada erro pode custar caro para ela.
-Ah, você precisa desativar três máquinas que estão mantendo a meloetta trancada. Cada erro pode custar caro para ela.
+You need to deactivate three machines that are keeping Meloetta locked. Every mistake could cost her dearly.
 Cada um de nós é responsável pelo conhecimento de um dos botões das máquinas, para ninguém tentar tramar nada.
-Cada um de nós é responsável pelo conhecimento de um dos botões das máquinas, para ninguém tentar tramar nada.
+Each of us is responsible for knowing only one of the correct buttons on the machines, so that no one tries to pull any tricks.
 Eu sou responsável pela primeira, que tem detalhes azuis. Você deve apertar o segundo botão nela.
-Eu sou responsável pela primeira, que tem detalhes azuis. Você deve apertar o segundo botão nela.
+I'm responsible for the first one, which has blue details. You must press the second button on it.
 Botão 1.
-Botão 1.
+First button.
 Botão 2.
-Botão 2.
+Second button.
 Botão 3.
-Botão 3.
+Third button.
 Nenhum.
-Nenhum.
+(Leave.)
 Vou!
-Vou!
+Yes!
 Claro que não.
-Claro que não.
+No.
 [Map61]
 \ff[introBenitex]\bNathan: (É só uma caneca de cerveja.)
 \ff[introBenitex]\bNathan: (It's just a mug of beer.)
@@ -11350,91 +11346,89 @@ Não.
 No.
 [Map63]
 \ff[introBenitex]\bNathan: "Ideais eternos"
-\ff[introBenitex]\bNathan: "Ideais eternos"
+\ff[introBenitex]\bNathan: "Eternal Ideals"
 \ff[introBenitex]\b(As vezes me questiono se o que acreditamos ser o certo por séculos realmente é.)
-\ff[introBenitex]\b(As vezes me questiono se o que acreditamos ser o certo por séculos realmente é.)
+\ff[introBenitex]\b(Sometimes I wonder if what we believe is right for centuries really is.)
 \ff[introBenitex]\b(Melhor não pensar nisso, são muitas pessoas enganadas.)
-\ff[introBenitex]\b(Melhor não pensar nisso, são muitas pessoas enganadas.)
+\ff[introBenitex]\b(It's better not to think about it, there would be too many deceived people.)
 \ff[introBenitex]\bNathan: "Representação de Zekrom". Hum, não me lembro dele assim.
-\ff[introBenitex]\bNathan: "Representação de Zekrom". Hum, não me lembro dele assim.
+\ff[introBenitex]\bNathan: "Zekrom". That's not how I remember Zekrom.
 \ff[introBenitex]\bNathan: "Dragão preto e branco"
-\ff[introBenitex]\bNathan: "Dragão preto e branco"
+\ff[introBenitex]\bNathan: "White and Black Dragons"
 \ff[introBenitex]\bEssa é clássica. A ilusão dos dois dragões formando um só é impressionante.
-\ff[introBenitex]\bEssa é clássica. A ilusão dos dois dragões formando um só é impressionante.
+\ff[introBenitex]\bThis is a classic. The illusion of the two dragons forming one is impressive.
 Opa, opa. Seja bem vindo ao nosso humilde Estúdio de arte.
-Opa, opa. Seja bem vindo ao nosso humilde Estúdio de arte.
+Hello, hello. Welcome to our humble art studio.
 Pode ficar a vontade, apenas peço que não utilize flash para não danificar as obras.
-Pode ficar a vontade, apenas peço que não utilize flash para não danificar as obras.
+Please do not take pictures as not to damage the artwork.
 \ff[introBenitex]\bNathan: "Representação de Reshiram". Hum, não me lembro dele assim.
-\ff[introBenitex]\bNathan: "Representação de Reshiram". Hum, não me lembro dele assim.
+\ff[introBenitex]\bNathan: "Reshiram". That's not how I remember Reshiram.
 \ff[introBenitex]\bNathan: "Pecado e o dinheiro aumenta"
-\ff[introBenitex]\bNathan: "Pecado e o dinheiro aumenta"
+\ff[introBenitex]\bNathan: "Sin and Money Stack Up"
 \ff[introBenitex]\bDeve ser uma crítica social.
-\ff[introBenitex]\bDeve ser uma crítica social.
+\ff[introBenitex]\bIt must be a social critique.
 \ff[introAlbert]\c[6]Albert: Preste atenção nos detalhes da simplicidade.
-\ff[introAlbert]\c[6]Albert: Preste atenção nos detalhes da simplicidade.
+\ff[introAlbert]\c[6]Albert: Pay attention to the details of simplicity.
 \ff[introAlbert]\c[6]Albert: Gostou das obras de arte?
-\ff[introAlbert]\c[6]Albert: Gostou das obras de arte?
+\ff[introAlbert]\c[6]Albert: Did you like the works of art?
 \ff[introBenitex]\bNathan: Eu não entendo muito bem, mas gosto do que vejo.
-\ff[introBenitex]\bNathan: Eu não entendo muito bem, mas gosto do que vejo.
+\ff[introBenitex]\bNathan: I don't understand it very well, but I like what I see.
 \ff[introBenitex]\bNathan: Sei lá, todas parecem a mesma coisa pra mim.
-\ff[introBenitex]\bNathan: Sei lá, todas parecem a mesma coisa pra mim.
+\ff[introBenitex]\bNathan: I don't know, they all look the same to me.
 \ff[introAlbert]\c[6]Albert: Falta-lhe conhecimento artístico, Nathan.
-\ff[introAlbert]\c[6]Albert: Falta-lhe conhecimento artístico, Nathan.
+\ff[introAlbert]\c[6]Albert: You lack artistic knowledge, Nathan.
 \ff[introAlbert]\c[6]Você deveria apreciar mais a simplicidade. Prestar mais atenção nos detalhes do simples.
-\ff[introAlbert]\c[6]Você deveria apreciar mais a simplicidade. Prestar mais atenção nos detalhes do simples.
+\ff[introAlbert]\c[6]You should appreciate simplicity more. Pay more attention to the details of the simple.
 \ff[introBenitex]\bNathan: "Kyurem, o dragão que busca o herói que vai lhe preecher com ideais e a verdade."
-\ff[introBenitex]\bNathan: "Kyurem, o dragão que busca o herói que vai lhe preecher com ideais e a verdade."
+\ff[introBenitex]\bNathan: "Kyurem, the dragon in search of the hero who will fill him with ideals and the truth."
 \ff[introBenitex]\bÉ o que dizem.
-\ff[introBenitex]\bÉ o que dizem.
+\ff[introBenitex]\bSo they say.
 Enquanto eu puder continuar apreciando a arte, não tenho porquê reclamar.
-Enquanto eu puder continuar apreciando a arte, não tenho porquê reclamar.
+As long as I can keep enjoying the art, I have nothing to complain about.
 Eu me pergunto por que Burgh prefere exibir as suas obras no ginásio se esse lugar existe...
-Eu me pergunto por que Burgh prefere exibir as suas obras no ginásio se esse lugar existe...
+I wonder why Burgh prefers to exhibit his works in the gym if there is such a place...
 \ff[introBenitex]\bNathan: Talvez ele queira uma atenção especial.
-\ff[introBenitex]\bNathan: Talvez ele queira uma atenção especial.
+\ff[introBenitex]\bNathan: Maybe he wants special attention.
 Mais atenção? Ele já é líder de ginásio, precisa de mais?
-Mais atenção? Ele já é líder de ginásio, precisa de mais?
+More attention? He was already a gym leader, does he need even more attention?
 \ff[introBenitex]\bNathan: "Triste verdade"
-\ff[introBenitex]\bNathan: "Triste verdade"
+\ff[introBenitex]\bNathan: "Ugly Truth"
 \ff[introBenitex]\b(As vezes também me decepciono quando descubro a verdade...)
-\ff[introBenitex]\b(As vezes também me decepciono quando descubro a verdade...)
+\ff[introBenitex]\b(Sometimes I'm also disappointed when I discover the truth...)
 \ff[introBenitex]\b(Pelo menos até perceber que não sei se realmente é a verdade.)
-\ff[introBenitex]\b(Pelo menos até perceber que não sei se realmente é a verdade.)
+\ff[introBenitex]\b(At least until I realize that I don't know if it really is the truth.)
 \ff[introBenitex]\b(Bom, melhor ver outras pinturas.)
-\ff[introBenitex]\b(Bom, melhor ver outras pinturas.)
+\ff[introBenitex]\b(Well, I'd better look at other paintings.)
 Não quero nem imaginar o que vai ser do futuro da arte.
-Não quero nem imaginar o que vai ser do futuro da arte.
+I don't even want to imagine what will become of the future of art.
 No meu tempo, as pessoas apreciavam mais a arte.
-No meu tempo, as pessoas apreciavam mais a arte.
+In my day, people appreciated art more.
 Olha como esse lugar é pequeno, quase sem obras, pouquíssimos visitantes.
-Olha como esse lugar é pequeno, quase sem obras, pouquíssimos visitantes.
+Look how small this place is. Almost no works, very few visitors.
 \ff[introBenitex]\bNathan: Na sua época tinha mais artistas?
-\ff[introBenitex]\bNathan: Na sua época tinha mais artistas?
+\ff[introBenitex]\bNathan: Were there more artists in your day?
 Não.
-Não.
+No.
 Mas os que existiam eram muito mais valorizados!
-Mas os que existiam eram muito mais valorizados!
+But the ones who did exist were much more valued!
 \ff[introBenitex]\bNathan: (Isso explica muita coisa.)
-\ff[introBenitex]\bNathan: (Isso explica muita coisa.)
+\ff[introBenitex]\bNathan: (That explains a lot.)
 \ff[introBenitex]\bNathan: "Herói desaparecido"
-\ff[introBenitex]\bNathan: "Herói desaparecido"
+\ff[introBenitex]\bNathan: "Vanished Hero"
 \ff[introBenitex]\b(Espero que não seja sobre mim.)
-\ff[introBenitex]\b(Espero que não seja sobre mim.)
-Esses tempos nunca passam, então aproveite bem, menino!
-Esses tempos nunca passam, então aproveite bem, menino!
+\ff[introBenitex]\b(I hope it's not about me.)
 Eu costumava fazer pinturas quando era mais jovem.
-Eu costumava fazer pinturas quando era mais jovem.
+I used to make paintings when I was younger.
 Pintava os jardins da minha casa, os ranchos de Floccesy...
-Pintava os jardins da minha casa, os ranchos de Floccesy...
+I used to paint the gardens of my house, the ranches of Floccesy...
 Foi uma ótima época da minha vida.
-Foi uma ótima época da minha vida.
+It was a great time in my life.
 Esses tempos nunca voltam, então aproveite bem, menino!
-Esses tempos nunca voltam, então aproveite bem, menino!
+Those times never come back, so enjoy them, son!
 São interessantes.
-São interessantes.
+They are interesting.
 Elas são meio... parecidas.
-Elas são meio... parecidas.
+They're a bit... similar.
 [Map64]
 \w[signskin]Você está em: Prime Pier.\n Norte: Oceanfront Road.
 \w[signskin]You're in: Prime Pier.\n North: Oceanfront Road.
@@ -11781,18 +11775,30 @@ $1000
 Não dar.
 Não dar.
 [Map65]
+\l[3]Nos primeiros dias, você tentou conversar com as outras pessoas. Imaginou que isso faria o tempo passar mais rápido.
+\l[3]In the first few days, you tried to talk to other people. You thought it would make the time pass more quickly.
+\l[3]Mas na realidade, você só percebeu o que tinha se tornado. Justo você... O que as pessoas vão pensar de você depois disso?
+\l[3]But in reality, you only realized what you had become. You... with thouse people. What will people think of you after this?
+\l[3]E tudo por uma ação tão simples, uma decisão tomada na pressa. Você foi dominado pela curiosidade.
+\l[3]And all because of such a simple action, a decision made in haste. You were overwhelmed by curiosity. That was not your fault, right?
+\l[3]Se você pudesse voltar no tempo... Mudaria tudo? Mas será que valeria mesmo a pena? Sua cabeça não para.
+\l[3]If you could go back in time... Would you change everything? But would it really be worth it? The right decision? Your mind won't stop.
+\l[3]Foram dias e dias de sofrimento sem fim. Será que se a sentença fosse maior, a ansiedade seria menor e cada dia passaria mais rápido?
+\l[3]It's been days and days of endless suffering. Could it be that if the sentence were longer, the anxiety for it to end would be less and each day would pass more quickly?
+Essa sala fria fez você perder a noção do tempo.
+This gray cold room has made you lose track of time.
 Sua sentença acabou. É hora de pagar a segunda parte da sua pena.
-Sua sentença acabou. É hora de pagar a segunda parte da sua pena.
+Your time in prison is over. It's time to pay the second part of your sentence.
 Agora venha comigo. Não tente nada!
-Agora venha comigo. Não tente nada!
+Come with me. Don't try anything!
 \ff[introBenitex]\bNathan: Certo, certo.
-\ff[introBenitex]\bNathan: Certo, certo.
+\ff[introBenitex]\bNathan: Okay, okay.
 Vou te levar para a oficial, ela vai te explicar o que você tem que fazer.
-Vou te levar para a oficial, ela vai te explicar o que você tem que fazer.
+I'll take you to the officer, she'll explain what you have to do.
 \ff[introBenitex]\bNathan: Tudo bem.
-\ff[introBenitex]\bNathan: Tudo bem.
+\ff[introBenitex]\bNathan: Fine.
 Vamos, vou te tirar daqui.
-Vamos, vou te tirar daqui.
+Come on, I'll get you out of here.
 [Map66]
 Filho, pegue isso, pode ficar para você.
 Filho, pegue isso, pode ficar para você.
