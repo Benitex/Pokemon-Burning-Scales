@@ -11966,167 +11966,159 @@ Não.
 Não.
 [Map67]
 Seja muito bem vindo a Battle Company!
-Seja muito bem vindo a Battle Company!
+Welcome to Battle Company!
 Nossa empresa busca oferecer os melhores e mais avançado produtos, para elevar o potencial dos seus pokemon ao máximo!
-Nossa empresa busca oferecer os melhores e mais avançado produtos, para elevar o potencial dos seus pokemon ao máximo!
+Our company strives to offer the best and most advanced products that will raise the potential of your Pokémon to the maximum!
 Se quiser, posso detalhar cada andar para você.
-Se quiser, posso detalhar cada andar para você.
-\ff[introBenitex]\bNathan: O que tem no primeiro andar?
-\ff[introBenitex]\bNathan: O que tem no primeiro andar?
+If you like, I can detail each floor for you.
+\ff[introBenitex]\bNathan: O que tem no segundo andar?
+\ff[introBenitex]\bNathan: What's on the second floor?
 \l[3]O segundo andar possui uma loja que vende uma grande variedade de items que seus pokemon podem segurar em batalha.
-\l[3]O segundo andar possui uma loja que vende uma grande variedade de items que seus pokemon podem segurar em batalha.
+\l[3]In the second floor, you can buy a wide variety of items that your Pokémon can hold in battle.
 \l[3]Um detalhe importante é que não vendemos Mega Stones, mas acredito que você possa conseguir algumas na Castelia Street.
-\l[3]Um detalhe importante é que não vendemos Mega Stones, mas acredito que você possa conseguir algumas na Castelia Street.
+\l[3]One important detail is that we do not sell Mega Stones. I believe you can get some on Castelia Street.
 \ff[introBenitex]\bNathan: Ótimo.
-\ff[introBenitex]\bNathan: Ótimo.
+\ff[introBenitex]\bNathan: Great.
 \ff[introBenitex]\bNathan: O que posso comprar no terceiro andar?
-\ff[introBenitex]\bNathan: O que posso comprar no terceiro andar?
+\ff[introBenitex]\bNathan: What can I buy on the third floor?
 O terceiro andar vende items consumíveis, como TRs e Nature Mints.
-O terceiro andar vende items consumíveis, como TRs e Nature Mints.
-\l[3]Recomendo que você dê uma olhada em outros lugares também, não é só a battle company que vende esse tipo de item.
-\l[3]Recomendo que você dê uma olhada em outros lugares também, não é só a battle company que vende esse tipo de item.
-\ff[introBenitex]\bNathan: Pode deixar.
-\ff[introBenitex]\bNathan: Pode deixar.
+In the third floor, you can buy consumable items such as TRs and Nature Mints.
 \ff[introBenitex]\bNathan: Obrigado, vou dar uma volta.
-\ff[introBenitex]\bNathan: Obrigado, vou dar uma volta.
+\ff[introBenitex]\bNathan: Thanks, I'll have a look around.
 A Battle Company deseja sucesso para você e seus pokemon!
-A Battle Company deseja sucesso para você e seus pokemon!
+Battle Company wishes you and your Pokémon success!
 Você viu o que aconteceu no último de Nimbasa? Parece que alguém resolveu acabar com a festa!
-Você viu o que aconteceu no último de Nimbasa?  Parece que alguém resolveu acabar com a festa!
+Did you see what happened at the last Nimbasa?  Looks like someone decided to break up the party!
 Você viu o torneio de Nimbasa? Foi incrível.
-Você viu o torneio de Nimbasa? Foi incrível.
+Did you watch the Nimbasa tournament? It was incredible.
 \ff[introBenitex]\bNathan: Sim, eu assiti lá, ao vivo.
-\ff[introBenitex]\bNathan: Sim, eu assiti lá, ao vivo.
+\ff[introBenitex]\bNathan: Yes, I watched it live.
 Nossa, sempre quis fazer isso. Acho que vou no próximo.
-Nossa, sempre quis fazer isso. Acho que vou no próximo.
+Wow, I've always wanted to do that. I think I'll go to the next one.
 Pera, você é o vencedor do torneio, não é?
-Pera, você é o vencedor do torneio, não é?
+Wait, you're the winner of the tournament, aren't you?
 \ff[introBenitex]\bNathan: Sou.
-\ff[introBenitex]\bNathan: Sou.
+\ff[introBenitex]\bNathan: Yes, I am.
 Caraca, não acredito! Quero um autógrafo!
-Caraca, não acredito! Quero um autógrafo!
+Arceus, I can't believe it! I want an autograph!
 Você também participou, né?
-Você também participou, né?
+You took part too, didn't you?
 Pena que não ganhou. Os caras são fortes, estão preparados pra tudo!
-Pena que não ganhou. Os caras são fortes, estão preparados pra tudo!
+Too bad you didn't win. The guys are strong, they're ready for anything!
 Você devia ter visto, não sabe o que perdeu.
-Você devia ter visto, não sabe o que perdeu.
+You should have seen it, you don't know what you missed.
 2º andar.
-2º andar.
+2nd floor.
 3º andar.
-3º andar.
+3rd floor.
 4º andar.
-4º andar.
+4th floor.
 Obrigado.
-Obrigado.
+Thanks.
 [Map68]
-\ff[introBenitex]\bNathan: Um mapa com as modificações na rota ao longo do tempo.
-\ff[introBenitex]\bNathan: Um mapa com as modificações na rota ao longo do tempo.
+\ff[introBenitex]\bNathan: (Um mapa com as modificações na rota ao longo do tempo.)
+\ff[introBenitex]\bNathan: (A map showing changes to the route over time.)
 Bem vindo a nossa cidade, chapa.
-Bem vindo a nossa cidade, chapa.
+Welcome to our city, mate.
 Antes de mais nada, preciso dar uma recepção adequada.
-Antes de mais nada, preciso dar uma recepção adequada.
+First of all, I need to give you a proper welcome.
 E o que seria melhor do que uma batalha? Vamos lá!
-E o que seria melhor do que uma batalha? Vamos lá!
+And what could be better welcome than a battle? Let's go!
 He, vale a nossa atenção.
-He, vale a nossa atenção.
+Okay, worth our attention.
 Diga, o que faz aqui? Não tem medo?
-Diga, o que faz aqui? Não tem medo?
+Tell me, what are you doing here? Aren't you afraid?
 \l[3]\ff[introBenitex]\bNathan: Essa derrota mostra porque não preciso sentir medo. Vocês vão sair daqui, deixar a rota e não voltar mais.
-\l[3]\ff[introBenitex]\bNathan: Essa derrota mostra porque não preciso sentir medo. Vocês vão sair daqui, deixar a rota e não voltar mais.
+\l[3]\ff[introBenitex]\bNathan: Your defeat shows why I don't need to feel afraid. You're going to get out of here, leave the route and never come back.
 Calma, meu chapa, você não quer fazer uma visitinha antes?
-Calma, meu chapa, você não quer fazer uma visitinha antes?
-Estou me oferencendo pra mostrar essa incrível atração turística da Rota 4.
-Estou me oferencendo pra mostrar essa incrível atração turística da Rota 4.
+Calm down, my man, don't you want to make a little guided visit first?
+Estou me oferecendo pra mostrar essa incrível atração turística da Rota 4.
+I'm offering to show you this incredible tourist attraction on Route 4.
 \ff[introBenitex]\bNathan: Diga o que quer, antes que não possa dizer mais nada.
-\ff[introBenitex]\bNathan: Diga o que quer, antes que não possa dizer mais nada.
+\ff[introBenitex]\bNathan: Tell me what you want while you can.
 A Rota 4 passa por constantes modificações. Todos os anos. Ficar entre duas cidades grandes é um dos motivos.
-A Rota 4 passa por constantes modificações. Todos os anos. Ficar entre duas cidades grandes é um dos motivos.
+Route 4 undergoes constant changes. Every single year. Being between two big cities is one of the reasons.
 \l[3]Em uma das explorações para conhecer melhor a rota, descobriram um sítio arquiológico. Por isso, começaram a procurar fósseis e explorar novas partes da região.
-\l[3]Em uma das explorações para conhecer melhor a rota, descobriram um sítio arquiológico. Por isso, começaram a procurar fósseis e explorar novas partes da região.
+\l[3]On one of the latest explorations, they discovered an archaeological site. So they started looking for fossils and exploring new parts of the region.
 \l[3]Ao mesmo tempo, a cidade de Castelia se tornava cada vez mais populosa, então começaram a expandir os prédios para dentro da Rota 4.
-\l[3]Ao mesmo tempo, a cidade de Castelia se tornava cada vez mais populosa, então começaram a expandir os prédios para dentro da Rota 4.
+\l[3]At the same time, the city of Castelia was becoming more and more populous, so they began to expand their buildings onto Route 4.
 \l[3]Mas não queriam acabar com o sítio arquiológico, então moldaram as casas entre as montanhas, evitando lugares onde pokemon viviam e onde fósseis poderiam ser encontrados.
-\l[3]Mas não queriam acabar com o sítio arquiológico, então moldaram as casas entre as montanhas, evitando lugares onde pokemon viviam e onde fósseis poderiam ser encontrados.
+\l[3]But they didn't want to wipe out the archaeological site. So they shaped the houses between the mountains, avoiding places where Pokémon lived and where fossils could be found.
 \l[3]Essas casas ficam exatamente entre as duas cidades. Em um vale entre montanhas. O lugar perfeito para uma gangue de motoqueiros invadir e se manter muito bem defendida.
-\l[3]Essas casas ficam exatamente entre as duas cidades.  Em um vale entre montanhas. O lugar perfeito para uma gangue de motoqueiros invadir e se manter muito bem defendida.
+\l[3]These houses are exactly between the two towns. In a valley between mountains. The perfect place for a Biker gang to invade and keep very well defended.
 \ff[introBenitex]\bNathan: Não vou mentir, são informações preciosas. Por que você está me contando isso?
-\ff[introBenitex]\bNathan: Não vou mentir, são informações preciosas. Por que você está me contando isso?
+\ff[introBenitex]\bNathan: I won't lie, this is precious information. Why are you telling me this?
 Bom, só um de nós vai se sair daqui bem. Então não faz diferença contar ou não.
-Bom, só um de nós vai se sair daqui bem. Então não faz diferença contar ou não.
-Talvez você se dê bem e a rota evite futuros problemas...
-Talvez você se dê bem e a rota evite futuros problemas...
-\ff[introBenitex]\bNathan: No fim das contas, você se preocupa com o lugar.
-\ff[introBenitex]\bNathan: No fim das contas, você se preocupa com o lugar.
-Acabei criando um pouco de afeto...
-Acabei criando um pouco de afeto...
+Well, if you win, I'll be locked in cage forever. If we win, you won't be able to share this information.
+Nós não somos loucos. Sabemos negociar. Talvez você consiga evitar futuros problemas...
+We are not insane. We can make deals with you. Maybe you can avoid any more problems...
 \ff[introBenitex]\bNathan: Não pense que vou cair nessa. Vocês não me enganam!
-\ff[introBenitex]\bNathan: Não pense que vou cair nessa.  Vocês não me enganam!
+\ff[introBenitex]\bNathan: Don't think I'll fall for it. You can't fool me!
 Bom, eu te dei sua chance.
-Bom, eu te dei sua chance.
+Well, I gave you your chance.
 Aproveite sua estadia na nossa cidade, hehe.
-Aproveite sua estadia na nossa cidade, hehe.
+Enjoy your stay in our city, hehe.
 Queria ficar sozinho por um tempo. Até minha hora chegar.
-Queria ficar sozinho por um tempo. Até minha hora chegar.
+Let me alone for a while. I don't have much time left.
 \ff[introBenitex]\bNathan: (Um mapa da Rota 4.)
-\ff[introBenitex]\bNathan: (Um mapa da Rota 4.)
+\ff[introBenitex]\bNathan: (A Route 4 map.)
 Heh. Seja muito bem vindo, camarada.
-Heh. Seja muito bem vindo, camarada.
+Heh. You're very welcome, comrade.
 Quer fazer um tour na cidade ou algo assim?
-Quer fazer um tour na cidade ou algo assim?
+Want to take a tour of the city or something?
 Venha, pode entrar, não seja tímido!
-Venha, pode entrar, não seja tímido!
+Come on in, don't be shy!
 \l[3]\ff[introBenitex]\bNathan: (Um mapa com zoom nessa parte da Rota 4. Parece que existe uma pequena parte ao sul, entre as montanhas, além dessa principal onde estou.)
-\l[3]\ff[introBenitex]\bNathan: (Um mapa com zoom nessa parte da Rota 4. Parece que existe uma pequena parte ao sul, entre as montanhas, além dessa principal onde estou.)
+\l[3]\ff[introBenitex]\bNathan: (A zoomed-in map of this part of Route 4. It looks like there's a small hidden section to the south, between the mountains.)
 \l[3]\ff[introBenitex]\bNathan: (Parece uma bancada com várias lembracinhas, canecas temáticas, pequenos brinquedos, globos de areia. A maioria está quebrada.)
-\l[3]\ff[introBenitex]\bNathan: (Parece uma bancada com várias lembracinhas, canecas temáticas, pequenos brinquedos, globos de areia. A maioria está quebrada.)
-\ff[introBenitex]\bNathan: São panfletos velhos. Convites para um sítio arquiológico.
-\ff[introBenitex]\bNathan: São panfletos velhos. Convites para um sítio arquiológico.
+\l[3]\ff[introBenitex]\bNathan: (It looks like a stand with various souvenirs, themed mugs, small toys, sand globes. Most of them are broken.)
+\ff[introBenitex]\bNathan: (São panfletos velhos. Convites para um sítio arqueológico.)
+\ff[introBenitex]\bNathan: (Old flyers. They look like invitations to an archaeological site.)
 Diga.
-Diga.
+I'm interested.
 Cai fora!
-Cai fora!
+No way!
 [Map69]
 E aí, nada ainda?
-E aí, nada ainda?
+So what, nothing yet?
 Ainda não, chefia.
-Ainda não, chefia.
+Not yet, boss.
 CHEGA. Tá de sacanagem?
-CHEGA. Tá de sacanagem?
+ENOUGH. Are you kidding?
 A gente precisa disso pra ontem, entendeu?
-A gente precisa disso pra ontem, entendeu?
+We need this yesterday, understand?
 Agora pare de enrolar e FAÇA ESSE BICHO CANTAR.
-Agora pare de enrolar e FAÇA ESSE BICHO CANTAR.
+Now stop stalling and MAKE THAT THING SING.
 Essa é sua última chance. Nem pense em falhar mais uma vez.
-Essa é sua última chance. Nem pense em falhar mais uma vez.
+This is your last chance. Don't even think about failing again.
 Vamos meloetta, cante imediatamente!
-Vamos meloetta, cante imediatamente!
+Come on meloetta, sing now!
 (Nada, como sempre. O que faço agora?)
-(Nada, como sempre. O que faço agora?)
+(Nothing, as usual. What do I do now?)
 Não ouviu? CANTE!
-Não ouviu? CANTE!
+Are you hearing me? SING!
 Vamos meloetta, quanto mais cedo você fizer isso, mais cedo vamos poder te liberar.
-Vamos meloetta, quanto mais cedo você fizer isso, mais cedo vamos poder te liberar.
+Come on meloetta, the sooner you do this, the sooner we can release you.
 Eu ganho meu salário, você ganha sua liberdade e nós dois saímos ilesos, que tal?
-Eu ganho meu salário, você ganha sua liberdade e nós dois saímos ilesos, que tal?
+I get my salary, you get your freedom and we both get off scot-free, how's that?
 O quê? Funcionou?
-O quê? Funcionou?
+What? It worked!?
 \ff[introBenitex]\bNathan: O que...
-\ff[introBenitex]\bNathan: O que...
+\ff[introBenitex]\bNathan: What...
 \ff[introBenitex]\bO que é isso?
-\ff[introBenitex]\bO que é isso?
+\ff[introBenitex]\bWhat is this?
 \ff[introBenitex]\bQue simbolo bizarro. Pelo menos não parece ter ninguém por aqui. Vou dar uma olhada de perto.
-\ff[introBenitex]\bQue simbolo bizarro. Pelo menos não parece ter ninguém por aqui. Vou dar uma olhada de perto.
+\ff[introBenitex]\bWhat a bizarre symbol. At least there doesn't seem to be anyone around. I'll take a closer look.
 \ff[introBenitex]\bNathan: É feito de metal, a parte branca parece algum tipo de vidro.
-\ff[introBenitex]\bNathan: É feito de metal, a parte branca parece algum tipo de vidro.
+\ff[introBenitex]\bNathan: It's made of metal, the white part looks like some kind of weird glass.
 \ff[introBenitex]\bEsses pilares nos cantos também são estranhos e essas setas apontam para alguns deles.
-\ff[introBenitex]\bEsses pilares nos cantos também são estranhos e essas setas apontam para alguns deles.
+\ff[introBenitex]\bThose arrows seem to point to that weird pillars.
 \ff[introBenitex]\bNão parece que vou conseguir descobrir muito mais do que isso aqui, mas esse lugar certamente possui grande importância.
-\ff[introBenitex]\bNão parece que vou conseguir descobrir muito mais do que isso aqui, mas esse lugar certamente possui grande importância.
+\ff[introBenitex]\bI don't think I'll find out more here now, but this place looks very important.
 Atacar.
-Atacar.
+(Attack.)
 Tentar conversar.
-Tentar conversar.
+(Argue.)
 [Map70]
 Não tá funcionando irmão.
 Não tá funcionando irmão.
