@@ -12584,140 +12584,138 @@ Exit
 Exit
 [Map73]
 Items que aumentam o ataque por tipo não são tão poderosos quanto outros, mas também não tem outros pontos negativos.
-Items que aumentam o ataque por tipo não são tão poderosos quanto outros, mas também não tem outros pontos negativos.
+Hold items that increase attack by type are not as powerful as others, but they also have no other cons.
 Por isso, prefiro usar items desse tipo, mesmo sabendo que a maioria dos outros treinadores preferem outros.
-Por isso, prefiro usar items desse tipo, mesmo sabendo que a maioria dos outros treinadores preferem outros.
+That's why those are my favorite items, even though I know that most trainers prefer others.
 \ff[introBenitex]\bNathan: Interessante.
-\ff[introBenitex]\bNathan: Interessante.
+\ff[introBenitex]\bNathan: Interesting.
 O papai me trouxe pro trabalho hoje, ele é o melhor pai do mundo!
-O papai me trouxe pro trabalho hoje, ele é o melhor pai do mundo!
+Dad brought me to work today. He's the best dad in the world!
 \ff[introBenitex]\bNathan: O que você vende nesse andar?
-\ff[introBenitex]\bNathan: O que você vende nesse andar?
+\ff[introBenitex]\bNathan: What do you sell on this floor?
 \l[3]Aqui é a loja de items portáteis. Você pode olhar nosso estoque de items gerais, específicos de cada pokemon ou que aprimoram movimentos de um tipo.
-\l[3]Aqui é a loja de items portáteis. Você pode olhar nosso estoque de items gerais, específicos de cada pokemon ou que aprimoram movimentos de um tipo.
+\l[3]This is the hold items section. You can browse our stock of general items, items specific to each Pokémon, or items that enhance moves of a certain type.
 Se quiser comprar algo, pode falar comigo.
-Se quiser comprar algo, pode falar comigo.
+If you want to buy something, just let me know.
 Seja bem vindo a loja de items portáteis, o que você quer comprar hoje?
-Seja bem vindo a loja de items portáteis, o que você quer comprar hoje?
+Welcome to the hold items section, what would you like to buy today?
 \ff[introBenitex]\bNathan: Quero ver a lista geral.
-\ff[introBenitex]\bNathan: Quero ver a lista geral.
+\ff[introBenitex]\bNathan: I want to see the general items list.
 \ff[introBenitex]\bNathan: Quero ver os item que aumentam o dano de determinado tipo.
-\ff[introBenitex]\bNathan: Quero ver os item que aumentam o dano de determinado tipo.
+\ff[introBenitex]\bNathan: I want to see items that boost specific types.
 \ff[introBenitex]\bNathan: Quero ver os item específicos de determinadas espécies.
-\ff[introBenitex]\bNathan: Quero ver os item específicos de determinadas espécies.
+\ff[introBenitex]\bNathan: I want to see items for specific Pokémon.
 \ff[introBenitex]\bNathan: Já vou indo, obrigado.
-\ff[introBenitex]\bNathan: Já vou indo, obrigado.
+\ff[introBenitex]\bNathan: I'm leaving now, thank you.
 Volte sempre.
-Volte sempre.
+Come again.
 Veio saber sobre nossas pesquisas?
-Veio saber sobre nossas pesquisas?
-\ff[introBenitex]\bNathan: Isso.
-\ff[introBenitex]\bNathan: Isso.
+Did you come to learn about our research?
 Estou desenvolvendo um item que possa aumentar o dano sem causar muitos efeitos colaterais no pokemon.
-Estou desenvolvendo um item que possa aumentar o dano sem causar muitos efeitos colaterais no pokemon.
+I'm developing an item that can increase damage potential without causing too many side effects on the Pokémon.
 \ff[introBenitex]\bNathan: É um trabalho árduo, as pessoas deveriam valorizar mais esses produtos.
-\ff[introBenitex]\bNathan: É um trabalho árduo, as pessoas deveriam valorizar mais esses produtos.
+\ff[introBenitex]\bNathan: It's hard work, people should appreciate your products more.
 Obrigado, é bom saber que algumas pessoas conseguem entender a dedicação que colocamos nisso.
-Obrigado, é bom saber que algumas pessoas conseguem entender a dedicação que colocamos nisso.
+Thank you, it's good to know that some people understand the dedication we put into this.
 \ff[introBenitex]\bNathan: Como vai o progresso?
-\ff[introBenitex]\bNathan: Como vai o progresso?
+\ff[introBenitex]\bNathan: How is the progress going?
 Lento, mas constante. Esse item vai ser revolucionário, mas não deve ficar pronto tão cedo.
-Lento, mas constante. Esse item vai ser revolucionário, mas não deve ficar pronto tão cedo.
+Slow and steady. This item will be revolutionary, but it won't be ready anytime soon.
 Geral.
-Geral.
+General.
 Aumento de dano por tipo.
-Aumento de dano por tipo.
+Damage boost by move type.
 Específicos por pokémon.
-Específicos por pokémon.
+Pokémon Specific.
 Sair
-Sair
+(Leave.)
 [Map74]
 Nature mints são muito úteis, não deixe de usar.
-Nature mints são muito úteis, não deixe de usar.
+Nature Mints are very useful, be sure to use them.
 Você costuma usar nature mints?
-Você costuma usar nature mints?
+Do you often use Nature Mints?
 \ff[introBenitex]\bNathan: Sim, uso sempre que posso.
-\ff[introBenitex]\bNathan: Sim, uso sempre que posso.
-Olha, outro adimirador dos mints!
-Olha, outro adimirador dos mints!
+\ff[introBenitex]\bNathan: Yeah, I really like them.
+Olha, outro admirador dos mints!
+Oh, another fan of mints!
 Ótimo, estou tentando espalhar o uso dos mints entre os treinadores. Como você já usa, vou te dar uma de presente.
-Ótimo, estou tentando espalhar o uso dos mints entre os treinadores. Como você já usa, vou te dar uma de presente.
+Great, I'm trying to spread the use of mints among trainers. Since you already use them, I'll give you one as a gift.
 \ff[introBenitex]\bNathan: Não, não costumo me preocupar muito com a nature dos meus pokemon.
-\ff[introBenitex]\bNathan: Não, não costumo me preocupar muito com a nature dos meus pokemon.
+\ff[introBenitex]\bNathan: No, I usually don't care too much about the nature of my Pokémon.
 \l[3]Eu adoro usar, acho que me ajudam muito em batalhas. Elas podem ser um fator determinante em uma batalha.
-\l[3]Eu adoro usar, acho que me ajudam muito em batalhas. Elas podem ser um fator determinante em uma batalha.
+\l[3]I love using them, I think they help me a lot in battles. They can be a determining factor, honestly.
 Quer saber? Pega uma, acho que você pode acabar gostando de usar.
-Quer saber? Pega uma, acho que você pode acabar gostando de usar.
+You know what? Take one, I think you might end up liking them.
 \ff[introBenitex]\bNathan: Não sei o que é isso.
-\ff[introBenitex]\bNathan: Não sei o que é isso.
+\ff[introBenitex]\bNathan: I don't know what that is.
 Não sabe? Elas são flores com um aroma especial que pode mudar os stats do seu pokemon como uma nature faz.
-Não sabe? Elas são flores com um aroma especial que pode mudar os stats do seu pokemon como uma nature faz.
+Oh, you don't? They are flowers with a special aroma that can change your Pokémon's stats like a nature does.
 Ou seja, elas aumentam um stat e diminuem outro. São muito úteis e baratas.
-Ou seja, elas aumentam um stat e diminuem outro.  São muito úteis e baratas.
+In other words, they increase one stat and decrease another. They are very useful and affordable.
 Aqui, pegue uma, aposto que você vai gostar.
-Aqui, pegue uma, aposto que você vai gostar.
+Here, take one. I bet you'll like it.
 \ff[introBenitex]\bNathan: Muito obrigado!
-\ff[introBenitex]\bNathan: Muito obrigado!
+\ff[introBenitex]\bNathan: Thank you!
 \ff[introBenitex]\bNathan: O que você está pesquisando?
-\ff[introBenitex]\bNathan: O que você está pesquisando?
+\ff[introBenitex]\bNathan: What are you researching?
 Eu verifico os movimentos mais utilizados e mais úteis para tentar transformar em TRs e TMs.
-Eu verifico os movimentos mais utilizados e mais úteis para tentar transformar em TRs e TMs.
+I'm researching about the most commonly used moves to try to turn them into TRs and TMs.
 É um processo tedioso, mas essencial para produção das novas máquinas.
-É um processo tedioso, mas essencial para produção das novas máquinas.
+It's a tedious process, but essential for the production of the new machines.
 \ff[introBenitex]\bNathan: O que você vende aqui?
-\ff[introBenitex]\bNathan: O que você vende aqui?
+\ff[introBenitex]\bNathan: What do you sell here?
 Vendo items consumíveis, TRs e Nature Mints.
-Vendo items consumíveis, TRs e Nature Mints.
+This section sells consumable items, TRs, and Nature Mints.
 \l[3]TRs são movimentos que você pode ensinar apenas uma vez. Nature Mints são items que trocam a nature do seu pokemon.
-\l[3]TRs são movimentos que você pode ensinar apenas uma vez. Nature Mints são items que trocam a nature do seu pokemon.
+\l[3]TRs are moves that you can teach only once. Nature Mints are items that change the nature of your Pokémon.
 \ff[introBenitex]\bNathan: Interessante.
-\ff[introBenitex]\bNathan: Interessante.
+\ff[introBenitex]\bNathan: Very interesting.
 Se quiser comprar algo, pode falar comigo.
-Se quiser comprar algo, pode falar comigo.
+If you want to buy something, please talk to me.
 O que você está procurando?
-O que você está procurando?
+What are you interested in?
 \ff[introBenitex]\bNathan: Quero comprar novos TRs.
-\ff[introBenitex]\bNathan: Quero comprar novos TRs.
+\ff[introBenitex]\bNathan: I want to buy TRs.
 \ff[introBenitex]\bNathan: Quero comprar nature mints.
-\ff[introBenitex]\bNathan: Quero comprar nature mints.
+\ff[introBenitex]\bNathan: I want to buy Nature Mints.
 \ff[introBenitex]\bNathan: Já vou indo, obrigado.
-\ff[introBenitex]\bNathan: Já vou indo, obrigado.
+\ff[introBenitex]\bNathan: That's all for now, thank you.
 Volte sempre.
-Volte sempre.
+Coma again.
 Desculpe, estou ocupado.
-Desculpe, estou ocupado.
+Sorry, I'm busy.
 Estou tentando transformar movimentos em TRs.
-Estou tentando transformar movimentos em TRs.
+I'm trying to code a move into a TR.
 \ff[introBenitex]\bNathan: Como você faz isso?
-\ff[introBenitex]\bNathan: Como você faz isso?
+\ff[introBenitex]\bNathan: How do you do that?
 Preciso entender exatamente como os pokemon usam seus movimentos, para tentar programar uma máquina pra fazer igual.
-Preciso entender exatamente como os pokemon usam seus movimentos, para tentar programar uma máquina pra fazer igual.
+I need to understand exactly how Pokémon use their moves, so I can "teach" the machine to do the same.
 Se quiser comprar alguns TRs, vendemos ali na frente.
-Se quiser comprar alguns TRs, vendemos ali na frente.
+If you're interested in buying TRs, we sell them right there.
 A nature mint perfeita...
-A nature mint perfeita...
+The perfect Nature Mint...
 Estou tentando produzir uma nature mint que consiga beneficiar um stat sem precisar prejudicar outro.
-Estou tentando produzir uma nature mint que consiga beneficiar um stat sem precisar prejudicar outro.
+I am trying to produce a Nature Mint that can benefit one stat without harming another.
 \ff[introBenitex]\bNathan: Isso é possível?
-\ff[introBenitex]\bNathan: Isso é possível?
+\ff[introBenitex]\bNathan: Is that even possible?
 Não sei, mas se conseguirmos, vai ser uma invenção revolucionária!
-Não sei, mas se conseguirmos, vai ser uma invenção revolucionária!
+We don't know yet, but if we succeed, it will be a revolutionary invention!
 \ff[introBenitex]\bNathan: Realmente, boa sorte.
-\ff[introBenitex]\bNathan: Realmente, boa sorte.
+\ff[introBenitex]\bNathan: It really would, good luck.
 Obrigada.
-Obrigada.
+Thanks.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 O que é isso?
-O que é isso?
+Nature Mints?
 TRs.
 TRs.
 Nature Mints.
 Nature Mints.
 É tudo, obrigado.
-É tudo, obrigado.
+That's all, thanks.
 [Map75]
 Heh. Bem vindo À Taverna.
 Heh. Welcome to The Tavern.
@@ -12940,84 +12938,80 @@ You are not.
 \ff[introBenitex]\bNathan: These footprints are just like the ones on the other floor!
 [Map77]
 Saí de Nimbasa e dei um jeito de chegar aqui para tentar achar meu namorado.
-Saí de Nimbasa e dei um jeito de chegar aqui para tentar achar meu namorado.
+I left Nimbasa and made my way here to try to meet my boyfriend.
 Eu queria passar pela ponte, mas aquela moça não colabora comigo.
-Eu queria passar pela ponte, mas aquela moça não colabora comigo.
+But I need to cross the bridge, and that woman won't cooperate with me.
 Nem acredito que fiz tudo isso a toa.
-Nem acredito que fiz tudo isso a toa.
+I can't believe I did all that for nothing.
 \ff[introBenitex]\bNathan: (O jeito que essa lixeira olha para mim...)
-\ff[introBenitex]\bNathan: (O jeito que essa lixeira olha para mim...)
+\ff[introBenitex]\bNathan: (The way that trash can looks at me...)
 \ff[introBenitex]\b(Certamente está cheia de tesouros!)
-\ff[introBenitex]\b(Certamente está cheia de tesouros!)
+\ff[introBenitex]\b(I'm sure it's filled with treasures!)
 \ff[introBenitex]\bNathan: (Mas tem uma menina aqui do lado...)
-\ff[introBenitex]\bNathan: (Mas tem uma menina aqui do lado...)
+\ff[introBenitex]\bNathan: (But there's a girl standing right next to it...)
 \ff[introBenitex]\b(Ela não vai se importar, né?)
-\ff[introBenitex]\b(Ela não vai se importar, né?)
+\ff[introBenitex]\b(Oh, she won't mind, right?)
 Espera, a passagem está bloqueada!
-Espera, a passagem está bloqueada!
+Wait, the passage is blocked!
 \ff[introBenitex]\bNathan: Nossa, também não precisava infringir a lei.
-\ff[introBenitex]\bNathan: Nossa, também não precisava infringir a lei.
+\ff[introBenitex]\bNathan: Damn, she preferred to break the law rather than stay by my side.
 \ff[introBenitex]\b(Melhor deixar pra lá.)
-\ff[introBenitex]\b(Melhor deixar pra lá.)
+\ff[introBenitex]\b(No, I can't do this right now.)
 No momento, a ponte não pode ser acessada.
-No momento, a ponte não pode ser acessada.
+The bridge is currently inaccessible.
 \ff[introBenitex]\bNathan: Por quê?
-\ff[introBenitex]\bNathan: Por quê?
+\ff[introBenitex]\bNathan: Why?
 Aconteceu alguma confusão na Floresta Pinwheel, não sei exatamente o que, mas a polícia está investigando.
-Aconteceu alguma confusão na Floresta Pinwheel, não sei exatamente o que, mas a polícia está investigando.
+There has been some trouble in Pinwheel Forest, I'm not sure exactly what, but the police are investigating.
 Enquanto estiverem lá, não posso deixar ninguém passar.
-Enquanto estiverem lá, não posso deixar ninguém passar.
+While they are there, I can't let anyone through.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Okay.
 Desculpe o incômodo, mas a ponte não pode ser acessada no momento.
-Desculpe o incômodo, mas a ponte não pode ser acessada no momento.
+I'm sorry for the inconvenience, but the bridge is currently inaccessible.
 Desculpe senhor, mas você não pode passar por aí.
-Desculpe senhor, mas você não pode passar por aí.
+Sir, but you can't go through there.
 Minha estratégia é já convidar as pessoas que acabaram de chegar a votar nos palhaços.
-Minha estratégia é já convidar as pessoas que acabaram de chegar a votar nos palhaços.
+My strategy is to invite people who have just arrived at the city to vote for the clowns, before they know about any other club.
 GENIAL.
-GENIAL.
-\ff[introBenitex]\bNathan: (Melhor nem falar nada.)
-\ff[introBenitex]\bNathan: (Melhor nem falar nada.)
+BRILLIANT.
 Pegar mesmo assim
-Pegar mesmo assim
+(Take the precious treasure.)
 Deixar pra lá
-Deixar pra lá
+(Leave.)
 [Map78]
 Ah, oi! Seja bem vindo a Estufa de Castelia, como posso ajudá-lo?
-Ah, oi! Seja bem vindo a Estufa de Castelia, como posso ajudá-lo?
+Hello! Welcome to the Castelia Greenhouses. How may I assist you?
 \ff[introBenitex]\bNathan: Estou passando para conhecer.
-\ff[introBenitex]\bNathan: Estou passando para conhecer.
+\ff[introBenitex]\bNathan: I'm stopping by to see the place.
 Ah, ótimo! Infelizmente, não permitimos a entrada nas estufas para evitar danos nas plantas.
-Ah, ótimo! Infelizmente, não permitimos a entrada nas estufas para evitar danos nas plantas.
+Great! Unfortunately, we do not allow entry into the greenhouses to prevent damage to the plants.
 \l[3]Mas nós temos um pequeno parque que você pode conhecer, é só passar pela porta e seguir até o fim do corredor.
-\l[3]Mas nós temos um pequeno parque que você pode conhecer, é só passar pela porta e seguir até o fim do corredor.
+\l[3]But there is a small park that you can visit at the back. Just go through the door and follow the corridor to the end.
 Se você quiser, também pode comprar nossos produtos, estamos vendendo apricorns, caso você queira.
-Se você quiser, também pode comprar nossos produtos, estamos vendendo apricorns, caso você queira.
+We are also selling Apricorns, in case you are interested.
 \ff[introBenitex]\bNathan: Beleza, obrigado.
-\ff[introBenitex]\bNathan: Beleza, obrigado.
+\ff[introBenitex]\bNathan: Okay, thank you.
 Veio comprar apricorns? Essas são as disponíveis.
-Veio comprar apricorns? Essas são as disponíveis.
+Did you come to buy apricorns? These are the ones available.
 Olá, querido, seja bem vindo a pequena loja da estufa.
-Olá, querido, seja bem vindo a pequena loja da estufa.
-\ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
-Se você não souber exatamente para que servem as apricrons, você deveria conhecer meu marido.
-Se você não souber exatamente para que servem as apricrons, você deveria conhecer meu marido.
+Hello, dear, welcome to the little greenhouse shop.
+Se você não souber exatamente para que servem as apricorns, você deveria conhecer meu marido.
+If you don't know exactly what Apricorns are for, you should meet my husband.
 Ele produz pokebolas com as apricorns que nós plantamos aqui.
-Ele produz pokebolas com as apricorns que nós plantamos aqui.
+He makes Poké Balls with the apricorns we grow here.
 \ff[introBenitex]\bNathan: Legal! Onde ele posso encontrar ele?
-\ff[introBenitex]\bNathan: Legal! Onde ele posso encontrar ele?
+\ff[introBenitex]\bNathan: Cool! Where can I find him?
 Ele mora ao perto da saída para Rota 4, na rua ao norte da Central Plaza.
-Ele mora ao perto da saída para Rota 4, na rua ao norte da Central Plaza.
+He lives near the exit to Route 4, on the street north of Central Plaza.
 \ff[introBenitex]\bNathan: Beleza, vou dar uma passadinha lá depois.
-\ff[introBenitex]\bNathan: Beleza, vou dar uma passadinha lá depois.
+\ff[introBenitex]\bNathan: Great, I'll stop by there later.
 Kurt mora ao perto da saída para Rota 4, na rua ao norte da Central Plaza.
-Kurt mora ao perto da saída para Rota 4, na rua ao norte da Central Plaza.
+Kurt lives near the exit to Route 4, on the street north of Central Plaza.
 Você pode aprender muito sobre apricorns com ele.
-Você pode aprender muito sobre apricorns com ele.
+You can learn a lot about Apricorns from him.
 \ff[introBenitex]\bNathan: (É uma paisagem com um grande lago e árvores, parece que foi feito por um pintor de Johto.)
-\ff[introBenitex]\bNathan: (É uma paisagem com um grande lago e árvores, parece que foi feito por um pintor de Johto.)
+\ff[introBenitex]\bNathan: (It's a landscape with a large lake and trees, it looks like Johto.)
 [Map79]
 Sério que você quer comer comigo? Não estava esperando visitas...
 Sério que você quer comer comigo? Não estava esperando visitas...
@@ -13444,19 +13438,19 @@ Você não sabe nada!
 Você não sabe nada!
 [Map85]
 \ff[introBenitex]\bNathan: Placa em alfabeto Unown. Acho que consigo decodificar...
-\ff[introBenitex]\bNathan: Placa em alfabeto Unown.  Acho que consigo decodificar...
+\ff[introBenitex]\bNathan: It's a sign in the Unown alphabet. I think I can decode it...
 \ff[introBenitex]\bNathan: Parecem... Pegadas.
-\ff[introBenitex]\bNathan: Parecem... Pegadas.
+\ff[introBenitex]\bNathan: They look like... Footprints.
 \ff[introBenitex]\bSerá que essa volcarona é bípede?
-\ff[introBenitex]\bSerá que essa volcarona é bípede?
+\ff[introBenitex]\bCould this Volcarona be bipedal?
 \ff[introBenitex]\bNathan: Essa pedra... Não é como as outras. Também tem rachaduras em baixo dela.
-\ff[introBenitex]\bNathan: Essa pedra... Não é como as outras. Também tem rachaduras em baixo dela.
+\ff[introBenitex]\bNathan: This rock... It's not like the others. Alos, there are cracks underneath it.
 \l[3]\ff[introBenitex]\bPossívelmente foi colocada aí. E essa rachadura... Talvez tivessem tampado alguma passagem, mas a pedra acabou rachando o chão...
-\l[3]\ff[introBenitex]\bPossívelmente foi colocada aí. E essa rachadura... Talvez tivessem tampado alguma passagem, mas a pedra acabou rachando o chão...
+\l[3]\ff[introBenitex]\bI suspect it was placed there. Maybe it was covering some kind of passageway, but the rock ended up cracking the ground...
 \ff[introBenitex]\bNão parece ter muito mais por aqui, vou dar mais uma olhadinha e avisar para o professor sobre isso.
-\ff[introBenitex]\bNão parece ter muito mais por aqui, vou dar mais uma olhadinha e avisar para o professor sobre isso.
+\ff[introBenitex]\bThere doesn't seem to be much else around here, I'll let the professor know about this.
 \ff[introBenitex]\bNathan: Pedra suspeita.
-\ff[introBenitex]\bNathan: Pedra suspeita.
+\ff[introBenitex]\bNathan: A very suspecious rock.
 [Map86]
 Olá!
 Olá!
