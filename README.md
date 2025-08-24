@@ -10,7 +10,7 @@ Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of 
 
 The game's story unfolds at a significantly different pace from the series' standard. The game map comprises the cities of Nimbasa, Castelia, and their surroundings. Instead of traveling throughout the region, you'll explore a small map filled with interactions and side quests. This allows you to thoroughly explore each part, interact with all the characters, dive straight into the main quest, or take it bit by bit at your own pace.
 
-Pokemon Burning Scales is being translated into English (65%) and will be released soon.
+Pokemon Burning Scales is being translated into English (85%) and will be released soon.
 
 ## Story
 

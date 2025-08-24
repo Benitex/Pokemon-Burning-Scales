@@ -12123,253 +12123,253 @@ Tentar conversar.
 (Argue.)
 [Map70]
 Não tá funcionando irmão.
-Não tá funcionando irmão.
+Bro, it doesn't work.
 Tá sim, olha com brilha!
-Tá sim, olha com brilha!
+Yes, it does! Look look how it shines!
 Presta atenção aí enquanto eu jogo.
-Presta atenção aí enquanto eu jogo.
+Pay attention while I play.
 Amor.
-Amor.
+Love.
 Oi Margarida.
-Oi Margarida.
+Hi Margaret.
 Tem certeza que isso é uma televisão? Cadê o Godofredão?
-Tem certeza que isso é uma televisão? Cadê o Godofredão?
+Are you sure this is a television? Where's Jimmy?
 Não, Margarida, o programa dele é só oito da noite.
-Não, Margarida, o programa dele é só oito da noite.
+Margaret, his program doesn't start for another four hours.
 Por que estamos aqui então, amor?
-Por que estamos aqui então, amor?
+Then why are we here, love?
 Vamos só aproveitar o que está passando, pode ser?
-Vamos só aproveitar o que está passando, pode ser?
+Let's just enjoy what's on, shall we?
 Ai ai, tudo bem.
-Ai ai, tudo bem.
+Oh well, okay.
 Gosto das cores fortes, do brilho. Esse lugar é muito bonito.
-Gosto das cores fortes, do brilho. Esse lugar é muito bonito.
+I like the strong colors, the brightness. This place is very beautiful.
 \ff[introBenitex]\bNathan: Cansou de jogar?
-\ff[introBenitex]\bNathan: Cansou de jogar?
+\ff[introBenitex]\bNathan: Tired of playing?
 Na verdade eu nem venho aqui para jogar.
-Na verdade eu nem venho aqui para jogar.
+Actually, I don't even come here to play.
 Eu só acho o lugar bonito, gosto da estética.
-Eu só acho o lugar bonito, gosto da estética.
+I just think it's a beautiful place, I like the aesthetics.
 Inclusive, quer minhas fichas? Eu não vou usar mesmo, só comprei pra poder entrar.
-Inclusive, quer minhas fichas? Eu não vou usar mesmo, só comprei pra poder entrar.
+By the way, do you want my coins? I'm not going to use them anyway, I only bought them so I could get in.
 \ff[introBenitex]\bNathan: Sim, por favor!
-\ff[introBenitex]\bNathan: Sim, por favor!
+\ff[introBenitex]\bNathan: Yes, please!
 Aqui.
-Aqui.
+Here you go.
 Nathan recebeu 25 fichas.
-Nathan recebeu 25 fichas.
+Nathan received 25 coins.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thank you.
 Nada.
-Nada.
+You're welcome.
 \ff[introBenitex]\bNathan: Não precisa não, eu tenho bastante.
-\ff[introBenitex]\bNathan: Não precisa não, eu tenho bastante.
+\ff[introBenitex]\bNathan: No need, I have plenty.
 Tudo bem.
-Tudo bem.
+Alright.
 Estou começando nesse negócio de Triple Triad, mas não consigo vencer dos caras lá em cima.
-Estou começando nesse negócio de Triple Triad, mas não consigo vencer dos caras lá em cima.
+I can't beat the guys at the top in Triple Triad.
 Pode jogar comigo?
-Pode jogar comigo?
+Can we practice together a little?
 \ff[introBenitex]\bNathan: Vamos.
-\ff[introBenitex]\bNathan: Vamos.
+\ff[introBenitex]\bNathan: Sure.
 \ff[introBenitex]\bNathan: Agora não.
-\ff[introBenitex]\bNathan: Agora não.
+\ff[introBenitex]\bNathan: No, I'm fine.
 Certo.
-Certo.
+Alright.
 Talvez fosse legal narrar uma competição dessas máquinas.
-Talvez fosse legal narrar uma competição dessas máquinas.
+Maybe it would be cool to narrate a competition involving these machines.
 Ah, é você Nathan! Parabéns por vencer o torneio de novo.
-Ah, é você Nathan! Parabéns por vencer o torneio de novo.
+Nathan, it's you! Congratulations on winning the tournament again.
 Aqui, pegue algumas fichas de presente.
-Aqui, pegue algumas fichas de presente.
+Here, take some coins as a gift.
 \ff[introBenitex]\bNathan: Obrigado!
-\ff[introBenitex]\bNathan: Obrigado!
+\ff[introBenitex]\bNathan: Thanks!
 É bom te rever.
-É bom te rever.
+It's good to see you again.
 Não sei como as pessoas gostam tanto desses jogos.
-Não sei como as pessoas gostam tanto desses jogos.
+I lost again! I don't know why people like these games so much.
 \ff[introBenitex]\bNathan: Ah, é divertido, daqui a pouco você pega o jeito.
-\ff[introBenitex]\bNathan: Ah, é divertido, daqui a pouco você pega o jeito.
+\ff[introBenitex]\bNathan: Oh, it's fun, you'll get the hang of it in no time.
 Acho que nunca vou recuperar tudo que perdi aqui.
-Acho que nunca vou recuperar tudo que perdi aqui.
+I don't think I'll ever recover everything I lost here.
 Eu perdi dessa vez, mas logo vou recuperar tudo!
-Eu perdi dessa vez, mas logo vou recuperar tudo!
-Só estou fazendo compania pra ele mesmo. Não gosto muito desse tipo de lugar.
-Só estou fazendo compania pra ele mesmo. Não gosto muito desse tipo de lugar.
+ lost this time, but I'll get it all back soon!
+Só estou fazendo companhia pra ele mesmo. Não gosto muito desse tipo de lugar.
+I'm just keeping him company. I really don't like this kind of place.
 Não consigo decidir o que vou jogar!
-Não consigo decidir o que vou jogar!
+I can't decide what to play!
 Esse game corner é bem maior que o de Sinnoh!
-Esse game corner é bem maior que o de Sinnoh!
+This game corner is much bigger than the one in Sinnoh!
 Três 7s??
-Três 7s??
+777??
 Yahahaha!
 Yahahaha!
 \ff[introBenitex]\bNathan: (Devo sair agora? Teria que pagar de novo para entrar...)
-\ff[introBenitex]\bNathan: (Devo sair agora? Teria que pagar de novo para entrar...)
+\ff[introBenitex]\bNathan: (Should I leave now? I would have to pay again to get back in...)
 Como posso ajudar?
-Como posso ajudar?
+How can I help?
 \ff[introBenitex]\bNathan: Vim comprar mais algumas fichas.
-\ff[introBenitex]\bNathan: Vim comprar mais algumas fichas.
+\ff[introBenitex]\bNathan: I want to buy some coins.
 \gÓtimo! Quantas vai querer?
-\gÓtimo! Quantas vai querer?
+\gGreat! How many would you like?
 \ff[introBenitex]\bNathan: Vou querer 25 fichas.
-\ff[introBenitex]\bNathan: Vou querer 25 fichas.
+\ff[introBenitex]\bNathan: I'll take 25.
 Aqui estão.\nMuito obrigado e divirta-se!
-Aqui estão.\nMuito obrigado e divirta-se!
+Here you go.\nThank you very much, and have fun!
 \ff[introBenitex]\bNathan: Vish, estou sem dinheiro comigo. Volto depois.
-\ff[introBenitex]\bNathan: Vish, estou sem dinheiro comigo. Volto depois.
+\ff[introBenitex]\bNathan: Oh no, I don't have any money on me. I'll be back later.
 Certo, sem problemas.
-Certo, sem problemas.
+Sure, no problem.
 \ff[introBenitex]\bNathan: Vou querer 50 fichas.
-\ff[introBenitex]\bNathan: Vou querer 50 fichas.
+\ff[introBenitex]\bNathan: I'll take 50 coins.
 \ff[introBenitex]\bNathan: Vou querer 500 fichas.
-\ff[introBenitex]\bNathan: Vou querer 500 fichas.
+\ff[introBenitex]\bNathan: 500 coins.
 \ff[introBenitex]\bNathan: Mudei de ideia, venho aqui depois.
-\ff[introBenitex]\bNathan: Mudei de ideia, venho aqui depois.
+\ff[introBenitex]\bNathan: I changed my mind, I'll come here later.
 \ff[introBenitex]\bNathan: Quero de trocar minhas fichas.
-\ff[introBenitex]\bNathan: Quero de trocar minhas fichas.
+\ff[introBenitex]\bNathan: I want to exchange my coins for prizes.
 Certo, você pode ver as opções na vitrine.
-Certo, você pode ver as opções na vitrine.
+Okay, you can see the options in the display case.
 \CNQual prêmio você quer?\ch[1,16, Exp. Candy XS - 1 coin,Exp. Candy S - 10 coins,Exp. Candy M - 50 coins,Exp. Candy L - 150 coins,Exp. Candy XL - 500 coins, Ability Capsule - 50 coins, Ability Patch - 750 coins,PP Up - 20 coins, PP Max - 50 coins, HP Up - 50 coins,Protein - 50 coins,Iron - 50 coins,Calcium - 50 coins,Zinc - 50 coins,Carbos - 50 coins,Mudei de ideia]
-\CNQual prêmio você quer?\ch[1,16, Exp. Candy XS - 1 coin,Exp. Candy S - 10 coins,Exp. Candy M - 50 coins,Exp. Candy L - 150 coins,Exp. Candy XL - 500 coins, Ability Capsule - 50 coins, Ability Patch - 750 coins,PP Up - 20 coins, PP Max - 50 coins, HP Up - 50 coins,Protein - 50 coins,Iron - 50 coins,Calcium - 50 coins,Zinc - 50 coins,Carbos - 50 coins,Mudei de ideia]
+\CNWhich prize do you want??\ch[1,16, Exp. Candy XS - 1 coin,Exp. Candy S - 10 coins,Exp. Candy M - 50 coins,Exp. Candy L - 150 coins,Exp. Candy XL - 500 coins, Ability Capsule - 50 coins, Ability Patch - 750 coins,PP Up - 20 coins, PP Max - 50 coins, HP Up - 50 coins,Protein - 50 coins,Iron - 50 coins,Calcium - 50 coins,Zinc - 50 coins,Carbos - 50 coins,Leave]
 \CNVocê quer esse \v[3]?
-\CNVocê quer esse \v[3]?
+\CNDo you want this \v[3]?
 \ff[introBenitex]\bNathan: Ah, agora que eu vi que não tenho fichas suficientes, desculpa.
-\ff[introBenitex]\bNathan: Ah, agora que eu vi que não tenho fichas suficientes, desculpa.
+\ff[introBenitex]\bNathan: Oh, now that I see I don't have enough coins. Sorry.
 Sem problemas.
-Sem problemas.
+No problem.
 Aqui está, muito obrigada!
-Aqui está, muito obrigada!
+Here you go, thank you!
 \ff[introBenitex]\bNathan: Nossa, minha mochila está cheia, acho que vou ter que passar aqui depois.
-\ff[introBenitex]\bNathan: Nossa, minha mochila está cheia, acho que vou ter que passar aqui depois.
+\ff[introBenitex]\bNathan: Wow, my backpack is full, I think I'll have to come back later.
 Tudo bem, temos várias opções.
-Tudo bem, temos várias opções.
+Alright, we have several options.
 \ff[introBenitex]\bNathan: Não, pensando bem, não quero não.
-\ff[introBenitex]\bNathan: Não, pensando bem, não quero não.
+\ff[introBenitex]\bNathan: No, on second thought, I don't want that.
 \ff[introBenitex]\bNathan: Quero trocar cartas de Triple Triad.
-\ff[introBenitex]\bNathan: Quero trocar cartas de Triple Triad.
+\ff[introBenitex]\bNathan: I want to trade Triple Triad cards.
 Aproveite!
-Aproveite!
+Enjoy!
 \ff[introBenitex]\bNathan: Você vai ficar trocando as fichas o tempo todo?
-\ff[introBenitex]\bNathan: Você vai ficar trocando as fichas o tempo todo?
+\ff[introBenitex]\bNathan: Are you going to keep changing coins all the time?
 Vou.
-Vou.
+Yes.
 Não tenho paciência pra ficar acumulando fichas.
-Não tenho paciência pra ficar acumulando fichas.
+I don't have the patience to keep coins on me.
 Não aguento mais ver a cara da minha esposa. Eu fico aqui até a hora que ela vai dormir só pra isso.
-Não aguento mais ver a cara da minha esposa. Eu fico aqui até a hora que ela vai dormir só pra isso.
+I can't stand seeing my wife's face anymore. I stay here until she goes to sleep just for that reason.
 \ff[introBenitex]\bNathan: Que isso, por quê?
-\ff[introBenitex]\bNathan: Que isso, por quê?
+\ff[introBenitex]\bNathan: Damn, why?
 Estou cansado, só isso.
-Estou cansado, só isso.
+I'm tired of her, that's all.
 Por Arceus, quanta gente...
-Por Arceus, quanta gente...
+Arceus, this place is so crowded...
 Esse jogo não é pra mim.
-Esse jogo não é pra mim.
+This game isn't for me.
 Mesmo assim, não consigo parar de jogar.
-Mesmo assim, não consigo parar de jogar.
+Still, I can't stop playing it.
 Se quiser, posso te explicar como os jogos funcionam.
-Se quiser, posso te explicar como os jogos funcionam.
+If you want, I can explain how the games work.
 De qual jogo quer saber?
-De qual jogo quer saber?
+Which game would you like to know about?
 \ff[introBenitex]\bNathan: Queria entender como funcionam as slot machines.
-\ff[introBenitex]\bNathan: Queria entender como funcionam as slot machines.
+\ff[introBenitex]\bNathan: I would like to understand how slot machines work.
 As slot machines são as máquinas mais clássicas dos game corners.
-As slot machines são as máquinas mais clássicas dos game corners.
+Slot machines are the most classic machines in game corners.
 Você tem que conseguir alinhar várias figuras iguais em linha.
-Você tem que conseguir alinhar várias figuras iguais em linha.
+You have to line up several identical symbols in a line.
 Dependendo do número de créditos que você insere na máquina, você pode preencher mais linhas.
-Dependendo do número de créditos que você insere na máquina, você pode preencher mais linhas.
+Depending on the number of coins you insert into the machine, you can try to fill more lines.
 Cada sequência de figuras dá uma quantidade de créditos diferente.
-Cada sequência de figuras dá uma quantidade de créditos diferente.
+Each sequence of symbols gives you a different number of coins.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Okay.
 \ff[introBenitex]\bNathan: Como se joga Triple Triad?
-\ff[introBenitex]\bNathan: Como se joga Triple Triad?
+\ff[introBenitex]\bNathan: How do you play Triple Triad?
 Antes de começar jogar, você precisa de algumas cartas.
-Antes de começar jogar, você precisa de algumas cartas.
+Before you start playing, you need some cards.
 Nesse jogo, você compete com seu oponente e o vencedor ganha uma carta aleatória do outro jogador.
-Nesse jogo, você compete com seu oponente e o vencedor ganha uma carta aleatória do outro jogador.
+In this game, you compete with your opponent, and the winner gets a random card from the other player.
 Pra jogar, você deve escolher uma das cartas e colocar sobre a mesa.
-Pra jogar, você deve escolher uma das cartas e colocar sobre a mesa.
+To play, you must choose one of the cards and place it on the table.
 Você deve comparar os atributos das cartas lado a lado, o atributo de cima de uma carta, com o de baixo da outra, por exemplo.
-Você deve comparar os atributos das cartas lado a lado, o atributo de cima de uma carta, com o de baixo da outra, por exemplo.
+Then you compare the attributes of the cards side by side, the top attribute of one card with the bottom attribute of the other, for example.
 Se sua carta tiver um atributo maior do que a do lado, você ganha o controle daquela carta.
-Se sua carta tiver um atributo maior do que a do lado, você ganha o controle daquela carta.
+If your card has a higher attribute than the one next to it, you gain control of the other card.
 O jogador que tiver controle de mais cartas no fim do jogo é o vencedor.
-O jogador que tiver controle de mais cartas no fim do jogo é o vencedor.
+The player who has control of the most cards at the end of the game is the winner.
 Aqui, pegue algumas cartas pra você começar.
-Aqui, pegue algumas cartas pra você começar.
+Here, take some cards to get you started.
 Olha, você tem um pokemon especial! Vou fazer uma customizada pra você.
-Olha, você tem um pokemon especial! Vou fazer uma customizada pra você.
+Oh, you have a special Pokémon! I'll make a custom card for you.
 Você pode comprar cartas no mesmo lugar onde troca prêmios, ali na frente.
-Você pode comprar cartas no mesmo lugar onde troca prêmios, ali na frente.
+You can buy cards at the same place where you exchange prizes.
 \ff[introBenitex]\bNathan: Queria aprender a jogar Voltorb Flip.
-\ff[introBenitex]\bNathan: Queria aprender a jogar Voltorb Flip.
+\ff[introBenitex]\bNathan: I'd like to learn how to play Voltorb Flip.
 \l[3]Certo. O ponto positivo desse jogo é que você não perde fichas. O ponto negativo é que as pessoas cobram um valor extra pra jogar com você.
-\l[3]Certo. O ponto positivo desse jogo é que você não perde fichas. O ponto negativo é que as pessoas cobram um valor extra pra jogar com você.
+\l[3]Okay. The good thing about this game is that you never lose coins. The downside is that it's more expensive.
 Para jogar, você deve escolher um dos quadradinhos e esperar que não seja um voltorb.
-Para jogar, você deve escolher um dos quadradinhos e esperar que não seja um voltorb.
+To play, you have to choose one of the little squares and hope it's not a Voltorb.
 Os quadradinhos servem para multiplicar a quantidade de fichas que você ganha.
-Os quadradinhos servem para multiplicar a quantidade de fichas que você ganha.
+The squares are used to multiply the number of coins you win.
 Se você escolher um voltorb, perde todas as fichas.
-Se você escolher um voltorb, perde todas as fichas.
+If you choose a Voltorb, you lose all your coins.
 \l[3]Do lado dos quadradinhos, tem uns quadrados coloridos que indicam a soma de voltorbs e multiplicadores nas linha ou coluna.
-\l[3]Do lado dos quadradinhos, tem uns quadrados coloridos que indicam a soma de voltorbs e multiplicadores nas linha ou coluna.
+\l[3]Next to the squares, you can see the amount of Voltorbs and multipliers in the row or column.
 \ff[introBenitex]\bNathan: Já sei tudo que preciso, obrigado.
-\ff[introBenitex]\bNathan: Já sei tudo que preciso, obrigado.
+\ff[introBenitex]\bNathan: I know everything I need to know, thank you.
 Os jogos são bem simples, você deve entender bem rápido.
-Os jogos são bem simples, você deve entender bem rápido.
+The games are very simple, you should understand them quickly.
 O que você quer menino? Não enche o saco!
-O que você quer menino? Não enche o saco!
+What do you want, kid? Don't bother me!
 Já estou profissional nisso.
-Já estou profissional nisso.
+I'm a professional already!
 Toma algumas fichas.
-Toma algumas fichas.
+Here, take some coins.
 Esse jogo é menos agressivo do que eu imaginava. Me arrumei a toa.
-Esse jogo é menos agressivo do que eu imaginava.  Me arrumei a toa.
+This game is less aggressive than I imagined. I got all dressed up for nothing.
 \ff[introBenitex]\bNathan: Por que você pensou isso?
-\ff[introBenitex]\bNathan: Por que você pensou isso?
+\ff[introBenitex]\bNathan: Why did you think that?
 As pessoas não dizem que esse tipo de lugar é super agressivo?
-As pessoas não dizem que esse tipo de lugar é super agressivo?
+Don't people say that this kind of place is super aggressive?
 Cuidado pra não gastar dinheiro demais aqui.
-Cuidado pra não gastar dinheiro demais aqui.
+Be careful not to spend too much money here.
 Sim!
-Sim!
+Yes!
 Não precisa.
-Não precisa.
+No, thanks.
 Sim.
-Sim.
+Yes.
 Agora não.
-Agora não.
+I'm fine.
 Não.
-Não.
+No.
 Comprar fichas.
-Comprar fichas.
+Buy coins.
 Trocar fichas.
-Trocar fichas.
+Exchange coins.
 Trocar cartas.
-Trocar cartas.
+Exchange cards.
 Sair.
-Sair.
+Leave.
 25 fichas - $500
-25 fichas - $500
+25 coins - $500
 50 fichas - $1000
-50 fichas - $1000
+50 coins - $1000
 500 fichas - $10000
-500 fichas - $10000
+500 coins - $10000
 Mudei de ideia.
-Mudei de ideia.
+Leave.
 Isso.
-Isso.
+Yes.
 Não, mudei de ideia.
-Não, mudei de ideia.
+No, I changed my mind.
 Comprar
-Comprar
+Buy.
 Vender
-Vender
+Sell.
 Sair
-Sair
+Leave.
 Slot machines.
 Slot machines.
 Triple Triad.
@@ -12377,200 +12377,200 @@ Triple Triad.
 Voltorb Flip.
 Voltorb Flip.
 Obrigado.
-Obrigado.
+Thanks.
 [Map71]
 Se você me vencer, eu te dou minhas 5 cartas, se você perder, você me dá as suas.
-Se você me vencer, eu te dou minhas 5 cartas, se você perder, você me dá as suas.
+High stakes. If you beat me, I'll give you my 5 cards. If you lose, you give me yours.
 Vai aceitar meu desafio?
-Vai aceitar meu desafio?
+Do you accept my challenge?
 \ff[introBenitex]\bNathan: Estou pronto.
-\ff[introBenitex]\bNathan: Estou pronto.
+\ff[introBenitex]\bNathan: I'm ready.
 Vamos lá!
-Vamos lá!
+Let's go!
 Incrível!
-Incrível!
+Amazing!
 Como pode ser?
-Como pode ser?
+How is that possible?
 Você é realmente muito habilidoso menino. Ganhou de um profissional...
-Você é realmente muito habilidoso menino. Ganhou de um profissional...
+You are really very skilled, young man. You beat a professional...
 Bom, muito bem, as cartas são suas. Parabéns.
-Bom, muito bem, as cartas são suas. Parabéns.
+Very well, those cards are yours. Congratulations.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
-Além disso, você merece um prêmio especial. Isso não é um desafio, afinal.
-Além disso, você merece um prêmio especial. Isso não é um desafio, afinal.
+\ff[introBenitex]\bNathan: Thank you.
+Além disso, você merece um prêmio especial. Isso foi um baita desafio, afinal.
+You also deserve a special prize. This is a real challenge, after all.
 Essa carta é lendária, use com respeito a seus oponentes.
-Essa carta é lendária, use com respeito a seus oponentes.
+This is a legendary card, use it with respect for your opponents.
 \ff[introBenitex]\bNathan: Nossa, um reshiram! Muito obrigado.
-\ff[introBenitex]\bNathan: Nossa, um reshiram! Muito obrigado.
+\ff[introBenitex]\bNathan: Wow, a Reshiram! Thank you very much.
 Use com sabedoria.
-Use com sabedoria.
+Use it wisely.
 Foi um bom jogo, mas você ainda não está preparado. É triste para você, mas vou ficar com suas cartas.
-Foi um bom jogo, mas você ainda não está preparado. É triste para você, mas vou ficar com suas cartas.
+It was a good game, but you're not ready yet. Sorry, but I'll keep your cards.
 \ff[introBenitex]\bNathan: Ainda não.
-\ff[introBenitex]\bNathan: Ainda não.
+\ff[introBenitex]\bNathan: I'm not ready yet;
 Volte quando se sentir preparado.
-Volte quando se sentir preparado.
+Come back when you feel ready.
 Eu sou especialista em Triple Triad. Eu jogo com regras diferentes, por causa disso.
-Eu sou especialista em Triple Triad. Eu jogo com regras diferentes, por causa disso.
+I am an expert at Triple Triad. I play with different rules because of that.
 \l[3]Quando alguém joga comigo, está disposto a perder todas as cartas em jogo, assim como pode ganhar todas as minhas se ganhar.
-\l[3]Quando alguém joga comigo, está disposto a perder todas as cartas em jogo, assim como pode ganhar todas as minhas se ganhar.
+\l[3]Anyone that plays againts me should be willing to lose all the cards in play, just as they can win all of mine if they win.
 Alto risco, alta recompensa.
-Alto risco, alta recompensa.
+High risk, high reward.
 O que você acha?
-O que você acha?
+What do you think?
 \ff[introBenitex]\bNathan: Perigoso.
-\ff[introBenitex]\bNathan: Perigoso.
+\ff[introBenitex]\bNathan: Dangerous.
 E recompensador!
-E recompensador!
+And rewarding!
 Se quiser jogar, é só falar comigo.
-Se quiser jogar, é só falar comigo.
+If you want to play, just talk to me.
 Você ainda quer me desafiar? Não seja ganancioso...
-Você ainda quer me desafiar? Não seja ganancioso...
+Do you want to challenge me again? Don't be greedy...
 \ff[introBenitex]\bNathan: Sim, ainda quero jogar.
-\ff[introBenitex]\bNathan: Sim, ainda quero jogar.
+\ff[introBenitex]\bNathan: Yes, I still want to play.
 Hehe, os jovens adoram brincar com o fogo.
-Hehe, os jovens adoram brincar com o fogo.
+Hehe, young people love to play with fire.
 \ff[introBenitex]\bNathan: Não, você está certo.
-\ff[introBenitex]\bNathan: Não, você está certo.
+\ff[introBenitex]\bNathan: No, you're right.
 Muito bem.
-Muito bem.
+Very good.
 Acho que as máquinas daqui são mais difíceis que as lá de baixo.
-Acho que as máquinas daqui são mais difíceis que as lá de baixo. 
+I think these machines are harder than the ones downstairs.
 Opa, quer jogar Voltorb Flip?
-Opa, quer jogar Voltorb Flip?
-Eu posso combinar um valor camarada com você, só $300.
-Eu posso combinar um valor camarada com você, só $300.
+Hey, want to play Voltorb Flip?
+Eu posso combinar um valor camarada com você, só $1000.
+I can give you a good deal, only $1000.
 Estou incentivando mais pessoas a jogarem.
-Estou incentivando mais pessoas a jogarem.
+I'm encouraging more people to play.
 \ff[introBenitex]\bNathan: Legal.
-\ff[introBenitex]\bNathan: Legal.
-E aí, vai querer jogar uma rodada de Voltorb Flip por $300?
-E aí, vai querer jogar uma rodada de Voltorb Flip por $300?
+\ff[introBenitex]\bNathan: Cool.
+E aí, vai querer jogar uma rodada de Voltorb Flip por $1000?
+So, would you like to play a round of Voltorb Flip for $1000?
 \ff[introBenitex]\bNathan: Vamos.
-\ff[introBenitex]\bNathan: Vamos.
+\ff[introBenitex]\bNathan: Yes.
 Beleza, vou colocar os voltorbs.
-Beleza, vou colocar os voltorbs.
+Sure, I'll put the Voltorbs in.
 \ff[introBenitex]\bNathan: Agora não.
-\ff[introBenitex]\bNathan: Agora não.
+\ff[introBenitex]\bNathan: Not now.
 Quando quiser, estou aqui.
-Quando quiser, estou aqui.
+Whenever you're ready, I'm here.
 Pra jogar comigo, você tem que usar cartas aleatórias.
-Pra jogar comigo, você tem que usar cartas aleatórias.
+To play with me, you have to use random cards.
 Bora lá!
-Bora lá!
+Let's go!
 O maluco é brabo.
-O maluco é brabo.
+The dude is a beast.
 É, você ganhou. Além da minha carta, vou te dar outro prêmio.
-É, você ganhou. Além da minha carta, vou te dar outro prêmio.
+Yeah, you won. I'm giving you my card and another prize for the good game.
 Essa carta é lendária, então toma cuidado com onde vai enfiar isso aí!
-Essa carta é lendária, então toma cuidado com onde vai enfiar isso aí!
+This is a legendary card, so be careful where you stick it!
 \ff[introBenitex]\bNathan: Nossa, um zekrom! Muito obrigado.
-\ff[introBenitex]\bNathan: Nossa, um zekrom! Muito obrigado.
+\ff[introBenitex]\bNathan: Wow, a Zekrom! Thank you very much.
 Não vai jogar fora achando que é lixo!
-Não vai jogar fora achando que é lixo!
+Don't let you mom throw it away thinking it's trash!
 Perdeu otário!
-Perdeu otário!
+Game over, loser!
 O cara tá com medo. Não vai fazer aquelas estratégias sacanas, em!
-O cara tá com medo. Não vai fazer aquelas estratégias sacanas, em!
+Dude's playing scared. Hey, no cheesy tactics now, alright?
 \l[3]Quando alguém joga comigo, está disposto a usar 5 cartas aleatórias entre as que tem.
-\l[3]Quando alguém joga comigo, está disposto a usar 5 cartas aleatórias entre as que tem.
+\l[3]When someone plays against me, they are willing to use 5 random cards from among those they have.
 Eu também vou fazer o mesmo. Minhas filhas sempre perdem as minhas, então pego as que acho pela casa pra jogar.
-Eu também vou fazer o mesmo. Minhas filhas sempre perdem as minhas, então pego as que acho pela casa pra jogar.
+I'm also going to do the same. My daughters always lose mine, so I pick up the ones I find around the house to play with.
 Você ainda quer jogar mais?
-Você ainda quer jogar mais?
+Do you want to play more even more?
 \ff[introBenitex]\bNathan: Sim.
-\ff[introBenitex]\bNathan: Sim.
+\ff[introBenitex]\bNathan: Yes.
 O cara não cansa.
-O cara não cansa.
+A restless guy.
 \ff[introBenitex]\bNathan: Não, não no momento.
-\ff[introBenitex]\bNathan: Não, não no momento.
+\ff[introBenitex]\bNathan: No, not at the moment.
 Ainda bem.
-Ainda bem.
+Good.
 Sou terrível nesses jogos, não aguento mais!
-Sou terrível nesses jogos, não aguento mais!
+I'm terrible at these games, I can't take it anymore!
 \ff[introBenitex]\bNathan: Calma moça, continua praticando.
-\ff[introBenitex]\bNathan: Calma moça, continua praticando.
+\ff[introBenitex]\bNathan: Calm down, keep practicing.
 \ff[introBenitex]\bNo início todo mundo só perde mesmo.
-\ff[introBenitex]\bNo início todo mundo só perde mesmo.
+\ff[introBenitex]\bIt's hard to win when you're getting started.
 \ff[introBenitex]\bDepois também.
-\ff[introBenitex]\bDepois também.
+\ff[introBenitex]\bAnd afterwards too.
 Aaaaaaa!
 Aaaaaaa!
 \ff[introBenitex]\bNathan: Não, mas, falando sério, a prática leva à perfeição.
-\ff[introBenitex]\bNathan: Não, mas, falando sério, a prática leva à perfeição.
+\ff[introBenitex]\bNathan: But seriously now, practice makes perfect.
 \ff[introBenitex]\bNathan: Pois é, essas máquinas são roubadas mesmo, deixa isso pra lá.
-\ff[introBenitex]\bNathan: Pois é, essas máquinas são roubadas mesmo, deixa isso pra lá.
+\ff[introBenitex]\bNathan: Yeah, those machines are rigged. Just forget about it.
 Estava pensando exatamente nisso!
-Estava pensando exatamente nisso!
+That's exactly what I was thinking!
 Perdi por sua causa, não me desconcentra!
-Perdi por sua causa, não me desconcentra!
+I lost because of you, don't distract me!
 \ff[introBenitex]\bNathan: Certo, certo.
-\ff[introBenitex]\bNathan: Certo, certo.
+\ff[introBenitex]\bNathan: Yeah, sure.
 Ei, quer jogar triple triad?
-Ei, quer jogar triple triad?
+Hey, wanna play Triple Triad?
 Ótimo.
-Ótimo.
+Great.
 Certo.
-Certo.
+Alright.
 Ei, como foi sua última tentativa de derrotar os especialistas de triple triad?
-Ei, como foi sua última tentativa de derrotar os especialistas de triple triad?
+Hey, how did your last try to defeat the triple triad experts go?
 Não consigo ganhar do Felipe de jeito nenhum.
-Não consigo ganhar do Felipe de jeito nenhum.
+I can't beat Felipe no matter what I do.
 Essa regra de entregar todas as cartas está acabando comigo.
-Essa regra de entregar todas as cartas está acabando comigo.
+This rule of handing over all your cards is killing me.
 Tenta derrotar o Igor antes, pelo menos você não vai perder tudo sempre.
-Tenta derrotar o Igor antes, pelo menos você não vai perder tudo sempre.
+Try defeating Igor first, at least you won't lose your cards every time.
 É, boa ideia. Esses especialistas são muito complicados...
-É, boa ideia. Esses especialistas são muito complicados...
+Yeah, good idea. These experts are really hard...
 Com licença.
-Com licença.
+Excuse me.
 Oi, quer jogar triple triad?
-Oi, quer jogar triple triad?
+Hi, wanna play Triple Triad?
 Legal!
-Legal!
+Cool!
 Tudo bem.
-Tudo bem.
+Alright.
 Ei, não vale ficar coversado não!
-Ei, não vale ficar coversado não!
+Hey, no chatting!
 Não tá vendo que eu to ocupado, menino?
-Não tá vendo que eu to ocupado, menino?
+Can't you see I'm busy, kid?
 Isso aqui é muito chato!
-Isso aqui é muito chato!
+This is so boring!
 Não estou entendendo nada, minha torre está linda, super alta, por que o jogo continua dizendo que perdi???
-Não estou entendendo nada, minha torre está linda, super alta, por que o jogo continua dizendo que perdi???
+I just don't understand. My tower is beautiful and super tall, so why does the game keep saying I lost???
 \ff[introBenitex]\bNathan: Você tá jogando tetris?
-\ff[introBenitex]\bNathan: Você tá jogando tetris?
+\ff[introBenitex]\bNathan: Are you playing Tetris?
 Tetris? Pera, deixa eu ver.
-Tetris? Pera, deixa eu ver.
+Tetris? Wait, let me check.
 Isso, é tetris o nome do jogo.
-Isso, é tetris o nome do jogo.
+Yeah, this game is called Tetris.
 \l[3]\ff[introBenitex]\bNathan: É que o objetivo do tetris não é alcançar o topo da tela. O objetivo é preencher linhas evitando chegar em cima.
-\l[3]\ff[introBenitex]\bNathan: É que o objetivo do tetris não é alcançar o topo da tela. O objetivo é preencher linhas evitando chegar em cima.
+\l[3]\ff[introBenitex]\bNathan: The goal of Tetris is not to reach the top of the screen. The goal is to fill lines while avoiding reaching the top.
 Hummm.
-Hummm.
+Hum.
 Acho que entendi...
-Acho que entendi...
+I think I get it...
 \ff[introBenitex]\bNathan: Ah, a máquina só pode estar quebrada então.
-\ff[introBenitex]\bNathan: Ah, a máquina só pode estar quebrada então.
+\ff[introBenitex]\bNathan: The machine must be broken or something.
 Odeio esses apetrechos eletrônicos complicados!
-Odeio esses apetrechos eletrônicos complicados!
+I hate these complicated electronic gadgets!
 \ff[introBenitex]\bNathan: (Ele claramente não está entendendo nada.)
-\ff[introBenitex]\bNathan: (Ele claramente não está entendendo nada.)
+\ff[introBenitex]\bNathan: (He clearly doesn't understand what's happening.)
 Nunca jogue esse jogo. É terrível.
-Nunca jogue esse jogo. É terrível.
+Never play this game. It's terrible.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 Uma hora você consegue.
-Uma hora você consegue.
+You'll get it eventually.
 Melhor desistir.
-Melhor desistir.
+Better give up.
 Você está jogando errado.
-Você está jogando errado.
+You're playing it wrong.
 A máquina tá quebrada.
-A máquina tá quebrada.
+That machine is broken.
 [Map72]
 Escolha o andar.
 Select a floor.
