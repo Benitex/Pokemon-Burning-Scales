@@ -11827,7 +11827,7 @@ I can even give you some more if you want.
 \l[3]\ff[introBenitex]\bNathan: Por isso, eu gostaria de ajudar você a voltar a vender suas berrys. Eu não tenho dinheiro no momento, mas vou voltar aqui depois.
 \l[3]\ff[introBenitex]\bNathan: That's why I'd like to help you get back to selling your berries. I don't have any money right now, but I'll come back here later.
 Meu filho... Não precisava disso. Eu não acredito.
-My son... You didn't have to do that. I can't believe it.
+Dear... You didn't have to do that. I can't believe it.
 Eu estava tão mal, não vou mentir. A situação não me deixou nada bem, era realmente minha paixão.
 I was in such a bad mood, I won't lie. The situation didn't do me any good, it was really my passion.
 Pode deixar, eu vou reerguer a barraca e voltar aos negócios. Mais empolgada que nunca!
@@ -11839,7 +11839,7 @@ Thank you, I really don't know how to thank you.
 \ff[introBenitex]\bNathan: Te vejo depois.
 \ff[introBenitex]\bNathan: See you later.
 Bom passeio, filho.
-Have a nice day, son.
+Have a nice day, honey.
 Foi muita gentileza da sua parte, menino. Sou eternamente grata.
 That was very kind of you, young man. I am eternally grateful.
 Mesmo depois de abrir minha loja, ainda gosto de passar aqui de vez em quando. Esse lugar me trás boas lembranças.
@@ -13014,166 +13014,158 @@ You can learn a lot about Apricorns from him.
 \ff[introBenitex]\bNathan: (It's a landscape with a large lake and trees, it looks like Johto.)
 [Map79]
 Sério que você quer comer comigo? Não estava esperando visitas...
-Sério que você quer comer comigo? Não estava esperando visitas...
+I wasn't expecting visitors...
 Ah, pega o meu prato mesmo, pode comer.
-Ah, pega o meu prato mesmo, pode comer.
+Whatever, take my plate, you can eat.
 Que foi? Que cara é essa? Não quer?
-Que foi? Que cara é essa? Não quer?
+Why the long face? Don't you want it?
 \ff[introBenitex]\bNathan: Eu só... Não esperava isso.
-\ff[introBenitex]\bNathan: Eu só... Não esperava isso.
+\ff[introBenitex]\bNathan: I just... I wasn't expecting this.
 Se não quiser, me devolve.
-Se não quiser, me devolve.
+If you don't want it, give it back to me.
 \ff[introBenitex]\bNathan: É... Pode ficar.
-\ff[introBenitex]\bNathan: É... Pode ficar.
+\ff[introBenitex]\bNathan: Yeah... You can keep it.
 \ff[introBenitex]\bNathan: Obrigado, eu acho.
-\ff[introBenitex]\bNathan: Obrigado, eu acho.
-Esse pessoal não é acostumado com esse tipo de coisa...
-Esse pessoal não é acostumado com esse tipo de coisa...
+\ff[introBenitex]\bNathan: Thanks, I guess.
 Eu recomendo você a passar num restaurante. Aquele de Nimbasa é legal.
-Eu recomendo você a passar num restaurante.  Aquele de Nimbasa é legal.
+I recommend you stop by a restaurant. That one in Nimbasa is nice.
 Olha, meu cliente favorito!
-Olha, meu cliente favorito!
+Hey, my favorite client!
 Veio até a minha casa em busca de novos produtos, é?
-Veio até a minha casa em busca de novos produtos, é?
+You came to my house looking for my new products, is that right?
 \ff[introBenitex]\bNathan: Uhum, o que tem aí?
-\ff[introBenitex]\bNathan: Uhum, o que tem aí?
+\ff[introBenitex]\bNathan: Yeah, what do you got there?
 Eu estava comendo, mas posso fazer uma pausa rápida.
-Eu estava comendo, mas posso fazer uma pausa rápida.
+I was eating, but I can take a quick break to show you.
 Ah, não me lembro de você, você é cliente?
-Ah, não me lembro de você, você é cliente?
+Oh, I don't remember you. Are you a customer?
 \ff[introBenitex]\bNathan: O que você vende mesmo?
-\ff[introBenitex]\bNathan: O que você vende mesmo?
+\ff[introBenitex]\bNathan: What do you sell again?
 Produtos.
-Produtos.
+Products.
 \ff[introBenitex]\bNathan: Produtos?
-\ff[introBenitex]\bNathan: Produtos?
+\ff[introBenitex]\bNathan: Products?
 É, produtos, você não me conhece, né?
-É, produtos, você não me conhece, né?
+Yeah, products. You don't know me, do you?
 \l[3]Eu estava vendendo produtos no torneio de Nimbasa a um tempo atrás, na época eram produtos de Pinwheel, agora são da caverna Chargestone.
-\l[3]Eu estava vendendo produtos no torneio de Nimbasa a um tempo atrás, na época eram produtos de Pinwheel, agora são da caverna Chargestone.
+\l[3]I was selling products at the Nimbasa tournament a while back. Back then, they were from Pinwheel Forest, but now they're from Chargestone Cave.
 Espero que tenha entendido o que eu quero dizer.
-Espero que tenha entendido o que eu quero dizer.
+I hope you understand what I mean.
 Vai querer comprar novos produtos?
-Vai querer comprar novos produtos?
+Do you want to buy some new products?
 \gEsses são os disponíveis. Todos custam $1000.\ch[1,8, Joltik,Klink,Ferroseed,Nosepass, Boldore,Tynamo,Drilbur,Mudei de ideia]
-\gEsses são os disponíveis. Todos custam $1000.\ch[1,8, Joltik,Klink,Ferroseed,Nosepass, Boldore,Tynamo,Drilbur,Mudei de ideia]
+\gThose are the ones available right now. All cost $1000.\ch[1,8, Joltik,Klink,Ferroseed,Nosepass, Boldore,Tynamo,Drilbur,(Leave)]
 \ff[introBenitex]\bNathan: Estou de olho nesse \v[3].
-\ff[introBenitex]\bNathan: Estou de olho nesse \v[3].
+\ff[introBenitex]\bNathan: Can I take a look at this \v[3]?
 Custa 1000$, vai querer?
-Custa 1000$, vai querer?
+It costs $1000, are you interested in buying it?
 \ff[introBenitex]\bNathan: Pode passar.
-\ff[introBenitex]\bNathan: Pode passar.
+\ff[introBenitex]\bNathan: Yeah, sure.
 Obrigado por comprar meus produtos, não conte a ninguém.
-Obrigado por comprar meus produtos, não conte a ninguém.
+Thank you for buying my products. Don't tell anyone.
 \ff[introBenitex]\bNathan: Eu até compraria, mas estou sem dinheiro agora.
-\ff[introBenitex]\bNathan: Eu até compraria, mas estou sem dinheiro agora.
+\ff[introBenitex]\bNathan: I would buy it, but I'm out of money right now.
 Tudo bem, não vou sair daqui... Da minha casa.
-Tudo bem, não vou sair daqui... Da minha casa.
+Alright, I'm not leaving... My house.
 \ff[introBenitex]\bNathan: Mudei de ideia.
-\ff[introBenitex]\bNathan: Mudei de ideia.
+\ff[introBenitex]\bNathan: I changed my mind.
 Pode olhar com calma.
-Pode olhar com calma.
+Okay.
 \ff[introBenitex]\bNathan: Obrigado por me deixar dar uma olhada.
-\ff[introBenitex]\bNathan: Obrigado por me deixar dar uma olhada.
+\ff[introBenitex]\bNathan: Thanks for letting me take a look.
 Não foi nada, não conte a ninguém e volte sempre.
-Não foi nada, não conte a ninguém e volte sempre.
+Don't tell anyone, and come back often.
 Não tem nada aí, volta aqui, por favor.
-Não tem nada aí, volta aqui, por favor.
-\ff[introBenitex]\bNathan: (Melhor evitar o problema.)
-\ff[introBenitex]\bNathan: (Melhor evitar o problema.)
+There's nothing there, come back here, please.
 \ff[introBenitex]\bNathan: (Parece uma lista de tarefas, mas a letra é muito feia pra entender.)
-\ff[introBenitex]\bNathan: (Parece uma lista de tarefas, mas a letra é muito feia pra entender.)
+\ff[introBenitex]\bNathan: (It looks like a to-do list, but the handwriting is hard to understand.)
 Você sabe que os produtos não são esses, né?
-Você sabe que os produtos não são esses, né?
+You know those are not the real products I sell, right?
 Uau, não sabia que você passava por necessidades.
-Uau, não sabia que você passava por necessidades.
+Damn, I didn't know you were in need.
 Vou fazer minha boa ação do mês. Espero que arceus esteja vendo pra compensar o resto.
-Vou fazer minha boa ação do mês. Espero que arceus esteja vendo pra compensar o resto.
+I'll do my good deed for the month. I hope Arceus is watching to make up for the rest of the days.
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 Eu já te dei um item, para de fuçar no meu lixo, por favor.
-Eu já te dei um item, para de fuçar no meu lixo, por favor.
+I already gave you an item, so please stop rummaging through my trash.
 Devolver.
-Devolver.
+(Give it back.)
 Ficar com a comida.
-Ficar com a comida.
+(Keep the food.)
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 [Map80]
 \ff[introBenitex]\bNathan: (Uma, duas... tem cerca de 50 abas abertas)
-\ff[introBenitex]\bNathan: (Uma, duas... tem cerca de 50 abas abertas)
+\ff[introBenitex]\bNathan: (One, two... there are like 50 tabs open.)
 Ah, se você quiser, pode usar esse notebook para acessar suas boxes do Centro Pokémon.
-Ah, se você quiser, pode usar esse notebook para acessar suas boxes do Centro Pokémon.
+Oh, if you want, you can use this notebook to access your Pokémon Center boxes.
 \ff[introBenitex]\bNathan: Ótimo!
-\ff[introBenitex]\bNathan: Ótimo!
+\ff[introBenitex]\bNathan: Great!
 Essa parceria veio muito a calhar.
-Essa parceria veio muito a calhar.
+This partnership with the Pokémon Center has been great for business.
 \ff[introBenitex]\bNathan: Com licença...
 \ff[introBenitex]\bNathan: Excuse me...
 Ah, desculpe, não vi que você tinha entrado.
-Ah, desculpe, não vi que você tinha entrado.
+Oh, sorry, I didn't see you come in.
 Veio conhecer meus serviços de evolução?
-Veio conhecer meus serviços de evolução?
+Have you come to learn about my evolution services?
 \ff[introBenitex]\bNathan: Sim, estou dando uma volta. Como funciona?
-\ff[introBenitex]\bNathan: Sim, estou dando uma volta.  Como funciona?
+\ff[introBenitex]\bNathan: Yes, how does it work?
 Ah, é simples. Você deve saber que alguns pokémon só evoluem quando são trocados com outros treinadores, né?
-Ah, é simples. Você deve saber que alguns pokémon só evoluem quando são trocados com outros treinadores, né?
+It's simple. You should already know that some Pokémon only evolve when traded with other trainers, right?
 \ff[introBenitex]\bNathan: Sim.
-\ff[introBenitex]\bNathan: Sim.
+\ff[introBenitex]\bNathan: Yes.
 Ótimo, você já deve ter passado por esse problema antes.
-Ótimo, você já deve ter passado por esse problema antes.
+You've probably experienced this problem before.
 Eu resolvo isso com ajuda daquelas máquinas ali atrás.
-Eu resolvo isso com ajuda daquelas máquinas ali atrás.
+And I can solve it with the help of those machines back there.
 Você só precisa me emprestar seu pokemon por alguns segundos e eu já vou evoluir eles pra você.
-Você só precisa me emprestar seu pokemon por alguns segundos e eu já vou evoluir eles pra você.
+You just need to lend me your Pokémon for a few seconds and I'll evolve them for you.
 \ff[introBenitex]\bNathan: Olha, isso parece ótimo! Você desenvolveu essas máquinas?
-\ff[introBenitex]\bNathan: Olha, isso parece ótimo!  Você desenvolveu essas máquinas?
+\ff[introBenitex]\bNathan: Wow, that sounds great! Did you develop these machines?
 \l[3]Para falar a verdade, eu herdei esse negócio da minha família, não faço ideia de como realmente funcionam.
-\l[3]Para falar a verdade, eu herdei esse negócio da minha família, não faço ideia de como realmente funcionam.
+\l[3]Nah, I inherited this business from my family. I have no idea how they actually work.
 \ff[introBenitex]\bNathan: E isso é seguro?
-\ff[introBenitex]\bNathan: E isso é seguro?
+\ff[introBenitex]\bNathan: Oh, is it safe?
 Deve ser, fazem isso há anos, nunca aconteceu nada, então deve ser.
-Deve ser, fazem isso há anos, nunca aconteceu nada, então deve ser.
+Probably. They've been doing this for years, nothing has ever happened, so yeah.
 De qualquer forma, se precisar fazer uso dos meus serviços, é só me avisar.
-De qualquer forma, se precisar fazer uso dos meus serviços, é só me avisar.
+Anyway, if you need to use my services, just let me know.
 Ah, quer evoluir um pokémon? A máquina só funciona com os que evoluem por troca, só pra lembrar.
-Ah, quer evoluir um pokémon? A máquina só funciona com os que evoluem por troca, só pra lembrar.
+Want to evolve a Pokémon? Just a reminder, the machine only works with Pokémon that evolve through trading.
 \ff[introBenitex]\bNathan: Quero sim.
-\ff[introBenitex]\bNathan: Quero sim.
+\ff[introBenitex]\bNathan: Yes.
 Certo, espera só eu ligar a máquina então.
-Certo, espera só eu ligar a máquina então.
+Okay, just wait while I turn on the machine.
 Só um instante.
-Só um instante.
+Just a moment.
 Funciona, porcaria, funciona!
-Funciona, porcaria, funciona!
+Work, you piece of junk, work!
 Pronto, qual pokémon você quer evoluir?
-Pronto, qual pokémon você quer evoluir?
+Alright, which Pokémon do you want to evolve?
 Volte sempre que precisar.
-Volte sempre que precisar.
+Come back whenever you need.
 \ff[introBenitex]\bNathan: Não, hoje não.
-\ff[introBenitex]\bNathan: Não, hoje não.
+\ff[introBenitex]\bNathan: No, I'm good.
 Certo, se precisar, estou aqui.
-Certo, se precisar, estou aqui.
+Okay!
 Ei, ei, ei. Essa parte é restrita.
-Ei, ei, ei. Essa parte é restrita.
+That area is restricted. Come back.
 \ff[introBenitex]\bNathan: Ah, desculpe.
-\ff[introBenitex]\bNathan: Ah, desculpe.
+\ff[introBenitex]\bNathan: Sorry.
 \ff[introBenitex]\bNathan: (A vista não é das melhores, essa cidade tem muitos prédios.)
-\ff[introBenitex]\bNathan: (A vista não é das melhores, essa cidade tem muitos prédios.)
+\ff[introBenitex]\bNathan: (The view isn't the best, this city has a lot of buildings.)
 Por favor, não mexa nas máquinas.
-Por favor, não mexa nas máquinas.
-\ff[introBenitex]\bNathan: Para que elas servem?
-\ff[introBenitex]\bNathan: Para que elas servem?
-\l[3]Eu uso elas para pesquisar sobre o fenômeno da evolução por troca, são um pouco instáveis, então é melhor manter uma distância.
-\l[3]Eu uso elas para pesquisar sobre o fenômeno da evolução por troca, são um pouco instáveis, então é melhor manter uma distância.
-\ff[introBenitex]\bNathan: Que perigo.
-\ff[introBenitex]\bNathan: Que perigo.
+Please don't touch the machines.
+Elas são... instáveis.
+They're... unstable.
 Quero.
-Quero.
+Yes.
 Talvez depois.
-Talvez depois.
+No.
 [Map81]
 [Map82]
 \l[3]\ff[introBenitex]\bNathan: (A estante está cheia de livros sobre apricorns, alguns contam a história da criação das pokebolas outros são mais técnicos.)
@@ -14209,7 +14201,7 @@ As pedras dessa caverna são estranhas menino, tome cuidado com elas.
 \ff[introBenitex]\bBom, agora preciso achar uma saída.
 [Map92]
 \ff[introBenitex]\bNathan: Salve-se quem puder!
-\ff[introBenitex]\bNathan: Salve-se quem puder!
+\ff[introBenitex]\bNathan: Run for your lives!
 [Map93]
 \ff[introBenitex]\bNathan: Oi?
 \ff[introBenitex]\bNathan: Oi?
@@ -14968,207 +14960,203 @@ Ainda preciso pensar.
 Ainda preciso pensar.
 [Map99]
 Burgh: Nathan, querido, que bom te ver aqui!
-Burgh: Nathan, querido, que bom te ver aqui!
+Burgh: Nathan, darling, how nice to see you here!
 É bom ver que você está interessado no futuro de Castelia.
-É bom ver que você está interessado no futuro de Castelia.
+It's good to see that you're interested in the future of the city.
 \ff[introBenitex]\bNathan: Burgh, fico feliz em reencontrar você. Ainda mais nesse momento.
-\ff[introBenitex]\bNathan: Burgh, fico feliz em reencontrar você. Ainda mais nesse momento.
+\ff[introBenitex]\bNathan: Burgh, I'm happy to see you too, especially at this moment..
 \ff[introBenitex]\bO que aconteceu? Por que você decidiu deixar de ser líder de ginásio?
-\ff[introBenitex]\bO que aconteceu? Por que você decidiu deixar de ser líder de ginásio?
-Burgh: Hum, é complicado. Vou te ativar o elevador e te conto a história enquanto isso.
-Burgh: Hum, é complicado. Vou te ativar o elevador e te conto a história enquanto isso.
+\ff[introBenitex]\bWhat's going on? Why did you decide to quit being a gym leader?
+Burgh: É uma longa história. Deixa eu ativar o elevador, a gente conversa enquanto subimos.
+Burgh: It's a long story. Let me activate the elevator, and we can talk while we go up.
 Então... Nos últimos anos, meus bloqueios criativos estavam ficando cada vez mais frequentes.
-Então... Nos últimos anos, meus bloqueios criativos estavam ficando cada vez mais frequentes.
+So.. Lately, my creative blocks are becoming more and more frequent.
 \ff[introBenitex]\bNathan: Sério?
-\ff[introBenitex]\bNathan: Sério?
+\ff[introBenitex]\bNathan: Really?
 Eu não estava conseguindo conciliar o trabalho de líder de ginásio com a vida de artista bem.
-Eu não estava conseguindo conciliar o trabalho de líder de ginásio com a vida de artista bem.
+I wasn't able to balance my work as a gym leader with my life as an artist very well.
 \l[3]Então eu voltei pra Nacrene, como você sabe, onde eu sempre vou pra melhorar. Mas acabei percebendo que eu precisava de mais tempo.
-\l[3]Então eu voltei pra Nacrene, como você sabe, onde eu sempre vou pra melhorar. Mas acabei percebendo que eu precisava de mais tempo.
+\l[3]So I decided to go back to Nacrene, where I always go to relax. But I realized that I need more time.
 Como não quero parar o funcionamento do ginásio, resolvi organizar essas eleições.
-Como não quero parar o funcionamento do ginásio, resolvi organizar essas eleições.
+Since I don't want to stop the gym from operating, I decided to organize these elections.
 \ff[introBenitex]\bNathan: Caramba, realmente, é bom que você tome cuidado, esse problema não é novo.
-\ff[introBenitex]\bNathan: Caramba, realmente, é bom que você tome cuidado, esse problema não é novo.
+\ff[introBenitex]\bNathan: Really, you better be careful, this problem isn't new.
 Burgh: Sim, mas acho que fazendo isso, deve ser resolvido.
-Burgh: Sim, mas acho que fazendo isso, deve ser resolvido.
+Burgh: Yeah. I think doing this should solve it.
 Parece que acabamos de chegar Nathan, te vejo por aí!
-Parece que acabamos de chegar Nathan, te vejo por aí!
+Looks like we're here, Nathan. See you around!
 \ff[introBenitex]\bNathan: Boa sorte, Burgh!
-\ff[introBenitex]\bNathan: Boa sorte, Burgh!
+\ff[introBenitex]\bNathan: Good luck, Burgh!
 [Map100]
 \ff[introBenitex]\bNathan: Nossa, que sala apertadinha.
-\ff[introBenitex]\bNathan: Nossa, que sala apertadinha.
+\ff[introBenitex]\bNathan: What a tiny little room.
 \ff[introBenitex]\bBom, esse é o momento da minha decisão.
-\ff[introBenitex]\bBom, esse é o momento da minha decisão.
+\ff[introBenitex]\bWell, this is the moment of my decision.
 \ff[introBenitex]\bNathan: Será que devo desistir agora? Foi o maior trabalho pra chegar até aqui.
-\ff[introBenitex]\bNathan: Será que devo desistir agora? Foi o maior trabalho pra chegar até aqui.
+\ff[introBenitex]\bNathan: Should I give up my vote? After all the trouble to get here...
 \ff[introBenitex]\bNão, preciso cumprir meu papel!
-\ff[introBenitex]\bNão, preciso cumprir meu papel!
+\ff[introBenitex]\bNo, I need to fulfill my role!
 \ff[introBenitex]\bÉ, acho que não vou votar...
-\ff[introBenitex]\bÉ, acho que não vou votar...
+\ff[introBenitex]\bYeah, what a waste of time.
 \ff[introBenitex]\bNathan: Espero que tenha feito a melhor decisão...
-\ff[introBenitex]\bNathan: Espero que tenha feito a melhor decisão...
-\ff[introBenitex]\bBom, agora não tem mais volta.
-\ff[introBenitex]\bBom, agora não tem mais volta.
+\ff[introBenitex]\bNathan: I hope this was the right decision...
 \ff[introBenitex]\bNathan: Em qual clube votar? \ch[1,0,Hikers,Dediê,Cluchar,Palhaços,Motoqueiros]
-\ff[introBenitex]\bNathan: Em qual clube votar? \ch[1,0,Hikers,Dediê,Cluchar,Palhaços,Motoqueiros]
+\ff[introBenitex]\bNathan: Which club should I vote for? \ch[1,0,Hikers,Dediê,Cluchar,Clowns,Bikers]
 \ff[introBenitex]\bNathan: Em qual clube votar? \ch[1,0,Hikers,Dediê,Cluchar,Palhaços]
-\ff[introBenitex]\bNathan: Em qual clube votar? \ch[1,0,Hikers,Dediê,Cluchar,Palhaços]
+\ff[introBenitex]\bNathan: Which club should I vote for? \ch[1,0,Hikers,Dediê,Cluchar,Clowns]
 \ff[introBenitex]\bNathan: Devo mesmo votar nos Hikers?
-\ff[introBenitex]\bNathan: Devo mesmo votar nos Hikers?
+\ff[introBenitex]\bNathan: Should I really vote for the Hikers?
 \ff[introBenitex]\bNathan: Devo mesmo votar nos Dediê?
-\ff[introBenitex]\bNathan: Devo mesmo votar nos Dediê?
+\ff[introBenitex]\bNathan: Should I really vote for the Dediê?
 \ff[introBenitex]\bNathan: Devo mesmo votar nos Cluchar?
-\ff[introBenitex]\bNathan: Devo mesmo votar nos Cluchar?
+\ff[introBenitex]\bNathan: Should I really vote for the Cluchar?
 \ff[introBenitex]\bNathan: Devo mesmo votar nos Palhaços?
-\ff[introBenitex]\bNathan: Devo mesmo votar nos Palhaços?
+\ff[introBenitex]\bNathan: Should I really vote for the Clowns?
 \ff[introBenitex]\bNathan: Devo mesmo votar nos Motoqueiros?
-\ff[introBenitex]\bNathan: Devo mesmo votar nos Motoqueiros?
+\ff[introBenitex]\bNathan: Should I really vote for the Bikers?
 \ff[introBenitex]\bEstá feito.
-\ff[introBenitex]\bEstá feito.
+\ff[introBenitex]\bDone.
 \ff[introBenitex]\bNathan: Não tem mais como voltar atrás.
-\ff[introBenitex]\bNathan: Não tem mais como voltar atrás.
+\ff[introBenitex]\bNathan: There's no turning back now.
 Votar.
-Votar.
+Vote.
 Desistir.
-Desistir.
+Give up your vote.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 [Map101]
 \ff[introBenitex]\bNathan: (O que fazer?)
-\ff[introBenitex]\bNathan: (O que fazer?)
+\ff[introBenitex]\bNathan: (What should I do?)
 \ff[introBenitex]\bVocê quer vir comigo?
-\ff[introBenitex]\bVocê quer vir comigo?
+\ff[introBenitex]\bWould you like to join me?
 \ff[introBenitex]\bOpa, que bom! Vamos atravessar esse lindo esgoto paradisíaco juntos!
-\ff[introBenitex]\bOpa, que bom! Vamos atravessar esse lindo esgoto paradisíaco juntos!
+\ff[introBenitex]\bGreat! Let's cross this beautiful, paradisiacal sewer together!
 \ff[introBenitex]\bSabe... Eu já sou comprometido, então você não pode vir comigo.
-\ff[introBenitex]\bSabe... Eu já sou comprometido, então você não pode vir comigo.
+\ff[introBenitex]\bSorry... I'm already taken, so you can't come with me.
 "Esses humanos e sua moral arbitrária, maldita sociedade monogâmica."
-"Esses humanos e sua moral arbitrária, maldita sociedade monogâmica."
+"These humans and their arbitrary morals, damn monogamous society."
 \ff[introBenitex]\bNathan: Você está me seguindo?
-\ff[introBenitex]\bNathan: Você está me seguindo?
+\ff[introBenitex]\bNathan: Are you following me?
 \ff[introBenitex]\b(O que eu faço?)
-\ff[introBenitex]\b(O que eu faço?)
+\ff[introBenitex]\b(What should I do?)
 \ff[introBenitex]\bNathan: Esses quagsires parecem tristes.
-\ff[introBenitex]\bNathan: Esses quagsires parecem tristes.
+\ff[introBenitex]\bNathan: These Quagsires look sad.
 \ff[introBenitex]\bPor que vocês estão tristes?
-\ff[introBenitex]\bPor que vocês estão tristes?
+\ff[introBenitex]\bWhy are you sad?
 \ff[introBenitex]\b(Hum, essa comunicação não vai ser fácil.)
-\ff[introBenitex]\b(Hum, essa comunicação não vai ser fácil.)
+\ff[introBenitex]\b(This communication isn't going to be easy.)
 \ff[introBenitex]\bVocês foram atacados? Estão machucados?
-\ff[introBenitex]\bVocês foram atacados? Estão machucados?
+\ff[introBenitex]\bWere you attacked? Are you hurt?
 \ff[introBenitex]\bHum, vou encarar isso como um não.
-\ff[introBenitex]\bHum, vou encarar isso como um não.
+\ff[introBenitex]\bI'll say that's a no.
 \ff[introBenitex]\bEstão perdidos? Precisam de ajuda pra ir para casa?
-\ff[introBenitex]\bEstão perdidos? Precisam de ajuda pra ir para casa?
+\ff[introBenitex]\bAre you lost? Do you need help getting home?
 \ff[introBenitex]\bTodos discordaram, talvez essa seja a casa deles na verdade.
-\ff[introBenitex]\bTodos discordaram, talvez essa seja a casa deles na verdade.
+\ff[introBenitex]\bThey all strongly disagreed. Maybe that's even their home.
 \ff[introBenitex]\bAconteceu alguma coisa aqui nos Esgotos?
-\ff[introBenitex]\bAconteceu alguma coisa aqui nos Esgotos?
+\ff[introBenitex]\bHas something happened here in the sewers?
 \ff[introBenitex]\bAcertei!
-\ff[introBenitex]\bAcertei!
+\ff[introBenitex]\bOh, I got it!
 \ff[introBenitex]\b(Hum, mas o que será que aconteceu?)
-\ff[introBenitex]\b(Hum, mas o que será que aconteceu?)
+\ff[introBenitex]\b(Hmm, but what could have happened?)
 \ff[introBenitex]\bOuvi dizer que as águas estão subindo, esse é o problema?
-\ff[introBenitex]\bOuvi dizer que as águas estão subindo, esse é o problema?
+\ff[introBenitex]\bI heard that the waters levels are rising. Is that the problem?
 \ff[introBenitex]\bHum, parece que não.
-\ff[introBenitex]\bHum, parece que não.
+\ff[introBenitex]\bIt doesn't seem so. I don't know if they would care much about it.
 \ff[introBenitex]\bAlgum outro pokemon está causando problemas por aqui?
-\ff[introBenitex]\bAlgum outro pokemon está causando problemas por aqui?
+\ff[introBenitex]\bAre any other Pokémon causing trouble around here?
 \ff[introBenitex]\bTalvez uma volcarona?
-\ff[introBenitex]\bTalvez uma volcarona?
+\ff[introBenitex]\bMaybe a Volcarona?
 \ff[introBenitex]\bHum, não...
-\ff[introBenitex]\bHum, não...
+\ff[introBenitex]\bSo, no...
 \ff[introBenitex]\bAlgum treinador invadiu o Esgoto? Está fazendo alguma coisa por aqui?
-\ff[introBenitex]\bAlgum treinador invadiu o Esgoto?  Está fazendo alguma coisa por aqui?
+\ff[introBenitex]\bHas a trainer invaded the Sewers? Maybe doing something that bothers you?
 \ff[introBenitex]\bAh, então é isso!
-\ff[introBenitex]\bAh, então é isso!
+\ff[introBenitex]\bThat's it!
 \ff[introBenitex]\b(Ótimo, devo estar no caminho certo, melhor seguir com cuidado.)
-\ff[introBenitex]\b(Ótimo, devo estar no caminho certo, melhor seguir com cuidado.)
+\ff[introBenitex]\b(Great, I must be on the right track. Better proceed with caution.)
 \ff[introBenitex]\bNão se preocupe, vou cuidar disso. Fiquem aqui e sejam cuidadosos.
-\ff[introBenitex]\bNão se preocupe, vou cuidar disso.  Fiquem aqui e sejam cuidadosos.
+\ff[introBenitex]\bDon't worry, I'll take care of it. Stay here and be careful.
 \ff[introBenitex]\b(Melhor tomar cuidado se for continuar andando por aqui.)
-\ff[introBenitex]\b(Melhor tomar cuidado se for continuar andando por aqui.)
+\ff[introBenitex]\b(Better be careful if I to keep walking around here.)
 \ff[introBenitex]\bVocês estão muito caidinhos, vocês são fracos assim mesmo?
-\ff[introBenitex]\bVocês estão muito caidinhos, vocês são fracos assim mesmo?
+\ff[introBenitex]\bYou guys are really down, are you usually this weak?
 \l[3]\ff[introBenitex]\bNathan: Os quagsires estão tristes, parece que algum treinador invadiu os Esgotos e está fazendo alguma coisa suspeita.
-\l[3]\ff[introBenitex]\bNathan: Os quagsires estão tristes, parece que algum treinador invadiu os Esgotos e está fazendo alguma coisa suspeita.
+\l[3]\ff[introBenitex]\bNathan: The quagsires are sad. It seems that some trainer is doing something suspicious in the sewers.
 \ff[introBenitex]\bNathan: (Hum, eles estavam incomodados com a presença da Shadow Triad.)
-\ff[introBenitex]\bNathan: (Hum, eles estavam incomodados com a presença da Shadow Triad.)
+\ff[introBenitex]\bNathan: (So they were bothered by the presence of the Shadow Triad.)
 \ff[introBenitex]\b(Eles devem ficar bem agora, pelo menos até a Triad voltar.)
-\ff[introBenitex]\b(Eles devem ficar bem agora, pelo menos até a Triad voltar.)
+\ff[introBenitex]\b(They should be fine now, at least until the Triad returns.)
 \ff[introBenitex]\bNathan: Esses quagsires continuam parecendo tristes.
-\ff[introBenitex]\bNathan: Esses quagsires continuam parecendo tristes.
+\ff[introBenitex]\bNathan: These quagsires still look sad.
 \ff[introBenitex]\bNathan: Olha, que quagsire bonitinho.
-\ff[introBenitex]\bNathan: Olha, que quagsire bonitinho.
+\ff[introBenitex]\bNathan: Oh, what a cute Quagsire.
 \ff[introBenitex]\bNathan: O que aconteceu aqui?
-\ff[introBenitex]\bNathan: O que aconteceu aqui?
+\ff[introBenitex]\bNathan: What was that?
 \ff[introBenitex]\bNathan: (A Shadow Triad, o professor estava certo...)
-\ff[introBenitex]\bNathan: (A Shadow Triad, o professor estava certo...)
+\ff[introBenitex]\bNathan: (The Shadow Triad. Professor Oak was right...)
 \ff[introBenitex]\bNathan: (A Shadow Triad, aqui? O que eles estão fazendo?)
-\ff[introBenitex]\bNathan: (A Shadow Triad, aqui? O que eles estão fazendo?)
+\ff[introBenitex]\bNathan: (The Shadow Triad, here? What are they doing?)
 \ff[introTriad]Nathan.
 \ff[introTriad]Nathan.
 \ff[introTriad]Você continuou até aqui, essa coragem, ou melhor, essa tolice, sempre me impressiona.
-\ff[introTriad]Você continuou até aqui, essa coragem, ou melhor, essa tolice, sempre me impressiona.
+\ff[introTriad]You've come this far, and that courage, or rather foolishness, impresses me.
 \ff[introBenitex]\bNathan: Rendam-se! Nós já sabemos o plano de vocês, e estamos prontos para acabar com isso!
-\ff[introBenitex]\bNathan: Rendam-se! Nós já sabemos o plano de vocês, e estamos prontos para acabar com isso!
+\ff[introBenitex]\bNathan: Surrender! We already know your plan, and we're ready to put an end to it!
 \ff[introTriad]Não pense que sabe de tudo, garoto. Nosso plano está em ação faz tempo e, inclusive, anda ao seu lado.
-\ff[introTriad]Não pense que sabe de tudo, garoto.  Nosso plano está em ação faz tempo e, inclusive, anda ao seu lado.
+\ff[introTriad]Don't think you know everything, kid. Our plan has been in motion for a long time, and it's even walking beside you.
 \ff[introBenitex]\bNathan: (Do meu lado...)
-\ff[introBenitex]\bNathan: (Do meu lado...)
+\ff[introBenitex]\bNathan: (Beside me...)
 \ff[introBenitex]\bChega de blefes, estou dando a última chance para vocês se renderem.
-\ff[introBenitex]\bChega de blefes, estou dando a última chance para vocês se renderem.
+\ff[introBenitex]\bEnough bluffing, I'm giving you one last chance to surrender.
 \ff[introTriad]Estamos em maior número, você pretende mesmo enfrentar nós três?
-\ff[introTriad]Estamos em maior número, você pretende mesmo enfrentar nós três?
+\ff[introTriad]We outnumber you, do you really intend to take on the three of us?
 \ff[introBenitex]\bNathan: Não me subestime, vocês não vão durar muito!
-\ff[introBenitex]\bNathan: Não me subestime, vocês não vão durar muito!
-\ff[introBenitex]\bNathan: (Na verdade, não tenho motivos pra tentar enfrentar eles agora.)
-\ff[introBenitex]\bNathan: (Na verdade, não tenho motivos pra tentar enfrentar eles agora.)
+\ff[introBenitex]\bNathan: Don't underestimate me, you won't last long!
+\ff[introBenitex]\bNathan: (Na verdade, eu não tenho informações suficientes ainda.)
+\ff[introBenitex]\bNathan: (Actually, I don't have enough information yet.)
 \ff[introBenitex]\b(Uma coisa é certa, por onde eles passam, existem planos da Team Plasma em ação.)
-\ff[introBenitex]\b(Uma coisa é certa, por onde eles passam, existem planos da Team Plasma em ação.)
-\ff[introBenitex]\b(Mas eles estão certos, não posso enfrentar eles nesse estado.)
-\ff[introBenitex]\b(Mas eles estão certos, não posso enfrentar eles nesse estado.)
+\ff[introBenitex]\b(One thing is clear, wherever they go, Team Plasma's plans are in motion.)
 \ff[introBenitex]\bNão posso enfrentar vocês nesse momento, mas saibam que sei onde encontrar vocês.
-\ff[introBenitex]\bNão posso enfrentar vocês nesse momento, mas saibam que sei onde encontrar vocês.
+\ff[introBenitex]\bI won't face you right now, but I know where you are, so be prepared.
 \ff[introTriad]Ei, chega de perder tempo com esse menino. Precisamos avisar para o Ryoku e seguir o plano.
-\ff[introTriad]Ei, chega de perder tempo com esse menino. Precisamos avisar para o Ryoku e seguir o plano.
+\ff[introTriad]Enough wasting time with this guy. We need to warn Ryoku and follow the plan.
 \ff[introTriad]Ele está certo. Precisam da gente no Relic Castle, não vamos passar mais tempo aqui.
-\ff[introTriad]Ele está certo. Precisam da gente no Relic Castle, não vamos passar mais tempo aqui.
+\ff[introTriad]He's right. They need us at the Castle, let's not spend any more time here.
 \ff[introTriad]Você... Se safa dessa vez. Mas, se você seguir em frente, saiba que o confronto vai acontecer.
-\ff[introTriad]Você... Se safa dessa vez. Mas, se você seguir em frente, saiba que o confronto vai acontecer.
+\ff[introTriad]You... You get away this time. But if you keep going, know that we will stop you.
 \ff[introTriad]Chega, vamos.
-\ff[introTriad]Chega, vamos.
+\ff[introTriad]That's enoug. Let's go.
 \ff[introBenitex]\bNathan: O professor Carvalho precisa saber sobre isso.
-\ff[introBenitex]\bNathan: O professor Carvalho precisa saber sobre isso.
+\ff[introBenitex]\bNathan: Professor Oak need to know about this.
 (Atacar.)
-(Atacar.)
+(Attack.)
 (Se aproximar.)
-(Se aproximar.)
+(Get closer.)
 Ótimo, vamos juntos então!
-Ótimo, vamos juntos então!
+Great, let's go together!
 Já sou comprometido.
-Já sou comprometido.
+I'm already engaged.
 Vocês estão machucados?
-Vocês estão machucados?
+Are you hurt?
 Estão perdidos?
-Estão perdidos?
+Are you lost?
 Problemas nos Esgotos?
-Problemas nos Esgotos?
+Is there any problems in the sewers?
 Vocês são fracos?
-Vocês são fracos?
+Are you usually this weak.
 Algum problema climático?
-Algum problema climático?
+Any climate problems?
 Algum pokemon atacou?
-Algum pokemon atacou?
+Did any Pokémon attack you?
 Algum humano invadiu?
-Algum humano invadiu?
+Did any human invade?
 Sim, estou preparado!
-Sim, estou preparado!
+Yes, I'm ready to defeat you!
 Prefiro evitar o conflito.
-Prefiro evitar o conflito.
+I'm not going to face you yet.
 [1]
 [2]
 [3]
