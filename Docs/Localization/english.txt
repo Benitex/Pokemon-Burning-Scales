@@ -1306,8 +1306,8 @@ Alright, leave it to me!
 \ff[introBenitex]\bNathan: Nice, I'll ask for help if I need it, ok?
 Pode deixar comigo!
 You can count on me!
-\l[3]\ff[introBenitex]\bNathan: \ff[introBenitex]\bNathan: Que ótimo! Como está a situação com esse Motoqueiros?
-\l[3]\ff[introBenitex]\bNathan: \ff[introBenitex]\bNathan: Great! How's the situation with these bikers?
+\ff[introBenitex]\bNathan: Que ótimo! Como está a situação com esse Motoqueiros?
+\ff[introBenitex]\bNathan: Great! How's the situation with these bikers?
 Ah, sabe como é, eles tomaram controle da área há alguns meses e não saem mais de lá.
 Oh, you know, they took control of the area a few months ago and they're not leaving.
 Mesmo assim os policiais continuam tentando recuperar a área. Talvez um treinador forte pudesse ajudar.
@@ -1874,7 +1874,7 @@ I'm here for hours, my wife and my son already made it to Nimbasa, but I had to 
 \l[3]Nós todos conseguimos ir para lá com o cruzeiro de Castelia, mas aconteceu um problema. Eu deixei meu filho brincar pela cidade com outras crianças, para aproveitar a cidade.
 \l[3]We all managed to get there by taking the Castelia cruise. When we arrived, I let my son play around the city with other children, to enjoy the city.
 \l[3]Mas ele acabou se metendo com alguém que não devia, e essa criança trouxe ele para Rota 4. O problema é que ele acabou perdendo o seu brinquedo favorito com esse "amigo".
-\l[3]But he messed with someone he shouldn't have, and this child brought him to Route 4. The problem is that he ended up losing his favorite toy with this “friend” of his.
+\l[3]But he messed with someone he shouldn't have, and this child brought him to Route 4. The problem is that he ended up losing his favorite toy with this "friend" of his.
 \l[3]Depois que ele me pediu para pegar o brinquedo de volta, não tive alternativa a não ser aceitar. Eu sabia que corria o risco de não voltar mais, mas os olhos dele, ele confiava em mim...
 \l[3]He came back asking to look for his toy, and I had no choice but to accept finding it. I knew I ran the risk of not being able coming back and watch the tournament, but I saw his eyes, he trusted me...
 Aqueles olhinhos me convenceram, tinha que ajudar meu filho. Então aqui estou.
@@ -1918,7 +1918,7 @@ Please help me find my son's toy...
 Muito obrigado. Ele deixou em uma pedra, mas essa rota tem tantas...
 Thank you very much. He left it on a rock, but there are just so many in this route...
 O guarda não permite que eu passe pela rota, não tenho mais propósito para minha vida, eu só queria participar do torneio, minha vida não tem mais sentido!
-The guard won't let cross the route, I have no purpose in life anymore. I just wanted to take part in the tournament, my life has no meaning anymore!
+\l[3]The guard won't let cross the route, I have no purpose in life anymore. I just wanted to take part in the tournament, my life has no meaning anymore!
 \ff[introBenitex]\bNathan: Calma, cara, é só um torneio! Não precisa se matar por causa disso.
 \ff[introBenitex]\bNathan: Calm down, man, it's just a tournament! You'll have other opportunities in the future.
 Ah, você não entende a minha mágoa, para mim é muito mais do que um torneio...
@@ -1940,7 +1940,7 @@ In revenge, she put this curse on me and my beloved.
 \l[3]\ff[introBenitex]\bA gente pode conversar com ela ou usar algum Pokémon para reverter a situação, mas antes precisamos saber qual foi o Pokémon que causou ela.
 \l[3]\ff[introBenitex]\bWe could try talking with her, or using some Pokémon to try to revert the situation, but first we need to know which Pokémon caused the it.
 \l[3]Ela mora em Castelia, na Mode Street, talvez você possa encontrar ela lá. Se você quiser entrar escondido, recomendo que entre de dia, porque ela fica bem mais acordada durante a noite.
-\l[3]She lives in Castelia, on Mode Street, so maybe you can find her there. If you want to sneak in, I recommend you do it during the day, because she's much more awake at night.
+\l[3]She lives in Castelia, on Mode Street, so maybe you can find her there. If you want to sneak in, I recommend you do it during the day, because she's a night owl.
 \ff[introBenitex]\bNathan: Rá, um gado!
 \ff[introBenitex]\bNathan: What a simp!
 Ah, um insensível...
@@ -1983,8 +1983,20 @@ Obrigado pela batalha, já me sinto um pouco melhor.
 Thank you for the battle, I feel a bit better now.
 Obrigado pela batalha, já me sinto melhor. Vou curar seus Pokémon de novo.
 Thank you for the battle, I feel a bit better now. I'll heal your Pokémon once more.
+\ff[introBenitex]Te achei.
+\ff[introBenitex]I found you.
+Você... O que você pretende fazer?
+You... What are you planning to do?
+\ff[introBenitex]Vim encerrar a sua histórinha.
+\ff[introBenitex]I came to end your little story.
+Você encontrou a minha ex, né?
+You met my ex, didn't you?
+Pera, você foi hipnotizado?
+Wait, were you hypnotized?
+Ai, sai! Sai daqui!
+Ouch, get out! Get out of here!
 \ff[introBenitex]\bNathan: Consegui descobrir como quebrar a "maldição".
-\ff[introBenitex]\bNathan: I managed to find out how to break the “curse”.
+\ff[introBenitex]\bNathan: I discovered how to break the "curse".
 Ótimo, ótimo! O que vamos precisar? Estou disposto a tudo, eu posso conseguir uma cauda de slowpoke!
 Great, great! What do we need? I'm up for anything, I can even get a Slowpoke Tail!
 \ff[introBenitex]\bNathan: Não cara, não, nada disso.
@@ -3636,7 +3648,7 @@ It's all about the intention!
 \l[3]\ff[introBenitex]\bNathan: Hum, essa estante tem muitos livros, não tenho tempo para ler tudo isso, mas posso dar uma olhada nas condições e nos títulos deles.
 \l[3]\ff[introBenitex]\bNathan: This bookshelf has a lot of books. I don't have time to read them all, but I can take a look at their condition and titles.
 \l[3]\ff[introBenitex]\bParecem livros pouco usados, alguns parecem bem velhos. Os títulos são sobre todos os tipos de assuntos. Desde "Principais cuidados com suas Berrys" a "Os 100 melhores contos para crianças"
-\l[3]\ff[introBenitex]\bThey look like little-used books, some look very old. The titles are on all sorts of subjects, from “Top things to do with your Berrys” to “The 100 best short stories for children”.
+\l[3]\ff[introBenitex]\bThey look like little-used books, some look very old. The titles are on all sorts of subjects, from "Top things to do with your Berrys" to "The 100 best short stories for children".
 \ff[introBenitex]\bNathan: Talvez a lixeira tenha algo, "o lixo de uns é o tesouro de outros", como dizem por aí. Dessa vez é literal.
 \ff[introBenitex]\bNathan: Maybe I can find something useful in the garbage. One Person's Trash Is Another Person's Treasure, as they say. This time it's literal.
 \l[3]\ff[introBenitex]\bPapéis. Parecem parte de um diário. "Hoje saí a noite com ela de novo. A mamãe nem está percebendo. Nosso plano está dando certo. Vou fazer isso mais vezes."
@@ -13169,79 +13181,79 @@ No.
 [Map81]
 [Map82]
 \l[3]\ff[introBenitex]\bNathan: (A estante está cheia de livros sobre apricorns, alguns contam a história da criação das pokebolas outros são mais técnicos.)
-\l[3]\ff[introBenitex]\bNathan: (A estante está cheia de livros sobre apricorns, alguns contam a história da criação das pokebolas outros são mais técnicos.)
+\l[3]\ff[introBenitex]\bNathan: (The bookshelf is full of books about Apricorns. Some are about the history of Poké Balls, others more technical about the creation process.)
 Saudações! A que devo sua presença? Veio conversar sobre apricorns?
-Saudações! A que devo sua presença? Veio conversar sobre apricorns?
+Greetings! To what do I owe your presence? Have you come to discuss apricorns?
 \ff[introBenitex]\bNathan: Sim, vim conhecer o lugar.
-\ff[introBenitex]\bNathan: Sim, vim conhecer o lugar.
+\ff[introBenitex]\bNathan: Yes, can you tell me more about this place?
 Certo, certo. Para ser sincero, não tem muito o que ver na minha casa.
-Certo, certo. Para ser sincero, não tem muito o que ver na minha casa.
+Yes, of course. But, to be honest, there isn't much to see in my house.
 Quer dizer, o sofá é confortável e tenho livros interessantes, mas esse não é o motivo para as pessoas virem aqui.
-Quer dizer, o sofá é confortável e tenho livros interessantes, mas esse não é o motivo para as pessoas virem aqui.
+I mean, that sofa right there is very comfortable and I have some interesting books, but that's not why people come here usually.
 \l[3]A verdade é que as pessoas querem minhas pokebolas especiais, e me entregam apricorns para eu fabricá-las e avançar minhas pesquisas.
-\l[3]A verdade é que as pessoas querem minhas pokebolas especiais, e me entregam apricorns para eu fabricá-las e avançar minhas pesquisas.
+\l[3]Truth is, people want me to fabricate special Poké Balls for them, and they give me Apricorns so I can make them and advance my research.
 \l[3]Esse relacionamento já existe há anos, antes eu morava em Johto, mas aqui recebo mais movimento e menos slowpokes, mas isso é outra história.
-\l[3]Esse relacionamento já existe há anos, antes eu morava em Johto, mas aqui recebo mais movimento e menos slowpokes, mas isso é outra história.
+\l[3]I've been doing this for years now. I used to live in Johto, but here I get more business and fewer Slowpokes, but that's a story for another day.
 \l[3]Eu faço meu serviço de graça para os treinadores. No fim das contas, eles estão me ajudando nas pesquisas, então é uma troca justa.
-\l[3]Eu faço meu serviço de graça para os treinadores. No fim das contas, eles estão me ajudando nas pesquisas, então é uma troca justa.
+\l[3]I do my work for free for the trainers. At the end of the day, they're helping me with my research, so it's a fair trade.
 \ff[introBenitex]\bNathan: Realmente, os treinadores devem gostar muito de você.
-\ff[introBenitex]\bNathan: Realmente, os treinadores devem gostar muito de você.
+\ff[introBenitex]\bNathan: Trainers must really like you.
 Haha, quem não gosta de receber items de graça?
-Haha, quem não gosta de receber items de graça?
+Haha, who doesn't love getting free stuff?
 Então, agora é a hora de repetir minhas palavras favoritas:
-Então, agora é a hora de repetir minhas palavras favoritas:
+So now is the time to say my favorite words:
 Quer transformar apricorns em pokebolas?
-Quer transformar apricorns em pokebolas?
+Would you like to turn Apricorns into Poké Balls?
 \ff[introBenitex]\bNathan: Sim, por favor.
-\ff[introBenitex]\bNathan: Sim, por favor.
+\ff[introBenitex]\bNathan: Yes, please!
 Ótimo, qual apricorn vamos usar?
-Ótimo, qual apricorn vamos usar?
+Great, which apricorn shall we use?
 \ff[introBenitex]\bNathan: Mudei de ideia, não quero transformar nenhuma apricorn.
-\ff[introBenitex]\bNathan: Mudei de ideia, não quero transformar nenhuma apricorn.
+\ff[introBenitex]\bNathan: I changed my mind, I don't want to use my Apricorns.
 Sem problemas, volte quando for o momento.
-Sem problemas, volte quando for o momento.
+No problem, come back when you're ready.
 Perfeito. Vou transformar sua \v[3] em uma bela pokebola.
-Perfeito. Vou transformar sua \v[3] em uma bela pokebola.
+That's perfect. I'll transform your \v[3] in a beautiful Poké Ball.
 Acredito que até o dia de amanhã, meu trabalho deve estar concluído.
-Acredito que até o dia de amanhã, meu trabalho deve estar concluído.
+I believe my work will be done by tomorrow.
 \ff[introBenitex]\bNathan: Não, estou mais de passagem mesmo.
-\ff[introBenitex]\bNathan: Não, estou mais de passagem mesmo.
+\ff[introBenitex]\bNathan: No, I'm just passing through.
 \ff[introBenitex]\bNathan: Já tá pronto?
-\ff[introBenitex]\bNathan: Já tá pronto?
-Não tenha pressa, mas não perdamos tempo.\n Aqui está sua nova pokebola!
-Não tenha pressa, mas não perdamos tempo.\n Aqui está sua nova pokebola!
+\ff[introBenitex]\bNathan: Are you ready?
+Não tenha pressa, mas não perdamos tempo.\nAqui está sua nova pokebola!
+Take your time, but let's not waste any.\nHere's your new Poké Ball!
 \ff[introBenitex]\bNathan: Opa, muito obrigado.
-\ff[introBenitex]\bNathan: Opa, muito obrigado.
+\ff[introBenitex]\bNathan: Thank you!
 Se precisar de mais, estou disponível.
-Se precisar de mais, estou disponível.
+If you need more, I'm available.
 \ff[introBenitex]\bNathan: Ai, eu não tenho espaço na mochila. Espera um pouco, eu já volto.
-\ff[introBenitex]\bNathan: Ai, eu não tenho espaço na mochila. Espera um pouco, eu já volto.
+\ff[introBenitex]\bNathan: Oh, I actually don't have room in my backpack. Wait a minute, I'll be right back.
 Desculpe, mas o que você me deu não era um apricorn, até tentei usar, mas não deu certo. O item foi perdido.
-Desculpe, mas o que você me deu não era um apricorn, até tentei usar, mas não deu certo. O item foi perdido.
+Sorry, but what you gave me wasn't an Apricorn. I tried to use it, but it didn't work. The item was lost.
 Paciência Nathan, ainda preciso de tempo para finalizar a pokebola.
-Paciência Nathan, ainda preciso de tempo para finalizar a pokebola.
+Patience, Nathan. I still need time to finish the Poké Ball.
 Por favor, não entre no meu quarto. Está uma bagunça.
-Por favor, não entre no meu quarto. Está uma bagunça.
+Please don't come into my room. It's a mess.
 \ff[introBenitex]\bNathan: Ah, desculpe.
-\ff[introBenitex]\bNathan: Ah, desculpe.
+\ff[introBenitex]\bNathan: Sorry.
 \l[3]\ff[introBenitex]\bNathan: É um livro sobre as propriedades das apricorns.
-\l[3]\ff[introBenitex]\bNathan: É um livro sobre as propriedades das apricorns.
-\l[3]Exato, estou estudando sobre isso. Você sabia que elas são tão duras que os pokemon não conseguem partí-las?
-\l[3]Exato, estou estudando sobre isso. Você sabia que elas são tão duras que os pokemon não conseguem partí-las?
+\l[3]\ff[introBenitex]\bNathan: It is a book about the properties of Apricorns.
+\l[3]Exato, estou estudando sobre isso. Você sabia que elas são tão duras que os pokemon não conseguem parti-las?
+\l[3]Exactly, I'm studying about that subject. Did you know that they are so hard that Pokémon can't break them?
 Eles esperam elas caírem no chão e o exterior apodrecer, só depois comem o fruto.
-Eles esperam elas caírem no chão e o exterior apodrecer, só depois comem o fruto.
+They wait for them to fall to the ground and rot on the outside, only then do they eat the fruit.
 \ff[introBenitex]\bNathan: E o fruto não apodrece também?
-\ff[introBenitex]\bNathan: E o fruto não apodrece também?
+\ff[introBenitex]\bNathan: And doesn't the fruit rot inside too?
 A casca também protege o fruto, por isso é seguro para os pokémon comerem.
-A casca também protege o fruto, por isso é seguro para os pokémon comerem.
+The shell protects the fruit from rotting, so it's safe for Pokémon to eat.
 \ff[introBenitex]\bNathan: Livro interessante.
-\ff[introBenitex]\bNathan: Livro interessante.
+\ff[introBenitex]\bNathan: The book is on the table.
 \ff[introBenitex]\bNathan: Hum... Que sofá confortável.
-\ff[introBenitex]\bNathan: Hum... Que sofá confortável.
+\ff[introBenitex]\bNathan: Ooh. What a comfortable sofa.
 Quero, por favor.
-Quero, por favor.
+Yes, please.
 Não.
-Não.
+No.
 [Map83]
 \ff[introBenitex]\bNathan: É a porta para uma das estufas, está trancada.
 \ff[introBenitex]\bNathan: This door is the entrance to one of the greenhouses. It's locked.
@@ -13445,161 +13457,173 @@ Você não sabe nada!
 \ff[introBenitex]\bNathan: A very suspecious rock.
 [Map86]
 Olá!
-Olá!
+Hello!
 Cansei. Ficou chato.
-Cansei. Ficou chato.
+I'm tired. It got boring.
 Venha aqui logo!
-Venha aqui logo!
+Come here already!
 \ff[introBenitex]\bNathan: "Manual de treinamento de drowzees e hypnos"
-\ff[introBenitex]\bNathan: "Manual de treinamento de drowzees e hypnos"
+\ff[introBenitex]\bNathan: "Drowzee and Hypno Training Manual"
 \ff[introBenitex]\b"Drowzee evoluem para hypnos no nível 26, deixando todos os stats maiores, mas sem diferença de habilidade."
-\ff[introBenitex]\b"Drowzee evoluem para hypnos no nível 26, deixando todos os stats maiores, mas sem diferença de habilidade."
+\ff[introBenitex]\b"Drowzee evolve into Hypno at level 26, making all stats higher, but no ability difference."
 \ff[introBenitex]\b"Hypnos possuem alta Special Defense e são razoavelmente resistentes."
-\ff[introBenitex]\b"Hypnos possuem alta Special Defense e são razoavelmente resistentes."
+\ff[introBenitex]\b"Hypnos have high Special Defense and are reasonably resistant."
 \ff[introBenitex]\b"Entretanto, muitos outros pokemon possuem stats defensivos superiores, por isso, ele toma uma postura mais agressiva em batalha."
-\ff[introBenitex]\b"Entretanto, muitos outros pokemon possuem stats defensivos superiores, por isso, ele toma uma postura mais agressiva em batalha."
+\ff[introBenitex]\b"However, many other Pokémon have far superior defensive stats, so it should take a more aggressive stance in battle."
 \ff[introBenitex]\bNathan: Acho que não vale a pena continuar lendo, a não ser que eu realmente queira treinar um hypno.
-\ff[introBenitex]\bNathan: Acho que não vale a pena continuar lendo, a não ser que eu realmente queira treinar um hypno.
+\ff[introBenitex]\bNathan: I don't think it's worth continuing to read unless I really want to train a Hypno.
 \ff[introBenitex]\bNathan: Essa casa definitivamente não é normal. Acho que não tenho mais saída.
-\ff[introBenitex]\bNathan: Essa casa definitivamente não é normal. Acho que não tenho mais saída.
+\ff[introBenitex]\bNathan: This house is definitely not normal. I have no way out now.
 \ff[introBenitex]\bNathan: "Uso da hipnose para manipulação."
-\ff[introBenitex]\bNathan: "Uso da hipnose para manipulação."
+\ff[introBenitex]\bNathan: "The use of hypnosis for manipulation"
 \ff[introBenitex]\bUau, esse pode ser bem esclarecedor.
-\ff[introBenitex]\bUau, esse pode ser bem esclarecedor.
+\ff[introBenitex]\bWow, this one could be quite useful.
 \l[3]\ff[introBenitex]\b"A hipnose não pode ser utilizada para controlar a mente das pessoas, ao menos não de forma direta."
-\l[3]\ff[introBenitex]\b"A hipnose não pode ser utilizada para controlar a mente das pessoas, ao menos não de forma direta."
+\l[3]\ff[introBenitex]\b"Hypnosis cannot be used to control people's minds, at least not directly."
 \l[3]\ff[introBenitex]\b"Entretanto, uma constante crença em algo pode tornar isso real na cabeça da pessoa. Essa é a resposta para o controle mental."
-\l[3]\ff[introBenitex]\b"Entretanto, uma constante crença em algo pode tornar isso real na cabeça da pessoa. Essa é a resposta para o controle mental."
+\l[3]\ff[introBenitex]\b"However, a constant belief in something can make it real in a person's mind. That is the key to mind control."
 \l[3]\ff[introBenitex]\b"Se você fizer uma pessoa acreditar que é um cachorro, durante vários dias, uma hora ela pode acreditar que realmente é um."
-\l[3]\ff[introBenitex]\b"Se você fizer uma pessoa acreditar que é um cachorro, durante vários dias, uma hora ela pode acreditar que realmente é um."
+\l[3]\ff[introBenitex]\b"If you make a person believe they are a dog for several days, eventually they may believe they really are a dog."
 \ff[introBenitex]\bNathan: Uau. Será que foi assim que ela conquistou ele?
-\ff[introBenitex]\bNathan: Uau. Será que foi assim que ela conquistou ele?
+\ff[introBenitex]\bNathan: Arceus. Is that how she won him over?
 \ff[introBenitex]\bEspera, talvez ela tenha feito isso com ele e agora ele pensa que está amaldiçoado!
-\ff[introBenitex]\bEspera, talvez ela tenha feito isso com ele e agora ele pensa que está amaldiçoado!
+\ff[introBenitex]\bWait, maybe she did that to him and now he thinks he's cursed!
 \ff[introBenitex]\bEle pode estar só acreditando que não pode ir para Nimbasa, mas só precisa perceber que isso não é real, mas coisa da cabeça dele.
-\ff[introBenitex]\bEle pode estar só acreditando que não pode ir para Nimbasa, mas só precisa perceber que isso não é real, mas coisa da cabeça dele.
+\ff[introBenitex]\bHe may just believe he can't go to Nimbasa, but he just needs to realize that it's not real. It's all in his head.
 \ff[introBenitex]\bPreciso descobrir isso diretamente com ele.
-\ff[introBenitex]\bPreciso descobrir isso diretamente com ele.
+\ff[introBenitex]\bI need to find out directly from him.
 NÃO MEXA NAS MINHAS COISAS.
-NÃO MEXA NAS MINHAS COISAS.
+DO NOT TOUCH MY STUFF.
 Fala comigo aqui, camarada. To te esperando.
-Fala comigo aqui, camarada. To te esperando.
+Talk to me here, buddy. I'm waiting for you.
 Huhuhu!
 Huhuhu!
 \l[3]\ff[introBenitex]\bNathan: A estante tem todo tipo de livro, não acho que vou encontrar uma forma de quebrar a maldição tão rápido por aqui.
-\l[3]\ff[introBenitex]\bNathan: A estante tem todo tipo de livro, não acho que vou encontrar uma forma de quebrar a maldição tão rápido por aqui.
+\l[3]\ff[introBenitex]\bNathan: There are all kinds of books in this bookshelf. I don't have time to look for a way to break the curse here.
 O que você quer?
-O que você quer?
+What do you want?
 \ff[introBenitex]\bNathan: Estátua falante!
-\ff[introBenitex]\bNathan: Estátua falante!
+\ff[introBenitex]\bNathan: A talking statue!
 Fala logo. O que você quer?
-Fala logo. O que você quer?
+Come on, just tell me what you want.
 \ff[introBenitex]\bNathan: Vou quebrar a maldição que a dona dessa casa jogou no ex.
-\ff[introBenitex]\bNathan: Vou quebrar a maldição que a dona dessa casa jogou no ex.
+\ff[introBenitex]\bNathan: I want to break the curse that the owner of this house put on her ex.
 O QUE? O que você tem a ver com nossa relação?
-O QUE? O que você tem a ver com nossa relação?
+WHAT? What do you have to do with our relationship?
 \ff[introBenitex]\bNathan: Pera, ele namorava uma estátua?
-\ff[introBenitex]\bNathan: Pera, ele namorava uma estátua?
+\ff[introBenitex]\bNathan: Wait, he was dating a statue?
 Não, claro que não!
-Não, claro que não!
+No, of course not!
 Agora saia, e pare de se meter na minha relação!
-Agora saia, e pare de se meter na minha relação!
+Now get out, and stop meddling in my relationship!
 \ff[introBenitex]\bNathan: Estou aqui para quebrar a maldição, não pra resolver seu problema amoroso.
-\ff[introBenitex]\bNathan: Estou aqui para quebrar a maldição, não pra resolver seu problema amoroso.
+\ff[introBenitex]\bNathan: I'm here to break a curse, not to solve any love problems.
 Chega, chega! Você não vai passar!
-Chega, chega! Você não vai passar!
+Enough, enough! You're not coming in!
 \ff[introBenitex]\bNathan: Não dá pra gente resolver isso de forma civilizada?
-\ff[introBenitex]\bNathan: Não dá pra gente resolver isso de forma civilizada?
+\ff[introBenitex]\bNathan: Can't we resolve this in a civilized manner?
 Argh.
 Argh.
 \l[3]Certo. Responda essa charada, se você acertar, tem o direito de falar comigo, se não, vou te expulsar de uma vez por todas!
-\l[3]Certo. Responda essa charada, se você acertar, tem o direito de falar comigo, se não, vou te expulsar de uma vez por todas!
+\l[3]Whatever. Answer this riddle. If you get it right, you have the right to enter the room. If not, I'll kick you out once and for all!
 Qual desses pokemon possui um tipo apenas no nome?
-Qual desses pokemon possui um tipo apenas no nome?
+Which Pokémon has a type only on it's name?
 Claro que não.
-Claro que não.
+That's obviously wrong.
 \ff[introBenitex]\bNathan: Ainda estou aqui, posso tentar de novo?
-\ff[introBenitex]\bNathan: Ainda estou aqui, posso tentar de novo?
+\ff[introBenitex]\bNathan: Well, I'm still here, so can I try it again?
 Argh...
 Argh...
 HA!
 HA!
 Não posso acreditar...
-Não posso acreditar...
+I can't believe it...
 \ff[introBenitex]\bNathan: Era claro.
-\ff[introBenitex]\bNathan: Era claro.
+\ff[introBenitex]\bNathan: Of course.
 Droga!
-Droga!
+Dammit!
 \ff[introBenitex]\bNathan: Só vim pra conhecer mesmo...
-\ff[introBenitex]\bNathan: Só vim pra conhecer mesmo...
+\ff[introBenitex]\bNathan: I'm just strolling around...
 E ainda não foi embora? Vamos, xô, xô!
-E ainda não foi embora? Vamos, xô, xô!
-\ff[introBenitex]\bNathan: A placa tem algumas palavras em uma liguagem ilegível.
-\ff[introBenitex]\bNathan: A placa tem algumas palavras em uma liguagem ilegível.
+Yeah, strolling around a cursed house? Why did you not get out yet? Go on, shoo, shoo!
+\ff[introBenitex]\bNathan: A placa tem algumas palavras em uma linguagem estranha.
+\ff[introBenitex]\bNathan: The sign was written in a strange language.
 \ff[introBenitex]\bTalvez algo aconteça se eu também tocar onde ela tocou.
-\ff[introBenitex]\bTalvez algo aconteça se eu também tocar onde ela tocou.
+\ff[introBenitex]\bMaybe something will happen if I touch where she touched.
 \ff[introBenitex]\b(Devo encostar?)
-\ff[introBenitex]\b(Devo encostar?)
+\ff[introBenitex]\b(Should I touch it?)
 \ff[introBenitex]\bNathan: Bom, acho que é o que falta fazer por aqui.
-\ff[introBenitex]\bNathan: Bom, acho que é o que falta fazer por aqui.
+\ff[introBenitex]\bNathan: Well, I guess that's all there is to do here.
 \ff[introBenitex]\bMelhor eu não encostar até investigar a sala por completo.
-\ff[introBenitex]\bMelhor eu não encostar até investigar a sala por completo.
+\ff[introBenitex]\bI'd better not touch it until I've investigated the room thoroughly.
 Então você resolveu invadir minha propriedade para tentar tomar conta do meu relacionamento. Quanta audácia.
-Então você resolveu invadir minha propriedade para tentar tomar conta do meu relacionamento. Quanta audácia.
+So you decided to trespass on my property to try to take control of my relationship. How audacious.
 \ff[introBenitex]\bNathan: Eu já disse que não é nada disso. Eu só quero que você quebre a maldição do rapaz.
-\ff[introBenitex]\bNathan: Eu já disse que não é nada disso. Eu só quero que você quebre a maldição do rapaz.
+\ff[introBenitex]\bNathan: I already told you that's not what this is about. I just want you to break the curse on the guy.
 E por que o rapaz está amaldiçoado? Por que me traiu! Esse safado!
-E por que o rapaz está amaldiçoado? Por que me traiu! Esse safado!
+And why is the guy cursed? Because he cheated on me! That bastard deserves it!
 \ff[introBenitex]\bNathan: Ele não quer mais ficar com você, não dá pra você só liberar ele de uma vez?
-\ff[introBenitex]\bNathan: Ele não quer mais ficar com você, não dá pra você só liberar ele de uma vez?
+\ff[introBenitex]\bNathan: He doesn't want to be with you anymore. Can't you just break the curse and move on?
 Não, jamais. Não depois do que ele fez comigo!
-Não, jamais. Não depois do que ele fez comigo!
+No, never! Not after what he did to me!
 \ff[introBenitex]\bNathan: (Não acredito que vou realmente me meter nesse caso amoroso.)
-\ff[introBenitex]\bNathan: (Não acredito que vou realmente me meter nesse caso amoroso.)
+\ff[introBenitex]\bNathan: (I can't believe I'm actually getting involved in this love affair.)
 \ff[introBenitex]\bNathan: Então diga o que ele fez de tão ruim para você ter o direito de amaldiçoar ele.
-\ff[introBenitex]\bNathan: Então diga o que ele fez de tão ruim para você ter o direito de amaldiçoar ele.
+\ff[introBenitex]\bNathan: Then tell me your perspective. What he did that was so bad that you have the right to curse him?
 Ele escolheu aquela vadia no meu lugar!
-Ele escolheu aquela vadia no meu lugar!
-\l[3]Eu tratava ele tão bem... Dava Rare Candies todas as vezes que nos encontravamos, fazia hipnose relaxante com meu hypno...
-\l[3]Eu tratava ele tão bem... Dava Rare Candies todas as vezes que nos encontravamos, fazia hipnose relaxante com meu hypno...
+He chose that bitch over me!
+\l[3]Eu tratava ele tão bem... Dava Rare Candies todas as vezes que nos encontrávamos, fazia hipnose relaxante com meu hypno...
+\l[3]I took such good care of him... I gave him Rare Candies every time we met, did a lot of relaxing hypnosis with my Hypno...
 \ff[introBenitex]\bNathan: Você hipnotizava ele?
-\ff[introBenitex]\bNathan: Você hipnotizava ele?
+\ff[introBenitex]\bNathan: You hypnotized him?
 Sim, mas ele adorava.
-Sim, mas ele adorava.
+Yes, and he said he loved it.
 \ff[introBenitex]\bNathan: Antes ou depois da hipnose?
-\ff[introBenitex]\bNathan: Antes ou depois da hipnose?
+\ff[introBenitex]\bNathan: Did he say that before or after the hypnosis?
 A ordem dos fatores não altera o produto!
-A ordem dos fatores não altera o produto!
+The order of factors does not alter the product!
 Enfim, ele me amava muito, mas pelo visto achou outra superior!
-Enfim, ele me amava muito, mas pelo visto achou outra superior!
+Anyway, he loved me very much, but apparently he found someone else who was better!
 Nada disso, ele é um tarado, isso sim.
-Nada disso, ele é um tarado, isso sim.
-Aposto que ele só fica com a outra menina pela aparência!
-Aposto que ele só fica com a outra menina pela aparência!
-\ff[introBenitex]\bNathan: Você não sabe nem como ela é?
-\ff[introBenitex]\bNathan: Você não sabe nem como ela é?
-Não, e nem quero saber!
-Não, e nem quero saber!
+He's just a pervert, that's what he is.
+\ff[introBenitex]\bNathan: Olha, eu entendo que você ame muito ele, mas você tem certeza que essa é a melhor solução?
+\ff[introBenitex]\bNathan: Look, I understand that you loved him very much, but are you sure this is the best solution?
+\ff[introBenitex]\bAmaldiçoar ele não vai te ajudar em nada.
+\ff[introBenitex]\bCursing him won't help you at all.
+\l[3]\ff[introBenitex]\bNathan: Entendo a situação. Você realmente deve estar sofrendo muito. Pode contar comigo.
+\l[3]\ff[introBenitex]\bNathan: I understand you. You must be suffering a lot. You can count on me.
+Ótimo, que bom que você me entende.
+Great, I'm glad you understand me.
+Você promete que nunca mais vai voltar aqui? E que vai deixar aquele maldito amaldiçoado para sempre?
+Do you promise you'll never come back here again? And that you'll let that damn bastard man cursed forever?
+Então volte até ele e derrote ele em batalha mais uma vez. Essa vai ser a última.
+Then go back to him and defeat him in battle once more. This will be the last time.
+\ff[introBenitex]\bNathan: Eu prometo.
+\ff[introBenitex]\bNathan: I promise.
+\ff[introBenitex]\bNathan: Eu não posso te prometer isso.
+\ff[introBenitex]\bNathan: I can't promise you that.
+Eu sabia!
+I knew it!
 Chega, chega de conversa com você. Cansei disso!
-Chega, chega de conversa com você. Cansei disso!
+Enough, enough talking with you. I'm tired of it!
 \ff[introBenitex]\bNathan: Calma, termine sua história.
-\ff[introBenitex]\bNathan: Calma, termine sua história.
+\ff[introBenitex]\bNathan: Calm down, end your story.
 Não! Prefiro terminar a sua existência!
-Não! Prefiro terminar a sua existência!
+No! I'd rather end your existence!
 \ff[introBenitex]\bNathan: É isso, você foi derrotada. Pode me contar como quebrar a maldição agora?
-\ff[introBenitex]\bNathan: É isso, você foi derrotada.  Pode me contar como quebrar a maldição agora?
+\ff[introBenitex]\bNathan: That's it, you've been defeated. Can you tell me how to break the curse now?
 Jamais, você venceu a batalha, mas não a guerra!
-Jamais, você venceu a batalha, mas não a guerra!
+Never! You won the battle, but not the war!
 \ff[introBenitex]\bNathan: Eu não quero guerra com ninguém, por favor.
-\ff[introBenitex]\bNathan: Eu não quero guerra com ninguém, por favor.
+\ff[introBenitex]\bNathan: I don't want war with anyone, please.
 \ff[introBenitex]\bLá vai ela...
-\ff[introBenitex]\bLá vai ela...
+\ff[introBenitex]\bThere she goes...
 \ff[introBenitex]\bNathan: Vou dar uma vasculhada pela área, talvez eu ache algo por aqui.
-\ff[introBenitex]\bNathan: Vou dar uma vasculhada pela área, talvez eu ache algo por aqui.
+\ff[introBenitex]\bNathan: I'll take a look around the area, maybe I'll find something useful.
 \ff[introBenitex]\bNathan: "Como fazer um homem se apaixonar por você em 5 passos."
-\ff[introBenitex]\bNathan: "Como fazer um homem se apaixonar por você em 5 passos."
+\ff[introBenitex]\bNathan: "How to make a man fall in love with you in 5 steps."
 \l[3]\ff[introBenitex]\bImagino que não seja isso. Essa menina não parece ser muito capaz de se relacionar com outros homens. Esse livro só confirma isso.
-\l[3]\ff[introBenitex]\bImagino que não seja isso. Essa menina não parece ser muito capaz de se relacionar com outros homens. Esse livro só confirma isso.
+\l[3]\ff[introBenitex]\bThis girl doesn't seem to be very good at relating to other men. This book just confirms that.
 Rockruff.
 Rockruff.
 Steelix.
@@ -13608,14 +13632,18 @@ Jellicent.
 Jellicent.
 Clefairy.
 Clefairy.
+Pense no que está fazendo.
+Think about what you're doing.
+Estou do seu lado.
+I'm on your side.
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 Não dá pra só liberar ele?
-Não dá pra só liberar ele?
+Can't you just break the curse?
 Conte sua perspectiva.
-Conte sua perspectiva.
+Tell me your side.
 [Map87]
 \ff[introOak]\rCarvalho: Muito bem Nathan, tenho muito orgulho de você por ter chegado até aqui.
 \ff[introOak]\rCarvalho: Muito bem Nathan, tenho muito orgulho de você por ter chegado até aqui.
@@ -13889,55 +13917,55 @@ Você não merece Volcarona.
 Você não merece Volcarona.
 [Map88]
 \ff[introBenitex]\bNathan: Relic Castle... Finalmente.
-\ff[introBenitex]\bNathan: Relic Castle... Finalmente.
+\ff[introBenitex]\bNathan: Relic Castle... Finally.
 \ff[introBenitex]\bParece que estou em uma parte alguns andares abaixo do deserto.
-\ff[introBenitex]\bParece que estou em uma parte alguns andares abaixo do deserto.
+\ff[introBenitex]\bI must be a few floors below the desert.
 \ff[introBenitex]\bO castelo acaba parecendo muito mais cavernas nesses andares...
-\ff[introBenitex]\bO castelo acaba parecendo muito mais cavernas nesses andares...
+\ff[introBenitex]\bThe castle ends up looking more like caves on these floors...
 \ff[introBenitex]\bBom, vamos ver o que encontro por aqui!
-\ff[introBenitex]\bBom, vamos ver o que encontro por aqui!
+\ff[introBenitex]\bWell, let's see what I find around here!
 \ff[introBenitex]\bNathan: Ele está me entregando alguma coisa!
-\ff[introBenitex]\bNathan: Ele está me entregando alguma coisa!
+\ff[introBenitex]\bNathan: It's handing me something!
 \ff[introBenitex]\bNathan: Obrigado!
-\ff[introBenitex]\bNathan: Obrigado!
+\ff[introBenitex]\bNathan: Thank you!
 \ff[introBenitex]\bNathan: Espera, essas pegadas não são de Pokemon, são pegadas humanas!
-\ff[introBenitex]\bNathan: Espera, essas pegadas não são de Pokemon, são pegadas humanas!
+\ff[introBenitex]\bNathan: Wait, those are not footprints from a Pokémon, they're human footprints!
 \rNathan! Finalmente te encontrei!
-\rNathan! Finalmente te encontrei!
+\rNathan! I finally found you!
 \r\l[3]O professor Carvalho pediu para te procurar aqui, cuidar dos seus pokemon e te dar alguns direcionamentos sobre o Relic Castle.
-\r\l[3]O professor Carvalho pediu para te procurar aqui, cuidar dos seus pokemon e te dar alguns direcionamentos sobre o Relic Castle.
+\r\l[3]Professor Oak asked me to find you here and give you some directions about Relic Castle.
 \ff[introBenitex]\bNathan: Ótimo!
-\ff[introBenitex]\bNathan: Ótimo!
+\ff[introBenitex]\bNathan: Nice!
 \rAqui, vou tratar os ferimentos deles enquanto conversamos...
-\rAqui, vou tratar os ferimentos deles enquanto conversamos...
+\rHere, I let me heal your Pokémon while we talk...
 \rComo deve ter percebido, você chegou no Relic Castle! Mas você não deve lembrar de ter passado por aqui.
-\rComo deve ter percebido, você chegou no Relic Castle! Mas você não deve lembrar de ter passado por aqui.
+\rAs you may have noticed, you've arrived back to Relic Castle! But you probably don't remember coming here.
 \rEssa parte do lugar estava bloqueada por uma pedra enorme.
-\rEssa parte do lugar estava bloqueada por uma pedra enorme.
+\rThis part of the place was blocked by a huge rock, as you must remember.
 \rComo você derrotou os Motoqueiros, consegui ajuda do Clube de Hikers para quebrar ela.
-\rComo você derrotou os Motoqueiros, consegui ajuda do Clube de Hikers para quebrar ela.
+\rBut, since you defeated the Bikers, I got help from the Hikers Club to break it.
 \rAgora, com o caminho aberto, você pode ir e vir por lá a vontade!
-\rAgora, com o caminho aberto, você pode ir e vir por lá a vontade!
+\rNow that the path is clear, you can come and go using that path as you please!
 \ff[introBenitex]\bNathan: Perfeito. Mas como posso ir pra lá? Estou perdido.
-\ff[introBenitex]\bNathan: Perfeito. Mas como posso ir pra lá? Estou perdido.
+\ff[introBenitex]\bNathan: That's perfect. But how can I get there? I'm lost.
 \rHum... É um longo caminho.
-\rHum... É um longo caminho.
+\rOh. That's a long way.
 \rNa verdade, estamos no andar B4F, e aquela pedra estava dois andares acima, passando pela escada ali atrás.
-\rNa verdade, estamos no andar B4F, e aquela pedra estava dois andares acima, passando pela escada ali atrás.
+\rWe're on the B4F floor, and that rock was two floors above, past the stairs back there.
 \ff[introBenitex]\bNathan: Hum, entendi.
-\ff[introBenitex]\bNathan: Hum, entendi.
+\ff[introBenitex]\bNathan: I see.
 \rEsse é o caminho para subir, mas ainda não encontrei o caminho para continuar descendo...
-\rEsse é o caminho para subir, mas ainda não encontrei o caminho para continuar descendo...
+\rThat's the way up, but I haven't found the way to continue down yet...
 \ff[introBenitex]\bNathan: Certo, vou dar uma olhada por aqui.
-\ff[introBenitex]\bNathan: Certo, vou dar uma olhada por aqui.
+\ff[introBenitex]\bNathan: Okay. Thank you very much. I'll look for a way down around here.
 \rBoa sorte na sua jornada!
-\rBoa sorte na sua jornada!
+\rGood luck!
 \ff[introBenitex]\bNathan: Pode curar meus pokemon?
-\ff[introBenitex]\bNathan: Pode curar meus pokemon?
+\ff[introBenitex]\bNathan: Can you heal my Pokémon?
 Claro, só um segundo...
-Claro, só um segundo...
+Sure, just a second...
 Prontinho!
-Prontinho!
+And... done!
 [Map89]
 \ff[introBenitex]\bNathan: O que aconteceu? Por que você está presa aqui?
 \ff[introBenitex]\bNathan: O que aconteceu? Por que você está presa aqui?
@@ -14160,91 +14188,91 @@ Sou seu maior pesadelo!
 \ff[introTriad]Agora dê meia volta e saia daqui. Esse vai ser o último aviso.
 [Map91]
 \ff[introBenitex]\bNathan: Tem um interruptor escondido aqui. Olhar as outras pedras pode ser uma boa ideia.
-\ff[introBenitex]\bNathan: Tem um interruptor escondido aqui. Olhar as outras pedras pode ser uma boa ideia.
+\ff[introBenitex]\bNathan: There's a hidden switch here. Looking at the other stones might be a good idea.
 \ff[introBenitex]\bNathan: Acho que essa foi a última. Só falta essa outra pedra esquisita no meio.
-\ff[introBenitex]\bNathan: Acho que essa foi a última. Só falta essa outra pedra esquisita no meio.
+\ff[introBenitex]\bNathan: I think that was the last one. Now there's just this other weird stone in the middle.
 \ff[introBenitex]\bNathan: Aqui parece não ter nada.
-\ff[introBenitex]\bNathan: Aqui parece não ter nada.
+\ff[introBenitex]\bNathan: There doesn't seem to be anything here.
 \ff[introBenitex]\bNathan: Essa pedra definitivamente não é normal.
-\ff[introBenitex]\bNathan: Essa pedra definitivamente não é normal.
+\ff[introBenitex]\bNathan: This stone is definitely not normal.
 \ff[introBenitex]\bNathan: Que pedra esquisita.
-\ff[introBenitex]\bNathan: Que pedra esquisita.
+\ff[introBenitex]\bNathan: What a weird stone.
 CUIDADO COM ESSA PEDRA!
-CUIDADO COM ESSA PEDRA!
+BEWARE OF THAT ROCK!
 \ff[introBenitex]\bNathan: Que isso, por quê?
-\ff[introBenitex]\bNathan: Que isso, por quê?
+\ff[introBenitex]\bNathan: What, why?
 Essa pedra é muito perigosa!
-Essa pedra é muito perigosa!
+That rock is very, very dangerous!
 Na primeira vez que toquei nela, eu era parecido com você.
-Na primeira vez que toquei nela, eu era parecido com você.
+The first time I touched it, I was just like you.
 A sensação... Foi indescritível. Me senti totalmente restaurado, mas, ao mesmo tempo, cansado.
-A sensação... Foi indescritível. Me senti totalmente restaurado, mas, ao mesmo tempo, cansado.
+The feeling... It was indescribable. I felt completely refreshed, but at the same time, very tired.
 \ff[introBenitex]\bNathan: Você se sentiu cansado e descansado ao mesmo tempo?
-\ff[introBenitex]\bNathan: Você se sentiu cansado e descansado ao mesmo tempo?
+\ff[introBenitex]\bNathan: Did you feel tired and refreshed at the same time?
 Eu não sei o que senti... Mas me senti bem.
-Eu não sei o que senti... Mas me senti bem.
+I don't know what I felt... But I felt good.
 Mas não foi suficiente, eu precisava tocar mais e mais.
-Mas não foi suficiente, eu precisava tocar mais e mais.
+But it wasn't enough, I needed to touch it more and more. And MORE.
 \ff[introBenitex]\bNathan: Há quanto tempo você está aqui?
-\ff[introBenitex]\bNathan: Há quanto tempo você está aqui?
+\ff[introBenitex]\bNathan: How long have you been here?
 As pedras dessa caverna são estranhas menino, tome cuidado com elas.
-As pedras dessa caverna são estranhas menino, tome cuidado com elas.
+The stones in this cave are strange. Be careful with them.
 \ff[introBenitex]\bNathan: Que isso!
-\ff[introBenitex]\bNathan: Que isso!
-\ff[introBenitex]\bNathan: Tomara que esse seja o último...
-\ff[introBenitex]\bNathan: Tomara que esse seja o último...
+\ff[introBenitex]\bNathan: Arceus!
+\ff[introBenitex]\bNathan: Deve ser esse bicho que causou essas mudanças estranhas nesse lugar.
+\ff[introBenitex]\bNathan: That Musharna must be what caused the weirdness of this place.
 \ff[introBenitex]\bNathan: Esse barulho... Será que a passagem abriu?
-\ff[introBenitex]\bNathan: Esse barulho... Será que a passagem abriu?
+\ff[introBenitex]\bNathan: That noise... Could the passage have opened?
 \ff[introBenitex]\bNathan: Ah não. Não acredito que vou ficar preso aqui agora...
-\ff[introBenitex]\bNathan: Ah não. Não acredito que vou ficar preso aqui agora...
+\ff[introBenitex]\bNathan: No way. I can't believe I'm stuck here.
 \ff[introBenitex]\bBom, agora preciso achar uma saída.
-\ff[introBenitex]\bBom, agora preciso achar uma saída.
+\ff[introBenitex]\bWell, now I need to find a way out.
 [Map92]
 \ff[introBenitex]\bNathan: Salve-se quem puder!
 \ff[introBenitex]\bNathan: Run for your lives!
 [Map93]
 \ff[introBenitex]\bNathan: Oi?
-\ff[introBenitex]\bNathan: Oi?
+\ff[introBenitex]\bNathan: Hi?
 \ff[introBenitex]\bNathan: Peraí. Você é o chefe dos Cluchar?
-\ff[introBenitex]\bNathan: Peraí. Você é o chefe dos Cluchar?
+\ff[introBenitex]\bNathan: Wait a second. You're the leader of the Cluchar?
 Sim, o único. Muito prazer, qual é seu nome?
-Sim, o único. Muito prazer, qual é seu nome?
+Yeah, one and only. Nice to meet you, what's your name, bro?
 \l[3]\ff[introBenitex]\bNathan: Meu nome é Nathan, mas você me conhece. Você não me deixava entrar aqui quando eu queria falar com... você, pelo visto.
-\l[3]\ff[introBenitex]\bNathan: Meu nome é Nathan, mas você me conhece. Você não me deixava entrar aqui quando eu queria falar com... você, pelo visto.
+\l[3]\ff[introBenitex]\bNathan: My name is Nathan, as you already know. You wouldn't let me in here when I wanted to talk to... you, apparently.
 Ah, não, não, você deve estar confundindo as coisas!
-Ah, não, não, você deve estar confundindo as coisas!
+Oh, no, no, you must be confusing things!
 Você deve estar falando do meu guarda-costas, ele é um outro Cluchar. A gente se parece, né?
-Você deve estar falando do meu guarda-costas, ele é um outro Cluchar. A gente se parece, né?
+You must be talking about my bodyguard, he's another Cluchar. We look alike, don't we?
 \ff[introBenitex]\bNathan: É, são bem parecidos. Idênticos, eu diria.
-\ff[introBenitex]\bNathan: É, são bem parecidos.  Idênticos, eu diria.
+\ff[introBenitex]\bNathan: Yes, very similar. Identical, I would say.
 Ah, o mundo é muito engraçado, não é mesmo? Parece destino, os Cluchar se atraem!
-Ah, o mundo é muito engraçado, não é mesmo?  Parece destino, os Cluchar se atraem!
+Very, very funny, isn't it? It seems like fate, Cluchar attract each other!
 Então, me diga, o que veio fazer aqui? Também vai se juntar ao Clube?
-Então, me diga, o que veio fazer aqui? Também vai se juntar ao Clube?
+So, tell me, what are you doing here? Are you joining the Club too?
 \ff[introBenitex]\bNathan: Não tenho certeza sobre isso. Na verdade, queria conhecer melhor.
-\ff[introBenitex]\bNathan: Não tenho certeza sobre isso. Na verdade, queria conhecer melhor.
+\ff[introBenitex]\bNathan: I'm not sure about that. Actually, I'm interested in knowing more about it.
 Ah, tá bom, posso te falar mais sobre a gente.
-Ah, tá bom, posso te falar mais sobre a gente.
+Oh, okay, I can tell you more about us.
 Mas acho que prefiro continuar assistindo TV.
-Mas acho que prefiro continuar assistindo TV.
+But I think I prefer to keep watching TV.
 \ff[introBenitex]\bNathan: Ei, ei, ei. Deu trabalho pra conseguir vir até aqui pra conversar com você sabia?
-\ff[introBenitex]\bNathan: Ei, ei, ei. Deu trabalho pra conseguir vir até aqui pra conversar com você sabia?
+\ff[introBenitex]\bNathan: Sorry? It was hard work getting here to talk to you, you know?
 \ff[introBenitex]\bVocê realmente não vai falar nada sobre o Clube que você lidera?
-\ff[introBenitex]\bVocê realmente não vai falar nada sobre o Clube que você lidera?
+\ff[introBenitex]\bAre you really not going to tell me anything about the Club you lead?
 Sinceramente, não acho que vale a pena, ninguém mais quer fazer parte de nós, já perdemos as eleições.
-Sinceramente, não acho que vale a pena, ninguém mais quer fazer parte de nós, já perdemos as eleições.
+Honestly, I don't think it's worth it. No one else wants to be part of us, we've already lost the elections, pretty much.
 Seria um esforço desnecessário.
-Seria um esforço desnecessário.
+It would be an unnecessary effort.
 Ah, quer saber? Você pode dar uma olhada por você mesmo. Se alguém perguntar, pode falar que você é um cluchar também.
-Ah, quer saber? Você pode dar uma olhada por você mesmo. Se alguém perguntar, pode falar que você é um cluchar também.
+You know what? Just take a look for yourself. If anyone asks, you can say you're a cluchar too.
 \ff[introBenitex]\bNathan: (Por Arceus, esse clube está arruinado...)
-\ff[introBenitex]\bNathan: (Por Arceus, esse clube está arruinado...)
+\ff[introBenitex]\bNathan: (Arceus, this Club is ruined...)
 Ei, cuidado aí com o controle!
-Ei, cuidado aí com o controle!
+Hey, watch that controller!
 Foi mal, só outros Cluchar podem usar essa geladeira.
-Foi mal, só outros Cluchar podem usar essa geladeira.
+Sorry, only Cluchar members can use this refrigerator.
 \ff[introBenitex]\bNathan: Ah, tudo bem.
-\ff[introBenitex]\bNathan: Ah, tudo bem.
+\ff[introBenitex]\bNathan: Okay.
 [Map94]
 Cara, essa cidade...
 Cara, essa cidade...
