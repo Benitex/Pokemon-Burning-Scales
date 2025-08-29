@@ -156,10 +156,12 @@ module QuestModule
     :QuestGiver => "Treinador apaixonado",
     :Stage1 => "Invada a casa da treinadora.",
     :Stage2 => "Encontre a solução da maldição.",
-    :Stage3 => "Quebre a maldição.",
+    :Stage3 => "Derrote o amadiçoado.",
+    :Stage4 => "Quebre a maldição.",
     :Location1 => "Mode Street",
     :Location2 => "Casa Abandonada",
     :Location3 => "Rota 4",
+    :Location4 => "Rota 4",
     :QuestDescription => "Um treinador da Rota 4 foi impedido de ir para o torneio em Nimbasa e encontrar sua amada graças a uma maldição de outra treinadora de Castelia, preciso quebrar a maldição para ajudar ele.",
   }
 
