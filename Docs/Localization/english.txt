@@ -13259,187 +13259,191 @@ No.
 \ff[introBenitex]\bNathan: This door is the entrance to one of the greenhouses. It's locked.
 [Map84]
 \ff[introBenitex]\bNathan: A temperatura mudou... Estou começando a sentir calor. No meio do gelo.
-\ff[introBenitex]\bNathan: A temperatura mudou...  Estou começando a sentir calor. No meio do gelo.
+\ff[introBenitex]\bNathan: The temperature has changed... I'm starting to feel hot. In the middle of the ice.
 \ff[introBenitex]\bVolcarona deve estar muito perto.
-\ff[introBenitex]\bVolcarona deve estar muito perto.
+\ff[introBenitex]\bVolcarona must be very close.
 \ff[introBenitex]\bNathan: Eu... Eu consegui!
-\ff[introBenitex]\bNathan: Eu... Eu consegui!
+\ff[introBenitex]\bNathan: I... I did it!
 Nathan!
 Nathan!
 \ff[introBenitex]\bNathan: Meloetta! Eu consegui, derrotei a Volcarona!
-\ff[introBenitex]\bNathan: Meloetta! Eu consegui, derrotei a Volcarona!
+\ff[introBenitex]\bNathan: Meloetta! I did it, I defeated Volcarona!
 Meloetta: Muito bem, você fez o certo, mas esse não é o fim ainda.
-Meloetta: Muito bem, você fez o certo, mas esse não é o fim ainda.
+Meloetta: Well done, you did the right thing. But this is not the end yet.
 Nathan, você sabe que esse não é o lugar dos Pokemon do Pandemônio.
-Nathan, você sabe que esse não é o lugar dos Pokemon do Pandemônio.
+Nathan, you know this is not the place where the Pandemonium Pokémon should be.
 Por isso, eu peço que você devolva todos para sua verdadeira casa.
-Por isso, eu peço que você devolva todos para sua verdadeira casa.
+That's why I ask you to return them all to their true home.
 Eu abri o portal. Você pode devolvê-los para lá?
-Eu abri o portal. Você pode devolvê-los para lá?
+I've opened the portal. Can you return them there?
 \ff[introBenitex]\bNathan: Anna? Como você veio até aqui?
-\ff[introBenitex]\bNathan: Anna? Como você veio até aqui?
+\ff[introBenitex]\bNathan: Anna? How did you get here?
 \ff[introAnna]\c[4]Anna: Nathan, por favor, essa é minha última chance.
-\ff[introAnna]\c[4]Anna: Nathan, por favor, essa é minha última chance.
+\ff[introAnna]\c[4]Anna: Nathan, please, this is my last chance. Hear me out.
 \ff[introAnna]\c[4]Eu não quero mais causar problemas pra você, nem pra ninguém mais desse mundo.
-\ff[introAnna]\c[4]Eu não quero mais causar problemas pra você, nem pra ninguém mais desse mundo.
+\ff[introAnna]\c[4]I don't want to cause any more trouble for you, or anyone else in this world.
 \ff[introAnna]\c[4]Esse não é meu lugar, nunca foi. Eu não quero mais viver aqui.
-\ff[introAnna]\c[4]Esse não é meu lugar, nunca foi. Eu não quero mais viver aqui.
+\ff[introAnna]\c[4]This isn't my place, it never was. I don't want to live here anymore.
 \ff[introAnna]\c[4]Por favor, deixe que eu vá para o Pandemônio.
-\ff[introAnna]\c[4]Por favor, deixe que eu vá para o Pandemônio.
+\ff[introAnna]\c[4]Please, let me go to Pandemonium.
 \ff[introBenitex]\bNathan: Eu entendo... É uma pena que tenha que acabar assim para você, mas tudo bem, pode ir.
-\ff[introBenitex]\bNathan: Eu entendo... É uma pena que tenha que acabar assim para você, mas tudo bem, pode ir.
+\ff[introBenitex]\bNathan: I understand... It's okay, you can go.
 \ff[introAnna]\c[4]Anna: Isso é o que eu mais quero, obrigada.
-\ff[introAnna]\c[4]Anna: Isso é o que eu mais quero, obrigada.
+\ff[introAnna]\c[4]Anna: That's what I want most, thank you.
 \ff[introBenitex]\bNathan: Eu não posso concordar com os métodos de vocês, ou com sua ideologia completamente.
-\ff[introBenitex]\bNathan: Eu não posso concordar com os métodos de vocês, ou com sua ideologia completamente.
+\ff[introBenitex]\bNathan: I cannot agree with your methods, or your ideology completely.
 \ff[introBenitex]\bMas não quero impedir que vocês alcancem o sonho de vocês.
-\ff[introBenitex]\bMas não quero impedir que vocês alcancem o sonho de vocês.
+\ff[introBenitex]\bBut I don't want to prevent you from achieving your dream.
 \ff[introBenitex]\bNo Pandemônio, vocês não vão mais voltar a incomodar a gente, e espero que consigam viver como desejam.
-\ff[introBenitex]\bNo Pandemônio, vocês não vão mais voltar a incomodar a gente, e espero que consigam viver como desejam.
+\ff[introBenitex]\bIn Pandemonium, I hope you can live as you wish.
 \ff[introAnna]\c[4]Anna: Eu agradeço muito pela sua compaixão. Vou falar com os outros e vamos sair daqui assim que pudermos.
-\ff[introAnna]\c[4]Anna: Eu agradeço muito pela sua compaixão. Vou falar com os outros e vamos sair daqui assim que pudermos.
+\ff[introAnna]\c[4]Anna: I am very grateful for your compassion. I'll talk to the others and we'll leave here as soon as we can.
 \ff[introBenitex]\bNathan: Certo.
-\ff[introBenitex]\bNathan: Certo.
+\ff[introBenitex]\bNathan: Okay.
 \ff[introBenitex]\bNathan: Depois de tudo que você fez até agora, você quer entrar no Pandemônio? Você não merece isso.
-\ff[introBenitex]\bNathan: Depois de tudo que você fez até agora, você quer entrar no Pandemônio?  Você não merece isso.
+\ff[introBenitex]\bNathan: After everything you've done, you want to enter Pandemonium? You don't deserve it.
 \ff[introBenitex]\bVocê, assim como seus amigos, vão pagar pelas consequências do sonho ilusório de vocês.
-\ff[introBenitex]\bVocê, assim como seus amigos, vão pagar pelas consequências do sonho ilusório de vocês.
+\ff[introBenitex]\bYou, like your friends, will pay for the consequences of your illusory dream.
 Meloetta: Nathan, não se esqueça dos pokemon do Pandemônio!
-Meloetta: Nathan, não se esqueça dos pokemon do Pandemônio!
+Meloetta: Nathan, don't forget the Pandemonium Pokémon!
 \ff[introBenitex]\bNathan: Certo. Acho que é hora da despedida.
-\ff[introBenitex]\bNathan: Certo. Acho que é hora da despedida.
+\ff[introBenitex]\bNathan: Right. I think it's time to say goodbye.
 \ff[introBenitex]\bEles me ajudaram muito para chegar até aqui, mas é hora de voltar para casa.
-\ff[introBenitex]\bEles me ajudaram muito para chegar até aqui, mas é hora de voltar para casa.
+\ff[introBenitex]\bYou helped me a lot to get here, but now it's time to go home.
 \ff[introBenitex]\bAdeus.
-\ff[introBenitex]\bAdeus.
+\ff[introBenitex]\bGoodbye.
 Algum tempo depois...
-Algum tempo depois...
+Some time later...
 \l[3]Todos os Motoqueiros foram encontrados e presos em Castelia. As casas onde a gangue vivia estão sendo reformadas para futuro uso.
-\l[3]Todos os Motoqueiros foram encontrados e presos em Castelia. As casas onde a gangue vivia estão sendo reformadas para futuro uso.
+\l[3]All the Bikers were found and arrested in Castelia. The houses where the gang lived are being renovated for future use.
 \l[3]O grupo de Motoqueiros que tinha dominado a Rota 4 abandonou seus postos misteriosamente poucos dias após a derrota dos Discípulos de Ryoku.
-\l[3]O grupo de Motoqueiros que tinha dominado a Rota 4 abandonou seus postos misteriosamente poucos dias após a derrota dos Discípulos de Ryoku.
+\l[3]The group of Bikers that had taken over Route 4 mysteriously abandoned their posts a few days after the defeat of the Disciples of Ryoku.
 O lugar onde viviam foi queimado, apagando todas as evidências do que faziam. Para onde foram e o que faziam naquelas casa se manteve um mistério.
-O lugar onde viviam foi queimado, apagando todas as evidências do que faziam. Para onde foram e o que faziam naquelas casa se manteve um mistério.
+The place where they lived was burned down, erasing all evidence of what they did. Where they went and what they did in those houses remained a mystery.
 \l[3]A cidade de Castelia prospera com o governo dos Hikers. O espírito de equipe e de aventura tornam a cidade cada vez mais própera e feliz.
-\l[3]A cidade de Castelia prospera com o governo dos Hikers. O espírito de equipe e de aventura tornam a cidade cada vez mais própera e feliz.
+\l[3]The city of Castelia thrives under the Hikers' rule. Team spirit and a sense of adventure make the city increasingly prosperous and happy.
 \l[3]A cidade de Castelia está passando por mudanças grandes. Os Dediê usam todos o recursos disponíveis em busca de criar a nova capital mundial.
-\l[3]A cidade de Castelia está passando por mudanças grandes. Os Dediê usam todos o recursos disponíveis em busca de criar a nova capital mundial.
+\l[3]The city of Castelia is undergoing major changes. The Dediê are using all available resources in their quest to create the new world capital.
 \l[3]A reação da população é mista. Alguns apoiam a visão revolucionária, outros tem medo dos investimentos acabarem sendo um desperdício.
-\l[3]A reação da população é mista. Alguns apoiam a visão revolucionária, outros tem medo dos investimentos acabarem sendo um desperdício.
+\l[3]The population's reaction is mixed. Some support the revolutionary vision, while others fear that the investments will end up being a waste.
 \l[3]A cidade de Castelia entrou em uma crise de segurança e criminalidade. Os Motoqueiros se provaram incapazes de governar a cidade.
-\l[3]A cidade de Castelia entrou em uma crise de segurança e criminalidade. Os Motoqueiros se provaram incapazes de governar a cidade.
+\l[3]The city of Castelia has entered a crisis of security and crime. The Bikers have proven incapable of governing the city.
 Muitos suspeitam que a situação da cidade é proposital. Grupos começaram a se formar buscando tirá-los do poder.
-Muitos suspeitam que a situação da cidade é proposital. Grupos começaram a se formar buscando tirá-los do poder.
+Many suspect that the situation in the city is intentional. Groups have begun to form, seeking to remove them from power.
 \l[3]Os membros da nova Team Plasma foram presos. Boatos dizem que Ryoku continua propagando seus ideais na prisão, enquanto a polícia tenta contê-lo.
-\l[3]Os membros da nova Team Plasma foram presos.  Boatos dizem que Ryoku continua propagando seus ideais na prisão, enquanto a polícia tenta contê-lo.
+\l[3]The members of the new Team Plasma have been arrested. Rumors say that Ryoku continues to spread his ideals in prison, while the police try to contain him.
 \l[3]Anna nunca mais foi vista.\nSua mãe foi encontrada morta pouco tempo depois de descobrir que sua filha fugiu para outra dimensão.
-\l[3]Anna nunca mais foi vista.\nSua mãe foi encontrada morta pouco tempo depois de descobrir que sua filha fugiu para outra dimensão.
+\l[3]Anna was never seen again.\nHer mother was found dead a few days after her daughter fled to another dimension.
 \l[3]Os Discípulos de Ryoku nunca mais foram vistos. O caloroso e frio culto secreto do Relic Castle se manteve nas sombras para sempre.
-\l[3]Os Discípulos de Ryoku nunca mais foram vistos.  O caloroso e frio culto secreto do Relic Castle se manteve nas sombras para sempre.
+\l[3]The Disciples of Ryoku were never seen again. The warm and cold secret cult of Relic Castle remained in the shadows forever.
 Anna também não foi mais vista. Em Nimbasa, dizem que sua mãe também desapareceu.
-Anna também não foi mais vista. Em Nimbasa, dizem que sua mãe também desapareceu.
+Anna was also never seen again. In Nimbasa, it is said that her mother also disappeared.
 Anna foi enviada de volta para a casa da sua mãe. Poucas semanas depois, as duas se mudaram juntas para outra região. Elas se tornaram amigas verdadeiras.
-Anna foi enviada de volta para a casa da sua mãe.  Poucas semanas depois, as duas se mudaram juntas para outra região. Elas se tornaram amigas verdadeiras.
+Anna was sent back to her mother's house. A few weeks later, the two moved together to another region. They became true friends.
 \l[3]Nathan, tendo encontrado e capturado todos os Pokemon do Pandemônio, devolveu--os ao portal, lembrando os momentos que fizeram chegar a eles.
-\l[3]Nathan, tendo encontrado e capturado todos os Pokemon do Pandemônio, devolveu--os ao portal, lembrando os momentos que fizeram chegar a eles.
+\l[3]Nathan, having found and captured all the Pandemonium Pokémon, returned them to the portal, remembering the moments that brought them there.
 Meloetta pareceu extremamente contente com a atitude de Nathan, e resolveu continuar acompanhando ele em sua jornada.
-Meloetta pareceu extremamente contente com a atitude de Nathan, e resolveu continuar acompanhando ele em sua jornada.
+Meloetta seemed extremely pleased with Nathan's attitude and decided to continue accompanying him on his journey.
 \l[3]Nathan passou algumas semanas procurando os Pokemon do Pandemônio restantes, junto com Meloetta, para devolver ao seu lar.
-\l[3]Nathan passou algumas semanas procurando os Pokemon do Pandemônio restantes, junto com Meloetta, para devolver ao seu lar.
+\l[3]Nathan spent a few weeks searching for the remaining Pandemonium Pokémon, along with Meloetta, to return them to their home.
 Depois que todos os pokemon voltaram para o portal, Meloetta desapareceu repentinamente, sem se despedir de Nathan.
-Depois que todos os pokemon voltaram para o portal, Meloetta desapareceu repentinamente, sem se despedir de Nathan.
+After all the Pokémon returned to the portal, Meloetta suddenly disappeared without saying goodbye to Nathan.
 Poucos souberam sobre tudo o que realmente aconteceu, sobre a origem ou sobre os mistérios do Pandemônio.
-Poucos souberam sobre tudo o que realmente aconteceu, sobre a origem ou sobre os mistérios do Pandemônio.
+Few knew about everything that really happened, about the origin or the mysteries of the Pandemonium.
 \ff[introRyoku]Ryoku: Muito bem, Nathan, essa ação dá início a uma nova era.
-\ff[introRyoku]Ryoku: Muito bem, Nathan, essa ação dá início a uma nova era.
+\ff[introRyoku]Ryoku: Well done, Nathan. This action marks the beginning of a new era.
 \ff[introRyoku]O ideal seria ter capturado a Volcarona, mas não tem problema. Ver que você está ao nosso lado é mais importante.
-\ff[introRyoku]O ideal seria ter capturado a Volcarona, mas não tem problema. Ver que você está ao nosso lado é mais importante.
+\ff[introRyoku]Ideally, we would have captured Volcarona, but it's okay. Seeing that you are on our side is more important.
 \ff[introRyoku]Eventualmente vamos conseguir capturá-lo e usá-lo para o nosso sonho.
-\ff[introRyoku]Eventualmente vamos conseguir capturá-lo e usá-lo para o nosso sonho.
+\ff[introRyoku]Eventually, we will be able to capture her and use her for our dream.
 \ff[introRyoku]Estamos muitos felizes e esperamos grandes coisas de você.
-\ff[introRyoku]Estamos muitos felizes e esperamos grandes coisas de você.
+\ff[introRyoku]We are very happy and expect great things from you.
 \l[3]Os Discípulos de Ryoku se fortaleceram e conseguiram liberar grandes quantidades de Pokemon do Pandemônio para Unova.
-\l[3]Os Discípulos de Ryoku se fortaleceram e conseguiram liberar grandes quantidades de Pokemon do Pandemônio para Unova.
+\l[3]Ryoku's Disciples grew stronger and managed to release large numbers of Pokémon from Pandemonium into Unova.
 \l[3]Anna se tornou uma das líderes da pesquisa sobre esses Pokemon, enquanto também cuidava da comunidade secreta dos Discípulos de Ryoku.
-\l[3]Anna se tornou uma das líderes da pesquisa sobre esses Pokemon, enquanto também cuidava da comunidade secreta dos Discípulos de Ryoku.
+\l[3]Anna became one of the leaders of the research on these Pokémon, while also taking care of the secret community of the Disciples of Ryoku.
 \l[3]Anna capturou Volcarona e passou a ser a principal responsável por trazer os Pokemon do Pandemônio para Unova.
-\l[3]Anna capturou Volcarona e passou a ser a principal responsável por trazer os Pokemon do Pandemônio para Unova.
+\l[3]Anna captured Volcarona and became the main person responsible for bringing Pokémon from Pandemonium to Unova.
 \l[3]Os Motoqueiros foram libertados da prisão, com a justificativa de que foram parte crucial para trazer o Pandemônio para Unova.
-\l[3]Os Motoqueiros foram libertados da prisão, com a justificativa de que foram parte crucial para trazer o Pandemônio para Unova.
+\l[3]The Bikers were released from prison on the grounds that they had played a crucial role in bringing Pandemonium to Unova.
 \l[3]As opiniões divergem sobre essa medida. Alguns veem os Motoqueiros como criminosos, outros, como agentes que fariam qualquer coisa pelo Pandemônio.
-\l[3]As opiniões divergem sobre essa medida. Alguns veem os Motoqueiros como criminosos, outros, como agentes que fariam qualquer coisa pelo Pandemônio.
+\l[3]Opinions differ on this measure. Some see the Bikers as criminals, others as agents who would do anything for Pandemonium.
 Os Motoqueiros abandoram a Rota 4 e passaram a ajudar a controlar Pokemon do Pandemônio quando saiam de controle.
-Os Motoqueiros abandoram a Rota 4 e passaram a ajudar a controlar Pokemon do Pandemônio quando saiam de controle.
+The Bikers abandoned Route 4 and began helping to control Pandemonium Pokémon when they got out of control.
 \l[3]Ao mesmo tempo, Dediês secretamete lutam contra o Pandemônio, invadindo as bases dos Discípulos de Ryoku e desativando os portais.
-\l[3]Ao mesmo tempo, Dediês secretamete lutam contra o Pandemônio, invadindo as bases dos Discípulos de Ryoku e desativando os portais.
+\l[3]At the same time, Dediês secretly fight against the Pandemonium, invading the bases of Disciples of Ryoku and deactivating the portals.
 \l[3]Com o apoio dos Motoqueiros com poder sobre a cidade de Castelia, os Discípulos de Ryoku tem controle econômico total sobre a região.
-\l[3]Com o apoio dos Motoqueiros com poder sobre a cidade de Castelia, os Discípulos de Ryoku tem controle econômico total sobre a região.
+\l[3]With the support of the Bikers, who wield power over the city of Castelia, the Disciples of Ryoku have complete economic control over the region.
 \l[3]A reação das pessoas é predominantemente negativa, sem entender para onde vão os fundos da cidade. Poucos sabem que vai para outra dimensão.
-\l[3]A reação das pessoas é predominantemente negativa, sem entender para onde vão os fundos da cidade. Poucos sabem que vai para outra dimensão.
+\l[3]The reaction of the people is predominantly negative, as they do not understand where the city's funds are going. Few know that it is going to another dimension.
 \l[3]Nathan não viu mais a professora desde que saiu do Relic Castle. Mas lembra muito bem da última vez que viu seu rosto e sua expressão de decepção.
-\l[3]Nathan não viu mais a professora desde que saiu do Relic Castle. Mas lembra muito bem da última vez que viu seu rosto e sua expressão de decepção.
+\l[3]Nathan hasn't seen the professors since he left Relic Castle. But he remembers very well the last time he saw Professor Juniper's face and her expression of disappointment.
 O professor Carvalho voltou para Kanto.\nMas não foi mais visto desde que saiu de seu laboratório em Pallet.
-O professor Carvalho voltou para Kanto.\nMas não foi mais visto desde que saiu de seu laboratório em Pallet.
+Professor Oak returned to Kanto.\nBut he hasn't been seen since the day he left his laboratory in Pallet Town.
 \[3]Nathan passou a ser o principal responsável por trazer os Pokemon do Pandemônio para Unova, usando portais criados por Volcarona.
-\[3]Nathan passou a ser o principal responsável por trazer os Pokemon do Pandemônio para Unova, usando portais criados por Volcarona.
+\[3]Nathan became the main person responsible for bringing the Pokémon from Pandemonium to Unova, using portals created by Volcarona.
 \l[3]Nathan foi o primeiro a ter contato com os novos pokemon do Pandemônio. Ele se tornou cada vez mais poderoso conforme aprendia sobre a dimensão.
-\l[3]Nathan foi o primeiro a ter contato com os novos pokemon do Pandemônio. Ele se tornou cada vez mais poderoso conforme aprendia sobre a dimensão.
+\l[3]Nathan was the first to come into contact with the new Pandemonium Pokémon. He became increasingly powerful as he learned about the dimension.
 \l[3]Ao mesmo tempo, se tornou muito mais ocupado, tendo que cuidar para que outros Pokemon como Volcarona não causassem mais caos pela região.
-\l[3]Ao mesmo tempo, se tornou muito mais ocupado, tendo que cuidar para que outros Pokemon como Volcarona não causassem mais caos pela região.
+\l[3]At the same time, he became much busier, having to ensure that other Pokémon did not cause further chaos in the region, as Volcarona did in the past.
 Nathan não viu meloetta nenhuma outra vez desde o dia em que se juntou a Ryoku.
-Nathan não viu meloetta nenhuma outra vez desde o dia em que se juntou a Ryoku.
+Nathan has not seen Meloetta again since the day he joined Ryoku.
 Poucos souberam o que aconteceu no Relic Castle, ou sobre os Discípulos de Ryoku. Com o tempo, todos aprenderam a conviver com o Pandemônio.
-Poucos souberam o que aconteceu no Relic Castle, ou sobre os Discípulos de Ryoku. Com o tempo, todos aprenderam a conviver com o Pandemônio.
+Few knew what happened at Relic Castle, or about the true history of the Disciples of Ryoku. Over time, everyone learned to live alongside Pandemonium.
 \ff[introBenitex]\bNathan: Depois de tudo isso... Eu não fui forte o suficiente.
-\ff[introBenitex]\bNathan: Depois de tudo isso... Eu não fui forte o suficiente.
+\ff[introBenitex]\bNathan: After all this... I wasn't strong enough.
 \ff[introBenitex]\bTantos estão colocando toda a confiança em mim e mesmo assim, fui derrotado.
-\ff[introBenitex]\bTantos estão colocando toda a confiança em mim e mesmo assim, fui derrotado.
+\ff[introBenitex]\bSo many people are placing all their trust in me, and yet I was defeated.
 \ff[introBenitex]\bEu sou fraco...
-\ff[introBenitex]\bEu sou fraco...
+\ff[introBenitex]\bI am weak...
 \ff[introRyoku]Ryoku: Você não é o único que se sente assim, e não precisa se preocupar.
-\ff[introRyoku]Ryoku: Você não é o único que se sente assim, e não precisa se preocupar.
+\ff[introRyoku]Ryoku: You're not the only one who feels that way, and you don't need to worry.
 \ff[introRyoku]Colocaram responsabilidade demais nas suas costas.
-\ff[introRyoku]Colocaram responsabilidade demais nas suas costas.
+\ff[introRyoku]They put too much responsibility on your shoulders.
 \ff[introRyoku]Eu sei suas verdadeiras capacidades.
-\ff[introRyoku]Eu sei suas verdadeiras capacidades.
+\ff[introRyoku]But I know your true capabilities.
 \ff[introBenitex]\bNathan: Eu... Obrigado por entender.
-\ff[introBenitex]\bNathan: Eu... Obrigado por entender.
+\ff[introBenitex]\bNathan: I... Thank you for understanding.
 \ff[introRyoku]Ryoku: Nathan, junte-se a nós. O mundo em breve vai mudar, você sabe disso.
-\ff[introRyoku]Ryoku: Nathan, junte-se a nós. O mundo em breve vai mudar, você sabe disso.
+\ff[introRyoku]Ryoku: Nathan, join us. The world is about to change, you know that.
 \l[3]\ff[introRyoku]Esse desequilíbrio de poder vai mudar totalmente. Você não vai precisar se preocupar em seguir as expectativas das pessoas.
-\l[3]\ff[introRyoku]Esse desequilíbrio de poder vai mudar totalmente. Você não vai precisar se preocupar em seguir as expectativas das pessoas.
+\l[3]\ff[introRyoku]This imbalance of power will change completely. You won't have to worry about living up to people's expectations.
 \ff[introRyoku]Ao meu lado, você vai ser tratado com dignidade e ter um papel muito importante para o sonho.
-\ff[introRyoku]Ao meu lado, você vai ser tratado com dignidade e ter um papel muito importante para o sonho.
+\ff[introRyoku]By my side, you will be treated with dignity and play a very important role in the dream.
 \ff[introBenitex]\bNathan: Quieto! Você não sabe do que está falando!
-\ff[introBenitex]\bNathan: Quieto! Você não sabe do que está falando!
+\ff[introBenitex]\bNathan: Quiet! You don't know what you're talking about!
 \ff[introRyoku]Ryoku: Bom, eu te dei sua última chance.
-\ff[introRyoku]Ryoku: Bom, eu te dei sua última chance.
+\ff[introRyoku]Ryoku: Well, I gave you your last chance.
 \ff[introRyoku]Boa sorte no novo mundo.
-\ff[introRyoku]Boa sorte no novo mundo.
+\ff[introRyoku]Good luck in the new world.
 \ff[introRyoku]Ryoku: Você escolheu o lado correto, Nathan. Não vamos julgar você por essa pequena derrota.
-\ff[introRyoku]Ryoku: Você escolheu o lado correto, Nathan. Não vamos julgar você por essa pequena derrota.
+\ff[introRyoku]Ryoku: You chose the right side, Nathan. We won't judge you for this small defeat.
 \ff[introRyoku]Ryoku: Anna, por favor, siga em seu papel e capture volcarona.
-\ff[introRyoku]Ryoku: Anna, por favor, siga em seu papel e capture volcarona.
+\ff[introRyoku]Ryoku:Anna, please follow your role and capture Volcarona.
 \ff[introAnna]\c[4]Anna: Certo, Ryoku.
-\ff[introAnna]\c[4]Anna: Certo, Ryoku.
+\ff[introAnna]\c[4]Anna: Okay, Ryoku.
 \l[3](Esse foi um dos finais de derrota, você pode carregar o save e tentar novamente para ver um final verdadeiro.)
-\l[3](Esse foi um dos finais de derrota, você pode carregar o save e tentar novamente para ver um final verdadeiro.)
+\l[3](That was one of the defeat endings. You can load the save and try again to see a true ending.)
 \ff[introBenitex]\bNathan: Esse é o momento.
-\ff[introBenitex]\bNathan: Esse é o momento.
+\ff[introBenitex]\bNathan: This is the moment.
 Nathan recebeu uma posição especial no Clube de Hikers por sua dedicação e papel na vitória nas eleições.
-Nathan recebeu uma posição especial no Clube de Hikers por sua dedicação e papel na vitória nas eleições.
+Nathan was given a special position in the Hikers Club for his dedication and role in winning the election.
 Nathan foi convidado para participar ativamente do Clube e da construção da nova cidade, mas sua jornada o levou para outra direção.
-Nathan foi convidado para participar ativamente do Clube e da construção da nova cidade, mas sua jornada o levou para outra direção.
+Nathan was invited to actively participate in the Club and in the construction of the new city, but his journey took him in another direction.
+Sim.
+Yes.
+Não.
+No.
 Certo, pode ir.
-Certo, pode ir.
+Yes, you can go.
 Certo, vá e leve os outros.
-Certo, vá e leve os outros.
+Go and take the Disciples with you.
 Não, vai pagar pelos crimes.
-Não, vai pagar pelos crimes.
+No, you will pay for your crimes.
 Obrigado por entender.
-Obrigado por entender.
+Thank you for understanding.
 Você não sabe nada!
-Você não sabe nada!
+You don't know anything!
 [Map85]
 \ff[introBenitex]\bNathan: Placa em alfabeto Unown. Acho que consigo decodificar...
 \ff[introBenitex]\bNathan: It's a sign in the Unown alphabet. I think I can decode it...
@@ -13646,275 +13650,277 @@ Conte sua perspectiva.
 Tell me your side.
 [Map87]
 \ff[introOak]\rCarvalho: Muito bem Nathan, tenho muito orgulho de você por ter chegado até aqui.
-\ff[introOak]\rCarvalho: Muito bem Nathan, tenho muito orgulho de você por ter chegado até aqui.
+\ff[introOak]\rOak: Well done, Nathan. I'm very proud of you for making it this far.
 \ff[introOak]\rEsse é o momento de derrotar Volcarona!
-\ff[introOak]\rEsse é o momento de derrotar Volcarona!
+\ff[introOak]\rNow is the time to defeat Volcarona!
 \ff[introJuniper]Juniper: Vou curar seus Pokemon, você precisa estar preparado.
-\ff[introJuniper]Juniper: Vou curar seus Pokemon, você precisa estar preparado.
+\ff[introJuniper]Juniper: I will heal your Pokémon, you need to be prepared.
 \ff[introBenitex]\bNathan: Obrigado.
-\ff[introBenitex]\bNathan: Obrigado.
+\ff[introBenitex]\bNathan: Thank you.
 \ff[introJuniper]Juniper: Você consegue!
-\ff[introJuniper]Juniper: Você consegue!
+\ff[introJuniper]Juniper: You can do it!
 \ff[introJuniper]Juniper: Por que Nathan? Por quê?
-\ff[introJuniper]Juniper: Por que Nathan? Por quê?
+\ff[introJuniper]Juniper: Why, Nathan? Why?
 \ff[introAnna]\c[4]Anna: Me deixa em paz, por favor.
-\ff[introAnna]\c[4]Anna: Me deixa em paz, por favor.
+\ff[introAnna]\c[4]Anna: Leave me alone, please.
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 \ff[introAnna]\c[4]Anna: Bem vindo à comunidade.
-\ff[introAnna]\c[4]Anna: Bem vindo à comunidade.
+\ff[introAnna]\c[4]Anna: Welcome to the community.
 \ff[introAnna]\c[4]Vou curar seus Pokemon, você precisa estar preparado.
-\ff[introAnna]\c[4]Vou curar seus Pokemon, você precisa estar preparado.
+\ff[introAnna]\c[4]I will heal your Pokémon, you need to be prepared.
 \ff[introRyoku]Ryoku: É uma pena que você não acredite no mesmo sonho que eu.
-\ff[introRyoku]Ryoku: É uma pena que você não acredite no mesmo sonho que eu.
+\ff[introRyoku]Ryoku: It's a shame you don't believe in the same dream as me.
 \ff[introBenitex]\bNathan: Desculpe, mas essa realidade não pode acontecer. Não posso permitir.
-\ff[introBenitex]\bNathan: Desculpe, mas essa realidade não pode acontecer. Não posso permitir.
+\ff[introBenitex]\bNathan: I'm sorry, but that can't happen. I can't allow it.
 \ff[introRyoku]Ryoku: Muito bem. Siga em frente, e capture Volcarona.
-\ff[introRyoku]Ryoku: Muito bem. Siga em frente, e capture Volcarona.
+\ff[introRyoku]Ryoku: Very well, go ahead. Capture Volcarona.
 \ff[introBenitex]\bNathan: Certo!
-\ff[introBenitex]\bNathan: Certo!
+\ff[introBenitex]\bNathan: Yes!
 \ff[introBenitex]\bNathan: (Não posso voltar agora!)
-\ff[introBenitex]\bNathan: (Não posso voltar agora!)
+\ff[introBenitex]\bNathan: (I can't go back now!)
 \ff[introRyoku]Ryoku: Muito bem, aqui estamos.
-\ff[introRyoku]Ryoku: Muito bem, aqui estamos.
+\ff[introRyoku]Ryoku: Very well, here we are.
 \ff[introAnna]\c[4]Anna: Ele está aqui?
-\ff[introAnna]\c[4]Anna: Ele está aqui?
+\ff[introAnna]\c[4]Anna: Is it here?
 \ff[introRyoku]Ryoku: Sim. Como você já sabe, esse é o passo final para você e para que nós todos possamos transcender.
-\ff[introRyoku]Ryoku: Sim. Como você já sabe, esse é o passo final para você e para que nós todos possamos transcender.
+\ff[introRyoku]Ryoku: Yes. As you already know, this is the final step for you and for all of us to transcend.
 \ff[introRyoku]Esse sacrifício é lindo e será lembrado para sempre.
-\ff[introRyoku]Esse sacrifício é lindo e será lembrado para sempre.
+\ff[introRyoku]This sacrifice is beautiful and will be celebrated forever.
 \ff[introBenitex]\bNathan: Pare aí mesmo! O que pensam que estão fazendo?
-\ff[introBenitex]\bNathan: Pare aí mesmo! O que pensam que estão fazendo?
+\ff[introBenitex]\bNathan: Stop right there! What do you think you're doing?
 \ff[introAnna]\c[4]Anna: Esse cara, de novo...
-\ff[introAnna]\c[4]Anna: Esse cara, de novo...
+\ff[introAnna]\c[4]Anna: Not this guy again...
 \ff[introBenitex]\bNathan: (Essa é aquela menina que tive que procurar durante o torneio de Nimbasa!)
-\ff[introBenitex]\bNathan: (Essa é aquela menina que tive que procurar durante o torneio de Nimbasa!)
+\ff[introBenitex]\bNathan: (That's that girl I had to look for during the Nimbasa tournament!)
 \ff[introBenitex]\bAnna, o que você está fazendo aqui?
-\ff[introBenitex]\bAnna, o que você está fazendo aqui?
+\ff[introBenitex]\bAnna, what are you doing here?
 \ff[introAnna]\c[4]Anna: Esse é o meu lar e você está invadindo.
-\ff[introAnna]\c[4]Anna: Esse é o meu lar e você está invadindo.
+\ff[introAnna]\c[4]Anna: This is my home, and you're trespassing.
 \ff[introRyoku]Ryoku: Por favor, Anna, acalme-se.
-\ff[introRyoku]Ryoku: Por favor, Anna, acalme-se.
+\ff[introRyoku]Ryoku: Please, Anna, calm down.
 \ff[introRyoku]Lembre-se do que te disse, sempre haverão pessoas que invejarão o seu papel.
-\ff[introRyoku]Lembre-se do que te disse, sempre haverão pessoas que invejarão o seu papel.
+\ff[introRyoku]Remember what I told you, there will always be people who envy your role.
 \ff[introAnna]\c[4]Anna: Certo, Ryoku. Obrigada.
-\ff[introAnna]\c[4]Anna: Certo, Ryoku. Obrigada.
+\ff[introAnna]\c[4]Anna: Okay, Ryoku. Thank you.
 \ff[introBenitex]\bNathan: (O que aconteceu com ela?)
-\ff[introBenitex]\bNathan: (O que aconteceu com ela?)
+\ff[introBenitex]\bNathan: (What happened to her?)
 \ff[introRyoku]Ryoku: Quanto a você, meu velho conhecido...
-\ff[introRyoku]Ryoku: Quanto a você, meu velho conhecido...
+\ff[introRyoku]Ryoku: As for you, my old acquaintance...
 \ff[introRyoku]Ryoku: Hoh. O rapaz que está conhecendo nossa comunidade.
-\ff[introRyoku]Ryoku: Hoh. O rapaz que está conhecendo nossa comunidade.
+\ff[introRyoku]Ryoku: Hoh. The young man who is getting to know our community.
 \ff[introRyoku]A quanto tempo. Imagino que você não lembre mais de mim, infelizmente.
-\ff[introRyoku]A quanto tempo. Imagino que você não lembre mais de mim, infelizmente.
+\ff[introRyoku]It's been a while. I imagine you don't remember me anymore, unfortunately.
 \ff[introBenitex]\bNathan: É... Eu realmente não lembro.
-\ff[introBenitex]\bNathan: É... Eu realmente não lembro.
+\ff[introBenitex]\bNathan: Yeah... I really don't remember.
 \ff[introRyoku]Ryouku: Tudo bem posso refrescar sua memória.
-\ff[introRyoku]Ryouku: Tudo bem posso refrescar sua memória.
+\ff[introRyoku]Ryouku: It’s okay, I can refresh your memory.
 \ff[introBenitex]\bNathan: Me lembro muito bem, você é membro da Team Plasma há anos!
-\ff[introBenitex]\bNathan: Me lembro muito bem, você é membro da Team Plasma há anos!
+\ff[introBenitex]\bNathan: I remember very well, you've been a member of Team Plasma for years!
 \ff[introBenitex]\bJá tive que enfrentar você e os outros sábios duas vezes. Ajudei a prender vocês por seus crimes!
-\ff[introBenitex]\bJá tive que enfrentar você e os outros sábios duas vezes. Ajudei a prender vocês por seus crimes!
+\ff[introBenitex]\bI've had to face you and the other sages twice already. I helped arrest you for your crimes!
 \ff[introRyoku]Ryouku: Que honra, você realmente se lembra de mim. Realmente.
-\ff[introRyoku]Ryouku: Que honra, você realmente se lembra de mim. Realmente.
-\ff[introRyoku]\l[3]Alguns anós atrás, fiz parte da Team Plasma, é verdade. Isso é passado, reergemos nossa comunidade com um propósito muito maior.
-\ff[introRyoku]\l[3]Alguns anós atrás, fiz parte da Team Plasma, é verdade. Isso é passado, reergemos nossa comunidade com um propósito muito maior.
+\ff[introRyoku]Ryouku: What an honor, you remember me. You really do.
+\ff[introRyoku]\l[3]Alguns anós atrás, fiz parte da Team Plasma, é verdade. Isso é passado, nos reerguemos com um propósito muito maior.
+\ff[introRyoku]\l[3]A few years ago, I was part of Team Plasma, it's true, but is also past. We rebuilt our community with a much greater purpose.
 \ff[introRyoku]\l[3]Nesse ponto, você já teve contato com eles, certamente. Imagino que tenha aproveitado um pouco do que tem ele tem a oferecer também.
-\ff[introRyoku]\l[3]Nesse ponto, você já teve contato com eles, certamente. Imagino que tenha aproveitado um pouco do que tem ele tem a oferecer também.
+\ff[introRyoku]\l[3]At this point, you certainly had contact with them, many perhaps. I imagine you've benefited a little from their power as well.
 \ff[introBenitex]\bNathan: Contato com o que?
-\ff[introBenitex]\bNathan: Contato com o que?
+\ff[introBenitex]\bNathan: Contact with what?
 \ff[introRyoku]Ryoku: O Pandemônio, é claro.
-\ff[introRyoku]Ryoku: O Pandemônio, é claro.
+\ff[introRyoku]Ryoku: The Pandemonium, of course.
 \ff[introRyoku]\l[3]Veja, o mundo está em constante evolução, em direção sempre a algo maior, melhor. Esse é o Pandemônio.
-\ff[introRyoku]\l[3]Veja, o mundo está em constante evolução, em direção sempre a algo maior, melhor.  Esse é o Pandemônio.
+\ff[introRyoku]\l[3]You see, the world is constantly evolving, always toward something bigger, better. That's Pandemonium.
 \ff[introRyoku]\l[3]Uma realidade alternativa, um mundo paralelo, onde os pokemon evoluiram e tem formas diferentes das que conhecemos.
-\ff[introRyoku]\l[3]Uma realidade alternativa, um mundo paralelo, onde os pokemon evoluiram e tem formas diferentes das que conhecemos.
+\ff[introRyoku]\l[3]An alternate reality, a parallel world, where Pokémon have evolved to take on forms different from those we know.
 \ff[introRyoku]Pokemon como alguns dos que você conheceu.
-\ff[introRyoku]Pokemon como alguns dos que você conheceu.
+\ff[introRyoku]Pokémon like some of the ones you've met.
 \ff[introRyoku]Mas não é só isso, esse mundo também é repleto por belezas deslumbrantes e pessoas inteligentes, felizes e livres.
-\ff[introRyoku]Mas não é só isso, esse mundo também é repleto por belezas deslumbrantes e pessoas inteligentes, felizes e livres.
+\ff[introRyoku]But that's not all. That world is also filled with stunning beauty and intelligent, happy, free people.
 \ff[introRyoku]Nossa comunidade busca refletir os valores dessa realidade e se aproximar cada vez mais do Pandemônio.
-\ff[introRyoku]Nossa comunidade busca refletir os valores dessa realidade e se aproximar cada vez mais do Pandemônio.
+\ff[introRyoku]Our community seeks to reflect the values of this reality and get closer and closer to the Pandemonium.
 \ff[introRyoku]Agora me diga, o que há de errado com o que estamos fazendo?
-\ff[introRyoku]Agora me diga, o que há de errado com o que estamos fazendo?
+\ff[introRyoku]Now tell me, what's the problem with what we're doing? Why do you need to stop us so badly?
 \ff[introOak]\rCarvalho: Nathan! Ryoku?
-\ff[introOak]\rCarvalho: Nathan! Ryoku?
+\ff[introOak]\rOak: Nathan! Ryoku?
 \ff[introJuniper]Juniper: Parece que chegamos a tempo!
-\ff[introJuniper]Juniper: Parece que chegamos a tempo!
+\ff[introJuniper]Juniper: Looks like we made it just in time!
 \ff[introRyoku]Hyoku: Anna, acalme-se, por favor. Não precisamos gastar suas energias.
-\ff[introRyoku]Hyoku: Anna, acalme-se, por favor.  Não precisamos gastar suas energias.
+\ff[introRyoku]Hyoku: Anna, please calm down. We don't need to waste your energy.
 \ff[introRyoku]Nathan, por favor, diga a eles o que estamos fazendo aqui. Diga sobre nosso sonho.
-\ff[introRyoku]Nathan, por favor, diga a eles o que estamos fazendo aqui. Diga sobre nosso sonho.
+\ff[introRyoku]Nathan, please tell them what we're doing here. Tell them about our dream.
 \ff[introBenitex]\bNathan: Espera, ainda não terminei minhas perguntas.
-\ff[introBenitex]\bNathan: Espera, ainda não terminei minhas perguntas.
+\ff[introBenitex]\bNathan: Wait, I haven't finished my questions yet.
 \ff[introBenitex]\bComo você pode ter certeza que esse mundo é tão bom quanto você imagina?
-\ff[introBenitex]\bComo você pode ter certeza que esse mundo é tão bom quanto você imagina?
+\ff[introBenitex]\bHow can you be sure that this world is as good as you imagine it to be?
 \ff[introRyoku]Hyoku: Nós estamos em constante contato com o Pandemônio.
-\ff[introRyoku]Hyoku: Nós estamos em constante contato com o Pandemônio.
+\ff[introRyoku]Hyoku: We are in constant contact with the Pandemonium.
 \ff[introRyoku]Você mesmo pôde ver o poder dos pokemon e imagino que tenha conhecido um pouco dos princípios enquanto vinha até aqui.
-\ff[introRyoku]Você mesmo pôde ver o poder dos pokemon e imagino que tenha conhecido um pouco dos princípios enquanto vinha até aqui.
+\ff[introRyoku]You yourself have seen the power of the Pokémon, and I imagine you learned a little about our principles on your way here.
 \ff[introBenitex]\bBenitex: Sim, mas e a Volcarona? Por que está causando toda essa confusão?
-\ff[introBenitex]\bBenitex: Sim, mas e a Volcarona? Por que está causando toda essa confusão?
+\ff[introBenitex]\bBenitex: What about Volcarona? Why is it causing all this trouble?
 \ff[introRyoku]Benitex: Ela foi um dos primeiros pokemon do Pandemônio que tivemos contato, magnífica.
-\ff[introRyoku]Benitex: Ela foi um dos primeiros pokemon do Pandemônio que tivemos contato, magnífica.
+\ff[introRyoku]Benitex: She was one of the first Pandemonium Pokémon that we had contact with, magnificent.
 \ff[introRyoku]Veja, ela sozinha causou todas essas mudanças no Relic Castle.
-\ff[introRyoku]Veja, ela sozinha causou todas essas mudanças no Relic Castle.
+\ff[introRyoku]You see, she alone made all these changes to the Relic Castle.
 \ff[introRyoku]Mas nós reconhecemos que apesar de poderosa, é extremamente perigosa. Por isso, Anna vai capturá-la.
-\ff[introRyoku]Mas nós reconhecemos que apesar de poderosa, é extremamente perigosa. Por isso, Anna vai capturá-la.
+\ff[introRyoku]But we recognize that although she is powerful, she is also extremely dangerous. That's why Anna is going to capture her.
 \ff[introRyoku]Depois disso, vamos poder usar o poder dela como fonte para o portal para o Pandemônio.
-\ff[introRyoku]Depois disso, vamos poder usar o poder dela como fonte para o portal para o Pandemônio.
+\ff[introRyoku]After that, we will be able to use her power as a source to stabilize the portal to Pandemonium.
 \ff[introOak]\rCarvalho: O portal da meloetta...
-\ff[introOak]\rCarvalho: O portal da meloetta...
+\ff[introOak]\rOak: The portal that Meloetta mentioned...
 \ff[introRyoku]Sim, anteriormente usamos uma meloetta para abrir o portal e trazer vários dos pokemon para cá.
-\ff[introRyoku]Sim, anteriormente usamos uma meloetta para abrir o portal e trazer vários dos pokemon para cá.
+\ff[introRyoku]Yes, we previously used a Meloetta to open the portal and bring several Pokémon here.
 \l[3]\ff[introRyoku]Mas o processo era trabalhoso e custoso. Acredito que com a Volcarona, o portal vai ser aberto e mantido sem grandes problemas.
-\l[3]\ff[introRyoku]Mas o processo era trabalhoso e custoso. Acredito que com a Volcarona, o portal vai ser aberto e mantido sem grandes problemas.
+\l[3]\ff[introRyoku]However, the process was laborious and costly. I believe that with Volcarona, the portal will be opened and maintained without any major issues.
 \l[3]\ff[introBenitex]\bNathan: Você percebe que essa Volcarona causou várias mudanças no Relic Castle, não acha que esse portal é perigoso demais?
-\l[3]\ff[introBenitex]\bNathan: Você percebe que essa Volcarona causou várias mudanças no Relic Castle, não acha que esse portal é perigoso demais?
+\l[3]\ff[introBenitex]\bNathan: You realize that this Volcarona caused several changes in Relic Castle, don't you think this portal is too dangerous?
 \ff[introRyoku]Hyoku: A volcarona realmente saiu do nosso controle, mas buscamos trazer os outros pokemon com calma e consciência.
-\ff[introRyoku]Hyoku: A volcarona realmente saiu do nosso controle, mas buscamos trazer os outros pokemon com calma e consciência.
+\ff[introRyoku]Hyoku: Volcarona really got out of our control, but we seek to bring the other Pokémon calmly and consciously.
 \ff[introRyoku]Eventualmente, os nossos Pokemon e o Pandemônio vão poder viver em harmonia e todos serão beneficiados.
-\ff[introRyoku]Eventualmente, os nossos Pokemon e o Pandemônio vão poder viver em harmonia e todos serão beneficiados.
+\ff[introRyoku]Eventually, our Pokémon and Pandemonium will be able to live in harmony, and everyone will benefit.
 \ff[introRyoku]Em pouco tempo, vamos viver em uma sociedade evoluída e pacífica.
-\ff[introRyoku]Em pouco tempo, vamos viver em uma sociedade evoluída e pacífica.
+\ff[introRyoku]Before long, we will live in an evolved and peaceful society.
 \ff[introBenitex]\bNathan: Certo, isso é suficiente.
-\ff[introBenitex]\bNathan: Certo, isso é suficiente.
-\ff[introBenitex]\bNathan: Como pode? A equipe que um dia lutou pelos pokemon, hoje quer criar caos no ecosistema.
-\ff[introBenitex]\bNathan: Como pode? A equipe que um dia lutou pelos pokemon, hoje quer criar caos no ecosistema.
+\ff[introBenitex]\bNathan: Okay, I've heard enough.
+\ff[introBenitex]\bNathan: Como pode? A equipe que um dia lutou pelos pokemon, hoje quer criar caos no ecossistema.
+\ff[introBenitex]\bNathan: How can this be? The team that once fought for the Pokémon is now creating chaos in the ecosystem.
 \l[3]\ff[introBenitex]\bPor mais nobre que seja seu objetivo, por mais belo que seja o Pandemônio, e por mais forte que sejam seus Pokemon...
-\l[3]\ff[introBenitex]\bPor mais nobre que seja seu objetivo, por mais belo que seja o Pandemônio, e por mais forte que sejam seus Pokemon...
+\l[3]\ff[introBenitex]\bNo matter how noble their goal, no matter how beautiful Pandemonium is, and no matter how strong those Pokémon are...
 \l[3]\ff[introBenitex]\bNão posso apoiar pessoas que usaram criminosos e bloquearam a Rota 4, que capturaram e torturaram a Meloetta.
-\l[3]\ff[introBenitex]\bNão posso apoiar pessoas que usaram criminosos e bloquearam a Rota 4, que capturaram e torturaram a Meloetta.
+\l[3]\ff[introBenitex]\bI cannot support people who have allied themselves with criminals and blocked Route 4, who captured and tortured Meloetta.
 \ff[introJuniper]Juniper: Sim, o Nathan está certo, você não pode cometer crimes em nome do que vocês veem como progresso!
-\ff[introJuniper]Juniper: Sim, o Nathan está certo, você não pode cometer crimes em nome do que vocês veem como progresso!
+\ff[introJuniper]Juniper: Yes, Nathan is right, you cannot commit crimes in the name of what you see as progress!
 \ff[introRyoku]Ryoku: É verdade, sacrifícios foram necessários.
-\ff[introRyoku]Ryoku: É verdade, sacrifícios foram necessários.
+\ff[introRyoku]Ryoku: It's true, sacrifices were necessary.
 \ff[introRyoku]Muitas vezes, é preciso voltar alguns passos para poder seguir em frente.
-\ff[introRyoku]Muitas vezes, é preciso voltar alguns passos para poder seguir em frente.
+\ff[introRyoku]Often, you have to take a few steps back in order to move forward.
 \ff[introOak]\rCarvalho: Nós vimos seu ponto de vista, mas não podemos deixar você impune depois de todos esses crimes.
-\ff[introOak]\rCarvalho: Nós vimos seu ponto de vista, mas não podemos deixar você impune depois de todos esses crimes.
+\ff[introOak]\rOak: We hear your point, but we can't let you go unpunished after all these crimes.
 \ff[introOak]\rRenda-se imediatamente.
-\ff[introOak]\rRenda-se imediatamente.
+\ff[introOak]\rSurrender immediately.
 \ff[introRyoku]Ryoku: Anna, eles não nos dão escolha, agora!
-\ff[introRyoku]Ryoku: Anna, eles não nos dão escolha, agora!
+\ff[introRyoku]Ryoku: Anna, they're not giving us a choice, attack now!
 \ff[introAnna]\c[4]Anna: Você não vai parar o Pandemônio!
-\ff[introAnna]\c[4]Anna: Você não vai parar o Pandemônio!
+\ff[introAnna]\c[4]Anna: You won't stop the Pandemonium!
 \ff[introJuniper]Juniper: Nathan, rápido, vou curar seus Pokemon.
-\ff[introJuniper]Juniper: Nathan, rápido, vou curar seus Pokemon.
+\ff[introJuniper]Juniper: Nathan, hurry, I'll heal your Pokémon.
 \ff[introAnna]\c[4]Anna: Não! Eu sou a escolhida, eu vou salvar esse mundo!
-\ff[introAnna]\c[4]Anna: Não! Eu sou a escolhida, eu vou salvar esse mundo!
+\ff[introAnna]\c[4]Anna: No! I am the chosen one, I will save this world!
 \ff[introAnna]\c[4]A volcarona é minha! Você não pode parar a gente!
-\ff[introAnna]\c[4]A volcarona é minha! Você não pode parar a gente!
+\ff[introAnna]\c[4]Volcarona is mine! You can't stop me!
 \ff[introBenitex]\bNathan: Anna. Já chega. Volte para casa, por favor.
-\ff[introBenitex]\bNathan: Anna. Já chega. Volte para casa, por favor.
+\ff[introBenitex]\bNathan: Anna. That's enough. Please go home.
 \ff[introBenitex]\bSua mãe está te esperando na sua casa de verdade, muito preocupada com você.
-\ff[introBenitex]\bSua mãe está te esperando na sua casa de verdade, muito preocupada com você.
+\ff[introBenitex]\bYour mother is waiting for you at your real home, she's very worried about you.
 \ff[introBenitex]\bNathan: Você não é digna, nem está preparada para lidar com o poder da Volcarona. Nós estamos te parando para seu próprio bem.
-\ff[introBenitex]\bNathan: Você não é digna, nem está preparada para lidar com o poder da Volcarona. Nós estamos te parando para seu próprio bem.
+\ff[introBenitex]\bNathan: You are not worthy, nor are you prepared to handle Volcarona's power. We are stopping you for your own good.
 \ff[introAnna]\c[4]Anna: Absol!
 \ff[introAnna]\c[4]Anna: Absol!
 \ff[introBenitex]\bNathan: Hum, parece que o absol quer se juntar a mim.
-\ff[introBenitex]\bNathan: Hum, parece que o absol quer se juntar a mim.
+\ff[introBenitex]\bNathan: It seems that Absol wants to join me.
 \ff[introRyoku]Ryoku: Esse pokemon se mantem fiel àquele que se prova mais forte.
-\ff[introRyoku]Ryoku: Esse pokemon se mantem fiel àquele que se prova mais forte.
+\ff[introRyoku]Ryoku: This Pokémon remains loyal to the one who proves to be the strongest.
 \ff[introAnna]\c[4]Anna: Desculpe, Ryoku.
-\ff[introAnna]\c[4]Anna: Desculpe, Ryoku.
+\ff[introAnna]\c[4]Anna: I am sorry, Ryoku.
 \ff[introRyoku]Ryoku: Você fez o melhor que pôde, Anna. Mas o sonho ainda não acabou.
-\ff[introRyoku]Ryoku: Você fez o melhor que pôde, Anna. Mas o sonho ainda não acabou.
+\ff[introRyoku]Ryoku: You did your best, Anna. But the dream is not over yet.
 \ff[introRyoku]É minha vez!
-\ff[introRyoku]É minha vez!
+\ff[introRyoku]It's my turn!
 \ff[introJuniper]Juniper: Boa, Nathan!
-\ff[introJuniper]Juniper: Boa, Nathan!
+\ff[introJuniper]Juniper: Good job, Nathan!
 \ff[introOak]\rCarvalho: Ótimo.
-\ff[introOak]\rCarvalho: Ótimo.
+\ff[introOak]\rOak: Great.
 \ff[introOak]\rVamos cuidar para que eles não fujam até que a polícia chegue.
-\ff[introOak]\rVamos cuidar para que eles não fujam até que a polícia chegue.
+\ff[introOak]\rWe'll make sure they don't run away until the police arrive.
 \ff[introBenitex]\bNathan: Agora eu só preciso parar a Volcarona.
-\ff[introBenitex]\bNathan: Agora eu só preciso parar a Volcarona.
+\ff[introBenitex]\bNathan: Now I just need to stop Volcarona.
 \ff[introJuniper]Juniper: Nathan!
 \ff[introJuniper]Juniper: Nathan!
 \ff[introRyoku]Ryoku: É uma pena que vocês tenham tentando parar a gente, vocês seriam bons aliados.
-\ff[introRyoku]Ryoku: É uma pena que vocês tenham tentando parar a gente, vocês seriam bons aliados.
+\ff[introRyoku]Ryoku: It's a shame you tried to stop us, you would have been good allies.
 \ff[introRyoku]Anna, vamos seguir conforme o que estava planejado.
-\ff[introRyoku]Anna, vamos seguir conforme o que estava planejado.
+\ff[introRyoku]Anna, let's proceed as planned.
 \ff[introAnna]\c[4]Anna: Certo.
-\ff[introAnna]\c[4]Anna: Certo.
+\ff[introAnna]\c[4]Anna: Okay.
 \l[3](Esse foi um dos finais de derrota, depois dos créditos, você pode carregar o save e tentar novamente para ver um final verdadeiro.)
-\l[3](Esse foi um dos finais de derrota, depois dos créditos, você pode carregar o save e tentar novamente para ver um final verdadeiro.)
+(That was one of the defeat endings. You can load the save and try again to see a true ending.)
+\l[3](Esse foi um dos finais de derrota, recarregue o save para tentar novamente e ver um final verdadeiro.)
+(That was one of the defeat endings. You can load the save and try again to see a true ending.)
 \ff[introBenitex]\bNathan: Eu... Eu entendo.
-\ff[introBenitex]\bNathan: Eu... Eu entendo.
+\ff[introBenitex]\bNathan: I... Now I understand.
 \l[3]\ff[introBenitex]\bRyoku, peço desculpas por tudo que fiz até agora, não tinha conhecimento dos seus objetivos, mesmo assim tentei atrapalhar esse sonho.
-\l[3]\ff[introBenitex]\bRyoku, peço desculpas por tudo que fiz até agora, não tinha conhecimento dos seus objetivos, mesmo assim tentei atrapalhar esse sonho.
+\l[3]\ff[introBenitex]\bRyoku, I apologize for everything I have done up to this point. I wasn't aware of your goals, yet I tried to get in the way of that dream.
 \ff[introBenitex]\bEu me junto a você.
-\ff[introBenitex]\bEu me junto a você.
+\ff[introBenitex]\bBut now I am your ally.
 \ff[introOak]\rCarvalho: Nathan! Ouça o que está dizendo!
-\ff[introOak]\rCarvalho: Nathan! Ouça o que está dizendo!
+\ff[introOak]\rOak: Nathan! Listen to what you're saying!
 \ff[introJuniper]Juniper: Por favor Nathan, veja tudo que eles fizeram, lembre-se do seu objetivo.
-\ff[introJuniper]Juniper: Por favor Nathan, veja tudo que eles fizeram, lembre-se do seu objetivo.
+\ff[introJuniper]Juniper: Please, Nathan, look at everything they've done. Remember your goal when you came to Unova!
 \l[3]\ff[introBenitex]\bNathan: Não, a gente não pode julgar eles pelos erros do passado, eles estão tentando criar um mundo melhor.
-\l[3]\ff[introBenitex]\bNathan: Não, a gente não pode julgar eles pelos erros do passado, eles estão tentando criar um mundo melhor.
+\l[3]\ff[introBenitex]\bNathan: No, we can't judge them for their past mistakes. They will create a better world.
 \ff[introJuniper]Juniper: Um mundo melhor...
-\ff[introJuniper]Juniper: Um mundo melhor...
+\ff[introJuniper]Juniper: A better world...
 \ff[introOak]\rCarvalho: Tudo bem, o objetivo deles pode ser nobre, mas veja todos os sacrifícios que estão fazendo para chegar lá!
-\ff[introOak]\rCarvalho: Tudo bem, o objetivo deles pode ser nobre, mas veja todos os sacrifícios que estão fazendo para chegar lá!
+\ff[introOak]\rOak: Yes, their goal may be noble, but look at all the sacrifices they're making to get there!
 \ff[introRyoku]Ryoku: Muitas vezes, é necessário voltar alguns passos para poder seguir em frente.
-\ff[introRyoku]Ryoku: Muitas vezes, é necessário voltar alguns passos para poder seguir em frente.
+\ff[introRyoku]Ryoku: I repeat, sometimes you have to take a few steps back in order to move forward.
 \ff[introBenitex]\bNathan: É verdade, essas pessoas parecem felizes aqui. Acho que devemos dar uma chance a eles.
-\ff[introBenitex]\bNathan: É verdade, essas pessoas parecem felizes aqui. Acho que devemos dar uma chance a eles.
+\ff[introBenitex]\bNathan: It's true, these people seem happy here. I think we should give them a chance.
 \ff[introOak]\rCarvalho: Nathan, eu entendo seu ponto de vista, mas não posso deixar ele impune depois de todos esses crimes.
-\ff[introOak]\rCarvalho: Nathan, eu entendo seu ponto de vista, mas não posso deixar ele impune depois de todos esses crimes.
+\ff[introOak]\rOak: Nathan, I understand your point of view, but I can't let him go unpunished after all these crimes.
 \ff[introJuniper]Juniper: Se esse é o caminho que você escolheu tomar, vamos ser obrigados a parar vocês.
-\ff[introJuniper]Juniper: Se esse é o caminho que você escolheu tomar, vamos ser obrigados a parar vocês.
+\ff[introJuniper]Juniper: If that's the path you've chosen to take, we'll be forced to stop you.
 \ff[introRyoku]Ryoku: É uma pena que tenha que acabar assim.
-\ff[introRyoku]Ryoku: É uma pena que tenha que acabar assim.
+\ff[introRyoku]Ryoku: It's a shame it has to end this way.
 \ff[introJuniper]Juniper: Nathan, preciso parar você!
-\ff[introJuniper]Juniper: Nathan, preciso parar você!
+\ff[introJuniper]Juniper: Nathan, I have to stop you!
 \ff[introAnna]\c[4]Anna: Hah, esperava mais de você.
-\ff[introAnna]\c[4]Anna: Hah, esperava mais de você.
+\ff[introAnna]\c[4]Anna: Hah, I expected more from you.
 \ff[introAnna]\c[4]Ainda tem outro esperando, pode deixar que eu cuido dela!
-\ff[introAnna]\c[4]Ainda tem outro esperando, pode deixar que eu cuido dela!
+\ff[introAnna]\c[4]There's still another one, leave her to me!
 \ff[introOak]\rCarvalho: Eu não acredito...
-\ff[introOak]\rCarvalho: Eu não acredito...
+\ff[introOak]\rOak: I can't believe it...
 \ff[introOak]\rNão acredito que você tenha se tornado o oponente final.
-\ff[introOak]\rNão acredito que você tenha se tornado o oponente final.
+\ff[introOak]\rI can't believe you've become the final opponent.
 \ff[introOak]\rO momento que eu mais temia...
-\ff[introOak]\rO momento que eu mais temia...
+\ff[introOak]\rThe moment I feared most...
 \ff[introBenitex]\bNathan: Chega de conversa, hora da batalha!
-\ff[introBenitex]\bNathan: Chega de conversa, hora da batalha!
+\ff[introBenitex]\bNathan: Enough talk, it's time to battle!
 \ff[introBenitex]\bNathan: Hum. Você não parecia tão arrependido poucos minutos atrás, quando estava prestes a acabar com o nosso sonho.
-\ff[introBenitex]\bNathan: Hum. Você não parecia tão arrependido poucos minutos atrás, quando estava prestes a acabar com o nosso sonho.
+\ff[introBenitex]\bNathan: You didn't seem so regretful a few minutes ago when you were about to destroy our dream.
 \ff[introOak]\rCarvalho: Nathan...
-\ff[introOak]\rCarvalho: Nathan...
+\ff[introOak]\rOak: Nathan...
 \ff[introRyoku]Ryoku: Por favor, Nathan, você não precisa acabar com suas antigas amizades, todos vão aproveitar dos benefícios do novo mundo.
-\ff[introRyoku]Ryoku: Por favor, Nathan, você não precisa acabar com suas antigas amizades, todos vão aproveitar dos benefícios do novo mundo.
+\ff[introRyoku]Ryoku: Please, Nathan, there's no need to end your old friendships. Everyone will enjoy the benefits of the new world.
 \ff[introBenitex]\bNathan: Certo Ryoku, obrigado.
-\ff[introBenitex]\bNathan: Certo Ryoku, obrigado.
+\ff[introBenitex]\bNathan: Okay, Ryoku, thank you.
 \ff[introRyoku]Ryoku: Agora é seu momento, novo escolhido. Vá até a Câmara do Volcarona e cumpra seu papel.
-\ff[introRyoku]Ryoku: Agora é seu momento, novo escolhido. Vá até a Câmara do Volcarona e cumpra seu papel.
+\ff[introRyoku]Ryoku: Now is your moment, new chosen one. Go to the Volcarona Chamber and fulfill your role.
 \ff[introOak]\rCarvalho: É uma pena que tenha acabado assim.
-\ff[introOak]\rCarvalho: É uma pena que tenha acabado assim.
+\ff[introOak]\rOak: It's a shame it had to end like that.
 \ff[introOak]\rEu ainda me lembro do dia que você foi pegar seu primeiro pokemon em Pallet.
-\ff[introOak]\rEu ainda me lembro do dia que você foi pegar seu primeiro pokemon em Pallet.
+\ff[introOak]\rI still remember the day I gave you your first Pokémon in Pallet Town.
 \ff[introOak]\rEu sempre acreditei muito no seu potencial. Não imaginava que chegaríamos nesse ponto.
-\ff[introOak]\rEu sempre acreditei muito no seu potencial. Não imaginava que chegaríamos nesse ponto.
+\ff[introOak]\rI always believed in your potential. I never imagined we would reach this point.
 \ff[introRyoku]Ryoku: Você escolheu o lado correto, Nathan. Não vamos julgar você por essa pequena derrota.
-\ff[introRyoku]Ryoku: Você escolheu o lado correto, Nathan. Não vamos julgar você por essa pequena derrota.
+\ff[introRyoku]Ryoku: You chose the right side, Nathan. We won't judge you for this minor defeat.
 \ff[introRyoku]Ryoku: Anna, por favor, siga em seu papel e capture volcarona.
-\ff[introRyoku]Ryoku: Anna, por favor, siga em seu papel e capture volcarona.
+\ff[introRyoku]Ryoku: Anna, please follow your role and capture Volcarona.
 \ff[introAnna]\c[4]Anna: Certo, Ryoku.
-\ff[introAnna]\c[4]Anna: Certo, Ryoku.
+\ff[introAnna]\c[4]Anna: Okay, Ryoku.
 Não me lembro de você.
-Não me lembro de você.
+I don't remember you.
 Você era da Team Plasma!
-Você era da Team Plasma!
+You were from Team Plasma!
 Ryoku está errado.
-Ryoku está errado.
+Ryoku is wrong.
 O Pandemônio é o caminho.
-O Pandemônio é o caminho.
-Volte para sua casa, Anna.
-Volte para sua casa, Anna.
+Pandemonium is the right path.
+Volte para sua casa, Anna, please.
+Go back home, Anna.
 Você não merece Volcarona.
-Você não merece Volcarona.
+You don't deserve that Volcarona.
 [Map88]
 \ff[introBenitex]\bNathan: Relic Castle... Finalmente.
 \ff[introBenitex]\bNathan: Relic Castle... Finally.
@@ -13968,224 +13974,230 @@ Prontinho!
 And... done!
 [Map89]
 \ff[introBenitex]\bNathan: O que aconteceu? Por que você está presa aqui?
-\ff[introBenitex]\bNathan: O que aconteceu? Por que você está presa aqui?
+\ff[introBenitex]\bNathan: Are you okay? How did you end up in this situation?
 Eu estava tentando fugir desse lugar.
-Eu estava tentando fugir desse lugar.
+I was trying to escape from this place.
 Isso não é pra mim, o Pandemônio é assustador e o Ryoku me dá calafrios. Não nasci para ser uma Discípula.
-Isso não é pra mim, o Pandemônio é assustador e o Ryoku me dá calafrios. Não nasci para ser uma Discípula.
+This isn't for me, Pandemonium is scary and and Ryoku gives me the creeps. I can't be a Disciple anymore.
 \ff[introBenitex]\bNathan: Mas como você foi presa? Te encontraram e te prenderam?
-\ff[introBenitex]\bNathan: Mas como você foi presa? Te encontraram e te prenderam?
+\ff[introBenitex]\bNathan: Oh, they found you and threw you in here with this Darmanitan?
 \l[3]Não, eu estou tentando achar um outro caminho. Ninguém sabe que estou fugindo, tenho medo do que podem fazer comigo se descobrirem.
-\l[3]Não, eu estou tentando achar um outro caminho.  Ninguém sabe que estou fugindo, tenho medo do que podem fazer comigo se descobrirem.
+\l[3]No, no, I'm still trying to find a way to escape. No one has noticed yet, but I fear what they will do when they do.
 \ff[introBenitex]\bNathan: Hum, entendi. Fique aqui. Eu estou indo encontrar Ryoku, quando eu voltar, você pode sair junto comigo.
-\ff[introBenitex]\bNathan: Hum, entendi. Fique aqui. Eu estou indo encontrar Ryoku, quando eu voltar, você pode sair junto comigo.
+\ff[introBenitex]\bNathan: Hmm, I see. Stay here. I'm going to find Ryoku, and when I come back, you can leave together with me.
 Muito obrigada!
-Muito obrigada!
+Thank you very much!
 Fale comigo se você precisar curar seus pokemon, eu peguei alguns medicamentos antes de fugir.
-Fale comigo se você precisar curar seus pokemon, eu peguei alguns medicamentos antes de fugir.
+Let me know if you need to heal your Pokémon, I grabbed some medicine before I ran away.
 Seus pokemon precisam de cura?
-Seus pokemon precisam de cura?
+Do your Pokémon need healing?
 \ff[introBenitex]\bNathan: Por favor.
-\ff[introBenitex]\bNathan: Por favor.
+\ff[introBenitex]\bNathan: Yes, please.
 Pronto.
-Pronto.
+There you go.
 \ff[introBenitex]\bNathan: Não, obrigado.
-\ff[introBenitex]\bNathan: Não, obrigado.
+\ff[introBenitex]\bNathan: No, thanks.
 Cuidado com ele...
-Cuidado com ele...
+Watch out for him...
 Por favor! Me ajude!
-Por favor! Me ajude!
+Please! Help me!
 \ff[introBenitex]\bNathan: O que tá acontecendo aqui?
-\ff[introBenitex]\bNathan: O que tá acontecendo aqui?
-Estou presa com esse Darmanitan, me prenderam aqui! Me ajude, rápido!
-Estou presa com esse Darmanitan, me prenderam aqui! Me ajude, rápido!
+\ff[introBenitex]\bNathan: What's going on?
+Estou presa com esse Darmanitan! Me ajude, rápido!
+I'm stuck with this Darmanitan! Help me, quick!
 \ff[introBenitex]\bNathan: Fique calma, vou enfrentar esse bicho!
-\ff[introBenitex]\bNathan: Fique calma, vou enfrentar esse bicho!
+\ff[introBenitex]\bNathan: Stay calm, I'll take care of this thing!
 \ff[introBenitex]\bNathan: (Não posso arriscar, não sei quem é essa mulher. Preciso sair daqui.)
-\ff[introBenitex]\bNathan: (Não posso arriscar, não sei quem é essa mulher. Preciso sair daqui.)
+\ff[introBenitex]\bNathan: (I can't take any chances, I don't event know who this woman is. I need to get out of here.)
 Ryoku disse que todos os Discípulos vão ser perdoados no Pandemônio.
-Ryoku disse que todos os Discípulos vão ser perdoados no Pandemônio.
+Ryoku said that all Disciples will be forgiven in Pandemonium.
 Mesmo depois de tudo que eu fiz será que eu sou mesmo digno de perdão?
-Mesmo depois de tudo que eu fiz será que eu sou mesmo digno de perdão?
+Even after everything I've done, am I really worthy of forgiveness?
 \ff[introBenitex]\bNathan: ...
 \ff[introBenitex]\bNathan: ...
 É o que eu mereço, depois de tudo o que fiz.
-É o que eu mereço, depois de tudo o que fiz.
+After everything I've done...
 Aqueles que nunca tiveram um vislumbre do Pandemônio não sabem que vivem na escuridão.
-Aqueles que nunca tiveram um vislumbre do Pandemônio não sabem que vivem na escuridão.
+Those who have never glimpsed Pandemonium do not know they live in darkness.
 Os Discípulos de Ryoku vivem em harmonia, em uma comunidade baseada em amor.
-Os Discípulos de Ryoku vivem em harmonia, em uma comunidade baseada em amor.
+The Disciples of Ryoku live in harmony, in a community based on love.
 Mas a escuridão impede que as pessoas vejam a beleza desse lugar.
-Mas a escuridão impede que as pessoas vejam a beleza desse lugar.
+But darkness prevents people from seeing the beauty of this place.
 Não se preocupe, vou te proteger!
-Não se preocupe, vou te proteger!
+Don't worry, I'll protect you!
 A escuridão impede que as pessoas vejam a beleza desse lugar.
-A escuridão impede que as pessoas vejam a beleza desse lugar.
+Darkness prevents people from seeing the beauty of this place.
 Quem é você?
-Quem é você?
+Who are you?
 \ff[introBenitex]\bNathan: Oi, meu nome é Nathan.
-\ff[introBenitex]\bNathan: Oi, meu nome é Nathan.
+\ff[introBenitex]\bNathan: Hi, my name is Nathan.
 Nathan? O que você veio fazer aqui?
-Nathan? O que você veio fazer aqui?
+Nathan. What are you doing here?
 \ff[introBenitex]\bNathan: Vim derrotar o Volcarona, antes que cause mais problemas na região.
-\ff[introBenitex]\bNathan: Vim derrotar o Volcarona, antes que cause mais problemas na região.
+\ff[introBenitex]\bNathan: I came to defeat Volcarona before it causes more trouble in the region.
 Hum, eu me lembro que o Ryoku disse que viria uma pessoa de fora pra cá, será que é você?
-Hum, eu me lembro que o Ryoku disse que viria uma pessoa de fora pra cá, será que é você?
+Hmm, I remember Ryoku saying that someone from outside would be coming here. Could it be you?
 Bom, pode passar, eu acho.
-Bom, pode passar, eu acho.
+Well, you can come in, I guess.
 \ff[introBenitex]\bNathan: Seu pior pesadelo.
-\ff[introBenitex]\bNathan: Seu pior pesadelo.
+\ff[introBenitex]\bNathan: I'm your worts nightmare.
 Não pense que vai acabar com nossa comunidade. Por Ryoku!
-Não pense que vai acabar com nossa comunidade. Por Ryoku!
+Don't think you can destroy our community. For Ryoku!
 Você... É um discípulo?
-Você... É um discípulo?
+You... Are you a Disciple?
 \ff[introBenitex]\bNathan: Discípulo?
-\ff[introBenitex]\bNathan: Discípulo?
+\ff[introBenitex]\bNathan: A Disciple?
 Discípulo de Ryoku. Você deve ser um Hiker, então?
-Discípulo de Ryoku. Você deve ser um Hiker, então?
+A Disciple of Ryoku. You must be a Hiker, then, right?
 \ff[introBenitex]\bNathan: Não.
-\ff[introBenitex]\bNathan: Não.
+\ff[introBenitex]\bNathan: No.
+\ff[introBenitex]\bNathan: Sim, sou um Hiker. Olha aqui.
+\ff[introBenitex]\bNathan: Yes, I'm a Hiker. Look, here.
+Um Hiker... Achava que o Ryoku já tinha conversando com os Hikers para não virem mais aqui.
+A Hiker... I thought Ryoku had already talked to the Hikers about not coming here anymore.
+Bom, vá em frente. Vamos ver o que ele tem a dizer para você.
+Well, go ahead. Let's see what he has to say to you.
 \ff[introBenitex]\bNathan: (Ryoku... Esse nome parece familiar. Preciso saber mais sobre essa pessoa.)
-\ff[introBenitex]\bNathan: (Ryoku... Esse nome parece familiar. Preciso saber mais sobre essa pessoa.)
+\ff[introBenitex]\bNathan: (Ryoku... That name sounds familiar. I need to know more about this person.)
 Você não está usando o uniforme. Por quê?
-Você não está usando o uniforme. Por quê?
+You're not wearing your uniform. Why?
 \ff[introBenitex]\bNathan: Eu... Não acho muito confortável.
-\ff[introBenitex]\bNathan: Eu... Não acho muito confortável.
+\ff[introBenitex]\bNathan: I... I don't find it very comfortable.
 Eu entendo. Desvencilhar a imagem da Team Plasma da gente vai ser muito difícil.
-Eu entendo. Desvencilhar a imagem da Team Plasma da gente vai ser muito difícil.
+I understand. It's going to be very difficult to shake off the image of Team Plasma.
 Alguns dias atrás, passei no centro pokemon de Castelia com o uniforme e todos ficaram olhando para mim.
-Alguns dias atrás, passei no centro pokemon de Castelia com o uniforme e todos ficaram olhando para mim.
+A few days ago, I walked through the Castelia City Pokémon Center in my uniform, and everyone was staring at me.
 Mas os Discípulos de Ryoku não podem ter vergonha. Essa é a representação tangível dos nosso sonho.
-Mas os Discípulos de Ryoku não podem ter vergonha. Essa é a representação tangível dos nosso sonho.
+But the Disciples of Ryoku must not feel shame. This is the tangible representation of our dream.
 Bom, depois daquele dia, tive que começar a usar o uniforme por baixo da roupa. Esse sentimento de perseguição é muito vergonhoso.
-Bom, depois daquele dia, tive que começar a usar o uniforme por baixo da roupa. Esse sentimento de perseguição é muito vergonhoso.
+Well, after that day, I had to start wearing the uniform under my clothes. This feeling of being persecuted is very embarrassing.
 \ff[introBenitex]\bNathan: Eu não faço parte da Team Plasma, vim aqui derrotar vocês!
-\ff[introBenitex]\bNathan: Eu não faço parte da Team Plasma, vim aqui derrotar vocês!
+\ff[introBenitex]\bNathan: I'm not part of Team Plasma, I came here to defeat you!
 Líderes diferentes, grupos diferentes, mas as pessoas sempre vão chamar a gente pelo mesmo nome.
-Líderes diferentes, grupos diferentes, mas as pessoas sempre vão chamar a gente pelo mesmo nome.
+Different leaders, different groups, but people will always call us by the same name.
 Team Plasma.
 Team Plasma.
 \ff[introTriad]Você pode ter enganado os outros, mas sei o que você está fazendo aqui.
-\ff[introTriad]Você pode ter enganado os outros, mas sei o que você está fazendo aqui.
+\ff[introTriad]You may have fooled others, but I know your intentions here.
 \ff[introTriad]Eu vi o que você fez ali atrás.
-\ff[introTriad]Eu vi o que você fez ali atrás.
+\ff[introTriad]I saw what you did back there.
 \ff[introTriad]Todos aqui tem fé no Pandemônio.
-\ff[introTriad]Todos aqui tem fé no Pandemônio.
+\ff[introTriad]Everyone here has faith in the Pandemonium.
 \ff[introTriad]Nós sabemos o que vai acontecer com o mundo nos próximos anos e estamos lutando por isso.
-\ff[introTriad]Nós sabemos o que vai acontecer com o mundo nos próximos anos e estamos lutando por isso.
+\ff[introTriad]We know what will happen to the world in the coming years, and we are fighting for it.
 \ff[introTriad]Não pense que destruir nossa comunidade vai fazer nossa fé acabar. Nós vamos voltar, assim como voltamos antes.
-\ff[introTriad]Não pense que destruir nossa comunidade vai fazer nossa fé acabar. Nós vamos voltar, assim como voltamos antes.
+\ff[introTriad]Don't think that destroying our community will destroy our faith. We will return, just as we have returned before.
 Você... Não veio aqui para expulsar a gente?
-Você... Não veio aqui para expulsar a gente?
+You... Didn't you come here to kick us out?
 Eu ouvi os barulhos. Sei que você também veio até aqui para destruir nosso grupo.
-Eu ouvi os barulhos. Sei que você também veio até aqui para destruir nosso grupo.
+I heard the noises. I know you came here to destroy our group.
 Saiba que nós estamos em paz e que não queremos criar confusão.
-Saiba que nós estamos em paz e que não queremos criar confusão.
+Know that we are looking for peace and that we do not want to cause trouble.
 \ff[introBenitex]\bNathan: Expulsar vocês? Não, meu objetivo é parar Volcarona.
-\ff[introBenitex]\bNathan: Expulsar vocês? Não, meu objetivo é parar Volcarona.
+\ff[introBenitex]\bNathan: Kick you out? No, my goal is to stop Volcarona.
 \ff[introBenitex]\bNathan: O que você está fazendo aqui?
-\ff[introBenitex]\bNathan: O que você está fazendo aqui?
+\ff[introBenitex]\bNathan: What are you doing here?
 Nós estamos exilados aqui. Nós sofremos muitos preconceitos.
-Nós estamos exilados aqui. Nós sofremos muitos preconceitos.
+We were exiled. We suffered a lot of prejudice.
 É verdade que nosso grupo, nas origens, cometeu crimes por seus ideais, mas nem todos nós somos criminosos.
-É verdade que nosso grupo, nas origens, cometeu crimes por seus ideais, mas nem todos nós somos criminosos.
+It's true that our group, in its origins, committed crimes for its ideals, but not all of us are criminals.
 A comunidade dos Discípulos de Ryoku são pessoas que acreditam na beleza do Pandemônio, nada mais, nada menos.
-A comunidade dos Discípulos de Ryoku são pessoas que acreditam na beleza do Pandemônio, nada mais, nada menos.
+The community of the Disciples of Ryoku are people who believe in the beauty of the Pandemonium. Nothing more, nothing less.
 \l[3]E esse lugar, nas profundezas do Relic Castle, foi o lugar onde conseguimos viver e exercer nossas crenças sem ser perseguidos pelos outros.
-\l[3]E esse lugar, nas profundezas do Relic Castle, foi o lugar onde conseguimos viver e exercer nossas crenças sem ser perseguidos pelos outros.
+\l[3]And this place, deep within Relic Castle, was where we were able to live and practice our beliefs without being persecuted by others.
 \ff[introBenitex]\bNathan: Entendo...
-\ff[introBenitex]\bNathan: Entendo...
+\ff[introBenitex]\bNathan: I see...
 \ff[introBenitex]\bNathan: Vocês precisam ser parados!
-\ff[introBenitex]\bNathan: Vocês precisam ser parados!
+\ff[introBenitex]\bNathan: You must be stopped!
 Se essa é a forma que você lida com um grupo de pessoas com sonhos diferentes, vou ter que me defender.
-Se essa é a forma que você lida com um grupo de pessoas com sonhos diferentes, vou ter que me defender.
+If that is how you deal with a group of people with different dreams, I will have to defend myself.
 \ff[introBenitex]\bNathan: (Não está me dando atenção. Parece ocupado com algo mais importante.)
-\ff[introBenitex]\bNathan: (Não está me dando atenção. Parece ocupado com algo mais importante.)
+\ff[introBenitex]\bNathan: (It is not paying attention to me. It looks worried about something more important.)
 Ah, desculpe, você me lembrou um rapaz que eu conheci anos atrás.
-Ah, desculpe, você me lembrou um rapaz que eu conheci anos atrás.
+Oh, sorry, you reminded me of a guy I met years ago.
 \ff[introBenitex]\bNathan: Hum, você se importa de dizer quem era?
-\ff[introBenitex]\bNathan: Hum, você se importa de dizer quem era?
+\ff[introBenitex]\bNathan: Would you mind telling me who it was?
 Acho que não tem problema.
-Acho que não tem problema.
+I guess that's okay.
 As vezes você pensa que está rodeado de amigos, mas não pode confiar em ninguém de verdade. Não são amigos de verdade.
-As vezes você pensa que está rodeado de amigos, mas não pode confiar em ninguém de verdade. Não são amigos de verdade.
+Sometimes you feel like you're surrounded by friends, but you can't really trust them. They're not real friends.
 Foi em um momento como esse que eu conheci ele. A gente conversou digitalmente por alguns meses, até que um dia conheci ele pessoalmente, em Nimbasa.
-Foi em um momento como esse que eu conheci ele. A gente conversou digitalmente por alguns meses, até que um dia conheci ele pessoalmente, em Nimbasa.
+It was at a time like that that I met him. We talked online for a few months, until one day I met him in person in Nimbasa.
 Pouco tempo depois ele saiu para conhecer o mundo.
-Pouco tempo depois ele saiu para conhecer o mundo.
+Shortly after, he left to see the world.
 Essa história parece familiar para você?
-Essa história parece familiar para você?
+Does this story sound familiar to you?
 \ff[introBenitex]\bNathan: Eu... Não tenho certeza.
-\ff[introBenitex]\bNathan: Eu... Não tenho certeza.
+\ff[introBenitex]\bNathan: I... I'm not sure.
 Um dia, conheci os Discípulos de Ryoku. Eles se tornaram minha família. Abandonei tudo para me juntar a eles.
-Um dia, conheci os Discípulos de Ryoku. Eles se tornaram minha família. Abandonei tudo para me juntar a eles.
+Then, ene day, I met the Disciples of Ryoku. They became my family. I gave up everything to join them.
 \ff[introBenitex]\bNathan: Você está feliz aqui?
-\ff[introBenitex]\bNathan: Você está feliz aqui?
+\ff[introBenitex]\bNathan: Are you happy here?
 Por favor, não me machuque!
-Por favor, não me machuque!
+Please don't hurt me!
 Sim.
-Sim.
+Yes.
 Não.
-Não.
+No.
 (Ajudar.)
-(Ajudar.)
+(Help her.)
 (Sair.)
-(Sair.)
+(Leave.)
 Eu sou Nathan.
-Eu sou Nathan.
+I'm Nathan.
 Sou seu maior pesadelo!
-Sou seu maior pesadelo!
+I am your worst nightmare!
 (Ficar quieto.)
-(Ficar quieto.)
+(Stay quiet.)
 (Conversar.)
-(Conversar.)
+(Talk.)
 (Batalhar.)
-(Batalhar.)
+(Fight!)
 [Map90]
 \ff[introBenitex]\bNathan: Não tenho certeza se o que acabei de fazer foi certo...
-\ff[introBenitex]\bNathan: Não tenho certeza se o que acabei de fazer foi certo...
+\ff[introBenitex]\bNathan: I'm not sure if what I just did was right...
 \ff[introBenitex]\bUma pedra brilhante!
-\ff[introBenitex]\bUma pedra brilhante!
+\ff[introBenitex]\bOh, a nice stone!
 \ff[introTriad]É claro que ele viria até aqui.
-\ff[introTriad]É claro que ele viria até aqui.
+\ff[introTriad]Of course he would come here.
 \ff[introTriad]Não sei por que a gente tentou parar esse cara na base do diálogo.
-\ff[introTriad]Não sei por que a gente tentou parar esse cara na base do diálogo.
+\ff[introTriad]I don't know why we tried to stop this guy by talking to him.
 \ff[introTriad]Você sabe que é o que o Ryoku quer, por favor.
-\ff[introTriad]Você sabe que é o que o Ryoku quer, por favor.
+\ff[introTriad]You know that's what Ryoku wants, please.
 \ff[introBenitex]\bNathan: Vocês vão deixar eu passar?
-\ff[introBenitex]\bNathan: Vocês vão deixar eu passar?
+\ff[introBenitex]\bNathan: Are you going to let me pass?
 \ff[introTriad]É claro que não. Nós vamos proteger Ryoku a todo custo.
-\ff[introTriad]É claro que não. Nós vamos proteger Ryoku a todo custo.
+\ff[introTriad]Of course not. We will protect Ryoku at all costs.
 \ff[introBenitex]\bNathan: Então chega de conversa, estou com pressa.
-\ff[introBenitex]\bNathan: Então chega de conversa, estou com pressa.
+\ff[introBenitex]\bNathan: Then enough talk, I don't have time.
 \ff[introTriad]Você é louco por vir até aqui e querer enfrentar nós três.
-\ff[introTriad]Você é louco por vir até aqui e querer enfrentar nós três.
+\ff[introTriad]You're crazy to come here and want to face the three of us.
 \ff[introTriad]Olha só quem voltou.
-\ff[introTriad]Olha só quem voltou.
+\ff[introTriad]Look who's back.
 \ff[introTriad]Você pretende tentar quantas vezes até finalmente desistir?
-\ff[introTriad]Você pretende tentar quantas vezes até finalmente desistir?
+\ff[introTriad]How many times are you going to try before you finally give up?
 \ff[introTriad]...
 \ff[introTriad]...
 \ff[introBenitex]\bNathan: Ótimo!
-\ff[introBenitex]\bNathan: Ótimo!
+\ff[introBenitex]\bNathan: Great!
 \ff[introTriad]Volte. O que você está fazendo não faz sentido.
-\ff[introTriad]Volte. O que você está fazendo não faz sentido.
+\ff[introTriad]Go back. What you're doing doesn't make sense.
 \ff[introTriad]As pessoas aqui estão felizes. Nós estamos fazendo o certo.
-\ff[introTriad]As pessoas aqui estão felizes. Nós estamos fazendo o certo.
+\ff[introTriad]Those people are happy. We're doing the right thing.
 \ff[introTriad]Formar nossa base nesse lugar não foi fácil. Aqui, os Discípulos vivem em paz.
-\ff[introTriad]Formar nossa base nesse lugar não foi fácil. Aqui, os Discípulos vivem em paz.
+\ff[introTriad]Building our base in this place wasn't easy. Here, the Disciples can live in peace.
 \ff[introTriad]Então volte. Você não precisa continuar.
-\ff[introTriad]Então volte. Você não precisa continuar.
+\ff[introTriad]So go back. You don't need to continue.
 \ff[introTriad]Você não desistiu. Mesmo depois dos avisos dos meus colegas.
-\ff[introTriad]Você não desistiu. Mesmo depois dos avisos dos meus colegas.
+\ff[introTriad]You didn't give up. Even after my colleagues warned you.
 \ff[introBenitex]\bNathan: Eu não posso voltar. Esse volcarona é perigoso.
-\ff[introBenitex]\bNathan: Eu não posso voltar. Esse volcarona é perigoso.
+\ff[introBenitex]\bNathan: I can't go back. That Volcarona is too dangerous.
 \ff[introTriad]Você não entende nada.
-\ff[introTriad]Você não entende nada.
+\ff[introTriad]You don't understand anything.
 \ff[introTriad]Olha só, isso está sobre controle. Você não precisa se preocupar. Nós vamos resolver isso.
-\ff[introTriad]Olha só, isso está sobre controle. Você não precisa se preocupar. Nós vamos resolver isso.
+\ff[introTriad]Listen, we can control that Volcarona. You don't need to worry. We'll take care of it.
 \ff[introTriad]Agora dê meia volta e saia daqui. Esse vai ser o último aviso.
-\ff[introTriad]Agora dê meia volta e saia daqui. Esse vai ser o último aviso.
+\ff[introTriad]Now turn around and get out of here. This is your last warning.
 [Map91]
 \ff[introBenitex]\bNathan: Tem um interruptor escondido aqui. Olhar as outras pedras pode ser uma boa ideia.
 \ff[introBenitex]\bNathan: There's a hidden switch here. Looking at the other stones might be a good idea.
