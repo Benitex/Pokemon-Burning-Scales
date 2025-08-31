@@ -10,8 +10,6 @@ Pokemon Burning Scales is a Pokemon fan game that focuses on the exploration of 
 
 The game's story unfolds at a significantly different pace from the series' standard. The game map comprises the cities of Nimbasa, Castelia, and their surroundings. Instead of traveling throughout the region, you'll explore a small map filled with interactions and side quests. This allows you to thoroughly explore each part, interact with all the characters, dive straight into the main quest, or take it bit by bit at your own pace.
 
-Pokemon Burning Scales is being translated into English (95%) and will be released soon.
-
 ## Story
 
 In Pokemon Burning Scales, you play as Nathan, an experienced trainer who is assisting professors Oak and Juniper in their investigation of a unknown form of Pokémon. The research takes a dangerous turn when a mysterious and powerful Pokémon begins to wreak havoc across the southern part of Unova. It's up to you to uncover the source of the chaos and unravel the mystery behind these strange new Pokémon forms.
@@ -48,7 +46,7 @@ The main story provides about 4 hours of gameplay, but with dozens of side quest
 * **Fast Forward**, using [Speed Up](https://eeveeexpo.com/resources/713/).
 * **Perfect IVs mode** (optional).
 * **Super fast EV grind**, by using cheap vitamins.
-* **Encounters table**, you can check how to get each of the available pokemon downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
+* **Encounters table**, you can check how to get each of the available pokemon [here](https://docs.google.com/spreadsheets/d/1AMKqiAs3-kX6ENomcbPptUb0TKXHCW05/edit?usp=sharing&ouid=106586212514511918523&rtpof=true&sd=true) or downloading [this file](https://github.com/Benitex/Pokemon-Burning-Scales/blob/main/Docs/Encounter%20locations.xlsx).
 
 ### Difficulty Options
 
