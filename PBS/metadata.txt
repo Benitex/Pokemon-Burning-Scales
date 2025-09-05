@@ -126,7 +126,7 @@ Bicycle = false
 BicycleAlways = false
 MapPosition = 0,15,4
 BattleBack = elite6
-TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+TrainerBattleBGM = Battle! Rival Sonia
 #-------------------------------
 [011]
 # Battle Subway
@@ -196,7 +196,7 @@ SnapEdges = false
 Dungeon = false
 BattleBack = Champion
 WildBattleBGM = Professor Sycamore's Theme.mp3
-TrainerBattleBGM = Battle! Champion Lillie Raushna.mp3
+TrainerBattleBGM = Battle! Rival Sonia
 #-------------------------------
 [019]
 # Sala da Anna
@@ -298,18 +298,15 @@ MapPosition = 0,15,7
 TrainerBattleBGM = Vs Diantha Retrospecter.mp3
 #-------------------------------
 [028]
-# Entrada
 Outdoor = true
 ShowArea = true
 MapPosition = 0,15,4
 #-------------------------------
 [029]
-# Quadra de Tênis
 Bicycle = true
 MapPosition = 0,15,4
 #-------------------------------
 [030]
-# Piscina de Natação
 MapPosition = 0,15,4
 #-------------------------------
 [031]
@@ -466,19 +463,16 @@ SnapEdges = true
 Dungeon = false
 #-------------------------------
 [049]
-# Campo de baseball
 MapPosition = 0,15,4
 #-------------------------------
 [050]
-# Campo de futebol
 MapPosition = 0,15,4
 #-------------------------------
 [051]
-# Quadra de basquete
 MapPosition = 0,15,4
 #-------------------------------
 [052]
-# Caverna Abismal
+# Caverna Pequena
 Outdoor = false
 ShowArea = true
 Bicycle = true
@@ -488,6 +482,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
+TrainerBattleBGM = Battle! Rival Sonia.mp3
 #-------------------------------
 [053]
 # Teatro Musical
@@ -700,7 +695,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Battle Rival Alder.mp3
+WildBattleBGM = Temporal Tower Remastered
 #-------------------------------
 [077]
 # Passagem
@@ -752,7 +747,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Battle Rival Alder.mp3
+WildBattleBGM = Temporal Tower Remastered
 #-------------------------------
 [086]
 # Casa abandonada 2F
@@ -793,7 +788,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Battle Rival Alder.mp3
+WildBattleBGM = Temporal Tower Remastered
 #-------------------------------
 [089]
 # Relic Castle B5F

@@ -103,8 +103,8 @@ Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All
 
 ## Music
 
-Credits scene:
-Marnie's Theme - Raushna ft. ebee
+Credits:
+Song of the Storms - sentsinkanteun
 
 Mewmore
 Route 225 DP – Intro theme
@@ -117,6 +117,8 @@ Unwavering Emotions - Storyteller theme
 Dreamyard - Castelia Greenhouse
 Cascarrafa - Election Clubs
 Burned Tower - The Tavern
+Area Zero - Beethoven's house
+Battle! Professor Turo - Beethoven battle
 
 GlitchxCity
 Rival Bede – Nimbasa trainers
@@ -138,23 +140,21 @@ Relic castle - Relic castle B3F, B4F
 Pokemon Center Unova - Pokémon Centers
 Castelia City Nighttime - Castelia City
 Vast Poni Canyon - Route 4 wild battle
-Battle! RIVAL ALDER - Relic Castle wild battle
+Temporal Tower Remastered - Relic Castle B1F, B2F, B3F, B4F wild battles
 Relic Song - Burning Scales theme
-Nimbasa City Gym (Runaway & Stage) - Nimbasa City Gym pos Elesa
+Elesa's Gym: Remastered (Runway & Stage) - Nimbasa City Gym pre Elesa
+Nimbasa City Gym (Stage) - Nimbasa Gym pos Elesa
 Gate Remastered - Route gates
 Game Corner (Johto): Remastered - Game Corner interior
 Hoenn Game Corner: Remastered - Game Corner entrace
 Kalos Route 15 - Ryoku encounter
+Battle! Rival Sonia - Tournament oponnents
+Opelucid City (Black) v1 - Robert Theme
 
 Kamex
 Nimbasa City Jazz Remix - Nimbasa city
 Vs. Guzma Remix - Bikers fake leader theme
 Vs Lusamine - Plasma boss battle
-
-Raushna
-Shopping Mall - Robert Theme
-Battle! Champion Lillie - Tournament oponnents
-Marnie's Theme ft. ebee – Credits
 
 Vetrom
 Battle Marnie – Bikers and cueballs
@@ -165,9 +165,6 @@ RetroSpecter
 Battle Gladion – Anna's battle theme
 Vs champion Diantha - Route 4 trainer battle
 
-Falkonkke
-Fur Elise - Beethoven battle
-
 Kunning Fox
 Victory is Right Before Your Eyes! - Title Screen
 Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
@@ -176,6 +173,7 @@ sentsinkanteun
 Shoal Cave - Abandoned House
 Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
 Sun & Moon Iki Town Remix (edited) - Café Sonata
+Song of the Storms - Credits
 
 Seii
 Route 111 RSE - Desert Resort theme
@@ -183,14 +181,8 @@ Route 111 RSE - Desert Resort theme
 Snivys
 Join avenue “You're invited” - Join Avenue
 
-Blue Claw Philharmonic
-Ode to Joy (Lofi Hiphop Remix) - Beethoven's house
-
 MarshMix Plaza
 Battle vs. Marnie Remix - Bikers leader theme
-
-EuroMIX2
-Nimbasa Gym (Give Me What I Need mix) - Nimbasa Gym pre Elesa
 
 Sheddy
 Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
@@ -217,7 +209,7 @@ ONION_MU
 Battle! (Professor Sycamore) - Desert Resort wild battle
 
 Pokémon X & Y
-Poké Mart Shopping - Route 4
+Shopping - Route 4
 Gate - Castelia interiors
 
 ## Plugins
