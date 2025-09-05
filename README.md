@@ -12,7 +12,7 @@ The game's story unfolds at a significantly different pace from the series' stan
 
 ## Story
 
-In Pokemon Burning Scales, you play as Nathan, an experienced trainer who is assisting professors Oak and Juniper in their investigation of a unknown form of Pokémon. The research takes a dangerous turn when a mysterious and powerful Pokémon begins to wreak havoc across the southern part of Unova. It's up to you to uncover the source of the chaos and unravel the mystery behind these strange new Pokémon forms.
+In Pokemon Burning Scales, you play as Nathan, an experienced trainer who is assisting professors Oak and Juniper in their investigation of an unknown form of Pokémon. The research takes a dangerous turn when a mysterious and powerful Pokémon begins to wreak havoc across the southern part of Unova. It's up to you to uncover the source of the chaos and unravel the mystery behind these strange new Pokémon forms.
 
 The main story provides about 4 hours of gameplay, but with dozens of side quests to discover, your adventure can easily extend beyond 10 hours.
 
@@ -24,6 +24,7 @@ The main story provides about 4 hours of gameplay, but with dozens of side quest
     <img src="https://user-images.githubusercontent.com/64505839/144768035-7d5a0174-9834-4b23-9736-f4d87cc33719.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768029-913482da-a4a4-4643-9b4c-3174cdf278ea.png" width="400"/>
     <img src="https://user-images.githubusercontent.com/64505839/144768052-732953e2-671d-4c43-9b0c-9890601158f0.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/144768054-ea8f6f55-60e6-4354-865f-d58428704eaf.png" width="400"/>
     <img src="https://user-images.githubusercontent.com/64505839/144768044-5021f3cc-9c87-4901-b027-18d3053cc2cc.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162638956-f175a2c1-ccc4-4242-822c-3c66b4aa153a.png" width="400"/>
+    <img width="400" src="https://github.com/user-attachments/assets/a8e3ef9f-c136-4a7f-a34f-cc2c45cfae18"/> <img width="400" src="https://github.com/user-attachments/assets/8001fe31-9c2f-43e8-9a8d-88066ad20136"/>
     <img src="https://user-images.githubusercontent.com/64505839/162638984-516b63eb-14ce-4a41-879d-fd45ec4c07aa.png" width="400"/> <img src="https://user-images.githubusercontent.com/64505839/162639379-cb054aca-2507-4782-af3b-8a86d099aa0b.png" width="400"/>
 </details>
 
@@ -31,7 +32,7 @@ The main story provides about 4 hours of gameplay, but with dozens of side quest
 
 * **Different storyline from the series standard**. Breaking away a bit from the standard of defeating all 8 gym leaders and then facing the Elite 4.
 * **Lots of side quests**, that can generate hours of extra content apart from the main story.
-* **Choices that impact the story**, reveal additional information and provide funny situations.
+* **Choices that impact the story**, reveal additional information, and provide funny situations.
 * **A small open world to travel**. All available since the beginning of the game.
 * **Level scaling**, ensuring a consistent challenge.
 * **Nuzlocke and randomizer modes**, using [Elite Battle DX](https://luka-sj.com/res/ebdx).

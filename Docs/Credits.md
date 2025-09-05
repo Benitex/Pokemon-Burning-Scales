@@ -6,7 +6,7 @@ Made by Benito André Pepe, aka Benitex
 
 ## Special Thanks
 
-Shirou Douglas
+Shirou Douglas,
 Thundaga
 
 ## Graphics
@@ -17,85 +17,86 @@ Interiors:
 4th gen Indoor Tileset - Akizakura16
 
 Exteriors:
+
 WesleyFG:
-BW BUILDINGS TILESET
-BW NATURE TILESET
-BW VELHICES
+BW BUILDINGS TILESET,
+BW NATURE TILESET,
+BW VELHICES,
 HGSS TILISET MY WORK COMPLETE
 
 Caves:
-Phyromatical, EVoLiNa, zetavares852 - DoT Day24 Evolina Mountains Full Set
+Phyromatical, EVoLiNa, zetavares852 - DoT Day24 Evolina Mountains Full Set,
 KingTapir - Desert Tileset (Deluxe Edition)
 
 Sewers:
-paradigmi
+paradigmi,
 aveontrainer
 
 Complemented with:
-KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets
-dirtywiggles - Interior tileset Primal
-zetavares852 - Pokemon Gaia Project Tileset 1 (trees)
-Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge
-spaceemotion - Goldenrod City Gamecorner HGSS, Castelia Game Corner
-vazquinho - Casino Tiles, Castelia Game Corner
-Hek-el-grande - Relic tiles, New pallete :3
+KingTapir, The_Jacko_Art, NocTurn - Ready to Use: KingTapir Tilesets,
+dirtywiggles - Interior tileset Primal,
+zetavares852 - Pokemon Gaia Project Tileset 1 (trees),
+Rayquaza-dot - Beach Autotile, BW2 Sea - With Ridge,
+spaceemotion - Goldenrod City Gamecorner HGSS, Castelia Game Corner,
+vazquinho - Casino Tiles, Castelia Game Corner,
+Hek-el-grande - Relic tiles, New pallete :3,
 Ulithium_Dragon - Ultra Wormhole
 
 ### Characters
 
 Gen 4 OW Sprites by:
-Neo-Spriteman
-Vanilla Sunshine
-PurpleZaffre & Maicerochico
+Neo-Spriteman,
+Vanilla Sunshine,
+PurpleZaffre & Maicerochico,
 AtomicReactor
 
-Gen 5 Characters in Gen 4 OW style
+Gen 5 Characters in Gen 4 OW style:
 DiegoWT
 
 Gen 4 and 5 Trainer sprites:
 Mr. Gela/theo#7722
 
-Team Plasma battle sprites
+Team Plasma battle sprites:
 xxxSnow
 
-Ryoku trainer sprite
+Ryoku trainer sprite:
 flashcs
 
-Hex trainer battle sprite
+Hex trainer battle sprite:
 Bombbity
 
-Hex trainer OW sprite
+Hex trainer OW sprite:
 PokelustCompany
 
-Officer Jenny Generation 4 Styled Sprite
-78Cabbage
+Officer Jenny Generation 4 Styled Sprite:
+78Cabbage,
 ultrademise
 
 ### Other
 
-Yamask Variants
+Yamask Variants:
 Frousteleous
 
-Character Customization Resources
+Character Customization Resources:
 Poltergeist
 
-Custom-made Official Gen 4 Day & Night Tones
+Custom-made Official Gen 4 Day & Night Tones:
 VanillaSunshine
 
-ORAS/XY themed battle backgrounds for EBDX
-PhoenixOfLight92 for ripping the Gen 6 battlebacks
+ORAS/XY themed battle backgrounds for EBDX:
+PhoenixOfLight92 for ripping the Gen 6 battlebacks,
 LackDeJurane for the combined battlebacks
 
-Cool Pokeball Anims for EBDX
+Cool Pokeball Anims for EBDX:
 Lichenprincess
 
-SwSh Item Icon pack
+SwSh Item Icon pack:
 RandomTalkingBush, AiurJordan, TechSkylander1518
 
-Screen's Updated Mining Resources
+Screen's Updated Mining Resources:
 Screen Lady
 
-Gen 8 move animation project
+Gen 8 move animation project:
 Project lead by StCooler.
 Contributors: StCooler, DarryBD99, WolfPP, ardicoozer, riddlemeree.
 Thanks to the Reborn team for letting people use their resources. You are awesome.
@@ -106,191 +107,191 @@ Thanks to BellBlitzKing for his Pokemon Sound Effects Pack: Gen 1 to Gen 7 - All
 Credits:
 Song of the Storms - sentsinkanteun
 
-Mewmore
-Route 225 DP – Intro theme
-Gladion – Anna's Theme
-Boutique XY – Nimbasa buildings
-Professor Sycamore's Theme – Desert Resort Entrance
-Relic Castle – Relic Castle Entrance, B1F, B2F
-Lookers Theme – Search for the girl questline
-Unwavering Emotions - Storyteller theme
-Dreamyard - Castelia Greenhouse
-Cascarrafa - Election Clubs
-Burned Tower - The Tavern
-Area Zero - Beethoven's house
+Mewmore:
+Route 225 DP – Intro theme,
+Gladion – Anna's Theme,
+Boutique XY – Nimbasa buildings,
+Professor Sycamore's Theme – Desert Resort Entrance,
+Relic Castle – Relic Castle Entrance, B1F, B2F,
+Lookers Theme – Search for the girl questline,
+Unwavering Emotions - Storyteller theme,
+Dreamyard - Castelia Greenhouse,
+Cascarrafa - Election Clubs,
+Burned Tower - The Tavern,
+Area Zero - Beethoven's house,
 Battle! Professor Turo - Beethoven battle
 
-GlitchxCity
-Rival Bede – Nimbasa trainers
-Snowbelle City – Volcarona Theme
-Team Rocket Battle Remix vII - Giovanni theme
-Team Plasma Remix - Plasma intelligence battle
+GlitchxCity:
+Rival Bede – Nimbasa trainers,
+Snowbelle City – Volcarona Theme,
+Team Rocket Battle Remix vII - Giovanni theme,
+Team Plasma Remix - Plasma intelligence battle,
 Abandoned Ship - Aficcionada battle
 
-Vanilluxe Pavilion
-Relic Castle – Relic Castle B7F
-Po Town - Bikers theme
-Mt. Coronet Remix - Caves
-Alabaster Icelands - Relic Castle B5F, B6F, B7F wild battles
-Pokemon G/S/C - Ice Path Remix 2, "Nevermelt 2" - Team Plasma in the Relic Castle
+Vanilluxe Pavilion:
+Relic Castle – Relic Castle B7F,
+Po Town - Bikers theme,
+Mt. Coronet Remix - Caves,
+Alabaster Icelands - Relic Castle B5F, B6F, B7F wild battles,
+Pokemon G/S/C - Ice Path Remix 2, "Nevermelt 2" - Team Plasma in the Relic Castle,
 Pokemon G/S/C Vs Johto Gym Leader - Professor Juniper battle
 
-Zame
-Relic castle - Relic castle B3F, B4F
-Pokemon Center Unova - Pokémon Centers
-Castelia City Nighttime - Castelia City
-Vast Poni Canyon - Route 4 wild battle
-Temporal Tower Remastered - Relic Castle B1F, B2F, B3F, B4F wild battles
-Relic Song - Burning Scales theme
-Elesa's Gym: Remastered (Runway & Stage) - Nimbasa City Gym pre Elesa
-Nimbasa City Gym (Stage) - Nimbasa Gym pos Elesa
-Gate Remastered - Route gates
-Game Corner (Johto): Remastered - Game Corner interior
-Hoenn Game Corner: Remastered - Game Corner entrace
-Kalos Route 15 - Ryoku encounter
-Battle! Rival Sonia - Tournament oponnents
+Zame:
+Relic castle - Relic castle B3F, B4F,
+Pokemon Center Unova - Pokémon Centers,
+Castelia City Nighttime - Castelia City,
+Vast Poni Canyon - Route 4 wild battle,
+Temporal Tower Remastered - Relic Castle B1F, B2F, B3F, B4F wild battles,
+Relic Song - Burning Scales theme,
+Elesa's Gym: Remastered (Runway & Stage) - Nimbasa City Gym pre Elesa,
+Nimbasa City Gym (Stage) - Nimbasa Gym pos Elesa,
+Gate Remastered - Route gates,
+Game Corner (Johto): Remastered - Game Corner interior,
+Hoenn Game Corner: Remastered - Game Corner entrace,
+Kalos Route 15 - Ryoku encounter,
+Battle! Rival Sonia - Tournament oponnents,
 Opelucid City (Black) v1 - Robert Theme
 
-Kamex
-Nimbasa City Jazz Remix - Nimbasa city
-Vs. Guzma Remix - Bikers fake leader theme
+Kamex:
+Nimbasa City Jazz Remix - Nimbasa city,
+Vs. Guzma Remix - Bikers fake leader theme,
 Vs Lusamine - Plasma boss battle
 
-Vetrom
-Battle Marnie – Bikers and cueballs
-Battle! Battle Tower – Musical Theater during the tournament
+Vetrom:
+Battle Marnie – Bikers and cueballs,
+Battle! Battle Tower – Musical Theater during the tournament,
 Battle! Gym Leader Black and White - Gym battles
 
-RetroSpecter
-Battle Gladion – Anna's battle theme
+RetroSpecter:
+Battle Gladion – Anna's battle theme,
 Vs champion Diantha - Route 4 trainer battle
 
-Kunning Fox
-Victory is Right Before Your Eyes! - Title Screen
+Kunning Fox:
+Victory is Right Before Your Eyes! - Title Screen,
 Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
 
-sentsinkanteun
-Shoal Cave - Abandoned House
-Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave
-Sun & Moon Iki Town Remix (edited) - Café Sonata
+sentsinkanteun:
+Shoal Cave - Abandoned House,
+Battle! (Azelf/Mesprit/Uxie) - Abysmal Cave,
+Sun & Moon Iki Town Remix (edited) - Café Sonata,
 Song of the Storms - Credits
 
-Seii
+Seii:
 Route 111 RSE - Desert Resort theme
 
-Snivys
-Join avenue “You're invited” - Join Avenue
+Snivys:
+Join avenue "You're invited" - Join Avenue
 
-MarshMix Plaza
+MarshMix Plaza:
 Battle vs. Marnie Remix - Bikers leader theme
 
-Sheddy
+Sheddy:
 Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
 
-Deplode
+Deplode:
 Pokemon Relic Song with violins - Meloetta encounter
 
-Eclairattack
+Eclairattack:
 Team Aqua Magma Hideout Remix - Castelia Sewers
 
-PokeRemixStudio
+PokeRemixStudio:
 Dark Cave Remix 2 - Sewers wild battle
 
-hyeonjiim
+hyeonjiim:
 Sala da meloeatta - Meloettas Song of the Sunset Cover
 
-Thomniverse Remix
+Thomniverse Remix:
 Hops Battle Theme Remix - Castelia Trainers
 
-HoopsandHipHop
+HoopsandHipHop:
 Poké Mart (Reorchestrated) Pokémon HGSS - Castelia Marts
 
-ONION_MU
+ONION_MU:
 Battle! (Professor Sycamore) - Desert Resort wild battle
 
-Pokémon X & Y
-Shopping - Route 4
+Pokémon X & Y:
+Shopping - Route 4,
 Gate - Castelia interiors
 
 ## Plugins
 
-Automatic Level Scaling
+Automatic Level Scaling:
 Benitex, Joltik, Umbreon
 
-Elite Battle: DX
+Elite Battle: DX:
 Luka S.J.,Maruno,Marin,Pokecheck.org,PinkCatDragon,Tebited15,BadSamaritan,WolfPP,redblueyellow,Damien,Issei Hyoudou,Nasasu,luckygirl88
 
-Following Pokemon EX
+Following Pokemon EX:
 Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Armin (Fairies Resource Pack), Maruno
 
-Modular Title Screen
+Modular Title Screen:
 Luka S.J.
 
-Voltseon's Pause Menu
+Voltseon's Pause Menu:
 Voltseon, Golisopod User, ENLS
 
-NPC Battles (NPC vs. NPC)
+NPC Battles (NPC vs. NPC):
 hollow_ego
 
-Modern Quest System + UI
+Modern Quest System + UI:
 ThatWelshOne_,mej71,derFischae,Marin
 
-Improved AI
+Improved AI:
 KRLW890
 
-Overworld Shadows EX
+Overworld Shadows EX:
 Golisopod User, Wolf PP, Marin
 
-Random Pokemon Selector
+Random Pokemon Selector:
 ThatWelshOne_
 
-Encounter List UI (v19)
+Encounter List UI (v19):
 ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
 
-Auto Multi Save
+Auto Multi Save:
 http404error
 
-Unown Text
+Unown Text:
 PunishedFelix
 
-DiegoWT's Starter Selection
+DiegoWT's Starter Selection:
 DiegoWT
 
-IKazart's NPC Trade Evolution
+IKazart's NPC Trade Evolution:
 IKazart
 
-Always inside Bushes
+Always inside Bushes:
 Kotaro,KleinStudio
 
-LA Moverelearner
+LA Moverelearner:
 Kotaro,IndianAnimator
 
-B2W2 Bag
+B2W2 Bag:
 Erassus,CharizardThree3/LackDeJurane
 
-BW Party Screen
+BW Party Screen:
 DeepBlue PacificWaves,Shashu-Greninja, Golisopod User
 
-Pokedex BW Style
+Pokedex BW Style:
 DeepBlue PacificWaves, NettoHikari, Xtreme1992
 
-Storage System BW Style
+Storage System BW Style:
 DeepBlue PacificWaves
 
-BW Summary Screen
+BW Summary Screen:
 DeepBlue PacificWaves, Tommaniacal, Lucidious89, Weibrot, Kobi2604, Dirkriptide, Ploaj, Mr. Gela, Shashu-Greninja, Golisopod User
 
-BW Location Signposts
+BW Location Signposts:
 Shashu-Greninja,DeepBlue PacificWaves,Shiney570
 
-BW Text Entry Scene
+BW Text Entry Scene:
 Shashu-Greninja,DeepBlue PacificWaves,Erassus
 
-BW PokéMart Screen
-Script by DeepBlue PacificWaves
+BW PokéMart Screen:
+Script by DeepBlue PacificWaves,
 Sprites Ripped by DeepBlue PacificWaves
 
-v19.1 Hotfixes
+v19.1 Hotfixes:
 Maruno
 
 ### Gen 8 Project
