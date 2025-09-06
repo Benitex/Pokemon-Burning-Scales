@@ -119,14 +119,16 @@ Dreamyard - Castelia Greenhouse,
 Cascarrafa - Election Clubs,
 Burned Tower - The Tavern,
 Area Zero - Beethoven's house,
-Battle! Professor Turo - Beethoven battle
+Battle! Professor Turo - Beethoven battle,
+Poké Mart - Castelia Marts
 
 GlitchxCity:
 Rival Bede – Nimbasa trainers,
 Snowbelle City – Volcarona Theme,
 Team Rocket Battle Remix vII - Giovanni theme,
 Team Plasma Remix - Plasma intelligence battle,
-Abandoned Ship - Aficcionada battle
+Abandoned Ship - Aficcionada battle,
+Hop Battle Theme - Castelia Trainers
 
 Vanilluxe Pavilion:
 Relic Castle – Relic Castle B7F,
@@ -137,12 +139,13 @@ Pokemon G/S/C - Ice Path Remix 2, "Nevermelt 2" - Team Plasma in the Relic Castl
 Pokemon G/S/C Vs Johto Gym Leader - Professor Juniper battle
 
 Zame:
-Relic castle - Relic castle B3F, B4F,
+Relic castle - Relic Castle B3F, B4F,
 Pokemon Center Unova - Pokémon Centers,
 Castelia City Nighttime - Castelia City,
 Vast Poni Canyon - Route 4 wild battle,
 Temporal Tower Remastered - Relic Castle B1F, B2F, B3F, B4F wild battles,
 Relic Song - Burning Scales theme,
+Battle! Rival Wally - Meloetta battle,
 Elesa's Gym: Remastered (Runway & Stage) - Nimbasa City Gym pre Elesa,
 Nimbasa City Gym (Stage) - Nimbasa Gym pos Elesa,
 Gate Remastered - Route gates,
@@ -151,6 +154,7 @@ Hoenn Game Corner: Remastered - Game Corner entrace,
 Kalos Route 15 - Ryoku encounter,
 Battle! Rival Sonia - Tournament oponnents,
 Opelucid City (Black) v1 - Robert Theme
+Poké Mart (Sinnoh) - Castelia Marts
 
 Kamex:
 Nimbasa City Jazz Remix - Nimbasa city,
@@ -168,7 +172,8 @@ Vs champion Diantha - Route 4 trainer battle
 
 Kunning Fox:
 Victory is Right Before Your Eyes! - Title Screen,
-Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab
+Juniper Pokémon Lab from 'Back to Unova' - Juniper Lab,
+Join Avenue from 'Back to Unova 2' - Join Avenue
 
 sentsinkanteun:
 Shoal Cave - Abandoned House,
@@ -179,34 +184,16 @@ Song of the Storms - Credits
 Seii:
 Route 111 RSE - Desert Resort theme
 
-Snivys:
-Join avenue "You're invited" - Join Avenue
-
 MarshMix Plaza:
 Battle vs. Marnie Remix - Bikers leader theme
-
-Sheddy:
-Forbidden Melody (Relic Song Remix by sheddy) - Meloetta battle theme
-
-Deplode:
-Pokemon Relic Song with violins - Meloetta encounter
 
 Eclairattack:
 Team Aqua Magma Hideout Remix - Castelia Sewers
 
-PokeRemixStudio:
-Dark Cave Remix 2 - Sewers wild battle
-
 hyeonjiim:
-Sala da meloeatta - Meloettas Song of the Sunset Cover
+Meloettas Song of the Sunset Cover - Meloetta Room
 
-Thomniverse Remix:
-Hops Battle Theme Remix - Castelia Trainers
-
-HoopsandHipHop:
-Poké Mart (Reorchestrated) Pokémon HGSS - Castelia Marts
-
-ONION_MU:
+onion_mu:
 Battle! (Professor Sycamore) - Desert Resort wild battle
 
 Pokémon X & Y:

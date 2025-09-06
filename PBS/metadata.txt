@@ -526,7 +526,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+WildBattleBGM = Dark Cave Mewmore.mp3
 TrainerBattleBGM = Marnie Remix Sword and Shield.mp3
 #-------------------------------
 [059]
@@ -543,7 +543,7 @@ BicycleAlways = false
 MapPosition = 0,15,7
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Forbidden Melody.mp3
+WildBattleBGM = Battle! Rival Wally.mp3
 #-------------------------------
 [061]
 # Sala do Chefe
@@ -826,7 +826,7 @@ DarkMap = true
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+WildBattleBGM = Dark Cave Mewmore.mp3
 #-------------------------------
 [092]
 # Caverna dos Zubats 2F
@@ -838,7 +838,7 @@ MapPosition = 0,9,7
 DarkMap = false
 SafariMap = false
 SnapEdges = false
-WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+WildBattleBGM = Dark Cave Mewmore.mp3
 #-------------------------------
 [098]
 # Sala do líder
@@ -862,4 +862,4 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-WildBattleBGM = Cave Remix 2 PokeRemixStudio.mp3
+WildBattleBGM = Dark Cave Mewmore.mp3
