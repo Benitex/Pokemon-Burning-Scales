@@ -121,6 +121,7 @@ Burned Tower - The Tavern,
 Area Zero - Beethoven's house,
 Battle! Professor Turo - Beethoven battle,
 Poké Mart - Castelia Marts
+Zinnia - University battles
 
 GlitchxCity:
 Rival Bede – Nimbasa trainers,
@@ -195,6 +196,9 @@ Meloettas Song of the Sunset Cover - Meloetta Room
 
 onion_mu:
 Battle! (Professor Sycamore) - Desert Resort wild battle
+
+HarmonicaFish
+Team Skull Theme
 
 Pokémon X & Y:
 Shopping - Route 4,

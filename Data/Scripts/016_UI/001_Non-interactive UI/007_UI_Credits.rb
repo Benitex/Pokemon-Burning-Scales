@@ -254,6 +254,7 @@ Burned Tower - The Tavern
 Area Zero - Beethoven's house
 Battle! Professor Turo - Beethoven battle
 Dark Cave - Sewer and Cave wild battles
+Zinnia - University battles
 
 GlitchxCity
 Rival Bede – Nimbasa trainers
@@ -286,7 +287,7 @@ Game Corner (Johto): Remastered - Game Corner interior
 Hoenn Game Corner: Remastered - Game Corner entrace
 Kalos Route 15 - Ryoku encounter
 Battle! Rival Sonia - Tournament oponnents
-Openlucid City (Black) v1 - Robert Theme
+Opelucid City (Black) v1 - Robert Theme
 Poké Mart (Sinnoh) - Castelia Marts
 
 sentsinkanteun
@@ -328,6 +329,9 @@ Meloettas Song of the Sunset Cover - Meloetta Room
 
 onion_mu
 Battle! (Professor Sycamore) - Desert Resort wild battle
+
+HarmonicaFish
+Team Skull Theme
 
 Pokémon X & Y
 Shopping - Route 4
