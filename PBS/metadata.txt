@@ -68,7 +68,7 @@ SnapEdges = false
 Dungeon = false
 BattleBack = Mountain
 WildBattleBGM = Battle wild.mp3
-TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+TrainerBattleBGM = Battle Rival Hugh.mp3
 Environment = Sand
 #-------------------------------
 [006]
@@ -159,7 +159,7 @@ DarkMap = false
 SafariMap = false
 SnapEdges = false
 Dungeon = false
-TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+TrainerBattleBGM = Battle Rival Hugh.mp3
 #-------------------------------
 [015]
 # Quarto da filha
@@ -295,7 +295,7 @@ MapPosition = 0,15,7
 [027]
 # Sala das máquinas
 MapPosition = 0,15,7
-TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+TrainerBattleBGM = Battle Rival Hugh.mp3
 #-------------------------------
 [028]
 Outdoor = true
@@ -488,7 +488,7 @@ TrainerBattleBGM = Battle! Rival Sonia.mp3
 # Teatro Musical
 HealingSpot = 52,17,14
 MapPosition = 0,15,4
-TrainerBattleBGM = Vs Diantha Retrospecter.mp3
+TrainerBattleBGM = Battle Rival Hugh.mp3
 #-------------------------------
 [054]
 # Elevador

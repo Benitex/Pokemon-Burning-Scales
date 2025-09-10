@@ -289,6 +289,7 @@ Kalos Route 15 - Ryoku encounter
 Battle! Rival Sonia - Tournament oponnents
 Opelucid City (Black) v1 - Robert Theme
 Poké Mart (Sinnoh) - Castelia Marts
+Rival Hugh (2024) - Route 4 trainer battle
 
 sentsinkanteun
 Shoal Cave - Abandoned House
@@ -300,15 +301,12 @@ Kamex
 Nimbasa City Jazz Remix - Nimbasa city
 Vs. Guzma Remix - Bikers fake leader theme
 Vs Lusamine - Plasma boss battle
+Vs. Gladion - Anna battle
 
 Vetrom
 Battle Marnie – Bikers and cueballs
 Battle! Battle Tower – Musical Theater during the tournament
 Battle! Gym Leader Black and White - Gym battles
-
-RetroSpecter
-Battle Gladion – Anna's battle theme
-Vs champion Diantha - Route 4 trainer battle
 
 Kunning Fox
 Victory is Right Before Your Eyes! - Title Screen

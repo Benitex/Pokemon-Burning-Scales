@@ -80,7 +80,7 @@
 77,FISHERMAN_Marcos,Mestre da Pesca,100,,,,Male,,
 78,CHAMPION_Anna,Pokémon Trainer,100,Zinnia Mewmore,,,Female,,
 79,POKEMONTRAINER_Beethoven,Pokémon Trainer,72,Battle! Professor Turo - Mewmore,,,Male,,
-80,POKEMONTRAINER_Apaixonado,Pokémon Trainer,48,Vs Diantha Retrospecter,,,Male,,
+80,POKEMONTRAINER_Apaixonado,Pokémon Trainer,48,Battle Rival Hugh,,,Male,,
 81,ROUGHNECK,Roughneck,56,Battle vs. Marnie MarshMix Plaza remix,,,Male,,
 82,INFIELDER,Infielder,56,,,,Male,,
 83,LINEBACKER,LineBacker,56,,,,Male,,
