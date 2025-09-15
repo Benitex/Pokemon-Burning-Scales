@@ -178,10 +178,10 @@ module QuestModuleEnglish
     :Name => "A favor to the explorer",
     :QuestGiver => "Explorer on Route 4",
     :Stage1 => "Defeat the explorer.",
-	  :Stage2 => "Capture a cubone and hand it over.",
+	  :Stage2 => "Catch a cubone and hand it over.",
     :Location1 => "Route 4",
 	  :Location2 => "Desert Resort",
-    :QuestDescription => "A trainer on Route 4 asked me to capture a special pokémon for him, as he cannot go to the Desert Resort to get it himself.",
+    :QuestDescription => "A trainer on Route 4 asked me to Catch a special pokémon for him, as he cannot go to the Desert Resort to get it himself.",
   }
 
   Quest15 = {

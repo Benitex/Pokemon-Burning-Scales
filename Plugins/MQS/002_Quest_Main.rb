@@ -240,7 +240,7 @@ end
 class QuestData
 
   def getModule
-    if $PokemonSystem.language == "English"
+    if $PokemonSystem.language == 0
       return QuestModuleEnglish
     else
       return QuestModule

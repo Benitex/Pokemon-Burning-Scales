@@ -58,7 +58,7 @@ No.
 \ff[introBenitex]\bNathan: Uul, uma pokebola! (Não faz mal pegar, né?)
 \ff[introBenitex]\bNathan: Nice, a Poké Ball! (There's no harm in taking it, right?)
 Nunca se esqueça que a tecnologia é incrível.
-Never foget technology is incredible.
+Never forget technology is incredible.
 \ff[introBenitex]\bNathan: Nunca esquecerei, e dissiminarei o seu potencial para todos que conhecer.
 \ff[introBenitex]\bNathan: I shall never forget it, and I am to tell everyone I meet about its potential.
 Esse é o caminho.
@@ -69,12 +69,10 @@ Heeey. Technology is incredible, you know.
 \ff[introBenitex]\bNathan: Of course, I couldn't be more sure about the potential of technology.
 \l[3]Então você sabe do que a gente tá falando. Vou te dar uma dica. Ali ao leste fica o Parque de Nimbasa. Ele mudou muito de uns anos para cá, ficou bem mais verde.
 \l[3]So you know what we're talking about. I will give you a tip. If you go to the east, you'll find Nimbasa Park. It changed a lot in recent years, it's much greener now.
-\ff[introBenitex]\bNathan: Ah, legal, mas qual é a dica?
-\ff[introBenitex]\bNathan: Oh, cool, but what's the tip?
 \l[3]Nesse parque tem um cara que está vendendo pokemon das florestas do sul de Unova. Elas são meio distantes daqui, esse é o jeito mais fácil de conseguir eles.
-\l[3]Yeah, at that park, you'll find a dude who is selling Pokémon from the forests of southern Unova. They are a bit far from here, so this is the best way to get them for sure.
+\l[3]At that park, you'll find a dude who is selling Pokémon from the forests of southern Unova. The forest is far from here, so this is the best way to get them for sure.
 \ff[introBenitex]\bNathan: Hum, valeu pela dica. Só não sei se devo comprar.
-\ff[introBenitex]\bNathan: Oh, thanks for the tip. I'm not sure if I should by from him though.
+\ff[introBenitex]\bNathan: Oh, thank you. I'm not sure if I should buy Pokémon, though.
 Você quem sabe, só to passando os paranaues.
 It's up to your, of course. I'm just spreading some information.
 Ei! Se quiser saber sobre das últimas, dá uma passada aqui!
@@ -134,11 +132,11 @@ People in this city say I should study, but I'm too old for that.
 \ff[introBenitex]\bNathan: E essa passagem aqui do lado? Para onde ela leva?
 \ff[introBenitex]\bNathan: What about this path to the east? Where does it lead?
 \l[3]\rMoça: Ah, ela leva ao parque de Nimbasa, é bem famoso e normalmente é onde as pessoas mais passam seu tempo.
-\l[3]\rLady: Oh, you can go to Nimbasa Park if you walk a little. It's a popular place where usually spend some time.
+\l[3]\rLady: Oh, you can go to Nimbasa Park if you walk a little. It's a popular place where people usually spend some time.
 \rMas o torneio está chamando mais atenção nesses dias.
 \rThe tournament is catching more attention lately though.
 \rO ginásio da Elesa fica lá também, acho que isso pode te interessar.
-\rThe Nimbasa city Gym is also located there, I think that might interest you..
+\rThe Nimbasa city Gym is also located there, I think that might interest you.
 \ff[introBenitex]\bNathan: Obrigado pelas informações, Moça.
 \ff[introBenitex]\bNathan: Thank you for the information, Lady.
 \ff[introBenitex]\bNathan: A propósito, deixa eu aproveitar pra te perguntar uma coisa.
@@ -205,8 +203,10 @@ My Panpour won't sit still.
 \l[3]\ff[introBenitex]\bNathan: Hum, maybe he wants to battle. He's seeing a lot excitement for the tournament around the city.
 Será que é isso? Bom, vamos batalhar então!
 Is that it? Well, let's battle then!
-Você voltou! Olha só para ele, continua igualzinho. Vamos batalhar logo para ver se ele se acalma.
-You're back! Look at him, he's still the same. Let's fight soon and see if he calms down.
+Você voltou! Olha só para ele, continua igualzinho.
+You're back! Look at him, he's still the same.
+Vamos batalhar logo para ver se ele se acalma.
+Let's fight and see if he calms down.
 \ff[introBenitex]\bNathan: Claro! Se ele está assim, é porque precisa queimar as energias!
 \ff[introBenitex]\bNathan: Of course! He needs to burn off some energy!
 Você é mais forte que eu imaginava, tomara que você ganhe o torneio!
@@ -396,11 +396,11 @@ Oh, that's a real shame...
 \ff[introBenitex]\bNathan: Me pergunto o que deveríamos fazer agora...
 \ff[introBenitex]\bNathan: I wonder what we should do now...
 \ff[introBenitex]\bTreinar mais um pouco? Ou será que estamos prontos para ir ao torneio?
-\ff[introBenitex]\bShould I train a bit more? Or are we ready to go to the tournament?
+\ff[introBenitex]\bShould I train a bit more? Maybe I should catch some other Pokémon before going to the tournament.
 \ff[introBenitex]\bBom, tenho que tomar minha decisão agora.
 \ff[introBenitex]\bI should make my decision now.
 \w[signskin]Estádio Grande -\nBaseball, Futebol Americano e Basquete
-\w[signskin]Estádio Grande -\nBaseball, Football and Backetball
+\w[signskin]Big Stadium -\nBaseball, Football and Backetball
 \ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
 \ff[introBenitex]\bNathan: It's a really hectic panpour.
 Já estou cansada disso...
@@ -426,7 +426,7 @@ I didn't expect her to go out again, I thought it would be just this once...
 Você pode me ajudar a encontrar minha filha?
 Can you help me find my daughter?
 \l[3]\ff[introBenitex]\bNathan: Tudo bem, posso te ajudar a encontrar ela. Vou dar uma volta pela cidade, então te aviso caso encontre algo.
-\l[3]\ff[introBenitex]\bNathan: Yes, I can. I'm going around the city, so I'll let you know if I find anything.
+\ff[introBenitex]\bNathan: Yes, I can. I'm going around the city, so I'll let you know if I find anything.
 Obrigada moço, Arceus manda a ajuda para aqueles que merecem. Que ele abençoe sua jornada.
 Thank you lad, Arceus always helps those in need. I pray he blesses your journey.
 Se quiser, pode analizar o quarto da minha filha, na minha casa. Eu te levo até lá.
@@ -460,7 +460,7 @@ May Arceus show us the way.
 \l[3]\ff[introBenitex]\bMinha hipótese é que, em um passeio pela cidade, ela conheceu alguém que criou uma paixão por batalhas pokemon nela.
 \l[3]\ff[introBenitex]\bMy hipothesis is that, during a walk through the city, she met someone who created a passion for Pokémon battles in her.
 \ff[introBenitex]\bImagino que ela esteja em algum lugar onde estejam acontecendo muitas batalhas. Ou onde tenham muitos pokemon.
-\ff[introBenitex]\I imagine she is somewhere where there are lots of Pokémon. Or where there are a lot of battles are taking place.
+\ff[introBenitex]\bI imagine she is somewhere where there are lots of Pokémon. Or where there are a lot of battles are taking place.
 Caramba, então você pode encontrar minha filha! Por favor, senhor, você já está tão perto, não desista agora!
 Oh, boy, so you can find my daughter! Please, you're so close, don't give up now!
 \ff[introBenitex]\bNathan: Tudo bem, eu encontro ela. Mas antes tenho que te dizer algo.
@@ -548,7 +548,7 @@ I'm going home. You can meet me there if you need me.
 \w[signskin]Cardápio de hoje:\nOvos de Blyssey \nFrutas de Tropius \nMagikarp Assado
 \w[signskin]Today's menu:\nBlyssey Eggs \nTropius Fruits \nRoast Magikarp
 \w[signskin]Bebidas:\nLimonada \nLeite de Miltank \nSuco de flores
-\w[signskin]Bebidas:\nLemonade \nMiltank milk \nFlower juice
+\w[signskin]Drinks:\nLemonade \nMiltank milk \nFlower juice
 \ff[introBenitex]\bNathan: Então, tem uma mãe procurando sua filha pela cidade, vocês policiais não estão cientes disso?
 \ff[introBenitex]\bNathan: So there's a mother looking for her daughter in the city, aren't you police aware of that?
 Ah, nós estamos ocupados com o torneio no momento, não podemos desviar a atenção ainda, talvez depois.
@@ -576,7 +576,7 @@ Seriously? I hope she's fine.
 Eu não sou como os motoqueiros da Rota 4, eu vim de Anville, e honro minha cidade.
 I'm not like those bikers from Route 4. I'm from Anville, and I honor my city.
 \ff[introBenitex]\bNathan: Os motoqueiros da Rota 4 estão arranjando confusões, né?
-\ff[introBenitex]\bNathan: The Route 4 bikers are getting into trouble, aren't they?
+\ff[introBenitex]\bNathan: The Route 4 bikers are causing trouble again, aren't they?
 \l[3]Com certeza, eu não conheço eles, mas as pessoas sempre me olham estranho quando eu passo, tudo culpa daqueles malditos!
 \l[3]They surely are, but I don't know them, and people keep looking at me as if I was one of them. I hate them!
 \ff[introBenitex]\bNathan: Pois é, as pessoas são assim mesmo, preconceituosas.
@@ -584,11 +584,11 @@ I'm not like those bikers from Route 4. I'm from Anville, and I honor my city.
 Só queria que as pessoas pudessem me ver de outra forma.
 I just wish people could see me differently.
 \l[3]\ff[introBenitex]\bNathan: Sabe o que faz as pessoas confiarem em mim? Minha tática de batalha. É diferente dos outros treinadores.
-\l[3]\ff[introBenitex]\bNathan: You know what makes people trust me? My battle tactics. It's different from other trainers.
+\ff[introBenitex]\bNathan: You know what makes people trust me? My battle tactics.
 A gente pode batalhar? Quero ver essa tática.
 How about a battle? I want to see those tactics.
 \ff[introBenitex]\bNathan: Vamos batalhar, depois disso, você vai poder mostrar a todos que é diferente.
-\ff[introBenitex]\bNathan: How about a battle? After that, the whole city will see you're different.
+\ff[introBenitex]\bNathan: Sure, after that, the whole city will see you're different.
 Foi uma ótima batalha, agora me sinto determinado.
 That was a nice battle, now I feel determined.
 \ff[introBenitex]\bNathan: Infelizmente, não posso batalhar agora, estou com um pouquinho de pressa.
@@ -606,7 +606,7 @@ Yes, that's how age is.
 Ansiosa para o torneio?
 Are you looking forward to the tournament?
 Onde leva o caminho ao sul?
-Where does the road lead south?
+Where does the road to the south lead?
 O que tem ao leste?
 What's to the east?
 Tenha um bom dia.
@@ -622,7 +622,7 @@ I won't participate.
 Pode ser.
 Yes.
 Desculpe, mas não
-I'm sorry, but no
+I'm sorry, but no.
 É claro!
 Of course!
 Estou ocupado.
@@ -654,7 +654,7 @@ There's no need.
 (Mentir)
 (Lie)
 Claro.
-Of course.
+Sure.
 [Map3]
 Eei! Nathan? Não esqueça seu Charmander!
 Hey! Nathan? Don't forget your Charmander!
@@ -663,7 +663,7 @@ The world has never been busier.
 Parece que o mundo não para, toda hora tem algo novo acontecendo.
 It seems like the world never stops, there's something new happening all the time.
 As vezes eu só queria estar em um lugar mais tranquilo.
-Sometimes, I just wanted to stay somewhere quiter.
+Sometimes, I just wanted to stay somewhere quieter.
 Olá Nathan, veio dar uma olhada nos produtos?
 Hello Nathan, came to take a look at the products?
 \ff[introBenitex]\bNathan: Sim.
@@ -689,7 +689,7 @@ Very well, very well! May I ask you something?
 \ff[introBenitex]\bNathan: Certo, pode deixar.
 \ff[introBenitex]\bNathan: All right.
 Esse centro pokemon anda bem mais cheio que o normal, deve ser por causa do torneio.
-This pokemon center is much more crowded than usual, it must be because of the tournament.
+This Pokémon Center is much more crowded than usual, it must be because of the tournament.
 \ff[introBenitex]\bNathan: Realmente, acho que talvez eu devesse dar uma passada lá também.
 \ff[introBenitex]\bNathan: Yeah, I think I might stop by there too.
 Sim, será uma boa chance para treinar.
@@ -703,13 +703,13 @@ Nathan received his Running Shoes, PokéDex, and PokéRadar.
 \ff[introBenitex]\bNathan: Opa, cheguei.
 \ff[introBenitex]\bNathan: Here I am.
 Esse charmander realmente é bem diferente, ainda bem que consigo curar ele normalmente.
-This charmander is really special, I'm glad I can heal him as usual.
+This charmander is quite different, I'm glad I can heal him like the others.
 Tome mais cuidado nos seus próximos treinos, dessa vez me deu mais trabalho que o normal!
-Be careful in your next trainings, this time I had more trouble than usual!
+Be careful in your next trainings, he got really hurt this time!
 \ff[introBenitex]\bNathan: Tá bom, tá bom, vou fazer o que puder.
 \ff[introBenitex]\bNathan: All right, all right, I'll do what I can.
 Obrigada!
-Trank you!
+Thank you!
 \ff[introBenitex]\bNathan: Você não entende, eu não posso, preciso correr!
 \ff[introBenitex]\bNathan: I can't, I have to be fast!
 Ah, esse torneio só me dá trabalho...
@@ -745,11 +745,11 @@ I can imagine, but be more careful next time, okay? I'm counting on your word.
 \ff[introBenitex]\bNathan: Tudo bem, vou me esforçar. Desculpe pelo inconveniente.
 \ff[introBenitex]\bNathan: All right, I'll make an effort. Sorry for the inconvenience.
 Meu minccino é mancinho, pode fazer carinho!
-My minccino is is limp, you can cuddle it!
+My minccino is limp, you can cuddle it!
 Nathan, seu charmander já está curado, você já pode pegar aqui!
-Nathan, your charmander is healed, you can get it here.
+Nathan, your Charmander is all healed up now!
 \ff[introBenitex]\bNathan: Ah, obrigado. Já estou indo.
-\ff[introBenitex]\bNathan: Thank you. I'll be right there.
+\ff[introBenitex]\bNathan: Thank you! I'll be right there.
 \ff[introBenitex]\bNathan: (Caramba, acho que o treinamento de ontem foi intenso demais.)
 \ff[introBenitex]\bNathan: (Wow, I think yesterday training was too intense.)
 \ff[introBenitex]\b(Talvez seja uma boa ideia dar uma volta por aqui enquanto espero a enfermeira.)
@@ -2538,6 +2538,8 @@ Thank you, thank you very much! You do not know how happy I am to be getting my 
 \ff[introBenitex]\bNathan: What do you have for sale today?
 Aqui, dê uma olhada, dê uma olhada.
 Here, take a look, take a look.
+O que você deseja?
+What would you like?
 \ff[introBenitex]\bNathan: Já estou vendo que está tudo pronto, o que a senhora tem a venda?
 \ff[introBenitex]\bNathan: I see everything is ready, what do you have for sale?
 \ff[introBenitex]\bNathan: Estou adorando o progresso, vou doar mais algum dinheiro para você aprimorar os estoques, que tal?
@@ -5867,11 +5869,11 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: Certo...
 \ff[introBenitex]\bNathan: Right...
 \l[3]\ff[introOak]\rCarvalho: Não se esqueça Nathan. Você deve conversar com a polícia, enfrentar os motoqueiros e me contar o que descobrir.
-\l[3]\ff[introOak]\rCarvalho: Do not forget Nathan. You must talk to the police, confront the bikers, and tell me everything you discover.
+\l[3]\ff[introOak]\rOak: Do not forget Nathan. You must talk to the police, confront the bikers, and tell me everything you discover.
 \ff[introBenitex]\bNathan: Certo.
 \ff[introBenitex]\bNathan: Right.
 \ff[introOak]\rCarvalho: Nathan, você voltou, que ótimo!
-\ff[introOak]\rCarvalho: Nathan, you're back, great!
+\ff[introOak]\rOak: Nathan, you're back, great!
 \ff[introOak]\rDiga, conseguiu derrotar eles? O que descobriu?
 \ff[introOak]\rTell me, did you defeat them? What did you find out?
 \ff[introBenitex]\bNathan: Professor, combinei com os policiais que iria contar os detalhes na delegacia, todos juntos.
@@ -6045,7 +6047,7 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: Ele deixou uma carta...
 \ff[introBenitex]\bNathan: He left a letter...
 \ff[introOak]\rCarvalho: (Desculpe Nathan. Nunca fui bom com despedidas.)
-\ff[introOak]\rCarvalho: (Sorry Nathan. I've never been good at goodbyes.)
+\ff[introOak]\rOak: (Sorry Nathan. I've never been good at goodbyes.)
 \ff[introOak]\r(Mas sabia que você viria até aqui, então te deixo essa carta.)
 \ff[introOak]\r(But I knew you'd come here, so I leave you this letter.)
 \l[3]\ff[introOak]\rVocê fez muito por Unova nesses últimos dias. Nunca imaginei que aquele simples problema se tornaria todo esse caso.
@@ -6073,7 +6075,7 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: Professor...
 \ff[introBenitex]\bNathan: Professor...
 \ff[introOak]\rCarvalho: Já faz um bom tempo, não é?
-\ff[introOak]\rCarvalho: It's been a long time, hasn't it?
+\ff[introOak]\rOak: It's been a long time, hasn't it?
 \ff[introBenitex]\bNathan: Fiz você esperar mais do que deveria.
 \ff[introBenitex]\bNathan: I made you wait longer than I should have.
 \ff[introOak]\rCarvalho: Não tem problema, eu entendo. É poder te ver novamente.
@@ -10864,6 +10866,8 @@ There are lots of Pokémon in this desert, I can't run anymore!
 \ff[introBenitex]\bNathan: Don't you have Repels?
 Acabaram todos...
 They're all gone...
+\ff[introBenitex]\bNathan: (Eu tenho um repel comigo.)
+\ff[introBenitex]\bNathan: (I have repel with me.)
 \ff[introBenitex]\bNathan: Aqui, fica com esse aqui.
 \ff[introBenitex]\bNathan: Here, take this one.
 Sério? Incrível! Você é show moço.
