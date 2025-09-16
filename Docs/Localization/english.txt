@@ -234,7 +234,7 @@ I hope so.
 Putz, não deu certo. Acho que ele vai continuar assim.
 Oh, it didn't work! I think he'll carry on like this.
 \l[3]\ff[introBenitex]\bNathan: Realmente, parece que esse torneio fez ele ficar louco. Você vai ter que aguentar ele assim mesmo pelo visto.
-\l[3]\ff[introBenitex]\bNathan: Yes, it seems the tournament made him crazy.
+\ff[introBenitex]\bNathan: Yes, it seems the tournament made him crazy.
 Droga.
 Damn.
 Mas parece que ele gostou de você, você quer levar ele?
@@ -244,7 +244,7 @@ But, it seems he likes you! Do you want to take him?
 \l[3]\ff[introBenitex]\bNathan: Não achava que ganharia ele assim, mas ele deve estar te causando muito trabalho.
 \l[3]\ff[introBenitex]\bNathan: I wasn't expecting to get a Pokémon like this. It must be causing you a lot of trouble.
 Não é nada, acho que você vai aproveitar o potencial dele melhor que eu, é só isso.
-Don't worry about it. I think you'll more out of him than I will and that's it.
+Don't worry about it. I think you'll get more out of him than I will. That's it.
 \ff[introBenitex]\bNathan: Uhum, claro.
 \ff[introBenitex]\bNathan: Yes, of course.
 \l[3]\ff[introBenitex]\bNathan: Desculpe menina, mas eu não posso cuidar dele. Já estou treinando outro pokemon e ele acabaria ficando de lado.
@@ -252,7 +252,7 @@ Don't worry about it. I think you'll more out of him than I will and that's it.
 \ff[introBenitex]\bNathan: Você viu uma menina passar por aqui? Ela devia estar parecendo com pressa, bem chamativa.
 \ff[introBenitex]\bNathan: Did you see a girl pass by? She must have looked in a hurry, very flashy.
 Será que a menina que você está procurando não é aquela ali de cima? Ela está sempre correndo por aí.
-Aren't you looking for that down there? She's always running around.
+Aren't you looking for that one down there? She's always running around.
 \ff[introBenitex]\bNathan: Bom, não custa nada perguntar. Obrigado por tudo.
 \ff[introBenitex]\bNathan: Thank you.
 Eaí irmão, como vai?
@@ -382,7 +382,7 @@ Come and see the Comiling Stadium, top-class food and battles!
 \ff[introBenitex]\bNathan: Você que já deve estar aqui a algum tempo, viu uma menina passar apressada por aqui?
 \ff[introBenitex]\bNathan: You must have been here for quite some time, did you see a girl hurry by?
 Infelizmente não, essa moça já tinha falado comigo, mas eu realmente não vi ninguém assim passar por aqui desde cedo.
-Unfortunately, no, that girl spoke to me, but I haven't really seen anyone like that pass through here since early this morning.
+Unfortunately, no, that woman spoke to me, but I haven't really seen anyone like that pass through here since early this morning.
 Conseguiu encontrar a menina?
 Did you find the girl?
 \ff[introBenitex]\bNathan: Sim, mas é uma situação complicada. Infelizmente, acredito que ela não vai reencontrar a mãe tão cedo.
@@ -400,7 +400,7 @@ Oh, that's a real shame...
 \ff[introBenitex]\bBom, tenho que tomar minha decisão agora.
 \ff[introBenitex]\bI should make my decision now.
 \w[signskin]Estádio Grande -\nBaseball, Futebol Americano e Basquete
-\w[signskin]Big Stadium -\nBaseball, Football and Backetball
+\w[signskin]Big Stadium -\nBaseball, Football and Basketball
 \ff[introBenitex]\bNathan: É um panpour bem agitado mesmo.
 \ff[introBenitex]\bNathan: It's a really hectic panpour.
 Já estou cansada disso...
@@ -551,7 +551,7 @@ I'm going home. You can meet me there if you need me.
 \w[signskin]Drinks:\nLemonade \nMiltank milk \nFlower juice
 \ff[introBenitex]\bNathan: Então, tem uma mãe procurando sua filha pela cidade, vocês policiais não estão cientes disso?
 \ff[introBenitex]\bNathan: So there's a mother looking for her daughter in the city, aren't you police aware of that?
-Ah, nós estamos ocupados com o torneio no momento, não podemos desviar a atenção ainda, talvez depois.
+Ah, nós estamos ocupados no momento, não podemos desviar a atenção ainda, talvez depois.
 Ah, we're busy with the tournament at the moment, we can't divert attention just yet, maybe later.
 \ff[introBenitex]\bNathan: Você viu a menina em algum momento?
 \ff[introBenitex]\bNathan: Did you see a girl around here?
@@ -994,7 +994,7 @@ Oh, you need to buy one somewhere. I don't think there's a store here in Nimbasa
 Aqui na cidade não dá para pescar, é proibido e, mesmo que você quisesse tentar pescar ilegalmente, você não iria achar nada além de magikarps.
 Fishing in the city is actually forbidden. But even if you tried, you wouldn't find much other than Magikarp. That's personal experience.
 \l[3]Mas eu tenho uma solução melhor. Nós pescadores sabemos de um lugar perfeito para pesca nessas redondezas, que é no sudoeste da rota 4, lá tem muitos pokemon interessantes, vale a pena passar lá.
-\l[3]But I have a better idea for you. Fisherman around here know about the best place to find some Pokémon. Southwest Route 4, that'it, you'll find many interesting Pokémon there.
+\l[3]But I have a better idea for you. Fishermen around here know about the best place to find some Pokémon. Southwest Route 4, that's it, you'll find many interesting Pokémon there.
 \ff[introBenitex]\bNathan: Ah, legal, mas você pode me falar alguns dos pokemon que vivem por lá?
 \ff[introBenitex]\bNathan: Cool, can you give me some examples?
 Posso sim, lá você encontra magikarps, é claro, mas também encontra frilish, krabby, clamperl, luvdisc, relicanth, corphish e carvanha.
@@ -1315,7 +1315,7 @@ You can count on me!
 Ah, sabe como é, eles tomaram controle da área há alguns meses e não saem mais de lá.
 Oh, you know, they took control of the area a few months ago and they're not leaving.
 Mesmo assim os policiais continuam tentando recuperar a área. Talvez um treinador forte pudesse ajudar.
-Even so, the police are still trying to reclaim the area. Perhaps a strong coach could help.
+Even so, the police are still trying to reclaim the area. Perhaps a strong trainer could help.
 \ff[introBenitex]\bNathan: Eu estava pensando em fazer isso mesmo.
 \ff[introBenitex]\bNathan: I was thinking of doing just that.
 \ff[introBenitex]\bNathan: Muito obrigado pelas informações.
@@ -1385,7 +1385,7 @@ My, how cruel...
 \ff[introBenitex]\bNathan: Não, não, não precisa não, pode dar para ela. Eu ajudo você.
 \ff[introBenitex]\bNathan: No, no, there is no need, you can give it to her. I'll help you.
 Os treinadores estão na parte ao sul da rota, mais perto de Castelia.
-The coaches are in the southern part of the route, closer to Castelia.
+Most trainers are in the southern part of the route, closer to Castelia.
 Passe aqui depois que você tiver enfrentado os treinadores próximos a Castelia, que eu vou te dar uma recompensa!
 Stop by after you've taken on the trainers near Castelia, and I'll give you a reward!
 \ff[introBenitex]\bNathan: Pronto, já enfrentei todos, conforme foi pedido.
@@ -1453,7 +1453,7 @@ BOSS, BOSS!
 \ff[introBenitex]\bHora de falar com o chefe dos hikers.
 \ff[introBenitex]\bIt's time to talk to the Hikers leader.
 \r\l[3]Ei, você não pode passar por aqui, membros de uma gangue ocuparam o lugar, a situação está perigosa, civis devem evitar essa rota a todo custo.
-\r\l[3]Hey, you're not allowed to continue. Gang members have taken over the place, the cituation is dangerous. Civilians must avoid this route at all costs.
+\r\l[3]Hey, you're not allowed to continue. Gang members have taken over the place, the situation is dangerous. Civilians must avoid this route at all costs.
 \ff[introBenitex]\bNathan: Tudo bem, estou saindo.
 \ff[introBenitex]\bNathan: All right, I'm leaving.
 \rEvite essa rota o máximo possível!
@@ -1585,7 +1585,7 @@ Alright, I'll be here.
 ENTRADA ESTRITAMENTE PROIBIDA.
 ENTRY STRICTLY PROHIBITED.
 \l[3]\w[signskin]Você está em: Rota 4.\n Norte: Desert Resort.\n Sul: Castelia.
-\l[3]\w[signskin]You are in: Routa 4.\n North: Desert Resort.\n South: Castelia.
+\l[3]\w[signskin]You are in: Route 4.\n North: Desert Resort.\n South: Castelia.
 Rá, voltou para saltitar mais? Vamos lá!
 You're back, do you want to hop more? Come on!
 Que beleza!
@@ -2312,8 +2312,8 @@ Fresh Water - $200
 Fresh Water - $200
 Soda Pop - $300
 Soda Pop - $300
-Lemonade - $350
 Limonada - $350
+Lemonade - $350
 Deixa para lá.
 (Leave.)
 Exatamente o que eu queria!
@@ -2941,7 +2941,7 @@ What are you talking about???
 Concordo.
 I agree.
 (Sair de fininho)
-(Sneak out)
+(Sneak out.)
 Perfeito!
 Perfect!
 Você pode assustar eles.
@@ -3154,7 +3154,7 @@ Closed
 Seja bem vindo ao Estádio Grande!
 Welcome to the Big Stadium!
 Aqui você pode assitir jogos de futebol americano, basquete e baseball!
-Here, you can watch football, backetball or baseball matches!
+Here, you can watch football, basketball or baseball matches!
 E de graça, tudo financiado pelo governo de Nimbasa!
 And it's free, thanks to the Nimbasa government!
 \ff[introBenitex]\bNathan: Ótimo!
@@ -3349,7 +3349,7 @@ It's very quiet, there's usually not much going on here. At the Big Stadium, tho
 \ff[introBenitex]\bNathan: Ah é?
 \ff[introBenitex]\bNathan: What's the problem with the Big Stadium?
 \l[3]Sim, o pessoal lá fica meio agressivo as vezes, mas aqui o pessoal é mais tranquilo. Acho que talvez o basquete e a natação não gere tanta emoção.
-\l[3]Sometimes people get agressive over there. People that frequent this place are much more peaceful. I don't know, maybe backetball doesn't generate as much passion here.
+\l[3]Sometimes people get agressive over there. People that frequent this place are much more peaceful. I don't know, maybe basketball doesn't generate as much passion here.
 \ff[introBenitex]\bNathan: Interessante.
 \ff[introBenitex]\bNathan: Interesting.
 \ff[introBenitex]\bNathan: Então, tem uma mãe procurando sua filha pela cidade, vocês policiais não estão cientes disso?
@@ -3453,7 +3453,7 @@ Don't worry.
 Fica calmo, vai dar tudo certo.
 Stay calm, everything will be alright.
 Contar imediatamente.
-Tell immediately.
+(Tell immediately.)
 Vou te dar umas dicas.
 I'll give you some tips.
 Nem vem.
@@ -5344,7 +5344,7 @@ Ok, it's up to you, but I warned you...
 Hehe, menino esperto. Mas vocês sempre voltam...
 Smart boy. But you guys always come back...
 Seja muito bem vindo a Join Avenue, sou a atendente e cuido da loteria, você pode pegar um bilhete de forma gratuita uma vez por dia!
-Welcome to Joing Avenue, 
+Welcome to Joing Avenue, I take care of the lottery. You can get one free ticket per day!
 \ff[introBenitex]\bNathan: Legal, como funciona?
 \ff[introBenitex]\bNathan: Cool, how does it work?
 Se o número que você pegar for o mesmo que o ID de um dos seus Pokémon, você vai ganhar prêmios incríveis!
@@ -8148,7 +8148,7 @@ Come on, that's so mean.
 \ff[introBenitex]\bNathan: Pois é, o mundo é cruel.
 \ff[introBenitex]\bNathan: Yeah, the world is cruel.
 \l[3]\w[signskin]Você está em: Central Plaza \nAdiante: Rota 4\nPara o sul: Mode Street.
-\l[3]\w[signskin]You are in: Central Plaza \nAhead: Routa 4\nSouth: Mode Street.
+\l[3]\w[signskin]You are in: Central Plaza \nAhead: Route 4\nSouth: Mode Street.
 Valeu, de verdade.
 Thanks, really.
 Você realmente trouxe eles, incrível.
@@ -10029,7 +10029,7 @@ Alright, I know you've traveled a lot and you can't remember everyone. I don't m
 Eu me chamo Pauline, você me ajudou uma vez em Sinnoh, já faz bastante tempo, mas eu lembro bem.
 My name is Pauline, you helped me once in Sinnoh. It's been a long time, but I remember it well.
 \ff[introBenitex]\bNathan: Ah é? Eu não lembro de você não.
-\ff[introBenitex]\bNathan: Oh, did we? I don't remember.
+\ff[introBenitex]\bNathan: Do you? I don't remember you.
 Caramba, nem para dar uma desfarçadinha?
 Wow, you couldn't even pretend?
 \ff[introBenitex]\bNathan: Ah, eu prefiro falar a verdade logo de cara.
@@ -10083,7 +10083,7 @@ You're welcome.
 \ff[introBenitex]\bNathan: E quem é Alby?
 \ff[introBenitex]\bNathan: And who's Alby?
 \l[3]\ff[introRobert]\c[10]Robert: Alby é meu rival, esse é o apelido dele, o nome mesmo é Albert. Ele não é daqui, mas ele sempre viaja para cá nessa época do ano para partipar do torneio.
-\l[3]\ff[introRobert]\c[10]Robert: Alby is my rival. His real name is Albert. He's not from here either.
+\ff[introRobert]\c[10]Robert: Alby is my rival. His real name is Albert. He's not from here either.
 \ff[introBenitex]\bNathan: Hum, deve ser outro treinador forte.
 \ff[introBenitex]\bNathan: He must be another powerful trainer.
 \ff[introRobert]\c[10]Robert: Ele realmente é, ele é especialista em pokemon lutador e fogo, melhor se preparar para ele também.
@@ -10107,7 +10107,7 @@ You're welcome.
 \c[3]\ff[introRobert]\c[10]Robert: Ah, que bom! Já estava morrendo de saudade pelo lugar, se precisar de mim, pode contar com a minha ajuda para tratar desse pokemon.
 \c[3]\ff[introRobert]\c[10]Robert: That's great, I really miss that place. You can count on me to help you find that Pokémon.
 \ff[introBenitex]\bNathan: Beleza, vou lembrar disso.
-\ff[introBenitex]\bNathan: Great, I'm remember that.
+\ff[introBenitex]\bNathan: Great, I'll remember that.
 \ff[introBenitex]\bNathan: Foi um prazer te conhecer Robert, espero te encontrar em batalha.
 \ff[introBenitex]\bNathan: It was a pleasure meeting you, Robert. I hope to see you in battle.
 \ff[introBenitex]\bNathan: Não, eu passei aqui para ver como está o movimento, talvez conhecer alguém interessante.
