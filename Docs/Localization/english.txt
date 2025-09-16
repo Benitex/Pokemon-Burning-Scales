@@ -1649,19 +1649,19 @@ Right, let's go!
 Tudo bem, vou te contar o que eu preciso então.
 All right, I'll tell you what I need.
 Sabe essa casa que você passou ali por cima, perto das montanhas?
-You know that house you passed up there, near the mountains?
+You know that house near the mountains?
 \ff[introBenitex]\bNathan: Sim, ela está num lugar meio diferente, numa montanha entre areia e pedras...
-\ff[introBenitex]\bNathan: Yeah, that house in a different place, on a mountain between sand and rocks...
+\ff[introBenitex]\bNathan: Yeah, that one on a mountain between sand and rocks?
 Isso, essa mesmo. Eu preciso que você vá até o lado dela, onde tem uma lata de lixo. Você vai pegar os meus óculos lá dentro.
-Yeah, that's it. I need you to go over to the side of the house, where there's a trash can. You'll find my glasses in there.
+Yeah, that's it. I need you to go over to the side of that house, where there's a trash can. You'll find my glasses in there.
 \ff[introBenitex]\bNathan: Eu vou pegar seus óculos dentro de uma lata de lixo?
 \ff[introBenitex]\bNathan: Wait, am I going to take your glasses out of a garbage can?
 Exatamente.
 Exactly.
 \ff[introBenitex]\bNathan: Por que seus óculos estão na lata de lixo desse lugar?
-\ff[introBenitex]\bNathan: Why are your glasses in the trash can of that house?
+\ff[introBenitex]\bNathan: Why are your glasses in the trash can at that house?
 Ah, isso são detalhes, só vá lá e pegue meus óculos. Isso vai me ajudar muito e eu posso te pagar uma boa recompensa.
-Come on, those are just little details, just go and get my glasses. This is going to help a lot and I give you a nice reward.
+Come on, those are just little details, just go and get my glasses. This is going to help a lot and I'll give you a nice reward.
 \ff[introBenitex]\bNathan: Eu não!
 \ff[introBenitex]\bNathan: I won't do it!
 Ah, vamos lá, confie em mim. Eu não fiz nada de errado nem nada assim, foi só um acidente e preciso que você eles lá, só isso.
@@ -1749,7 +1749,7 @@ Since everybody is leaving to see the tournament, the Desert Resort is full of u
 Exatamente, eu faria de tudo para poder passar...
 Yeah, I'd do anything to go through...
 \ff[introBenitex]\bNathan: E se eu trouxesse para você o pokémon do Desert Resort que você mais quer?
-\ff[introBenitex]\bNathan: What if I brought you the pokémon from Desert Resort you want the most?
+\ff[introBenitex]\bNathan: What if I brought you the Pokémon from Desert Resort you want the most?
 Humm, acho que isso já sanaria minhas mágoas. Mas antes eu preciso confiar em você, vamos batalhar, quero ver se você é bom mesmo.
 Oh, that would be very nice of you. But I need to trust you first. Let's battle, if you win, I'll know you can do it!
 \ff[introBenitex]\bNathan: Não julge o livro pela capa, sou mais forte do que pareço!
@@ -2273,7 +2273,7 @@ Thank you very much, I'll hide it better this time.
 \ff[introBenitex]\bNathan: Você não acha que é melhor deixar ele fazer algo que ama? Se ele quer tanto se tornar ciêntista, deixe que ele se torne!
 \ff[introBenitex]\bNathan: Don't you think it's better to let him do something he's passionate about? If he wants to become a scientist so badly, let him!
 Tudo bem, acho que não me restam muitas alternativas. Uma hora ou outra ele vai ter que se separar de mim...
-Alright, I I don't think I have much choice. One day or another he'l have to leave me and live his life...
+Alright, I don't think I have much choice. One day or another he'll leave me and live his life...
 \ff[introBenitex]\bNathan: Vou tratar de devolver isso para ele então, tudo bem?
 \ff[introBenitex]\bNathan: I'll try to give it back to him then, okay?
 Certo...
@@ -2375,9 +2375,9 @@ True story.
 Não pode ser real.
 I don't believe it.
 Claro que sou!
-Of course I am!
+Of course I can!
 É que agora estou meio fraco.
-I'm kind of weak right now.
+My Pokémon are a bit weak right now.
 Tudo bem, vamos lá.
 Alright, let's go.
 Vamos batalhar.
@@ -5918,6 +5918,10 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: Wow, technology is incredible.
 \l[3]\ff[introOak]\rEnquanto você explora o Desert Resort, vou continuar tentando entender a relação entre a Meloetta, esses pokemon e os Motoqueiros.
 \l[3]\ff[introOak]\rWhile you explore the Desert Resort, I'll continue trying to understand the relationship between Meloetta, these Pokémon, and the Bikers.
+\l[3]\ff[introOak]\rAntes de ir, deixe eu atualizar sua PokéDex. A partir de agora, você vai poder ensinar golpes de Move Tutor para seus Pokémon.
+\l[3]\ff[introOak]\rBefore you go, let me update your PokéDex. From now on, you'll be able to teach your Pokémon Move Tutor moves.
+\ff[introBenitex]\bNathan: Ótimo!
+\ff[introBenitex]\bNathan: Great!
 \ff[introOak]\rEspero ter novas informações até você voltar.
 \ff[introOak]\rI hope to have new information by the time you return.
 \ff[introBenitex]\bNathan: Te vejo em breve.
@@ -12663,7 +12667,7 @@ General.
 Aumento de dano por tipo.
 Damage boost by move type.
 Específicos por pokémon.
-Pokémon Specific.
+Item for specific Pokémon.
 Sair
 (Leave.)
 [Map74]
@@ -15848,7 +15852,7 @@ Laboratório do Carvalho
 Oak's Laboratory
 33
 Casa com pokémon roubados
-House with stolen pokémon
+House with stolen Pokémon
 34
 Casa do chefe
 Boss's House

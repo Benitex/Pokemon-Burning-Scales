@@ -89,15 +89,15 @@ class WonderTradePC
       $Trainer.party.delete_at(pbGet(1))
       pkmn = pbChooseRandomPokemon(nil, "suggested")
       pkmn = Pokemon.new(pkmn,10)
+      pbAddPokemon(pkmn)
       if pbConfirmMessage(_INTL("Would you like spend $500 to scale its level to your party?"))
         if $Trainer.money >= 500
           $Trainer.money -= 500
-          AutomaticLevelScaling.setNewLevel(pkmn)
+          pkmn.scale
         else
           pbMessage(_INTL("You don't have enough money."))
         end
       end
-      pbAddPokemon(pkmn)
       Game.auto_save if $game_switches[98]
     end
   end
@@ -338,6 +338,6 @@ end
 #
 #===============================================================================
 PokemonPCList.registerPC(StorageSystemPC.new)
-PokemonPCList.registerPC(TrainerPC.new)
 PokemonPCList.registerPC(WonderTradePC.new)
+PokemonPCList.registerPC(TrainerPC.new)
 PokemonPCList.registerPC(UpdatesPC.new)

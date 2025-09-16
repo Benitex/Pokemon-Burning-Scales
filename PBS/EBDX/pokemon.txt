@@ -2121,7 +2121,7 @@ BattlerPlayerY          = 58
 BattlerEnemyX           = 1
 #-------------------------------
 [MAWILE]
-BattlerEnemyY           = 57
+BattlerEnemyY           = 70
 BattlerAltitude         = 0
 BattlerPlayerX          = 9
 BattlerPlayerY          = 60
@@ -3680,7 +3680,7 @@ BattlerPlayerY          = 52
 BattlerEnemyX           = 0
 #-------------------------------
 [ROGGENROLA]
-BattlerEnemyY           = 63
+BattlerEnemyY           = 50
 BattlerAltitude         = 0
 BattlerPlayerX          = 4
 BattlerPlayerY          = 64
@@ -3715,7 +3715,7 @@ BattlerPlayerY          = 36
 BattlerEnemyX           = -8
 #-------------------------------
 [DRILBUR]
-BattlerEnemyY           = 53
+BattlerEnemyY           = 70
 BattlerAltitude         = 0
 BattlerPlayerX          = 1
 BattlerPlayerY          = 71
@@ -3890,7 +3890,7 @@ BattlerPlayerY          = 30
 BattlerEnemyX           = 4
 #-------------------------------
 [DARUMAKA]
-BattlerEnemyY           = 68
+BattlerEnemyY           = 70
 BattlerAltitude         = 0
 BattlerPlayerX          = 16
 BattlerPlayerY          = 70
@@ -5849,7 +5849,7 @@ BattlerPlayerY          = 41
 BattlerEnemyX           = 3
 #-------------------------------
 [DARUMAKA,1]
-BattlerEnemyY           = 68
+BattlerEnemyY           = 70
 BattlerAltitude         = 0
 BattlerPlayerX          = 16
 BattlerPlayerY          = 70
@@ -6976,14 +6976,14 @@ BattlerPlayerY          = 42
 BattlerEnemyX           = 12
 #-------------------------------
 [ROCKRUFF]
-BattlerEnemyY           = 83
+BattlerEnemyY           = 90
 BattlerAltitude         = 0
 BattlerPlayerX          = 7
 BattlerPlayerY          = 74
 BattlerEnemyX           = 1
 #-------------------------------
 [ROCKRUFF,2]
-BattlerEnemyY           = 83
+BattlerEnemyY           = 90
 BattlerAltitude         = 0
 BattlerPlayerX          = 7
 BattlerPlayerY          = 74

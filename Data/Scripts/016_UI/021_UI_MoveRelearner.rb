@@ -168,7 +168,7 @@ class MoveRelearnerScreen
     species_data = GameData::Species.get(pkmn.species)
     babyspecies = species_data.get_baby_species
     GameData::Species.get(babyspecies).egg_moves.each { |m| moves.push(m) }
-    species_data.tutor_moves.each { |m| moves.push(m) }
+    species_data.tutor_moves.each { |m| moves.push(m) } if $game_switches[115]
     moves = tmoves + moves
     return moves | []   # remove duplicates
   end
@@ -185,7 +185,7 @@ class MoveRelearnerScreen
             return true
           end
         end
-      elsif @scene.pbConfirm(_INTL("Give up trying to teach a new move to {1}?", pkmn.name))
+      else
         @scene.pbEndScene
         return false
       end
