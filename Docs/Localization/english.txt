@@ -4641,19 +4641,19 @@ I remember!
 \ff[introElesa]\rElesa: E então, veio me mostrar seu novo pokémon?
 \ff[introElesa]\rElesa: So, did you come to show me your new Pokémon?
 \l[3]\ff[introBenitex]\bNathan: Também, estou aqui para fazer algumas perguntas, mas posso te falar um pouco sobre ele antes.
-\l[3]\ff[introBenitex]\bNathan: Yes, but I also want to ask some questions. Let's talk about the Pokémon first.
+\l[3]\ff[introBenitex]\bNathan: Yes! I also want to ask some questions. But let's talk about the Pokémon first, shall we?
 \l[3]\ff[introBenitex]\bNathan: A professora Juniper disse que encontrou esse pokémon na Rota 4, que é bem diferente dos charmanders de Kanto.
 \l[3]\ff[introBenitex]\bNathan: Professor Juniper said she found this Pokémon on Route 4, which is very different from the Kantonian charmanders.
 \ff[introBenitex]\bNathan: Além disso, nenhum outro charmander como esse foi vistos em Unova.
-\ff[introBenitex]\bNathan: What's more, but no other charmander like this has ever been seen in Unova.
+\ff[introBenitex]\bNathan: Besides, no other Charmander like this one has been seen in Unova.
 \ff[introElesa]\rElesa: E por causa disso ela te ofereceu para treinar ele?
 \ff[introElesa]\rElesa: And that's why she gave him to you?
 \ff[introBenitex]\bNathan: Isso mesmo. Venho treinado ele a um tempinho já, sinto que está crescendo. Mas é realmente bem diferente dos outros charmanders, até no tipo.
-\ff[introBenitex]\bNathan: Yes. We've been training for a while now, and I'm starting to see results. It's a really different different from the other charmanders, even in type.
+\ff[introBenitex]\bNathan: Yes. We've been training for a while now, and I'm starting to see results. It's a really different from the other charmanders, even in type.
 \ff[introElesa]\rElesa: A origem dele é o que mais me intriga...
 \ff[introElesa]\rElesa: Its origin is what intrigues me the most...
 \ff[introBenitex]\bNathan: Acho que é o que mais intriga a todos nós, pra falar a verdade. Mas ele é um bom pokemon, nunca foi desobediente ou algo assim.
-\ff[introBenitex]\bNathan: Yeah, that intrigues us all. Although he's different, he very nice, he's never disobeyed me.
+\ff[introBenitex]\bNathan: Yeah, that intrigues us all. Although he's different, he's also very nice, he's never disobeyed me.
 \ff[introElesa]\rElesa: Que ótimo!
 \ff[introElesa]\rElesa: That's great!
 \ff[introElesa]\rElesa: Você disse que tinha algumas perguntas, certo?
