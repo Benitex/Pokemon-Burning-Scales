@@ -463,8 +463,8 @@ May Arceus show us the way.
 \ff[introBenitex]\bI imagine she is somewhere where there are lots of Pokémon. Or where there are a lot of battles are taking place.
 Caramba, então você pode encontrar minha filha! Por favor, senhor, você já está tão perto, não desista agora!
 Oh, boy, so you can find my daughter! Please, you're so close, don't give up now!
-\ff[introBenitex]\bNathan: Tudo bem, eu encontro ela. Mas antes tenho que te dizer algo.
-\ff[introBenitex]\bNathan: Alright, I'll find her. But first I have to tell you something.
+\ff[introBenitex]\bNathan: Certo, pode confiar em mim. Você vai ter sua filha de volta em breve.
+\ff[introBenitex]\bNathan: Okay, you can trust me. You'll have your daughter back soon.
 \l[3]\ff[introBenitex]\bEu sei que você se preocupa com sua filha, mas tome cuidado com o quanto você tenta controlar a vida dela.
 \l[3]\ff[introBenitex]\bI know you care about your daughter, but be careful how much you try to control her life.
 Eu sei, mas eu a amo tanto, que eu quero proteger ela do mundo, evitar todos os perigos.
@@ -5803,7 +5803,7 @@ BATTLE, BATTLE!
 \ff[introBenitex]\bNathan: Entendo, é aqui que eu entro?
 \ff[introBenitex]\bNathan: I see, is this where I come in?
 \l[3]\ff[introOak]\rCarvalho: Não exatamente. Muitas coisas estão acontecendo em Unova ao mesmo tempo, o torneio de Nimbasa, os ataques dos motoqueiros, eleições em Castelia.
-\l[3]\ff[introOak]\rOak: Not exactly. A lot of things are happening in Unova at the same time: the Nimbasa Tournament, the Biker invasion on Route 4, the elections in Castelia...
+\l[3]\ff[introOak]\rOak: Exactly. A lot of things are happening in Unova at the same time: the Nimbasa Tournament, the Biker invasion on Route 4, the elections in Castelia...
 \l[3]\ff[introOak]\rNão sabemos o que começou a levar a esses ataques do volcarona, mas existe a hipótese de alguém estar tentando alguma coisa.
 \l[3]\ff[introOak]\rWe don't know what started these Volcarona attacks, but I suspect there's someone planning something.
 \l[3]\ff[introOak]\rTodos esses eventos ao mesmo tempo são a condição ideal para começar um tumulto sem ser percebido.
