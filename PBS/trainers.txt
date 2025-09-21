@@ -595,8 +595,11 @@ Pokemon = SCRAGGY,20
 [BIKER,Motoqueiro bloqueador]
 LoseText = "Droga!"
 Pokemon = SKORUPI,22
+Pokemon = JOLTIK,20
 Pokemon = VULLABY,22
 Pokemon = PAWNIARD,22
+Pokemon = GRIMER,22
+Pokemon = MIGHTYENA,23
 #-------------------------------
 # Ruas de Castelia
 #-------------------------------

@@ -1507,7 +1507,7 @@ Evite essa rota o máximo possível!
 \ff[introBenitex]\bNathan: Pode deixar comigo.
 \ff[introBenitex]\bNathan: You can count on me.
 \r\l[3]Ei muleque, é melhor dar o fora, nós somos muito mais fortes que esse seu bichinho aí e estamos em maior número. Você não tem chance.
-\r\l[3]Hey, kid, you'd better get out of here, we're much stronger than that pet of yours and we're outnumbered. You don't stand a chance.
+\r\l[3]Hey, kid, you'd better get out of here, we're much stronger than that pet of yours and we outnumber you. You don't stand a chance.
 \ff[introBenitex]\bNathan: É o que vamos ver!
 \ff[introBenitex]\bNathan: Let's see!
 Até que é forte.
@@ -1719,7 +1719,7 @@ Don't underestimate me, young man! I'm going to tell you a story, and it's one o
 \l[3]Meu camarada é um pescador lendário, passou por várias regiões. Nessa ocasião estava em Johto, e lá testemunhou a aparição de um Wailord cor de rosa. Mas não é só isso!
 \l[3]He's a legendary fisherman, who traveled to many regions. In that occasion, in Johto, he witnessed the appearance of a pink Wailord. But that's not all!
 \l[3]Depois de uma lendária batalha, ele também testemunhou a fera dos oceanos, o Gyarados vermelho! Diga-me então, a história é verdadeira?
-\l[3]After a legendary battle, he also saw the ocan beast, the red Gyarados! Now, tell me, is this a true story?
+\l[3]After a legendary battle, he also saw the ocean beast, the red Gyarados! Now, tell me, is this a true story?
 \ff[introBenitex]\bNathan: A história é totalmente verídica, eu estava lá.
 \ff[introBenitex]\bNathan: Yes, of course, I was there.
 O quê???
@@ -1739,11 +1739,11 @@ You have amazing skills, trainer. Very impressive, you're right. Go ahead and ta
 Ah, não poder passar pela rota acabou comigo...
 Not being able to pass through the route ruined my plans...
 \ff[introBenitex]\bNathan: Você é mais um dos que queria muito assistir o torneio?
-\ff[introBenitex]\bNathan: Did you also want to see the tournament?
+\ff[introBenitex]\bNathan: Are you one of the trainers who are trying to get to Nimbasa?
 Para falar a verdade, nem sou. Eu queria é passar pela rota para encontrar um Pokémon raro.
 I'm actually not. I just wanted to go through the route to find a rare Pokémon.
 Como todo mundo está indo ver o torneio, o Desert Resort deve estar cheio de Pokémon inesperados.
-Since everybody is leaving to see the tournament, the Desert Resort is full of unexpected Pokémon.
+Since everybody is leaving to watch the tournament, the Desert Resort is full of unexpected Pokémon.
 \ff[introBenitex]\bNathan: Mas você não pode ver nenhum deles porque você é impedido pelo guarda, certo?
 \ff[introBenitex]\bNathan: But you can't go and see them because you're stopped by the policeman, right?
 Exatamente, eu faria de tudo para poder passar...
@@ -1853,13 +1853,13 @@ Lady: Do you want to know about this beach?
 Ah é? Pode falar!
 Oh? Please do!
 Então, tem um garoto ali em cima no morro que me pediu para te entregar isso. Já vou avisando que o conteúdo deve ser meio duvidoso!
-So, there's a boy I knew who asked me to deliver this to you. I'll warn you, the contents are probably a bit questionable!
+\ff[introBenitex]\bNathan: So, there's a boy I knew who asked me to deliver this to you. I'll warn you, the contents are probably a bit questionable!
 Duvidoso? Fiquei curiosa.
 Questionable? Now I'm curious.
 Vou ler em voz alta, acho que você merece ouvir também, pelo trabalho de vir até aqui entregar.
-I'm going to read it out loud, I think you deserve to the content too, for the trouble you took to come here and deliver it.
+I'm going to read it out loud, I think you deserve to know the content too, for the trouble you took to come here and deliver it.
 \l[3]Bom, vou começar! "Gata, não sou ditto, mas posso me transformar no que você quiser! Me chame de Brok, que vou te mostrar meu Onix, você não é charizard, mas vou deixar seu rabo pegando fogo.
-\l[3]Well, let's get started! , I'm not ditto, but I can turn into anything you want! Call me Brock, and I'll show you my Onix, you're not a charizard, but I'll set your tail on fire.
+\l[3]Well, let's get started! I'm not ditto, but I can turn into anything you want! Call me Brock, and I'll show you my Onix, you're not a charizard, but I'll set your tail on fire.
 \l[3]Não sou pikachu, mas quando eu te beijar vai ser chocante! Estou capturando Pokémon, mas queria mesmo estar capturando seus beijos. Você é uma ótima treinadora Pokémon, conseguiu capturar até meu coração."
 \l[3]I'm not a pikachu, but when I kiss you it'll be shocking! I'm catching Pokémon, but I really wanted to be catching your kisses. You're a great Pokémon trainer, you even managed to catch my heart.
 Nossa, ele me mandou um monte de trocadilhos prontos, é isso mesmo?
@@ -1873,7 +1873,7 @@ Well, at least he tried, it was funny. But he has no chance, I'm already engaged
 Muito obrigada!
 Thank you very much!
 Moça: Ah, você voltou! Quer que eu diga o que eu sei sobre a praia?
-Lady: Ah, você voltou! Quer que eu diga o que eu sei sobre a praia?
+Lady: You're back! Do you want me to tell you what I know about the beach?
 Por favor, você pode me ajudar? Você veio de Nimbasa, certo?
 Please, can you help me? You're coming from Nimbasa, right?
 \ff[introBenitex]\bNathan: Sim, é verdade. Do que você precisa?
@@ -1893,7 +1893,7 @@ Those little eyes convinced me, I had to help my son. So here I am.
 \ff[introBenitex]\bNathan: Você só precisa que eu te ajude a achar o brinquedo então?
 \ff[introBenitex]\bNathan: Ok, so you need help to find a toy then?
 Isso mesmo. O brinquedo é um Pokémon, parece um pouco um Onix. Ele deve ter deixado em alguma pedra por aí. Eu peço que me ajude, por favor!
-Yes, that's it. The toy looks like a Pokémon, an Onix. He must He must have left it on a rock somewhere. I beg you to help me, please!
+Yes, that's it. The toy looks like a Pokémon, an Onix. He must have left it on a rock somewhere. I beg you to help me, please!
 \ff[introBenitex]\bNathan: Tudo bem, não posso rejeitar um pedido como esse.
 \ff[introBenitex]\bNathan: All right, I can't turn down a request like that.
 Você achou?
