@@ -1939,7 +1939,7 @@ Let me tell you my story.
 \ff[introBenitex]\bNathan: O que é então?
 \ff[introBenitex]\bNathan: So, what is it?
 É única forma de ver minha amada. Eu só posso ver ela uma vez a cada torneio, bem no dia da batalha. Eu sei que é estranho, mas eu fui amaldiçoado!
-The tournament is the only way I have to see my beloved. I only get to see her once every tournament, right on the day of her battle. I know it's weird, but I've been cursed!
+\l[3]The tournament is the only way I have to see my beloved. I only get to see her once every tournament, right on the day of her battle. I know it's weird, but I've been cursed!
 \ff[introBenitex]\bNathan: Como assim?
 \ff[introBenitex]\bNathan: What do you mean by that?
 \l[3]É uma longa história, mas, para resumir, foi por causa de uma treinadora de pokémon psiquíco que me amava, mas meu coração já tinha lugar, então eu tive que fazer minha escolha e ela não foi a escolhida.
@@ -1949,7 +1949,7 @@ In revenge, she put this curse on me and my beloved.
 \ff[introBenitex]\bNathan: Talvez a gente possa quebrar essa maldição, você sabe onde ela está?
 \ff[introBenitex]\bNathan: Maybe we can break this curse. Do you know where she is?
 \l[3]\ff[introBenitex]\bA gente pode conversar com ela ou usar algum Pokémon para reverter a situação, mas antes precisamos saber qual foi o Pokémon que causou ela.
-\l[3]\ff[introBenitex]\bWe could try talking with her, or using some Pokémon to try to revert the situation, but first we need to know which Pokémon caused the it.
+\l[3]\ff[introBenitex]\bWe could try talking with her, or using some Pokémon to try to revert the situation, but first we need to know which Pokémon caused it.
 \l[3]Ela mora em Castelia, na Mode Street, talvez você possa encontrar ela lá. Se você quiser entrar escondido, recomendo que entre de dia, porque ela fica bem mais acordada durante a noite.
 \l[3]She lives in Castelia, on Mode Street, so maybe you can find her there. If you want to sneak in, I recommend you do it during the day, because she's a night owl.
 \ff[introBenitex]\bNathan: Rá, um gado!
@@ -3464,7 +3464,7 @@ Ignorar o sofrimento dele.
 Ignore his suffering.
 [Map14]
 \l[3]Seja bem vindo e espero que tenha uma ótima refeição, aqui está o primeiro prato e uma poção para seus pokémon.
-\l[3]Welcome, here's a potion for your Pokémon and your first course, enjoy your meal.
+Welcome, here's a potion for your Pokémon and your first course, enjoy your meal.
 \ff[introBenitex]\bNathan: Obrigado!
 \ff[introBenitex]\bNathan: Thanks!
 O primeiro treinador já deve estar chegando! Pode comer enquanto espera.
@@ -3829,7 +3829,7 @@ It's a shame you've come to the end of the lesson. But at least you can get an i
 Professor: Entre, entre! Seja bem-vindo!
 Professor: Come, come! Welcome!
 \ff[introBenitex]\bNathan: Não, eu estava só de passagem mesmo, conhecendo o lugar, sabe?
-\ff[introBenitex]\bNathan: No, I was just passing through, getting to know the place, you know?
+\ff[introBenitex]\bNathan: I was just passing through, getting to know the place, you know?
 Professor: Pode se sentar rapaz, você pode aprender muito aqui!
 Professor: Don't be shy, you can learn a lot here. Get a seat!
 Shhh.
@@ -3861,7 +3861,7 @@ Tell me, what do you want to know?
 \ff[introBenitex]\bNathan: Eu queria saber o porquê de você ter fundado essa escola aqui em Unova.
 \ff[introBenitex]\bNathan: I'd like to know why you founded this university here in Unova.
 \l[3]Bom, eu sempre senti que o mundo estava precisando de uma grande faculdade que destinasse bastante tempo para a pesquisa da áreas mais fundamentais do conhecimento.
-\l[3]Well, I always felt like the world was in need of a great university to that would dedicate their studies to the most fundamental areas of knowledge.
+\l[3]Well, I always felt like the world was in need of a great university that would dedicate their studies to the most fundamental areas of knowledge.
 \ff[introBenitex]\bNathan: Muito bom, ela está dando certo?
 \ff[introBenitex]\bNathan: Oh, that's great. Are you having much success?
 \l[3]Eu fundei essa escola a pouco tempo, depois que a equipe Plasma ergueu forças e foi derrotada, eu pensei que era a ideia perfeita para falar sobre os ideais das pessoas.
@@ -4422,7 +4422,7 @@ No?
 Você não quer?
 You don't want the prize?
 Não. Eu renuncio o prêmio. Preciso sair.
-No. I renounce the award. I have to leave.
+\ff[introAnna]\c[4]Anna: No. I renounce the award. I have to leave.
 Ah, o final do torneio fica muito anti-climático sem um prêmio...
 Oh, the end of a tournament is very anticlimactic without a prize celebration...
 \ff[introBenitex]\bNathan: Eu tenho uma ideia!
@@ -4998,7 +4998,7 @@ Now all that's left to do is write it down, throw some more dice...
 \ff[introBenitex]\bNathan: O que está fazendo?
 \ff[introBenitex]\bNathan: What are you doing?
 \l[3]Estou preparando meu personagem para o jogo! O gordinho vai ser nosso mestre, eu estou fazendo um mago que gosta de dar em cima de todas as meninas que vê pela frente hehehe.
-\l[3]I'm preparing my character for the game! That chubby guy over there will be the GM. I'll be a wizard hits on all the girls he sees!
+\l[3]I'm preparing my character for the game! That chubby guy over there will be the GM. I'll be a wizard who hits on all the girls he sees!
 \ff[introBenitex]\bNathan: Gostei, parece muito divertido! Hahahaha
 \ff[introBenitex]\bNathan: I like it! That looks super fun.
 Tenho certeza que vai ser.
@@ -5112,7 +5112,7 @@ The landslide on Rounte 16 caused major changes even on Route 4.
 \ff[introBenitex]\bNathan: Ei, o que estão fazendo?
 \ff[introBenitex]\bNathan: Hey, what are you doing?
 \l[3]Eu e meus companheiros estamos a jogar um jogo de interpretação de papéis, me responsabilizo pelo papel de mestre e construtor da narrativa.
-\l[3]We're playing a rola playing game. I am the game master, the builder of the narrative.
+\l[3]We're playing a role playing game. I am the game master, the builder of the narrative.
 \ff[introBenitex]\bNathan: Ah, interessante. Bem que seria legal ouvir um pouco do jogo de vocês.
 \ff[introBenitex]\bNathan: Oh, interesting. Can I watch you playing?
 \l[3]Caso seja de vosso interesse, posso permitir que participe de nossa atividade recreativa. Fale comigo novamente quando estiver pronto, também há a possibilidade de conversar com os outros participantes.
@@ -5132,7 +5132,7 @@ Wizard: Are there any girls around?
 Mestre: Não, apenas cactus.
 GM: No, just cacti.
 Mago: Ótimo, vou me aproximar dele então!
-Wizard: Okay, I'll get close to it then!
+Wizard: Okay, I'll get close to one of them then!
 Ninja: "Mago, o que pretende fazer com esses cactus?"
 Ninja: "Wizard, what do you intend to do with these cacti?"
 Mago: "Vou pegar essa flor no topo do cactus, vai me ajudar depois, tenho certeza!"
@@ -5154,7 +5154,7 @@ Wizard: Oh no, I can't believe it. I'll blow him a kiss with my other arm.
 Ninja: QUE???
 Ninja: WHAT???
 Mestre: O cactus ignora sua tentativa de charme e ataca-lhe novamente.
-GM: Your charm tries fails and the cactus attacks you again. 
+GM: Your charm tries fail and the cactus attacks you again. 
 \ff[introBenitex]\bNathan: Você não tem mais alternativa, contra-ataque!
 \ff[introBenitex]\bNathan: You have no choice, counterattack!
 Ninja: Isso, nada melhor que um counter para acabar com o inimigo desprevinido!
@@ -5190,7 +5190,7 @@ GM: I think that's enough drama for today.
 Mago: Com certeza!
 Wizard: It sure is!
 Ninja: Ainda bem que não fui eu dessa vez.
-Ninja: I'm glad I was no the target this time.
+Ninja: I'm glad I was not the target this time.
 \ff[introBenitex]\bNathan: Que jogo mortal...
 \ff[introBenitex]\bNathan: What a deadly game...
 \ff[introBenitex]\bNathan: Só um segundo.
@@ -5659,7 +5659,7 @@ Which fossil would you like to revive?
 Volte sempre!
 Come again!
 Iniciando processo de transformação das células...
-Starting cell transformation prcess...
+Starting cell transformation process...
 Progresso do processo: 1%...
 Process progress: 1%...
 Progresso no processo: 100%. Processo concluído.
