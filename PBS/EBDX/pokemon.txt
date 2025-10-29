@@ -443,7 +443,7 @@ BattlerPlayerY          = 57
 BattlerEnemyX           = 0
 #-------------------------------
 [KADABRA]
-BattlerEnemyY           = 48
+BattlerEnemyY           = 64
 BattlerAltitude         = 0
 BattlerPlayerX          = 12
 BattlerPlayerY          = 46
@@ -716,7 +716,7 @@ BattlerPlayerY          = 79
 BattlerEnemyX           = 3
 #-------------------------------
 [EXEGGUTOR]
-BattlerEnemyY           = 32
+BattlerEnemyY           = 42
 BattlerAltitude         = 0
 BattlerPlayerX          = 0
 BattlerPlayerY          = 45
@@ -842,7 +842,7 @@ BattlerPlayerY          = 64
 BattlerEnemyX           = 5
 #-------------------------------
 [STARMIE]
-BattlerEnemyY           = 46
+BattlerEnemyY           = 60
 BattlerAltitude         = 9
 BattlerPlayerX          = 15
 BattlerPlayerY          = 51
@@ -6472,7 +6472,7 @@ BattlerPlayerY          = 52
 BattlerEnemyX           = 1
 #-------------------------------
 [MALAMAR]
-BattlerEnemyY           = 20
+BattlerEnemyY           = 60
 BattlerAltitude         = 0
 BattlerPlayerX          = 4
 BattlerPlayerY          = 46
