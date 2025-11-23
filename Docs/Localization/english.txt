@@ -6702,7 +6702,7 @@ Os últimos registros de Unova dizem que são 950 pessoas na região.
 Possivelmente, mas as informações não são muito precisas.
 Possibly, but the information is not very accurate.
 Você conhece o instituto de pesquisa de Unova? Fica aqui em Castelia, na delegacia.
-Do Unova Research Institute? It's here in Castelia, at the police station.
+Do you know the Unova Research Institute? It's here in Castelia, at the police station.
 Talvez você gostasse de conhecer eles, no momento eles devem estar preocupados com as eleições.
 Perhaps you would like to meet them. At the moment, they must be concerned about the elections.
 \l[3]Você já viu os novos moinhos de vento da Rota 4? São fascinantes, estão gerando energia para toda Castelia!
@@ -6902,7 +6902,7 @@ Okay, I'll do the following: I'll call him, then I'll let you know if it's reall
 \ff[introBenitex]\bNathan: Certo.
 \ff[introBenitex]\bNathan: Okay.
 Professor, por acaso está combinada uma reunião para agora no nome de...
-Professor, are you waiting a guy in the name of...
+Professor, are you waiting for a young man named...
 Qual é seu nome mesmo?
 What is your name again?
 \ff[introBenitex]\bNathan: Nathan, eu sou o Nathan!
@@ -6922,7 +6922,7 @@ I am sorry for the inconvenience, Nathan. Professor explained the situation. You
 Certo, vou fazer o seguinte: vou ligar para ela, depois digo se isso realmente está marcado, ok?
 Okay, I'll do the following: I'll call her, then I'll let you know if it's really scheduled, okay?
 Professora, por acaso está combinada uma reunião para agora no nome de...
-Professor, are you waiting a guy in the name of...
+Professor, are you waiting for a young man named...
 Mil perdões pelo inconveniente Nathan, a professora já explicou a situação. Seu acesso está liberado.
 I am sorry for the inconvenience, Nathan. Professor explained the situation. Your access has been granted.
 \ff[introBenitex]\bNathan: Para falar a verdade não cheguei a marcar com ninguém.
