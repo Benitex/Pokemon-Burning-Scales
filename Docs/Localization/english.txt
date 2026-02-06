@@ -6446,7 +6446,7 @@ Just let me buy some...
 \ff[introBenitex]\bNathan: Pra falar a verdade, prefiro usar berrys.
 \ff[introBenitex]\bNathan: To be honest, I prefer to use berries.
 \l[3]\ff[introBenitex]\bDá pra colocar os pokemon segurando e comerem sem gastar um turno, são mais baratas... São muito uteis.
-\l[3]\ff[introBenitex]\bI can give to my Pokémon so it can heal itself in battle, they are cheap... And super useful.
+\l[3]\ff[introBenitex]\bI give them to my Pokémon so they can heal during battles. They are cheap and super versatile.
 Realmente, não tinha parado pra pensar nisso.
 Oh, I never thought about that!
 Você sabe se tem alguma loja de berrys por aqui?
@@ -6626,7 +6626,9 @@ Hey, have you ever visited the Desert Resort?
 \ff[introBenitex]\bNathan: Não, ainda devo passar lá depois.
 \ff[introBenitex]\bNathan: No, I'm planning on going there soon.
 Ah é? Ótimo, podemos ir juntos então. Eu sou pesquisador de fósseis, vim conhecer mais sobre os de Unova.
-Oh, are you? Great, we can go together. I'm a paleontologist, I came to Unova to research about the fossils of the region. 
+Oh, are you? Great, we can go together. I'm a paleontologist, I came to Unova to research about the fossils of the region.
+Eu sou pesquisador de fósseis, vim conhecer mais sobre os de Unova.
+I'm a paleontologist, I came to Unova to research about the fossils of the region.
 \ff[introBenitex]\bNathan: Poxa, mas acho que você não vai poder passar lá tão cedo.
 \ff[introBenitex]\bNathan: Unfortunately, I think you won't be able to go there anytime soon.
 \ff[introBenitex]\bDizem que um pokemon está atacando os treinadores que passam pelo deserto.
@@ -7805,8 +7807,8 @@ Of course, Nathan, we'd love to see you joining us!
 \ff[introBenitex]\bNathan: Great.
 Se quiser, você pode falar comigo e eu te conto a história do Clube e explico seu funcionamento.
 If you're interested, we could talk about the history of the Club and explain how it works.
-É claro que você já conhece o Clube Cluchar, mas vai ser um prazer te contar mais alguns detalhes.
-Of course you're already familiar with the Cluchar Club, but we would be delighted to tell you a few more details.
+É claro que você já conhece o Clube Dediê, mas vai ser um prazer te contar mais alguns detalhes.
+Of course you're already familiar with the Dediê Club, but we would be delighted to tell you a few more details.
 Por favor, sinta-se em casa. O líder fica no último andar, ele com certeza gostaria de conversar com você.
 Please make yourself at home. The Leader is on the top floor. He would certainly like to talk to you.
 \l[3]Ah é, desculpe, os elevadores ainda estão passando pelo processo de instalação, mas você pode usar as escadas.
@@ -7879,8 +7881,8 @@ Obrigado.
 Thanks.
 \l[3]Bom, conforme fui ficando mais velho, comecei a ficar menos atualizado e contratei pessoas mais adaptadas ao mundo novo para assumir o meu papel.
 \l[3]As I got older, I started to become less up to date and hired people who were more adapted to the new world to take over my role.
-\l[3]Então percebi que estava na hora de descansar. Bom, não consegui ficar muito tempo a toa, então vim pro Clube Cluchar, para ajudar os novos talentos.
-\l[3]At that moment I realized it was time to take a break. Well, I couldn't stay idle for long, so now I help new talents at the Cluchar Club.
+\l[3]Então percebi que estava na hora de descansar. Bom, não consegui ficar muito tempo a toa, então vim pro Clube Dediê, para ajudar os novos talentos.
+\l[3]At that moment I realized it was time to take a break. Well, I couldn't stay idle for long, so now I help new talents at the Dediê Club.
 \l[3]\ff[introBenitex]\bNathan: Isso é bem legal, aposto que as pessoas vão conseguir ter vários insights interessantes a partir das suas experiências.
 \l[3]\ff[introBenitex]\bNathan: That's really cool. I bet people will be able to gain a lot of insights from your experiences.
 Assim eu espero.
