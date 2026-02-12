@@ -251,7 +251,7 @@ module QuestModule
     :ID => "20",
     :Name => "Estatísticas Eleitorais",
     :QuestGiver => "Delegacia de Castelia",
-    :Stage1 => "Pergunte a 5 pessoas.",
+    :Stage1 => "Pergunte a 3 pessoas.",
     :Stage2 => "Avise ao policial.",
     :Location1 => "Oceanfront Road",
     :Location2 => "Quartel de Castelia",

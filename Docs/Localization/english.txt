@@ -5868,6 +5868,8 @@ BATTLE, BATTLE!
 \ff[introOak]\rOak: Please Nathan, avoid that kind of danger to yourself. I cannot lose someone as important as you.
 \ff[introBenitex]\bNathan: Certo...
 \ff[introBenitex]\bNathan: Right...
+\ff[introBenitex]\bNathan: Na verdade, eu já passei por lá.
+\ff[introBenitex]\bNathan: Actually, I have already been there.
 \l[3]\ff[introOak]\rCarvalho: Não se esqueça Nathan. Você deve conversar com a polícia, enfrentar os motoqueiros e me contar o que descobrir.
 \l[3]\ff[introOak]\rOak: Do not forget Nathan. You must talk to the police, confront the bikers, and tell me everything you discover.
 \ff[introBenitex]\bNathan: Certo.

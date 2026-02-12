@@ -249,7 +249,7 @@ module QuestModuleEnglish
     :ID => "20",
     :Name => "Electoral Statistics",
     :QuestGiver => "Castelia Police Station",
-    :Stage1 => "Interview 5 people.",
+    :Stage1 => "Interview 3 people.",
     :Stage2 => "Give the results to the policeman.",
     :Location1 => "Oceanfront Road",
     :Location2 => "Castelia Police Station",
