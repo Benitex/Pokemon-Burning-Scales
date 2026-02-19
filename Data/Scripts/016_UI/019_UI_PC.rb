@@ -109,7 +109,7 @@ end
 
 class UpdatesPC
   def shouldShow?
-    return true if pbGet(75) < 70
+    return true if pbGet(75) < 72
     return false
   end
   
@@ -151,7 +151,9 @@ class UpdatesPC
       pbSet(75, 70)
     end
 
-    pbMessage(_INTL("O save foi atualizado com sucesso."))
+    pbSet(75, 72)
+    pbMessage(_INTL("Save file updated successfully."))
+
     Game.auto_save if $game_switches[98]
   end
 end
