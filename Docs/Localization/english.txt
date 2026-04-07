@@ -1070,7 +1070,7 @@ Nobody can stand the temptation hehehe.
 \g\bNathan: Vou dar uma olhada.\ch[1,7, Sewaddle - $1000,Cottonee - $1000,Petilil - $1000, Pidove - $1000,Venipede - $1000, Mudei de ideia]
 \g\bNathan: I'll give it a look.\ch[1,7, Sewaddle - $1000,Cottonee - $1000,Petilil - $1000, Pidove - $1000,Venipede - $1000, I changed my mind]
 \g\bNathan: Vou dar uma olhada.\ch[1,7, Sewaddle - $1000,Cottonee - $1000,Petilil - $1000, Pidove - $1000,Venipede - $1000,Especial - $1250, Mudei de ideia]
-\g\bNathan: I'll give it a look.\ch[1,7, Sewaddle - $1000,Cottonee - $1000,Petilil - $1000, Pidove - $1000,Venipede - $1000,Especial - $1250, I changed my mind]
+\g\bNathan: I'll give it a look.\ch[1,7, Sewaddle - $1000,Cottonee - $1000,Petilil - $1000, Pidove - $1000,Venipede - $1000,Special One - $1250, I changed my mind]
 \ff[introBenitex]\bNathan: Fiquei interessado nesse especial, fala mais dele aí.
 \ff[introBenitex]\bNathan: I'm interested in this special one. Tell me more.
 Ele vem de uma outra região, bem diferente da floresta de Pinwheel. Mas é melhor mostrar do que falar, saca só!
