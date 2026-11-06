@@ -99,34 +99,6 @@ end
 
 
 
-class PokeBattle_Move_022   # Double Team
-  alias __clauses__pbMoveFailed? pbMoveFailed?
-
-  def pbMoveFailed?(user,targets)
-    if !damagingMove? && @battle.rules["evasionclause"]
-      @battle.pbDisplay(_INTL("But it failed!"))
-      return true
-    end
-    return __clauses__pbMoveFailed?(user,targets)
-  end
-end
-
-
-
-class PokeBattle_Move_034   # Minimize
-  alias __clauses__pbMoveFailed? pbMoveFailed?
-
-  def pbMoveFailed?(user,targets)
-    if !damagingMove? && @battle.rules["evasionclause"]
-      @battle.pbDisplay(_INTL("But it failed!"))
-      return true
-    end
-    return __clauses__pbMoveFailed?(user,targets)
-  end
-end
-
-
-
 class PokeBattle_Move_067   # Skill Swap
   alias __clauses__pbFailsAgainstTarget? pbFailsAgainstTarget?
 
